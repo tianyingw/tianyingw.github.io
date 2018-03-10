@@ -1,4 +1,8 @@
 
+---
+layout: page
+title: Research
+---
 ### Pre-prints:
 
 - Gaynanova, I. \& \textbf{Wang, T.} "Sparse quadratic classification rules via linear dimension reduction". arxiv.org/abs/1711.04817. \emph{(2018+)
