@@ -1,7 +1,7 @@
-Pre-prints:
+## Pre-prints:
 
-- Gaynanova I and \textbf{Tianying W.}
+- Gaynanova I and Tianying W.
 
-Peer-reviewed:
+## Peer-reviewed:
 
 - Sparse
