@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Contact Information
 ---
 
-My name is Tianying Wang
+Howdy! I'm Tianying Wang, a PhD student from Department of Statistics, Texas A&M University
 
-- email: tianying [at] stat.tamu.edu
-- Department of Statistics, Texas A&M University
+- contact: tianying [at] stat.tamu.edu
+- hobbies: baking, photography, scuba diving
+
 
