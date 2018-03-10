@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publications & Talks
 ---
 ### Pre-prints:
 - Blas, B., **Wang, T.**, Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. "Categorizing a Continuous Predictor Subject to Measurement Error". (joint first authors, 2018+)
@@ -14,3 +14,6 @@ title: Publications
 
 - Johnson, V., Payne, R., **Wang, T.**, Asher, A. and Mandal, S.
 ["On the reproducibility of psychological science".](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2016.1240079#.WqQ13ZPwbOQ) Journal of the American Statistical Association, 112.517 (2017): 1-10.
+
+### Talks:
+- "Sparse quadratic classification rules via linear dimension reduction", Joint Statistical Meetings (Topic-contributed talk), Vancouver, Canada (2018)
