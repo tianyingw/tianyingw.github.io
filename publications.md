@@ -16,4 +16,5 @@ title: Publications and Talks
 ["On the reproducibility of psychological science".](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2016.1240079#.WqQ13ZPwbOQ) Journal of the American Statistical Association, 112.517 (2017): 1-10.
 
 ### Talks:
+
 - "Sparse quadratic classification rules via linear dimension reduction", Joint Statistical Meetings (Topic-contributed talk), Vancouver, Canada (2018)
