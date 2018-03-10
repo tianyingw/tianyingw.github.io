@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-## Classes taught and assisted at Texas A&M University
+## Courses at Texas A&M University
 ------------------------------------------------------
 ### Instructor (full responsibility):
 - STAT 303 Statistical Methods
