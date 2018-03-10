@@ -1,3 +1,8 @@
+---
+layout: page
+title: Teaching
+---
+
 ### Classes taught and assisted at Texas A&M University:
 
 ### Instructor (full responsibility):
