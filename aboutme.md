@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Howdy! I'm Tianying Wang, a PhD student from Department of Statistics, Texas A&M University. Here are some fun facts about me:
+Howdy! I'm Tianying Wang, a PhD student from [Department of Statistics](https://www.stat.tamu.edu), Texas A&M University. Here are some fun facts about me:
 
 - Fellowship: 
    - Norbert Hartmann, Jr. Fellowship (2016)
