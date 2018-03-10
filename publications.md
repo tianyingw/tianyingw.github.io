@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Publications
 ---
 ### Pre-prints:
 - Blas, B., **Wang, T.**, Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. "Categorizing a Continuous Predictor Subject to Measurement Error". (joint first authors, 2018+)
