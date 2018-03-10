@@ -1,6 +1,6 @@
 ---
 layout: post
-title: R package released
+title: R package DAP released
 subtitle: check DAP on CRAN
 tags: [R-package]
 ---
