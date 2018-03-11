@@ -11,7 +11,7 @@ title: Research
 
 ### Research Experience:
 - Research Assistant (2016-now) 
-  - supervisor: Dr. Raymond Carroll (Department of Statistics, Texas A&M University)
+  - Supervisor: Dr. Raymond Carroll (Department of Statistics, Texas A&M University)
 
 ### Current Projects:
 
