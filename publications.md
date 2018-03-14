@@ -3,7 +3,7 @@ layout: page
 title: Publications and Talks
 ---
 ### Pre-prints:
-- Blas, B., **Wang, T.**, Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. "Categorizing a Continuous Predictor Subject to Measurement Error". (joint first authors, 2018+)
+- Blas, B., **Wang, T.**, Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. "Categorizing a Continuous Predictor Subject to Measurement Error". (Blas and Wang are joint first authors, 2018+)
 
 - Gaynanova, I. and **Wang, T.** ["Sparse quadratic classification rules via linear dimension reduction".](https://arxiv.org/abs/1711.04817) (2018+) 
 [R package: DAP](https://cran.r-project.org/web/packages/DAP/index.html)
