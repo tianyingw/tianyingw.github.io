@@ -17,16 +17,11 @@ Howdy! I'm Tianying Wang, a PhD student from [Department of Statistics](https://
    - Anant M. Kshirsagar Endowed Fellowship (2015)
    - College of Science Dean's Doctoral Fellowship (2014)
    
-   
+- Student Representative of Texas A&M University in American Statistical Association since 2017
+
 - Leadership: 
    - President of Statistics Graduate Student Association (2017-2018)
 
-- Student Representative of Texas A&M University in American Statistical Association since 2017
-
-- Hobbies: 
-   - baking
-   - photography 
-   - scuba diving
 
 
 - Github: https://github.com/tianyingw
