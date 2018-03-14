@@ -21,6 +21,7 @@ Howdy! I'm Tianying Wang, a PhD student from [Department of Statistics](https://
 - Leadership: 
    - President of Statistics Graduate Student Association (2017-2018)
 
+- Student Representative of Texas A&M University in American Statistical Association since 2017
 
 - Hobbies: 
    - baking
