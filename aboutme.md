@@ -7,10 +7,10 @@ Howdy! I'm Tianying Wang, a PhD student from [Department of Statistics](https://
 
 - Education:
    - PhD candidate (2014-now), Department of Statistics, Texas A&M University
-       - Advisors: Dr. Raymond Carroll and Dr. Irina Gaynanova
+       - Advisors: [Dr. Raymond Carroll](https://www.stat.tamu.edu/~carroll/) and [Dr. Irina Gaynanova](https://irinagain.github.io/)
    - Bachelor (2010-2014), Department of Statistics, Renmin University of China
        - Advisor: Dr. Jianxin Yin
-       - Thesis: Robust Quantile Regression with Graphical Model
+       - Thesis: [Robust Quantile Regression with Graphical Model](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm)
 
 - Fellowship: 
    - Norbert Hartmann, Jr. Fellowship (2016)
