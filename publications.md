@@ -23,6 +23,8 @@ title: Publications and Talks
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Approximate Gaussian Processes with Errors in Variables".
 
-### Talks:
+### Talks and Presentations:
 
-- "Sparse quadratic classification rules via linear dimension reduction", Joint Statistical Meetings (Topic-contributed talk), Vancouver, Canada (2018)
+- Joint Statistical Meetings (Topic-contributed talk), Vancouver, Canada. "Sparse quadratic classification rules via linear dimension reduction", August 2018.
+
+- The Texas A&M University Statistics Department Student Seminar, College Station, TX. ["Categorizing a Continuous Predictor Subject to Measurement"](https://www.stat.tamu.edu/pec-events/abstr-tianying/), December 2017. 
