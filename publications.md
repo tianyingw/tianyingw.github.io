@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications and Talks
+title: 
 ---
 ### Pre-prints:
 - Blas, B., **Wang, T.**, Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. "Categorizing a Continuous Predictor Subject to Measurement Error". (Blas and Wang are joint first authors, 2018+)
@@ -27,4 +27,4 @@ title: Publications and Talks
 
 - Joint Statistical Meetings (Topic-contributed talk), Vancouver, Canada. "Sparse quadratic classification rules via linear dimension reduction", August 2018.
 
-- The Texas A&M University Statistics Department Student Seminar, College Station, TX. ["Categorizing a Continuous Predictor Subject to Measurement"](https://www.stat.tamu.edu/pec-events/abstr-tianying/), December 2017. 
+- The Texas A&M University Statistics Department Student Seminar, College Station, TX. ["Categorizing a Continuous Predictor Subject to Measurement"](https://www.stat.tamu.edu/pec-events/abstr-tianying/), November 2017. 
