@@ -27,4 +27,4 @@ title: Publications
 
 - Joint Statistical Meetings (Topic-contributed talk), Vancouver, Canada. "Sparse quadratic classification rules via linear dimension reduction", August 2018.
 
-- The Texas A&M University Statistics Department Student Seminar, College Station, TX. ["Categorizing a Continuous Predictor Subject to Measurement"](https://www.stat.tamu.edu/pec-events/abstr-tianying/), November 2017. 
+- Texas A&M University Statistics Department Student Seminar, College Station, TX. ["Categorizing a Continuous Predictor Subject to Measurement"](https://www.stat.tamu.edu/pec-events/abstr-tianying/), November 2017. 
