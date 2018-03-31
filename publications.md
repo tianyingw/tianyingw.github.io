@@ -15,6 +15,14 @@ title: Publications and Talks
 - Johnson, V., Payne, R., **Wang, T.**, Asher, A. and Mandal, S.
 ["On the reproducibility of psychological science".](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2016.1240079#.WqQ13ZPwbOQ) Journal of the American Statistical Association, 112.517 (2017): 1-10.
 
+### Articles in preparation:
+
+- **Wang, T.**, Asher, A. and Carroll, R. J. "Semiparametric analysis of complex gene-environment interactions in case-control studies".
+
+- **Wang, T.**, Liu, J., Asher, A. and Carroll, R. J. "A Semiparametric Efficient Estimator in Case-Control Studies via Nonparametric Maximum Likelihood Estimation".
+
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Approximate Gaussian Processes with Errors in Variables".
+
 ### Talks:
 
 - "Sparse quadratic classification rules via linear dimension reduction", Joint Statistical Meetings (Topic-contributed talk), Vancouver, Canada (2018)
