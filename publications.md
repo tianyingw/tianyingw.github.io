@@ -19,7 +19,7 @@ title: Publications
 
 - **Wang, T.**, Asher, A. and Carroll, R. J. "Semiparametric analysis of complex gene-environment interactions in case-control studies".
 
-- **Wang, T.**, Liu, J., Asher, A. and Carroll, R. J. "A Semiparametric Efficient Estimator in Case-Control Studies via Nonparametric Maximum Likelihood Estimation".
+- **Wang, T.**, Liu, J., Asher, A., Ma, Y. and Carroll, R. J. "A Semiparametric Efficient Estimator in Case-Control Studies via Nonparametric Maximum Likelihood Estimation".
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Approximate Gaussian Processes with Errors in Variables".
 
