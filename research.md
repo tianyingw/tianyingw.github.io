@@ -9,16 +9,12 @@ title: Research
 - High-dimensional Data Analysis
 - Machine Learning
 
-### Research Experience:
-- Research Assistant (2016-now) 
-  - Supervisor: Dr. Raymond Carroll (Department of Statistics, Texas A&M University)
-
 ### Current Projects:
 
 - Semiparametric Analysis of Complex Gene-Environment Interactions in Case-Control Studies
 
 
-- A Semiparametric Efficient Estimator in Case-Control Studies via Nonparametric Maximum Likelihood Estimation
+- A Flexible Semiparametric Model for Complex Gene-environment Interactions in Case-Control Studies
 
 ### Software:
 - Maintained:
