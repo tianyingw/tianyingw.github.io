@@ -14,7 +14,7 @@ title: Research
 - Semiparametric Analysis of Complex Gene-Environment Interactions in Case-Control Studies
 
 
-- A Flexible Semiparametric Model for Complex Gene-environment Interactions in Case-Control Studies
+- A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation
 
 ### Software:
 - Maintained:
