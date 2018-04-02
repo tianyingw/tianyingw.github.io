@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Howdy! I'm Tianying Wang, a PhD student from [Department of Statistics](https://www.stat.tamu.edu), Texas A&M University. Here are some fun facts about me:
+I'm Tianying Wang, a PhD student from [Department of Statistics](https://www.stat.tamu.edu), Texas A&M University. I'm also the current President of Statistics Graduate Student Association in Texas A&M University. Here are some information about me:
 
 - Education:
    - PhD candidate (2014-now), Department of Statistics, Texas A&M University
@@ -12,19 +12,10 @@ Howdy! I'm Tianying Wang, a PhD student from [Department of Statistics](https://
        - Advisor: Dr. Jianxin Yin
        - Dissertation: [Robust Quantile Regression with Graphical Model](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm)
 
-- Fellowship: 
+- Honors and Awards: 
    - Norbert Hartmann, Jr. Fellowship (2016)
    - Anant M. Kshirsagar Endowed Fellowship (2015)
    - College of Science Dean's Doctoral Fellowship (2014)
-   
-- Student Representative of Texas A&M University in American Statistical Association since 2017
-
-- Leadership: 
-   - President of Statistics Graduate Student Association (2017-2018)
-
-
-
-- Github: https://github.com/tianyingw
 
 - Email: tianying@stat.tamu.edu
 
