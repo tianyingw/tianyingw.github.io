@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-### Pre-prints:
+### Submitted paper:
 - Blas, B., **Wang, T.**, Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. "Categorizing a Continuous Predictor Subject to Measurement Error". (Blas and Wang are joint first authors, 2018+)
 
 - Gaynanova, I. and **Wang, T.** ["Sparse quadratic classification rules via linear dimension reduction".](https://arxiv.org/abs/1711.04817) (2018+) 
@@ -22,9 +22,3 @@ title: Publications
 - **Wang, T.**, Liu, J., Asher, A., Ma, Y. and Carroll, R. J. "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation".
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Approximate Gaussian Processes with Errors in Variables".
-
-### Talks and Presentations:
-
-- Joint Statistical Meetings (Topic-contributed talk), Vancouver, Canada. "Sparse quadratic classification rules via linear dimension reduction", August 2018.
-
-- Texas A&M University Statistics Department Student Seminar, College Station, TX. ["Categorizing a Continuous Predictor Subject to Measurement"](https://www.stat.tamu.edu/pec-events/abstr-tianying/), November 2017. 
