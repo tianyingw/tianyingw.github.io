@@ -17,7 +17,9 @@ title: Research
 - A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation
 
 ### Software:
+
 - Maintained:
+
    - [DAP](https://cran.r-project.org/web/packages/DAP/index.html) (Discriminant Analysis via Projection): The R package DAP provides tools for high-dimensional binary classification in the case of unequal covariance matrices. It implements the method from the following paper:
 [Sparse quadratic classification rules via linear dimension reduction by Gaynanova and Wang (2018+)](https://arxiv.org/abs/1711.04817).
 
@@ -25,4 +27,5 @@ title: Research
     (This package can be provided based on request.)
 
 - Contributed:
+
   - [deconvolve](https://github.com/TimothyHyndman/deconvolve): The R package deconvolve provides tools for performing non-parametric deconvolution on measurement error problems. It contains functions for finding bandwidths, deconvolved densities and non-parametric regression estimates.
