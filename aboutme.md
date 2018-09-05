@@ -3,8 +3,6 @@ layout: page
 title: About me
 ---
 
-I'm Tianying Wang, a PhD student from [Department of Statistics](https://www.stat.tamu.edu), Texas A&M University. I'm also the current President of Statistics Graduate Student Association in Texas A&M University. Here are some information about me:
-
 - Education:
    - PhD candidate (2014-2018), Department of Statistics, Texas A&M University
        - Advisors: [Dr. Raymond Carroll](https://www.stat.tamu.edu/~carroll/) and [Dr. Irina Gaynanova](https://irinagain.github.io/)
@@ -17,6 +15,6 @@ I'm Tianying Wang, a PhD student from [Department of Statistics](https://www.sta
    - Anant M. Kshirsagar Endowed Fellowship (2015)
    - College of Science Dean's Doctoral Fellowship (2014)
 
-- Email: tianying@stat.tamu.edu
+- Email: tw2696@cumc.columbia.edu
 
 
