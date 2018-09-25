@@ -4,10 +4,11 @@ title: Research
 ---
 
 ### Research Interests:
+- Semiparametric Analysis
+- Quantile Regression
 - Measurement Error
 - Gene-environment Interactions
 - High-dimensional Data Analysis
-- Machine Learning
 
 ### Current Projects:
 
