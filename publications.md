@@ -2,12 +2,10 @@
 layout: page
 title: Publications
 ---
-### Under Revision:
-- Blas, B., **Wang, T.**, Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. "Categorizing a Continuous Predictor Subject to Measurement Error". (Blas and Wang are joint first authors, 2018+)
-
-
 
 ### Peer-reviewed:
+
+- Blas, B., **Wang, T.**, Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. (2018) "Categorizing a Continuous Predictor Subject to Measurement Error". Electronic Journal of Statistics, accepted. (Blas and Wang are joint first authors). 
 
 - Gaynanova, I. and **Wang, T.** (2018) ["Sparse quadratic classification rules via linear dimension reduction".](https://doi.org/10.1016/j.jmva.2018.09.011) Journal of Multivariate Analysis, accepted. 
 [R package: DAP](https://cran.r-project.org/web/packages/DAP/index.html)
