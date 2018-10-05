@@ -4,7 +4,7 @@ title: About me
 ---
 
 - Education:
-   - PhD candidate (2014-2018), Department of Statistics, Texas A&M University
+   - PhD (2014-2018), Department of Statistics, Texas A&M University
        - Advisors: [Dr. Raymond Carroll](https://www.stat.tamu.edu/~carroll/) and [Dr. Irina Gaynanova](https://irinagain.github.io/)
    - Bachelor (2010-2014), Department of Statistics, Renmin University of China
        - Advisor: Dr. Jianxin Yin
