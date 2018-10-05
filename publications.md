@@ -5,7 +5,7 @@ title: Publications
 
 ### Peer-reviewed:
 
-* indicates joint first authors
+ *indicates joint first authors
 
 - Blas, B.*, **Wang, T.**, Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. (2018) "Categorizing a Continuous Predictor Subject to Measurement Error". Electronic Journal of Statistics, accepted. (Blas and Wang are joint first authors). 
 
