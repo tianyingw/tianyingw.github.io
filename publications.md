@@ -15,7 +15,7 @@ title: Publications
 - Johnson, V., Payne, R., **Wang, T.**, Asher, A. and Mandal, S.
 ["On the reproducibility of psychological science".](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2016.1240079#.WqQ13ZPwbOQ) Journal of the American Statistical Association, 112.517 (2017): 1-10.
 
-### Articles in preparation:
+### In preparation:
 
 - **Wang, T.**, Asher, A. and Carroll, R. J. "Semiparametric analysis of complex gene-environment interactions in case-control studies".
 
