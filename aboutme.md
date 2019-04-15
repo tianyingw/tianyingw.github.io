@@ -8,6 +8,7 @@ title: About me
   - Application: genomics (sequencing data, GWAS, TWAS, eQTL, meta-analysis, gene-environment interactions) and epidemiology (BMI, relative risk, breast cancer)
 
 - Experience:
+
    - Postdoc (2018-now), Department of Biostatistics, Columbia University
        - Supervisors: [Dr. Ying Wei](https://yingweistat.com/) and [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
 
