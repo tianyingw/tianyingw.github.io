@@ -17,6 +17,8 @@ title: Publications
 
 ### In preparation:
 
+- **Wang, T.**, Ionita-laza, I., Wei, Y. "Integrated Quantile Rank Test (iQART) for heterogeneous joint effect of rare and common variants in sequencing studies".
+
 - **Wang, T.**, Asher, A. and Carroll, R. J. "Semiparametric analysis of complex gene-environment interactions in case-control studies".
 
 - **Wang, T.**, Liu, J., Asher, A., Ma, Y. and Carroll, R. J. "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation".
