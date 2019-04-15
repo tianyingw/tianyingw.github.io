@@ -23,4 +23,4 @@ title: Publications
 
 - **Wang, T.**, Liu, J., Asher, A., Ma, Y. and Carroll, R. J. "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation".
 
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Approximate Gaussian Processes with Errors in Variables".
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Gaussian Processes with Errors in Variables: theory and computation". (submitted to JASA)
