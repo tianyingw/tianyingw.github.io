@@ -4,7 +4,7 @@ title: About me
 ---
 
 - Experience:
-   - Postdoc (2018-no1), Department of Biostatistics, Columbia University
+   - Postdoc (2018-now), Department of Biostatistics, Columbia University
        - Supervisors: [Dr. Ying Wei](https://yingweistat.com/) and [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
 
 - Education:
