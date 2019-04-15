@@ -19,6 +19,7 @@ title: About me
        - Dissertation: [Robust Quantile Regression with Graphical Model](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm)
 
 - Honors and Awards: 
+   - Dr. Joseph Newton Graduate Student Service Award (2018)
    - Norbert Hartmann, Jr. Fellowship (2016)
    - Anant M. Kshirsagar Endowed Fellowship (2015)
    - College of Science Dean's Doctoral Fellowship (2014)
