@@ -3,6 +3,10 @@ layout: page
 title: About me
 ---
 
+- Research interests:
+  - Methodology: semiparametric analysis, masurement error, quantile regression, high-dimensional data analysis
+  - Application: genetics (sequencing data, GWAS, TWAS, eQTL, meta-analysis) and epidemiology
+
 - Experience:
    - Postdoc (2018-now), Department of Biostatistics, Columbia University
        - Supervisors: [Dr. Ying Wei](https://yingweistat.com/) and [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
