@@ -5,7 +5,7 @@ title: About me
 
 - Research interests:
   - Methodology: semiparametric analysis, masurement error, quantile regression, high-dimensional data analysis
-  - Application: genomics (sequencing data, GWAS, TWAS, eQTL, meta-analysis, gene-environment interactions) and epidemiology (BMI, relative risk, breast cancer)
+  - Application: genomics (sequencing analysis, GWAS, TWAS, eQTL, meta-analysis, gene-environment interactions), epidemiology (BMI, relative risk, breast cancer) and Electronic Medical Record data.
 
 - Experience:
 
