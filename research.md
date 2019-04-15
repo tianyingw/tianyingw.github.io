@@ -12,8 +12,9 @@ title: Research
 
 ### Current Projects:
 
-- Semiparametric Analysis of Complex Gene-Environment Interactions in Case-Control Studies
+- Integrated Quantile Rank Test (iQART) for heterogeneous joint effect of rare and common variants in sequencing studies
 
+- Semiparametric Analysis of Complex Gene-Environment Interactions in Case-Control Studies
 
 - A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation
 
