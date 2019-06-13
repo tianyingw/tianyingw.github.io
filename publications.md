@@ -15,10 +15,10 @@ title: Publications
 - Johnson, V., Payne, R., **Wang, T.**, Asher, A. and Mandal, S.
 ["On the reproducibility of psychological science".](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2016.1240079#.WqQ13ZPwbOQ) Journal of the American Statistical Association, 112.517 (2017): 1-10.
 
-- **Wang, T.**, Yang, Y. and Tian, M. (2017). Tuning Parameter Selection in Adaptive 
-LASSO for Quantile Regression with Penal Data. Journal of Applied Statistics and Management, 36(3): 429– 440, (CSSCI, CSCD).
+- **Wang, T.**, Yang, Y. and Tian, M. (2017). ["Tuning Parameter Selection in Adaptive 
+LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.net.cn/WKB2/WebPublication/paperDigest.aspx?paperID=b60aaa1e-c54c-4e9f-9f37-7f742f25b4b1) Journal of Applied Statistics and Management, 36(3): 429– 440, (CSSCI, CSCD).
 
-- Yin, J., **Wang, T.**, and  Wang, W. (2017) Structure learning and parameter estimation on robust conditional graphical model. China Science Paper, 12(17): 1921-1929.
+- Yin, J., **Wang, T.**, and  Wang, W. (2017) ["Structure learning and parameter estimation on robust conditional graphical model".](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm) China Science Paper, 12(17): 1921-1929.
 
 ### Submitted
 
