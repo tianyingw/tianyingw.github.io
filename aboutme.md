@@ -5,7 +5,7 @@ title: About me
 
 - Research interests:
   - Methodology: semiparametric analysis, masurement error, quantile regression, high-dimensional data analysis
-  - Application: genomics (sequencing analysis, GWAS, TWAS, eQTL, meta-analysis, gene-environment interactions), epidemiology (BMI, relative risk, breast cancer) and Electronic Medical Record data.
+  - Application: genomics (sequencing analysis, GWAS, TWAS, eQTL, meta-analysis, gene-environment interactions), epidemiology (BMI, relative risk, breast cancer) and Electronic Medical Record data (eMERGE network).
 
 - Experience:
 
@@ -15,6 +15,7 @@ title: About me
 - Education:
    - PhD (2014-2018), Department of Statistics, Texas A&M University
        - Advisors: [Dr. Raymond Carroll](https://www.stat.tamu.edu/~carroll/) and [Dr. Irina Gaynanova](https://irinagain.github.io/)
+       - Dissertation: Topics in Measurement Error Analysis and High-dimensional Binary Classification
        
    - Bachelor (2010-2014), Department of Statistics, Renmin University of China
        - Advisor: [Dr. Jianxin Yin](http://stat.ruc.edu.cn/en/teacher_more.php?cid=89248&id=65)
