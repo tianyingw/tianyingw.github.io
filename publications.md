@@ -15,12 +15,22 @@ title: Publications
 - Johnson, V., Payne, R., **Wang, T.**, Asher, A. and Mandal, S.
 ["On the reproducibility of psychological science".](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2016.1240079#.WqQ13ZPwbOQ) Journal of the American Statistical Association, 112.517 (2017): 1-10.
 
+- **Wang, T.**, Yang, Y. and Tian, M. (2017). Tuning Parameter Selection in Adaptive 
+LASSO for Quantile Regression with Penal Data. Journal of Applied Statistics and Management, 36(3): 429– 440, (CSSCI, CSCD).
+
+- Yin, J., **Wang, T.**, and  Wang, W. (2017) Structure learning and parameter estimation on robust conditional graphical model. China Science Paper, 12(17): 1921-1929.
+
+### Submitted
+
+- **Wang, T.** and Asher, A. "Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".
+
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Gaussian Processes with Errors in Variables: theory and computation". 
+
+
 ### In preparation:
 
-- **Wang, T.**, Ionita-laza, I., Wei, Y. "Integrated Quantile Rank Test (iQART) for heterogeneous joint effect of rare and common variants in sequencing studies".
+- **Wang, T.**, Ionita-laza, I., Wei, Y. "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies".
 
-- **Wang, T.**, Asher, A. and Carroll, R. J. "Semiparametric analysis of complex gene-environment interactions in case-control studies".
 
 - **Wang, T.**, Liu, J., Asher, A., Ma, Y. and Carroll, R. J. "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation".
 
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Gaussian Processes with Errors in Variables: theory and computation". (submitted to JASA)
