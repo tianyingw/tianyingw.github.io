@@ -20,7 +20,7 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 - Yin, J., **Wang, T.**, and  Wang, W. (2017) ["Structure learning and parameter estimation on robust conditional graphical model".](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm) China Science Paper, 12(17): 1921-1929.
 
-### Manuscripts
+### Manuscripts:
 
 - **Wang, T.** and Asher, A. and Carroll, R. J. "Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".
 
