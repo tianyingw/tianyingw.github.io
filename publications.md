@@ -31,5 +31,5 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 ### In preparation:
 
-- **Wang, T.**, Liu, J., Asher, A., Ma, Y. and Carroll, R. J. "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation".
+- **Wang, T.**, Liu, J., Ma, Y. and Carroll, R. J. "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation".
 
