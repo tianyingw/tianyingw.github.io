@@ -1,12 +1,11 @@
 ---
-layout: twocolumns
+layout: page
 title: Tianying Wang
 subtitle: Postdoctotal Research Scientist, Department of Biostatistics, Columbia University
 use-site-title: true
 order: 1
 ---
 <img src="/img/file-1.jpeg" class="align-left" alt="" width="400">
-
 
 - Research interests:
   - Methodology: semiparametric analysis, masurement error, quantile regression, high-dimensional data analysis
@@ -25,12 +24,6 @@ order: 1
    - Bachelor (2010-2014), Department of Statistics, Renmin University of China
        - Advisor: [Dr. Jianxin Yin](http://stat.ruc.edu.cn/en/teacher_more.php?cid=89248&id=65)
        - Dissertation: [Robust Quantile Regression with Graphical Model](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm)
-
-- Honors and Awards: 
-   - Dr. Joseph Newton Graduate Student Service Award (2018)
-   - Norbert Hartmann, Jr. Fellowship (2016)
-   - Anant M. Kshirsagar Endowed Fellowship (2015)
-   - College of Science Dean's Doctoral Fellowship (2014)
 
 - Email: tw2696@cumc.columbia.edu
 
