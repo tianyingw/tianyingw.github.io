@@ -26,9 +26,9 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 - **Wang, T.**, Liu, J., Ma, Y. and Carroll, R. J. "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation".
 
-- **Wang, T.** and Asher, A. "Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".
+- **Wang, T.** and Asher, A. "Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies" (submitted).
 
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Gaussian Processes with Errors in Variables: theory and computation". 
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Gaussian Processes with Errors in Variables: theory and computation" (submitted). 
 
 
 
