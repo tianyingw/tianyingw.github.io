@@ -5,7 +5,7 @@ subtitle: Postdoctotal Research Scientist, Department of Biostatistics, Columbia
 use-site-title: true
 order: 1
 ---
-![](/img/file-1.jpeg =1000x){:class="img-responsive"}
+![](/img/file-1.jpeg){ width=50% }#{:class="img-responsive"}
 
 - Research interests:
   - Methodology: semiparametric analysis, masurement error, quantile regression, high-dimensional data analysis
