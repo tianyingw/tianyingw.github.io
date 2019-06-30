@@ -12,7 +12,6 @@ order: 1
   - Application: genomics (sequencing analysis, GWAS, TWAS, eQTL, meta-analysis, gene-environment interactions), epidemiology (BMI, relative risk, breast cancer) and Electronic Medical Record data (eMERGE network).
 
 - Experience:
-
    - Postdoc (2018-now), Department of Biostatistics, Columbia University
        - Supervisors: [Dr. Ying Wei](https://yingweistat.com/) and [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
 
