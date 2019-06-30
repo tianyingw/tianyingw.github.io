@@ -6,7 +6,7 @@ use-site-title: true
 order: 1
 ---
 
-<img style="float: left;" src="/img/file-1.jpeg">
+<img style="float: left;" src="/img/file-1.jpeg" width=96>
 
 - Research interests:
   - Methodology: semiparametric analysis, masurement error, quantile regression, high-dimensional data analysis
