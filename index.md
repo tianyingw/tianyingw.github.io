@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+order: 1
 ---
 
 - Research interests:
