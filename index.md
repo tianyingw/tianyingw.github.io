@@ -5,11 +5,10 @@ subtitle: Postdoctotal Research Scientist, Department of Biostatistics, Columbia
 use-site-title: true
 order: 1
 ---
-<img src="/img/file-1.jpeg" class="align-left" alt="" width="400">
+<img align="right" src="/img/file-1.jpeg" alt="" width="400">
 
 - Research interests:
-  - Methodology: semiparametric analysis, masurement error, quantile regression, high-dimensional data analysis
-  - Application: genomics (sequencing analysis, GWAS, TWAS, eQTL, meta-analysis, gene-environment interactions), epidemiology (BMI, relative risk, breast cancer) and Electronic Medical Record data (eMERGE network).
+  - Semiparametric Analysis, Masurement Error, Quantile Regression, High-dimensional Data Analysis
 
 - Experience:
    - Postdoc (2018-now), Department of Biostatistics, Columbia University
