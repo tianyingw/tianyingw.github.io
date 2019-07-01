@@ -30,7 +30,7 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 ### In preparation:
 
-- "Robust Integrated Transcriptome-wide Association Analysis via supervised-PCA".
+- "Robust Integrated Transcriptome-wide Association Analysis via Supervised-PCA".
 
 - "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation".
 
