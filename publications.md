@@ -22,7 +22,7 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 ### Manuscripts:
 
-- **Wang, T.**, Ionita-laza, I., Wei, Y. "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies".
+- **Wang, T.**, Ionita-Laza, I., Wei, Y. "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies".
 
 - **Wang, T.** and Asher, A. "Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies" (submitted).
 
@@ -30,9 +30,9 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 ### In preparation:
 
-- "Robust Integrated Transcriptome-wide Association Analysis via Supervised-PCA".
+- "Robust Integrated Transcriptome-wide Association Analysis via Supervised-PCA". (with Wei, Y. and Ionita-Laza, I.)
 
-- "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation".
+- "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J and Carroll, R. J.)
 
 
 
