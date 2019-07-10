@@ -20,14 +20,16 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 - Yin, J., **Wang, T.**, and  Wang, W. (2017) ["Structure learning and parameter estimation on robust conditional graphical model".](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm) China Science Paper, 12(17): 1921-1929.
 
+### In review:
+
+- **Wang, T.**, Asher, A. and Carroll, R. J. "Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".
+
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Gaussian Processes with Errors in Variables: theory and computation". 
+
 
 ### In preparation:
 
 - **Wang, T.**, Ionita-Laza, I. and Wei, Y. "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". (manuscript)
-
-- **Wang, T.**, Asher, A. and Carroll, R. J. "Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies" (submitted).
-
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Gaussian Processes with Errors in Variables: theory and computation" (submitted). 
 
 - "Robust Integrated Transcriptome-wide Association Analysis via Supervised-PCA". (with Wei, Y. and Ionita-Laza, I.)
 
