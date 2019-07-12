@@ -25,7 +25,7 @@ description: Ph.D. in Statistics
 navbar-links:
   Home: "http://tianyingw.github.io"
   #About Me: "aboutme"
-  Publications: "publications"
+  #Publications: "publications"
   Research: "research"
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
