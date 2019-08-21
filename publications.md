@@ -33,7 +33,7 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 - "Robust Integrated Transcriptome-wide Association Analysis". (with Wei, Y. and Ionita-Laza, I.)
 
-- "Robust Integrated Quantile Rank Score Test for longitudinal data in Electronic Health Records". (with Wei, Y. and Wang, Z.)
+- "Robust Integrated Quantile Rank Score Test for Longitudinal Electronic Health Records Data". (with Wei, Y. and Wang, Z.)
 
 - "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
 
