@@ -2,14 +2,6 @@
 layout: page
 title: Publications
 ---
-### Manuscripts:
-
-- **Wang, T.** and Asher, A. "Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies". **(Submitted)**
-
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Gaussian Processes with Errors in Variables: theory and computation". **(Submitted)**
-
-- **Wang, T.**, Ionita-Laza, I. and Wei, Y. "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". 
-
 
 ### In preparation:
 
@@ -19,6 +11,13 @@ title: Publications
 
 - "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
 
+### Manuscripts:
+
+- **Wang, T.** and Asher, A. "Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies". **(Submitted)**
+
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Gaussian Processes with Errors in Variables: theory and computation". **(Submitted)**
+
+- **Wang, T.**, Ionita-Laza, I. and Wei, Y. "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". 
 
 ### Peer-reviewed:
 
