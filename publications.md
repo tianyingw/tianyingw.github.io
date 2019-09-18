@@ -13,7 +13,7 @@ title: Publications
 
 ### Manuscripts:
 
-- **Wang, T.** and Asher, A. "Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies". **(Submitted)**
+- **Wang, T.** and Asher, A. (2019) ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501) **(Under review)**
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Gaussian Processes with Errors in Variables: theory and computation". **(Submitted)**
 
