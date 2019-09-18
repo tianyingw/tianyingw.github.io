@@ -13,11 +13,11 @@ title: Publications
 
 ### Manuscripts:
 
-9. **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2019+) "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". **(Will be submitted in 09/2019)**
+1. **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2019+) "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". **(Will be submitted in 09/2019)**
 
-8. **Wang, T.** and Asher, A. (2019+) ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501) **(Submitted)**
+2. **Wang, T.** and Asher, A. (2019+) ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501) **(Submitted)**
 
-7. Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+) "Gaussian Processes with Errors in Variables: theory and computation". **(Submitted)**
+3. Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+) "Gaussian Processes with Errors in Variables: theory and computation". **(Submitted)**
 
 ### Peer-reviewed:
 
