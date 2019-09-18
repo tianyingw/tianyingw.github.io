@@ -13,11 +13,11 @@ title: Publications
 
 ### Manuscripts:
 
-- **Wang, T.** and Asher, A. (2019) ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501) **(Under review)**
+- **Wang, T.** and Asher, A. (2019+) ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501) **(Submitted)**
 
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. "Gaussian Processes with Errors in Variables: theory and computation". **(Submitted)**
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+) "Gaussian Processes with Errors in Variables: theory and computation". **(Submitted)**
 
-- **Wang, T.**, Ionita-Laza, I. and Wei, Y. "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". 
+- **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2019+) "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". **(Will be submitted in 09/2019)**
 
 ### Peer-reviewed:
 
