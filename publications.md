@@ -40,11 +40,11 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 ### Invited talks:
 
-- The Biostatistics Center, The George Washington University, MD (October 2019)
-- Department of Statistics, University of Connecticut, Storrs, CT (September 2019)
-- Center for Statistical Science, Tsinghua University, Beijing, China (June 2019)
-- The Institute of Statistics and Big Data, Renmin University of China, Beijing, China (May 2019)
-- 2019 Hangzhou International Conference on Frontiers of Data Science, Hangzhou, China (May 2019)
-- Topic-contributed session, Joint Statistical Meetings, Vancouver, Canada (August 2018)
-- Data-Driven Model Reduction, Scientific Frontiers, and Applications Workshop, College station, TX (May 2018)
+- The Biostatistics Center, The George Washington University, MD (10/2019)
+- Department of Statistics, University of Connecticut, Storrs, CT (09/2019)
+- Center for Statistical Science, Tsinghua University, Beijing, China (06/2019)
+- The Institute of Statistics and Big Data, Renmin University of China, Beijing, China (05/2019)
+- 2019 Hangzhou International Conference on Frontiers of Data Science, Hangzhou, China (05/2019)
+- Topic-contributed session, Joint Statistical Meetings, Vancouver, Canada (08/2018)
+- Data-Driven Model Reduction, Scientific Frontiers, and Applications Workshop, College station, TX (05/2018)
 
