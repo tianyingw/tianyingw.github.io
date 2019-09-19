@@ -13,7 +13,7 @@ title: Publications
 
 ### Manuscripts:
 
-- **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2019+) "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". **(Will be submitted in 09/2019)**
+- **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2019+) "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". **(To be submitted)**
 
 - **Wang, T.** and Asher, A. (2019+) ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501) **(Submitted)**
 
@@ -24,7 +24,7 @@ title: Publications
 - Gaynanova, I. and **Wang, T.** (2019) ["Sparse quadratic classification rules via linear dimension reduction".](https://doi.org/10.1016/j.jmva.2018.09.011) Journal of Multivariate Analysis, 169, 278-299. 
 [R package: DAP](https://cran.r-project.org/web/packages/DAP/index.html)
 
-- Blas Achic, B. *, **Wang, T.** * , Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. (2018) ["Categorizing a Continuous Predictor Subject to Measurement Error".](https://projecteuclid.org/euclid.ejs/1544518836) Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( * Blas and Wang are joint first authors)**. 
+- Blas Achic, B. *, **Wang, T.** * , Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. (2018) ["Categorizing a Continuous Predictor Subject to Measurement Error".](https://projecteuclid.org/euclid.ejs/1544518836) Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( * joint first authors)**. 
 
 - Li, H., Staudenmayer, J., **Wang, T.**, Keadle, S. K., and Carroll, R. J. (2018). ["Three‐part joint modeling methods for complex functional data mixed with zero‐and‐one–inflated proportions and zero‐inflated continuous outcomes with skewness".](https://www.ncbi.nlm.nih.gov/pubmed/29052239) Statistics in medicine, 37(4), 611-626.
 
