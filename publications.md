@@ -9,7 +9,7 @@ title: Publications
 
 - "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Wei, Y., Ionita-Laza, I., Wang, Z. and Weng, C.)
 
-- "A Deep Learning model for breast cancer risk prediction based on mammographic images". (with Wei, Y. and Tehranifar, P.)
+- "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y. and Tehranifar, P.)
 
 - "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
 
