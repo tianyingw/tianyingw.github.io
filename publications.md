@@ -7,7 +7,9 @@ title: Publications
 
 - "Robust Integrated Transcriptome-wide Association Analysis". (with Wei, Y. and Ionita-Laza, I.)
 
-- "Robust Integrated Quantile Rank Score Test for Longitudinal Electronic Health Records Data". (with Wei, Y., Ionita-Laza, I. and Wang, Z.)
+- "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Wei, Y., Ionita-Laza, I., Wang, Z. and Weng, C.)
+
+- "A Deep Learning model for breast cancer risk prediction based on mammographic images". (with Wei, Y. and Tehranifar, P.)
 
 - "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
 
