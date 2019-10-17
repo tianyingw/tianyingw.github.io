@@ -3,23 +3,23 @@ layout: page
 title: Publications
 ---
 
-### In preparation:
+### Working papers:
 
 - "Robust Integrated Transcriptome-wide Association Analysis". (with Wei, Y. and Ionita-Laza, I.)
 
 - "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Wei, Y., Ionita-Laza, I., Wang, Z. and Weng, C.)
 
-- "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y. and Tehranifar, P.)
+- "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
 
 - "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
 
-### Manuscripts:
+### Preprints:
 
 - **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2019+) "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". **(To be submitted)**
 
-- **Wang, T.** and Asher, A. (2019+) ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501) **(Submitted)**
+- **Wang, T.** and Asher, A. (2019+) ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501) **(Under review)**
 
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+) ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235) **(Submitted)**
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+) ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235) **(Under review)**
 
 ### Peer-reviewed:
 
