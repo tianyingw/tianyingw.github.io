@@ -15,7 +15,7 @@ title: Publications
 
 ### Preprints:
 
-- **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2019+) "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". **(To be submitted)**
+- **Wang, T.**, Wei, Y., Ionita-laza, I. and Boehnke, M. (2019+) "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". **(To be submitted)**
 
 - **Wang, T.** and Asher, A. (2019+) ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501) **(Under review)**
 
