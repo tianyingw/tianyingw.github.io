@@ -5,13 +5,13 @@ title: Publications
 
 ### Working papers:
 
-- **Wang, T.**, Ionita-laza, I., Wang, Z., Weng, C. and Wei, Y. (2019+) "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". 
+- **Wang, T.**, Ionita-Laza, I., Wang, Z., Weng, C. and Wei, Y. (2019+) "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". 
 
-- **Wang, T.**, Ionita-laza, I., Li, G., Weng, C. and Wei, Y. (2019+) "Robust Integrated Transcriptome-wide Association Analysis". 
+- **Wang, T.**, Ionita-Laza, I., Li, G., Weng, C. and Wei, Y. (2019+) "Robust Integrated Transcriptome-wide Association Analysis". 
 
 ### Preprints:
 
-- **Wang, T.**, Ionita-laza, I., Boehnke, M. and Wei, Y. (2019+) "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". 
+- **Wang, T.**, Ionita-Laza, I., Boehnke, M. and Wei, Y. (2019+) "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". 
 
 - **Wang, T.** and Asher, A. (2019+) ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501) 
 
@@ -38,7 +38,7 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 - "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
 
-- "Genotype-by-environment interactions analysis for heterogeneous quantile genetic effects on phenotypic variability". (with Wei, Y. and Ionita-laza, I.)
+- "Genotype-by-environment interactions analysis for heterogeneous quantile genetic effects on phenotypic variability". (with Wei, Y. and Ionita-Laza, I.)
 
 - "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
 
