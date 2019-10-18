@@ -34,13 +34,7 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 -  Yin, J., **Wang, T.**, and  Wang, W. (2017) ["Structure learning and parameter estimation on robust conditional graphical model".](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm) China Science Paper, 12(17): 1921-1929.
 
-### Other projects:
 
-- "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
-
-- "Genotype-by-environment interactions analysis for heterogeneous quantile genetic effects on phenotypic variability". (with Wei, Y. and Ionita-Laza, I.)
-
-- "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
 
 
 
