@@ -5,7 +5,7 @@ title: Software
 
 ### R packages:
 
-- Maintained:
+- Developed and maintained:
   
    - [iQRAT](https://github.com/tianyingw/iQRAT) (Integrated Quantile RAnk Test): The R package iQRAT provides an efficient quantile rank test for heterogeneous association in sequencing study. It implements the method from Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies.
 
