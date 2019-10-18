@@ -5,9 +5,10 @@ title: Publications
 
 ### Working papers:
 
-- "Robust Integrated Transcriptome-wide Association Analysis". (with Wei, Y. and Ionita-Laza, I.)
 
-- "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Wei, Y., Ionita-Laza, I., Wang, Z. and Weng, C.)
+- **Wang, T.**, Ionita-laza, I., Wang, Z., Weng, C., and Wei, Y. (2019+) "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". 
+
+- **Wang, T.**, Ionita-laza, I. and Wei, Y. (2020+) "Robust Integrated Transcriptome-wide Association Analysis". 
 
 - "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
 
