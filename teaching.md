@@ -7,6 +7,7 @@ title: Teaching
 ------------------------------------------------------
 ### Instructor (full responsibility):
 - STAT 303 Statistical Methods
+  - Introduction of probability and probability distributions; sampling and descriptive measures; inference and hypothesis testing; analysis of variance; linear regression
 
 ### Teaching Assistant:
 - STAT 211 Principle of Statistics I
