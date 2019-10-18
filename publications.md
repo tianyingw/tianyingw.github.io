@@ -7,7 +7,7 @@ title: Publications
 
 - **Wang, T.**, Ionita-laza, I., Wang, Z., Weng, C. and Wei, Y. (2019+) "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". 
 
-- **Wang, T.**, Ionita-laza, I., Li, G., Weng, C. and Wei, Y. (2020+) "Robust Integrated Transcriptome-wide Association Analysis". 
+- **Wang, T.**, Ionita-laza, I., Li, G., Weng, C. and Wei, Y. (2019+) "Robust Integrated Transcriptome-wide Association Analysis". 
 
 ### Preprints:
 
@@ -37,6 +37,8 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 ### Other projects:
 
 - "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
+
+- "Genotype-by-environment interactions analysis for heterogeneous quantile genetic effects on phenotypic variability". (with Wei, Y. and Ionita-laza, I.)
 
 - "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
 
