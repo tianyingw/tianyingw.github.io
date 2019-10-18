@@ -22,6 +22,6 @@ title: Teaching
   - Introduction to mathematical statistics for graduate students: probability theory, theory of statistical inferences and Bayesian methods. 
   
 - STAT 689 Semiparametric Regression using R 
-  - Use the R programming framework to analyze data examples via semiparametric regression methods, including generalized linear models, nonparametric regression, partially linear models, additive models, grouped data, longitudinal data, etc.
+  - Introduction to semiparametric regression methods and analyze data in R. Topics include generalized linear models, nonparametric regression, partially linear models, additive models, grouped data, longitudinal data, etc.
 
 
