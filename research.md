@@ -17,4 +17,11 @@ In this large-scale data era, robust statistical learning methods are necessary 
 
 - **Wang, T.**, Ionita-Laza, I., Li, G., Weng, C. and Wei, Y. (2019+) "Robust Integrated Transcriptome-wide Association Analysis". 
 
+- "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
+
+- "Genotype-by-environment interactions analysis for heterogeneous quantile genetic effects on phenotypic variability". (with Wei, Y. and Ionita-Laza, I.)
+
+- "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
+
+
 
