@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Tianying Wang
 subtitle: Postdoctotal Research Scientist, Department of Biostatistics, Columbia University
 use-site-title: true
