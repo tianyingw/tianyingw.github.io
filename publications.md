@@ -5,14 +5,9 @@ title: Publications
 
 ### Working papers:
 
+- **Wang, T.**, Ionita-laza, I., Wang, Z., Weng, C. and Wei, Y. (2019+) "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". 
 
-- **Wang, T.**, Ionita-laza, I., Wang, Z., Weng, C., and Wei, Y. (2019+) "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". 
-
-- **Wang, T.**, Ionita-laza, I. and Wei, Y. (2020+) "Robust Integrated Transcriptome-wide Association Analysis". 
-
-- "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
-
-- "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
+- **Wang, T.**, Ionita-laza, I., Li, G., Weng, C. and Wei, Y. (2020+) "Robust Integrated Transcriptome-wide Association Analysis". 
 
 ### Preprints:
 
@@ -39,7 +34,11 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 -  Yin, J., **Wang, T.**, and  Wang, W. (2017) ["Structure learning and parameter estimation on robust conditional graphical model".](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm) China Science Paper, 12(17): 1921-1929.
 
+### Other projects:
 
+- "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
+
+- "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
 
 ### Invited talks:
 
