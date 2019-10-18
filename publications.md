@@ -11,7 +11,7 @@ title: Publications
 
 ### Preprints:
 
-- **Wang, T.**, Ionita-laza, I., Boehnke, M. and Wei, Y. (2019+) "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". **(To be submitted)**
+- **Wang, T.**, Ionita-laza, I., Boehnke, M. and Wei, Y. (2019+) "Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies". **(To be submitted soon)**
 
 - **Wang, T.** and Asher, A. (2019+) ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501) **(Under review of *Statistcs in Bioscience*)**
 
@@ -42,6 +42,7 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 ### Invited talks:
 
+- ICSA 2020 Applied Statistics Symposium, Houston, TX (May 2020)
 - The Biostatistics Center, The George Washington University, MD (10/2019)
 - Department of Statistics, University of Connecticut, Storrs, CT (09/2019)
 - Center for Statistical Science, Tsinghua University, Beijing, China (06/2019)
