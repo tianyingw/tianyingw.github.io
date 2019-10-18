@@ -5,7 +5,7 @@ title: Teaching
 
 ## Courses at Texas A&M University
 ------------------------------------------------------
-### Instructor (full responsibility, Summer 2016):
+### Instructor (Full responsibility, Summer 2016):
 
 - STAT 303 Statistical Methods
   - Introduction of probability and probability distributions; sampling and descriptive measures; inference and hypothesis testing; analysis of variance; linear regression (no calculus background required)
