@@ -42,7 +42,7 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 ### Invited talks:
 
-- ICSA 2020 Applied Statistics Symposium, Houston, TX (May 2020)
+- ICSA 2020 Applied Statistics Symposium, Houston, TX (05/2020)
 - The Biostatistics Center, The George Washington University, MD (10/2019)
 - Department of Statistics, University of Connecticut, Storrs, CT (09/2019)
 - Center for Statistical Science, Tsinghua University, Beijing, China (06/2019)
