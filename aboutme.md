@@ -19,7 +19,7 @@ title: About me
        
    - _Bachelor (2010-2014), Department of Statistics, Renmin University of China_   
        - Advisor: [Dr. Jianxin Yin](http://stat.ruc.edu.cn/en/teacher_more.php?cid=89248&id=65)     
-       - Dissertation: [Robust Quantile Regression with Graphical Model](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm)
+       - Dissertation: Robust Quantile Regression with Graphical Model
 
 ### Fun facts:
 
