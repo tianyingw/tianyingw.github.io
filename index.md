@@ -10,8 +10,11 @@ order: 1
 ### Contact:
 
 - Address: 
+
    Department of Biostatistics
+   
    Columbia University
+   
    722 West 168th St. NY, NY 10032
 
 - Email: tw2696@cumc.columbia.edu
