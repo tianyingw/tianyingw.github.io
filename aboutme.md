@@ -20,6 +20,7 @@ title: About me
 
 - Fun facts about me:
 
-  - I love baking (check my instagram: tianying.w)
+  - I love baking (check my instagram: [tianying.w](https://www.instagram.com/tianying.w/?hl=en))
+  
   - I hold an Advanced Scuba Diving Certificate
 
