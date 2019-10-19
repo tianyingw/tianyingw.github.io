@@ -7,14 +7,14 @@ order: 1
 ---
 <img align="right" src="/img/file-1.jpeg" alt="" width="300">
 
-### Contact:
+I am a postdoc in the Department of Biostatistics at Columbia University. I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis** and **high dimensional statistics**. My special focus is genetic and genomic data analysis, secondary analysis of electronic health data, and epidemiologic research. 
+
+## Contact:
 
 - Address: 
 
-   Department of Biostatistics
-   
-   Columbia University
-   
+   Department of Biostatistics  
+   Columbia University   
    722 West 168th St. NY, NY 10032
    
 
