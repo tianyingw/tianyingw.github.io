@@ -7,10 +7,6 @@ order: 1
 ---
 <img align="right" src="/img/file-1.jpeg" alt="" width="300">
 
-- Research interests:
-
-  - Semiparametric Analysis, Masurement Error, Quantile Regression, High-dimensional Data Analysis
-
 - Experience:
 
    - Postdoc (2018-now), Department of Biostatistics, Columbia University   
