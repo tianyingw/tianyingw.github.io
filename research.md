@@ -21,11 +21,18 @@ In this large-scale data era, robust statistical learning methods are necessary 
 ### Invited talks:
 
 - ICSA 2020 Applied Statistics Symposium, Houston, TX (05/2020)
+
 - The Biostatistics Center, The George Washington University, MD (10/2019)
+
 - Department of Statistics, University of Connecticut, Storrs, CT (09/2019)
+
 - Center for Statistical Science, Tsinghua University, Beijing, China (06/2019)
+
 - The Institute of Statistics and Big Data, Renmin University of China, Beijing, China (05/2019)
+
 - 2019 Hangzhou International Conference on Frontiers of Data Science, Hangzhou, China (05/2019)
+
 - Topic-contributed session, Joint Statistical Meetings, Vancouver, Canada (08/2018)
+
 - Data-Driven Model Reduction, Scientific Frontiers, and Applications Workshop, College station, TX (05/2018)
 
