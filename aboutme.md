@@ -18,9 +18,8 @@ title: About me
        - Advisor: [Dr. Jianxin Yin](http://stat.ruc.edu.cn/en/teacher_more.php?cid=89248&id=65)     
        - Dissertation: [Robust Quantile Regression with Graphical Model](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm)
 
-- Fun facts about me:
+- Fun facts:
 
-  - I love baking (check my instagram: [tianying.w](https://www.instagram.com/tianying.w/?hl=en))
-  
+  - I love baking (check my instagram: [tianying.w](https://www.instagram.com/tianying.w/?hl=en))  
   - I hold an Advanced Scuba Diving Certificate
 
