@@ -7,7 +7,7 @@ I work in **quantile regression**, **measurement error analysis**, **semi-parame
 
 In this large-scale data era, robust statistical learning methods are necessary and important to handle the data heteroscedasticity.  Given this motivation, I focus more on data integration in terms of combining multiple data views and considering the entire distribution of the population. The former leads to more powerful inference tools, and the later helps us understand genetic associations in different subgroups of a population, further contributing to more precise analysis of the genetic effect and supporting personalized precision medicine. 
 
-### My current projects:
+### Current projects:
 - "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Ionita-Laza, I., Wang, Z., Weng, C. and Wei, Y.)
 
 - "Robust Integrated Transcriptome-wide Association Analysis". (with Ionita-Laza, I., Li, G., Weng, C. and Wei, Y.)
