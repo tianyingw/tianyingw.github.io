@@ -9,12 +9,12 @@ title: About me
        - Supervisors: [Dr. Ying Wei](https://yingweistat.com/) and [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
        
    - _Research Assistant (2016-2018), Department of Statistics, Texas A&M University_
-       - Supervisor:  [Dr. Raymond Carroll](https://www.stat.tamu.edu/~carroll/)
+       - Supervisor:  [Dr. Raymond J. Carroll](https://www.stat.tamu.edu/~carroll/)
 
 ### Education:
 
    - _PhD (2014-2018), Department of Statistics, Texas A&M University_   
-       - Advisors: [Dr. Raymond Carroll](https://www.stat.tamu.edu/~carroll/) and [Dr. Irina Gaynanova](https://irinagain.github.io/)       
+       - Advisors: [Dr. Raymond J. Carroll](https://www.stat.tamu.edu/~carroll/) and [Dr. Irina Gaynanova](https://irinagain.github.io/)       
        - Dissertation: Topics in Measurement Error Analysis and High-dimensional Binary Classification
        
    - _Bachelor (2010-2014), Department of Statistics, Renmin University of China_   
