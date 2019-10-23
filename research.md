@@ -3,9 +3,9 @@ layout: page
 title: Research
 ---
 
-I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis** and **high dimensional statistics**. My special focus is genetic and genomic data analysis, secondary analysis of electronic health data, and epidemiologic research. My career goal is to develop and promote robust statistical learning methods to advance the science of public health and medicine.
+   I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis** and **high dimensional statistics**. My special focus is genetic and genomic data analysis, secondary analysis of electronic health data, and epidemiologic research. My career goal is to develop and promote robust statistical learning methods to advance the science of public health and medicine.
+  In today’s era of large-scale data, I believe robust statistical learning methods are necessary and important to handle the data heteroscedasticity.  As a result, I focus on jointly analyzing different sources of data (for example, genetic data and electronic health records) and examining different quantiles or subgroups of the population (for example, people with different levels of continuous phenotype/traits such as BMI) . Combining different data sets leads to more powerful analysis, and examining different subgroups helps give us a more comprehensive view of the entire population, further contributing to more precise analysis of the genetic effect and supporting personalized precision medicine. 
 
-In this large-scale data era, robust statistical learning methods are necessary and important to handle the data heteroscedasticity.  Given this motivation, I focus more on data integration in terms of combining multiple data views and considering the entire distribution of the population. The former leads to more powerful inference tools, and the later helps us understand genetic associations in different subgroups of a population, further contributing to more precise analysis of the genetic effect and supporting personalized precision medicine. 
 
 ### Current projects:
 - "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Ionita-Laza, I., Wang, Z., Weng, C. and Wei, Y.)
