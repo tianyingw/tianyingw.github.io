@@ -9,13 +9,13 @@ title: Publications
 
 - **Wang, T.**, Ionita-Laza, I., Li, G., Weng, C. and Wei, Y. (2019+). "An Unified Framework for trascriptome-wide nonlinear association analysis". 
 
-### Preprints:
+### Preprints (under review):
 
-- **Wang, T.**, Ionita-Laza and Wei, Y. (2019+). ["Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies".](https://arxiv.org/abs/1910.10102) (_under review of JASA_)
+- **Wang, T.**, Ionita-Laza and Wei, Y. (2019+). ["Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies".](https://arxiv.org/abs/1910.10102)
 
-- **Wang, T.** and Asher, A. (2019+). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501) (_under review of Statistics in Bioscience_)
+- **Wang, T.** and Asher, A. (2019+). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501)
 
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235) (_under review of Biometrika_)
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235)
 
 ### Peer-reviewed:
 
