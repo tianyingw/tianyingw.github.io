@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tianying Wang
-subtitle: Postdoctotal Research Scientist, Department of Biostatistics, Columbia University
+subtitle: Postdoctoral Research Scientist, Department of Biostatistics, Columbia University
 use-site-title: true
 order: 1
 ---
