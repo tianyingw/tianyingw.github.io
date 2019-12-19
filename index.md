@@ -7,7 +7,7 @@ order: 1
 ---
 <img align="right" src="/img/file-1.jpeg" alt="" width="300">
 
-I am a postdoc in the Department of Biostatistics at Columbia University. I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis** and **high dimensional statistics**. The applications of my research include genetic and genomic data analysis, secondary analysis of electronic health data, and epidemiologic research. 
+I am a postdoc in the Department of Biostatistics at Columbia University. I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis** and **high dimensional statistics**. The applications of my research include _genetic and genomic data analysis (e.g., GWAS, TWAS, sequencing analysis), secondary analysis of elctronic health records data, and epidemiologic research_. 
 
 #### Contact:
 [Department of Biostatistics](https://www.mailman.columbia.edu/become-student/departments/biostatistics)  
