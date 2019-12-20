@@ -9,7 +9,7 @@ title: Publications
 
 - **Wang, T.**, Ionita-Laza, I., Li, G., Weng, C. and Wei, Y. (2019+). "An Unified Framework for trascriptome-wide nonlinear association analysis". 
 
-### Preprints (under review):
+### Under review:
 
 - **Wang, T.**, Ionita-Laza and Wei, Y. (2019+). ["Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies".](https://arxiv.org/abs/1910.10102)
 
