@@ -8,8 +8,6 @@ title: About me
    - _Postdoc (2018-now), Department of Biostatistics, Columbia University_   
        - Supervisors: [Dr. Ying Wei](https://yingweistat.com/) and [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
        
-   - _Research Assistant (2016-2018), Department of Statistics, Texas A&M University_
-       - Supervisor:  [Dr. Raymond J. Carroll](https://www.stat.tamu.edu/~carroll/)
 
 ### Education:
 
