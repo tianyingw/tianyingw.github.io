@@ -15,6 +15,8 @@ title: Research
 
 - "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
 
+- "A Fast Algorithm for quantile process estimation via parametrix simplex approach". (with Wei, Y. and Fang, E.)
+
 - "Genotype-by-environment interactions analysis for heterogeneous quantile genetic effects on phenotypic variability". (with Wei, Y. and Ionita-Laza, I.)
 
 - "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
@@ -22,6 +24,8 @@ title: Research
 ### Invited talks:
 
 - ICSA 2020 Applied Statistics Symposium, Houston, TX (05/2020)
+
+- Department of Statistics, Penn State University, University Park, PA (01/2020)
 
 - The Biostatistics Center, The George Washington University, MD (10/2019)
 
