@@ -41,3 +41,6 @@ title: Research
 
 - Data-Driven Model Reduction, Scientific Frontiers, and Applications Workshop, College station, TX (05/2018)
 
+### Journal referring:
+Journal of the American Statistical Association; Statistica Sinica; Biometrics; Journal of Computational and Graphical Statistics; Annals of the Institute of Statistical Mathematics; Statistics in Medicine;  IEEE Transactions on Signal Processing; IEEE Signal Processing Letters; Proceedings of the National Academy of Sciences of the United States of America; Statistics; The American Statistician; Australian \& New Zealand Journal of Statistics.
+
