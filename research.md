@@ -15,7 +15,7 @@ title: Research
 
 - "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
 
-- "A Fast Algorithm for quantile process estimation via parametrix simplex approach". (with Wei, Y. and Fang, E.)
+- "A Fast Algorithm for quantile process estimation via parametric simplex approach". (with Wei, Y. and Fang, E.)
 
 - "Genotype-by-environment interactions analysis for heterogeneous quantile genetic effects on phenotypic variability". (with Wei, Y. and Ionita-Laza, I.)
 
