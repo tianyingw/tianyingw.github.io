@@ -13,9 +13,9 @@ title: Research
 
 - "An unified framework for transcriptome-wide nonlinear association analysis". (with Ionita-Laza, I., Li, G., Weng, C. and Wei, Y.)
 
-- "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
+- "A deep learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
 
-- "A Fast Algorithm for quantile process estimation via parametric simplex approach". (with Wei, Y. and Fang, E.)
+- "A fast algorithm for quantile process estimation via parametric simplex approach". (with Wei, Y. and Fang, E.)
 
 - "Genotype-by-environment interactions analysis for heterogeneous quantile genetic effects on phenotypic variability". (with Wei, Y. and Ionita-Laza, I.)
 
