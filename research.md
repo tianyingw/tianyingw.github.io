@@ -11,7 +11,7 @@ title: Research
 ### Current projects:
 - "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Ionita-Laza, I., Wang, Z., Weng, C. and Wei, Y.)
 
-- "An Unified Framework for transcriptome-wide nonlinear association analysis". (with Ionita-Laza, I., Li, G., Weng, C. and Wei, Y.)
+- "An unified framework for transcriptome-wide nonlinear association analysis". (with Ionita-Laza, I., Li, G., Weng, C. and Wei, Y.)
 
 - "A Deep Learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
 
