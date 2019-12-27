@@ -25,8 +25,6 @@ title: Research
 
 - ICSA 2020 Applied Statistics Symposium, Houston, TX (05/2020)
 
-- Department of Statistics, Penn State University, University Park, PA (01/2020)
-
 - The Biostatistics Center, The George Washington University, MD (10/2019)
 
 - Department of Statistics, University of Connecticut, Storrs, CT (09/2019)
