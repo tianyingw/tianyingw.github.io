@@ -25,11 +25,11 @@ title: Research
 
 - ICSA 2020 Applied Statistics Symposium, Houston, TX (05/2020)
 
-- Department of Statistics, Penn State University, University Park, PA (January 2020)
+- Department of Statistics, Penn State University, University Park, PA (01/2020)
 
-- Center for Statistical Science, Tsinghua University, Beijing, China (January 2020)
+- Center for Statistical Science, Tsinghua University, Beijing, China (01/2020)
 
-- 2020 Global Scientist Interdisciplinary Forum, Shenzhen, China (January 2020)
+- 2020 Global Scientist Interdisciplinary Forum, Shenzhen, China (01/2020)
 
 - The Biostatistics Center, The George Washington University, MD (10/2019)
 
