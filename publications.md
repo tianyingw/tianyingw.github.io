@@ -17,6 +17,8 @@ title: Publications
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235)
 
+- Delaigle, A., Hyndman, T., and **Wang, T.**. (2020+). ["deconvolve-package: Deconvolution Tools for Measurement Error Problems."](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html)
+
 ### Peer-reviewed:
 
 - Gaynanova, I. and **Wang, T.** (2019). ["Sparse quadratic classification rules via linear dimension reduction".](https://doi.org/10.1016/j.jmva.2018.09.011) Journal of Multivariate Analysis, 169, 278-299. 
