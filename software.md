@@ -17,4 +17,4 @@ title: Software
 
 - _Contributed:_
 
-  - [deconvolve](https://github.com/TimothyHyndman/deconvolve): The R package deconvolve provides tools for performing non-parametric deconvolution on measurement error problems. It contains functions for finding bandwidths, deconvolved densities and non-parametric regression estimates.
+  - [deconvolve](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html): The R package deconvolve provides tools for performing non-parametric deconvolution on measurement error problems. It contains functions for finding bandwidths, deconvolved densities and non-parametric regression estimates.
