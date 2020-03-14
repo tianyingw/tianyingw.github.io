@@ -5,9 +5,9 @@ title: Publications
 
 ### Working papers:
 
-- **Wang, T.**, Ionita-Laza, I., Wang, Z., Weng, C. and Wei, Y. (2019+). "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". 
+- **Wang, T.**, Ionita-Laza, I., Wang, Z., Weng, C. and Wei, Y. (2020+). "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". 
 
-- **Wang, T.**, Ionita-Laza, I., Li, G., Weng, C. and Wei, Y. (2019+). "An unified framework for heterogeneous transcriptome-wide association analysis". 
+- **Wang, T.**, Ionita-Laza, I., Li, G., Weng, C. and Wei, Y. (2020+). "An unified framework for heterogeneous transcriptome-wide association analysis". 
 
 ### Under review:
 
@@ -17,7 +17,7 @@ title: Publications
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235)
 
-- Delaigle, A., Hyndman, T., and **Wang, T.**. (2020+). ["deconvolve-package: Deconvolution Tools for Measurement Error Problems."](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html)
+- Delaigle, A., Hyndman, T., and **Wang, T.** (2020+). ["deconvolve-package: Deconvolution Tools for Measurement Error Problems."](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html)
 
 ### Peer-reviewed:
 
