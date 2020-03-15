@@ -47,5 +47,5 @@ title: Research
 
 ### Journal review:
 
-Journal of the American Statistical Association; Statistica Sinica; Biometrics; Journal of Computational and Graphical Statistics; Journal of Multivariate Analysis; Annals of the Institute of Statistical Mathematics; Statistics in Medicine;  IEEE Transactions on Signal Processing; IEEE Signal Processing Letters; Proceedings of the National Academy of Sciences of the United States of America; Statistics; The American Statistician; Australian & New Zealand Journal of Statistics; Chemometrics and Intelligent Laboratory System.
+Journal of the American Statistical Association; Statistica Sinica; Biometrics; Journal of Computational and Graphical Statistics; Journal of Multivariate Analysis; Annals of the Institute of Statistical Mathematics; Statistics in Medicine; The Canadian Journal of Statistics;  IEEE Transactions on Signal Processing; IEEE Signal Processing Letters; Proceedings of the National Academy of Sciences of the United States of America; Statistics; The American Statistician; Australian & New Zealand Journal of Statistics; Chemometrics and Intelligent Laboratory System.
 
