@@ -17,7 +17,7 @@ title: Publications
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235)
 
-- Delaigle, A., Hyndman, T., and **Wang, T.** (2020+). ["deconvolve-package: Deconvolution Tools for Measurement Error Problems."](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html)
+- Delaigle, A., Hyndman, T., and **Wang, T.** (2019+). ["deconvolve-package: Deconvolution Tools for Measurement Error Problems."](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html)
 
 ### Peer-reviewed:
 
