@@ -16,9 +16,9 @@ order: 1
 Email: tw2696@cumc.columbia.edu
 
 ### News:
-- **May 2020**: Won **2020 IMS New Researcher Award**.
+- **May 2020**: Won **[2020 IMS New Researcher Award](https://imstat.org/ims-awards/ims-new-researcher-travel-award/)**.
 
-- **March 2020**: Won competitive travel award of the **ENAR 2020 Fostering Diversity in Biostatistics Workshop** (rescheduled to 2021 due to COVID-19).
+- **March 2020**: Won competitive travel award of the **[ENAR 2020 Fostering Diversity in Biostatistics Workshop](https://www.enar.org/meetings/FosteringDiversity/)** (rescheduled to 2021 due to COVID-19).
 
 - **November 2019**: A manuscript on **Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies** is now available on [arXiv](https://arxiv.org/abs/1910.10102).
 
@@ -26,6 +26,6 @@ Email: tw2696@cumc.columbia.edu
 
 - **September 2019**: A manuscript on **Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies** is now available on [arXiv](https://arxiv.org/abs/1909.07501).
 
-- **August 2019**: Won competitive travel award of the **2019 NISS Writing Workshop for Juniro Researchers at JSM**.
+- **August 2019**: Won competitive travel award of the **[2019 NISS Writing Workshop for Juniro Researchers at JSM](https://www.niss.org/events/2019-niss-writing-workshop-junior-researchers-jsm)**.
 
-- **July 2019**: Won competitive travel award of the **[2019 IMS New Researcher Conference](https://www.niss.org/events/2019-niss-writing-workshop-junior-researchers-jsm)**.
+- **July 2019**: Won competitive travel award of the **[2019 IMS New Researcher Conference](https://imstat.org/meetings-calendar/21st-meeting-of-new-researchers-in-statistics-and-probability/)**.
