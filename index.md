@@ -28,4 +28,4 @@ Email: tw2696@cumc.columbia.edu
 
 - **August 2019**: Won competitive travel award of the **2019 NISS Writing Workshop for Juniro Researchers at JSM**.
 
-- **July 2019**: Won competitive travel award of the **2019 IMS New Researcher Conference**.
+- **July 2019**: Won competitive travel award of the **[2019 IMS New Researcher Conference]**(https://www.niss.org/events/2019-niss-writing-workshop-junior-researchers-jsm).
