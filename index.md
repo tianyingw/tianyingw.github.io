@@ -27,4 +27,6 @@ Email: tw2696@cumc.columbia.edu
 
 - **September 2019**: A manuscript on **Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies** is now available on [arXiv](https://arxiv.org/abs/1909.07501).
 
+- **August 2019**: Won competitive travel award of the **2019 NISS Writing Workshop for Juniro Researchers at JSM**.
+
 - **July 2019**: Won competitive travel award of the **2019 IMS New Researcher Conference**.
