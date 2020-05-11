@@ -16,4 +16,7 @@ I am a postdoc in the Department of Biostatistics at Columbia University. I work
 
 Email: tw2696@cumc.columbia.edu
 
+#### News:
+May 2020: Won IMS New Researcher Award.
+
 
