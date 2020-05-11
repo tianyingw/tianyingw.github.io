@@ -18,5 +18,5 @@ Email: tw2696@cumc.columbia.edu
 
 #### News:
 **May 2020**: Won IMS New Researcher Award.
-
+**March 2020**: Won competitive travel award to ENAR 2020 Fostering Diversity in Biostatistics Workshop.
 
