@@ -13,17 +13,11 @@ title: Research
 
 - "An unified framework for heterogeneous transcriptome-wide association analysis". (with Ionita-Laza, I., Li, G., Weng, C. and Wei, Y.)
 
-- "A deep learning model for breast cancer risk prediction based on mammograms". (with Wei, Y., Terry MB. and Tehranifar, P.)
-
-- "A fast algorithm for quantile process estimation via parametric simplex approach". (with Wei, Y. and Fang, E.)
-
-- "Genotype-by-environment interactions analysis for heterogeneous quantile genetic effects on phenotypic variability". (with Wei, Y. and Ionita-Laza, I.)
-
 - "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
 
 ### Invited talks:
 
-- ICSA 2020 Applied Statistics Symposium, Houston, TX (05/2020)
+- ICSA 2020 Applied Statistics Symposium, Houston, TX (05/2020, cancelled due to COVID19)
 
 - Department of Statistics, Penn State University, University Park, PA (01/2020)
 
