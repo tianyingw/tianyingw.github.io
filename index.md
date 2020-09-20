@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tianying Wang
-subtitle: Postdoctoral Research Scientist, Department of Biostatistics, Columbia University
+subtitle: Assistant Professor, Center for Statistical Science, Tsinghua University
 use-site-title: true
 order: 1
 ---
@@ -9,11 +9,11 @@ order: 1
 
 
 ### Contact:
-[Department of Biostatistics](https://www.mailman.columbia.edu/become-student/departments/biostatistics)  
-[Columbia University](https://www.columbia.edu/)   
-722 West 168th St. NY, NY 10032   
+[Center for Statistical Science](http://www.stat.tsinghua.edu.cn/about/)  
+[Tsinghua University](https://www.tsinghua.edu.cn/)   
+Beijing, 100084, CHina   
 
-Email: tw2696@cumc.columbia.edu
+Email: tianyingw@tsinghua.edu.cn
 
 ### News:
 - **May 2020**: Won **[2020 IMS New Researcher Travel Award](https://imstat.org/2020/07/16/ims-announces-travel-award-winners-2020/)**.
