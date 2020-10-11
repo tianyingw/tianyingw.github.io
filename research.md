@@ -9,11 +9,14 @@ title: Research
 
 
 ### Current projects:
+
+- "Robust reference centile charts for left-truncated right-censored survival data" (with Wei, Y. and Zhang W.)
+
 - "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Ionita-Laza, I., Wang, Z., Weng, C. and Wei, Y.)
 
 - "An unified framework for heterogeneous transcriptome-wide association analysis". (with Ionita-Laza, I., Li, G., Weng, C. and Wei, Y.)
 
-- "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J., Ma Y. and Carroll, R. J.)
+- "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J.)
 
 ### Invited talks:
 
