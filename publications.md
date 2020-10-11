@@ -15,9 +15,7 @@ title: Publications
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235)
 
-- Delaigle, A., Hyndman, T., and **Wang, T.** (2019+). ["deconvolve-package: Deconvolution Tools for Measurement Error Problems."](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html)
-
-### Peer-reviewed:
+### Published:
 
 - **Wang, T.** and Asher, A. (2020). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://arxiv.org/abs/1909.07501) Statistics in Bioscience (Accepted)
 
@@ -37,6 +35,7 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 -  Yin, J., **Wang, T.**, and  Wang, W. (2017). ["Structure learning and parameter estimation on robust conditional graphical model".](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm) China Science Paper, 12(17): 1921-1929.
 
 
+- Delaigle, A., Hyndman, T., and **Wang, T.** ["deconvolve-package: Deconvolution Tools for Measurement Error Problems."](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html)
 
 
 
