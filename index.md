@@ -16,6 +16,9 @@ Beijing, 100084, China
 Email: tianyingw@tsinghua.edu.cn
 
 ### News:
+
+- **October 2020**: The manuscript **Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies** is accepted by the Statistics in Bioscience.
+
 - **May 2020**: Won **[2020 IMS New Researcher Travel Award](https://imstat.org/2020/07/16/ims-announces-travel-award-winners-2020/)**.
 
 - **March 2020**: Won competitive travel award of the **[ENAR 2020 Fostering Diversity in Biostatistics Workshop](https://www.enar.org/meetings/FosteringDiversity/)** (rescheduled to 2021 due to COVID-19).
