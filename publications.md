@@ -17,7 +17,7 @@ title: Publications
 
 ### Published:
 
-- **Wang, T.** and Asher, A. (2020). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) Statistics in Bioscience, 1-16. 
+- **Wang, T.** and Asher, A. (2020). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) Statistics in Biosciences, 1-16. 
 
 - Gaynanova, I. and **Wang, T.** (2019). ["Sparse quadratic classification rules via linear dimension reduction".](https://doi.org/10.1016/j.jmva.2018.09.011) Journal of Multivariate Analysis, 169, 278-299. 
 [R package: DAP](https://cran.r-project.org/web/packages/DAP/index.html)
