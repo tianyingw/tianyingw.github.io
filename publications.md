@@ -11,7 +11,7 @@ title: Publications
 
 ### Under review:
 
-- **Wang, T.**, Ionita-Laza and Wei, Y. (2019+). ["Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies".](https://arxiv.org/abs/1910.10102)
+- **Wang, T.**, Ionita-Laza and Wei, Y. (2019+). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations".](https://arxiv.org/abs/1910.10102)
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235)
 
