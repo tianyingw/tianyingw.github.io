@@ -22,6 +22,8 @@ title: Research
 
 - ICSA 2020 Applied Statistics Symposium, Houston, TX (12/2020)
 
+- 2020 Tsinghua Symposium on Statistics and Data Science for Young Scholars, Beijing, China (11/2020)
+
 - School of Statistics, Renmin University of China, Beijing, China (10/2020)
 
 - Department of Statistics, Penn State University, University Park, PA (01/2020)
