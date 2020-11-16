@@ -10,7 +10,7 @@ title: Research
 
 ### Current projects:
 
-- "Robust reference centile charts for left-truncated right-censored survival data" (with Wei, Y. and Zhang W.)
+- "Robust reference centile charts for censored survival data" (with Wei, Y. and Zhang W.)
 
 - "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Ionita-Laza, I., Wang, Z., Weng, C. and Wei, Y.)
 
