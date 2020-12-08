@@ -13,7 +13,7 @@ order: 1
 [Tsinghua University](https://www.tsinghua.edu.cn/)   
 Beijing, 100084, China   
 
-Email: tianyingw@tsinghua.edu.cn
+Email: tianyingw[at]tsinghua.edu.cn
 
 ### News:
 
