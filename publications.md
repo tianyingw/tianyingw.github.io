@@ -19,7 +19,7 @@ title: Publications
 
 - **Wang, T.** and Asher, A. (2020). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) Statistics in Biosciences, 1-16. 
 
-- Gaynanova, I. and **Wang, T.** (2019). ["Sparse quadratic classification rules via linear dimension reduction".](https://doi.org/10.1016/j.jmva.2018.09.011) Journal of Multivariate Analysis, 169, 278-299. 
+- Gaynanova, I. and **Wang, T.** (2019). ["Sparse quadratic classification rules via linear dimension reduction".](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6516858/) Journal of Multivariate Analysis, 169, 278-299. 
 [R package: DAP](https://cran.r-project.org/web/packages/DAP/index.html)
 
 - Blas Achic, B. *, **Wang, T.** * , Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. (2018). ["Categorizing a Continuous Predictor Subject to Measurement Error".](https://projecteuclid.org/euclid.ejs/1544518836) Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( * joint first authors)**. 
