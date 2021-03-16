@@ -7,6 +7,8 @@ title: Publications
 
 - **Wang, T.**, Ionita-Laza, I., Wang, Z., Weng, C. and Wei, Y. (2021+). "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". 
 
+- Ma, S., **Wang, T.** and Yan, J. (2021+). "Corrected Combined Estimating Equations in Fingerprinting".
+
 ### To be submitted:
 
 - **Wang, T.**, Ling, W., Wu, M. and Zhan, X. (2021+). "Testing microbiome association using integrated quantile regression models".
