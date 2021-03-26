@@ -17,6 +17,7 @@ title: Research
 - "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J.)
 
 ### Invited talks:
+- Department of Statistics, Universidade Federal de Pernambuco, Recife, Brazil (06/2021)
 
 - ICSA 2020 Applied Statistics Symposium, Houston, TX (12/2020)
 
