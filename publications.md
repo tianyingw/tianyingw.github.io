@@ -3,11 +3,15 @@ layout: page
 title: Publications
 ---
 
-### Working papers:
+### Working projects:
 
-- **Wang, T.**, Ionita-Laza, I., Wang, Z., and Wei, Y. (2021+). "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". 
+- "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Ionita-Laza, I. and Wei, Y.)
 
-- Ma, S., **Wang, T.** and Yan, J. (2021+). "Corrected Combined Estimating Equations in Fingerprinting".
+- "Corrected Combined Estimating Equations in Fingerprinting". (with Ma, S. and Yan, J.)
+
+- "Binomial regression with error corrupted response"." (with Zhan, X. and Jiang, R.)
+
+- "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J.)
 
 ### To be submitted:
 
