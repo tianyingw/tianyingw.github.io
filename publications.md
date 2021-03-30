@@ -9,7 +9,7 @@ title: Publications
 
 - "Corrected Combined Estimating Equations in Fingerprinting". (with Ma, S. and Yan, J.)
 
-- "Binomial regression with error corrupted response"." (with Zhan, X. and Jiang, R.)
+- "Binomial regression with error corrupted response". (with Zhan, X. and Jiang, R.)
 
 - "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J.)
 
