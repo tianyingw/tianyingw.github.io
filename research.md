@@ -8,14 +8,6 @@ title: Research
   In today’s era of large-scale data, I believe robust statistical learning methods are necessary and important to handle the data heteroscedasticity.  As a result, I focus on jointly analyzing different sources of data (for example, genetic data and electronic health records) and examining different quantiles or subgroups of the population (for example, people with different levels of continuous phenotypes/traits such as BMI). Combining different data sets leads to more powerful analysis, and examining different subgroups helps give us a more comprehensive view of the entire population, further contributing to more precise analysis of the genetic effect and supporting personalized precision medicine. 
 
 
-### Current projects:
-
-- "Binomial regression with error corrupted response"." (with Zhan, X.)
-
-- "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Ionita-Laza, I., Wang, Z., Weng, C. and Wei, Y.)
-
-- "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J.)
-
 ### Invited talks:
 - Department of Statistics, Universidade Federal de Pernambuco, Recife, Brazil (06/2021)
 
