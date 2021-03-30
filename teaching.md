@@ -6,7 +6,7 @@ title: Teaching
 ## Courses taught at Tsinghua University
 ------------------------------------------------------
 
-- **Multivariate Statistical Analysis (Spring 2021)**
+### Multivariate Statistical Analysis (Spring 2021)
   
   - Matrix algebra, multivariate normal distribution, principal component analysis, discriminant analysis, factor analysis, canonical corelation analysis
   - two undergraduate classes (each calss size: 90)
