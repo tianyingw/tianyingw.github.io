@@ -3,11 +3,11 @@ layout: page
 title: Teaching
 ---
 
-## Courses at Tsinghua University
+## Courses taught at Tsinghua University
 ------------------------------------------------------
 ### Instructor (Spring 2021)
 
-- **Multivariate Analysis**
+- **Multivariate Statistical Analysis**
   
   - Matrix algebra, multivariate normal distribution, principal component analysis, discriminant analysis, factor analysis, canonical corelation analysis
   - two undergraduate classes (each calss size: 90)
