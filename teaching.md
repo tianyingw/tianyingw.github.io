@@ -10,7 +10,7 @@ title: Teaching
 - **Multivariate Analysis**
   
   - Matrix algebra, multivariate normal distribution, principal component analysis, discriminant analysis, factor analysis, canonical corelation analysis
-  - two undegraduate classes (each calss size: 90)
+  - two undergraduate classes (each calss size: 90)
 
 ## Courses at Texas A&M University
 ------------------------------------------------------
