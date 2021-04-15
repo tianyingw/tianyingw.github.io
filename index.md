@@ -17,7 +17,7 @@ Email: tianyingw [at] tsinghua.edu.cn
 
 ### News:
 
-- **October 2020**: The paper [**Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies**](https://doi.org/10.1007/s12561-020-09298-9) is published on Statistics in Biosciences.
+- **October 2020**: The paper [**Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies**](https://doi.org/10.1007/s12561-020-09298-9) is accepted by Statistics in Biosciences.
 
 - **May 2020**: Won **[2020 IMS New Researcher Travel Award](https://imstat.org/2020/07/16/ims-announces-travel-award-winners-2020/)**.
 
