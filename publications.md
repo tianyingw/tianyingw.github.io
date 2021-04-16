@@ -23,9 +23,9 @@ title: Publications
 
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M. and Zhan, X. (2021+). "Testing microbiome association using integrated quantile regression models".
 
-- **Wang, T.**, Ionita-Laza and Wei, Y. (2019+). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations".]
+- **Wang, T.**, Ionita-Laza and Wei, Y. (2019+). "Integrated Quantile RAnk Test (iQRAT) for gene-level associations".
 
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+). ["Gaussian Processes with Errors in Variables: theory and computation".]
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+). "Gaussian Processes with Errors in Variables: theory and computation".
 
 ### Published:
 
