@@ -11,6 +11,8 @@ title: Research
 ### Invited talks:
 - Department of Statistics, Universidade Federal de Pernambuco, Recife, Brazil (06/2021)
 
+- Statistics and Data Science Symposium, Zhejiang University, Hangzhou, Beijing (06/2021)
+
 - ICSA 2020 Applied Statistics Symposium, Houston, TX (12/2020)
 
 - 2020 Tsinghua Symposium on Statistics and Data Science for Young Scholars, Beijing, China (11/2020)
