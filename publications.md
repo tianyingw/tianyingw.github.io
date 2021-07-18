@@ -3,9 +3,9 @@ layout: page
 title: Publications
 ---
 
-%### Working projects:
+~### Working projects:
 
-%- "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Ionita-Laza, I. and Wei, Y.)
+~- "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Ionita-Laza, I. and Wei, Y.)
 
 %- "Corrected Combined Estimating Equations in Fingerprinting". (with Ma, S. and Yan, J.)
 
