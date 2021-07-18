@@ -3,21 +3,21 @@ layout: page
 title: Publications
 ---
 
-### Working projects:
+%### Working projects:
 
-- "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Ionita-Laza, I. and Wei, Y.)
+%- "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Ionita-Laza, I. and Wei, Y.)
 
-- "Corrected Combined Estimating Equations in Fingerprinting". (with Ma, S. and Yan, J.)
+%- "Corrected Combined Estimating Equations in Fingerprinting". (with Ma, S. and Yan, J.)
 
-- "Binomial regression with error corrupted response". (with Zhan, X. and Jiang, R.)
+%- "Binomial regression with error corrupted response". (with Zhan, X. and Jiang, R.)
 
-- "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J.)
+%- "A Flexible Semiparametric Model for Complex Gene-environment Interactions via Nonparametric Likelihood Estimation". (with Liu, J.)
 
-### To be submitted:
+%### To be submitted:
 
-- **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2021+). "An unified framework for heterogeneous transcriptome-wide association analysis". 
+%- **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2021+). "An unified framework for heterogeneous transcriptome-wide association analysis". 
 
-- **Wang, T.**, Wei, Y. and Zhang, W. (2021+). "On the centile reference chart for censored natural history studies".
+%- **Wang, T.**, Wei, Y. and Zhang, W. (2021+). "On the centile reference chart for censored natural history studies".
 
 ### Under review:
 
