@@ -9,7 +9,7 @@ title: Publications
 
 - **Wang, T.**, Wei, Y. and Zhang, W. (2021+). "On the centile reference chart for censored natural history studies".
 
-- Ma, S., **Wang, T.** and Yan, Y. (2021+) "Corrected Combined Estimating Equations in Fingerprinting". 
+- Ma, S., **Wang, T.** and Yan, Y. (2021+) "Corrected combined estimating equations in fingerprinting". 
 
 
 ### Under review:
