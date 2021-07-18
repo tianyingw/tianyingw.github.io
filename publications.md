@@ -7,7 +7,7 @@ title: Publications
 
 - **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2021+). "An unified framework for heterogeneous transcriptome-wide association analysis". 
 
-- **Wang, T.**, Wei, Y. and Zhang, W. (2021+). "On the centile reference chart for censored natural history studies".
+- **Wang, T.**, Wei, Y. and Zhang, W. (2021+). "Censored centile reference chart for rare disease drug development".
 
 - Ma, S., **Wang, T.** and Yan, J. (2021+) "Corrected combined estimating equations in fingerprinting". 
 
