@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-### Working projects:
+### Working papers:
 
 - **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2021+). "An unified framework for heterogeneous transcriptome-wide association analysis". 
 
