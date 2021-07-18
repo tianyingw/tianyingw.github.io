@@ -11,8 +11,6 @@ title: Publications
 
 - Ma, S., **Wang, T.** and Yan, Y. (2021+) "Corrected Combined Estimating Equations in Fingerprinting". 
 
-- "Robust Integrated Quantile Rank Score Test for dynamic heterogeneous genetic effect in longitudinal electronic health records analysis". (with Ionita-Laza, I. and Wei, Y.)
-
 
 ### Under review:
 
