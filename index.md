@@ -16,13 +16,13 @@ Beijing, 100084, China
 Email: tianyingw [at] tsinghua.edu.cn
 
 ### News:
-- **September 2021**: The manuscript on **Testing microbiome association using integrated quantile regression models** is accepted by Bioinformatics.
+- **September 2021**: The manuscript on **Testing microbiome association using integrated quantile regression models** is accepted by _Bioinformatics_.
 
-- **September 2021**: The manuscript on **Integrated Quantile RAnk Test (iQRAT) for gene-level associations** is accepted by the annals of applied statistics.
+- **September 2021**: The manuscript on **Integrated Quantile RAnk Test (iQRAT) for gene-level associations** is accepted by _the annals of applied statistics_.
 
-- **August 2021**: Received a grant from National Natural Science Foundation of China (NSFC) on the topic: "Integrated quantile regression model for high-dimensional heterogeneous data". 
+- **August 2021**: Received a grant from _National Natural Science Foundation of China (NSFC)_ on the topic: "Integrated quantile regression model for high-dimensional heterogeneous data". 
 
-- **October 2020**: The paper [**Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies**](https://doi.org/10.1007/s12561-020-09298-9) is accepted by Statistics in Biosciences.
+- **October 2020**: The paper [**Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies**](https://doi.org/10.1007/s12561-020-09298-9) is accepted by _Statistics in Biosciences_.
 
 - **May 2020**: Won **[2020 IMS New Researcher Travel Award](https://imstat.org/2020/07/16/ims-announces-travel-award-winners-2020/)**.
 
