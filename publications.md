@@ -11,6 +11,7 @@ title: Publications
 
 - Ma, S., **Wang, T.** and Yan, J. (2021+) "Corrected combined estimating equations in fingerprinting". 
 
+- Lau, A., **Wang, T.** and Yan, J. (2021+) "Extreme value modeling with errors-in-covariates".
 
 ### Under review:
 
