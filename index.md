@@ -20,7 +20,7 @@ Email: tianyingw [at] tsinghua.edu.cn
 
 - **September 2021**: The manuscript on [**Integrated Quantile RAnk Test (iQRAT) for gene-level associations**](https://arxiv.org/abs/1910.10102) is accepted by _The Annals of Applied Statistics_.
 
-- **August 2021**: Received a grant from _National Natural Science Foundation of China (NSFC)_ on the topic: "Integrated quantile regression model for high-dimensional heterogeneous data". 
+- **August 2021**: Received a grant from _National Natural Science Foundation of China (NSFC)_ on the topic: **"Integrated quantile regression model for high-dimensional heterogeneous data"**. 
 
 - **October 2020**: The paper [**Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies**](https://doi.org/10.1007/s12561-020-09298-9) is accepted by _Statistics in Biosciences_.
 
