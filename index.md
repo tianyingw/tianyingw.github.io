@@ -18,7 +18,7 @@ Email: tianyingw [at] tsinghua.edu.cn
 ### News:
 - **September 2021**: The manuscript on [**Testing microbiome association using integrated quantile regression models**]() is accepted by _Bioinformatics_.
 
-- **September 2021**: The manuscript on [**Integrated Quantile RAnk Test (iQRAT) for gene-level associations**]() is accepted by _the annals of applied statistics_.
+- **September 2021**: The manuscript on [**Integrated Quantile RAnk Test (iQRAT) for gene-level associations**](https://arxiv.org/abs/1910.10102) is accepted by _the annals of applied statistics_.
 
 - **August 2021**: Received a grant from _National Natural Science Foundation of China (NSFC)_ on the topic: "Integrated quantile regression model for high-dimensional heterogeneous data". 
 
