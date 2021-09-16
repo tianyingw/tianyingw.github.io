@@ -19,9 +19,9 @@ title: Publications
 
 ### Published:
 
-- **Wang, T.**, Ling, W., Plantinga, A., Wu, M. and Zhan, X. (2021). "Testing microbiome association using integrated quantile regression models". _Bioinformatics._ (accepted).
+- **Wang, T.**, Ling, W., Plantinga, A., Wu, M. and Zhan, X. (2021). ["Testing microbiome association using integrated quantile regression models"](). _Bioinformatics._ (accepted).
 
-- **Wang, T.**, Ionita-Laza and Wei, Y. (2021). "Integrated Quantile RAnk Test (iQRAT) for gene-level associations". _The annals of applied statistics._ (accepted).
+- **Wang, T.**, Ionita-Laza and Wei, Y. (2021). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://arxiv.org/abs/1910.10102). _The annals of applied statistics._ (accepted).
 
 - **Wang, T.** and Asher, A. (2020). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) _Statistics in Biosciences_, 1-16. 
 
