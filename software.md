@@ -20,3 +20,5 @@ title: Software
 - _Contributed:_
 
   - [deconvolve](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html): The R package deconvolve provides tools for performing non-parametric deconvolution on measurement error problems. It contains functions for finding bandwidths, deconvolved densities and non-parametric regression estimates.
+
+  - [MiRKAT](https://cran.r-project.org/web/packages/MiRKAT/index.html): Test for overall association between microbiome composition data and phenotypes via phylogenetic kernels. It includes method from [Testing microbiome association using integrated quantile regression models (2021)](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494).
