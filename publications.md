@@ -15,7 +15,7 @@ title: Publications
 
 ### Under review:
 
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2019+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235)
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2021+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235)
 
 ### Published:
 
