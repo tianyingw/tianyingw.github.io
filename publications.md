@@ -23,7 +23,7 @@ title: Publications
 
 - **Wang, T.**, Ionita-Laza and Wei, Y. (2021). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://arxiv.org/abs/1910.10102). _The Annals of Applied Statistics._ (accepted).
 
-- **Wang, T.** and Asher, A. (2020). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) _Statistics in Biosciences_, 1-16. 
+- **Wang, T.** and Asher, A. (2021). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) _Statistics in Biosciences_, 13, 386–401. 
 
 - Gaynanova, I. and **Wang, T.** (2019). ["Sparse quadratic classification rules via linear dimension reduction".](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6516858/) _Journal of Multivariate Analysis_, 169, 278-299. 
 [R package: DAP](https://cran.r-project.org/web/packages/DAP/index.html)
