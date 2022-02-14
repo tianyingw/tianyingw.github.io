@@ -5,23 +5,25 @@ title: Publications
 
 ### Working papers:
 
-- **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2021+). "An unified framework for heterogeneous transcriptome-wide association analysis". 
+- **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2022+). "An unified framework for heterogeneous transcriptome-wide association analysis". 
 
-- **Wang, T.**, Wei, Y. and Zhang, W. (2021+). "Censored centile reference chart for rare disease drug development".
+- **Wang, T.**, Wei, Y. and Zhang, W. (2022+). "Censored centile reference chart for rare disease drug development".
 
-- Ma, S., **Wang, T.** and Yan, J. (2021+) "Corrected combined estimating equations in fingerprinting". 
+- Ma, S., **Wang, T.**, Yan, J. and Zhang, X. (2022+) "Corrected combined estimating equations in fingerprinting". 
 
-- Lau, A., **Wang, T.** and Yan, J. (2021+) "Extreme value modeling with errors-in-covariates".
+- Lau, A., **Wang, T.**, Yan, J. and Zhang, X. (2022+) "Extreme value modeling with errors-in-covariates".
 
 ### Under review:
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2021+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235)
 
+- Zhang, J., Yu, D. and **Wang, T.** (2022+). "Calibrated Privacy-preserving Regression Analysis".
+
 ### Published:
 
-- **Wang, T.**, Ling, W., Plantinga, A., Wu, M. and Zhan, X. (2021). ["Testing microbiome association using integrated quantile regression models"](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494). _Bioinformatics_, 38(2), 419-425. [R package](https://cran.r-project.org/web/packages/MiRKAT/index.html) 
-
 - **Wang, T.**, Ionita-Laza and Wei, Y. (2021). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://arxiv.org/abs/1910.10102). _The Annals of Applied Statistics._ (accepted).
+
+- **Wang, T.**, Ling, W., Plantinga, A., Wu, M. and Zhan, X. (2022). ["Testing microbiome association using integrated quantile regression models"](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494). _Bioinformatics_, 38(2), 419-425. [R package](https://cran.r-project.org/web/packages/MiRKAT/index.html) 
 
 - **Wang, T.** and Asher, A. (2021). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) _Statistics in Biosciences_, 13, 386–401. 
 
