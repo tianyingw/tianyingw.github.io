@@ -27,6 +27,8 @@ title: Publications
 
 - **Wang, T.** and Asher, A. (2021). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) _Statistics in Biosciences_, 13, 386–401. 
 
+- Plantinga, A., Wilson, N., Zheng, H., **Wang, T.**, Zhan, Z., Wu, M., Zhao, N., and Chen, J. (2021) ["MiRKAT: Microbiome Regression-Based Analysis Tests"](https://CRAN.R-project.org/package=MiRKAT)
+
 - Gaynanova, I. and **Wang, T.** (2019). ["Sparse quadratic classification rules via linear dimension reduction".](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6516858/) _Journal of Multivariate Analysis_, 169, 278-299. 
 [R package: DAP](https://cran.r-project.org/web/packages/DAP/index.html)
 
@@ -44,6 +46,8 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 
 - Delaigle, A., Hyndman, T., and **Wang, T.** ["deconvolve-package: Deconvolution Tools for Measurement Error Problems."](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html)
+
+
 
 
 
