@@ -15,13 +15,13 @@ title: Publications
 
 ### Under review:
 
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2021+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235)
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2022+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235)
 
 - Zhang, J., Yu, D. and **Wang, T.** (2022+). "Calibrated Privacy-preserving Regression Analysis".
 
 ### Published:
 
-- **Wang, T.**, Ionita-Laza and Wei, Y. (2021). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://arxiv.org/abs/1910.10102). _The Annals of Applied Statistics._ (accepted).
+- **Wang, T.**, Ionita-Laza and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://arxiv.org/abs/1910.10102). _The Annals of Applied Statistics._ (accepted).
 
 - Houghton LC, Wei Y, **Wang T**, Goldberg M, Paniagua-Avila A, Sweeden RL, Bradbury A, Daly M, Schwartz LA, Keegan T, John EM, Knight JA, Andrulis IL, Buys SS, Frost CJ, O'Toole K, White ML, Chung WK, Terry MB. (2022). ["Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study"](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyac021/6528416). _International Journal of Epidemiology_, 2022 Feb 14:dyac021. doi: 10.1093/ije/dyac021. PMID: 35157067.
 
