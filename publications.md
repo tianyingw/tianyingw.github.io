@@ -3,16 +3,6 @@ layout: page
 title: Publications
 ---
 
-### Working papers:
-
-- **Wang, T.**, Ionita-Laza, I. and Wei, Y. (2022+). "An unified framework for heterogeneous transcriptome-wide association analysis". 
-
-- **Wang, T.**, Wei, Y. and Zhang, W. (2022+). "Censored centile reference chart for rare disease drug development".
-
-- Ma, S., **Wang, T.**, Yan, J. and Zhang, X. (2022+) "Corrected combined estimating equations in fingerprinting". 
-
-- Lau, A., **Wang, T.**, Yan, J. and Zhang, X. (2022+) "Extreme value modeling with errors-in-covariates".
-
 ### Under review:
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2022+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235)
