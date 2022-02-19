@@ -3,12 +3,6 @@ layout: page
 title: Publications
 ---
 
-### Under review:
-
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2022+). ["Gaussian Processes with Errors in Variables: theory and computation".](https://arxiv.org/abs/1910.06235)
-
-- Zhang, J., Yu, D. and **Wang, T.** (2022+). "Calibrated Privacy-preserving Regression Analysis".
-
 ### Published:
 
 - **Wang, T.**, Ionita-Laza and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://arxiv.org/abs/1910.10102). _The Annals of Applied Statistics._ (accepted).
