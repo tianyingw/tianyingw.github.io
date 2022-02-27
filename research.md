@@ -10,6 +10,12 @@ title: Research
 
 ### Invited talks:
 
+- The 12th ICSA International Conference, Hong Kong, China (December 2022, incoming)
+
+- International Chinese Statistical Association (ICSA) China Conference, Xian, China (July 2022, incoming)
+
+- The 5th International Conference on Econometrics and Statistics (EcoSta 2022), Kyoto, Japan (June 2022, incoming)
+
 - Department of Statistics, Universidade Federal de Pernambuco, Recife, Brazil (06/2021)
 
 - Statistics and Data Science Symposium, Zhejiang University, Hangzhou, China (06/2021)
