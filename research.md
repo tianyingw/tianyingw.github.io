@@ -10,39 +10,39 @@ title: Research
 
 ### Invited talks:
 
-- The 12th ICSA International Conference, Hong Kong, China (December 2022, incoming)
+- The 12th ICSA International Conference, Hong Kong (December 2022, incoming)
 
-- International Chinese Statistical Association (ICSA) China Conference, Xian, China (July 2022, incoming)
+- International Chinese Statistical Association (ICSA) China Conference, Xi'an (July 2022, incoming)
 
-- The 5th International Conference on Econometrics and Statistics (EcoSta 2022), Kyoto, Japan (June 2022, incoming)
+- The 5th International Conference on Econometrics and Statistics (EcoSta 2022), Kyoto (June 2022, incoming)
 
-- Department of Statistics, Universidade Federal de Pernambuco, Recife, Brazil (06/2021)
+- Department of Statistics, Universidade Federal de Pernambuco, Recife (06/2021)
 
-- Statistics and Data Science Symposium, Zhejiang University, Hangzhou, China (06/2021)
+- Statistics and Data Science Symposium, Zhejiang University, Hangzhou (06/2021)
 
 - ICSA 2020 Applied Statistics Symposium, Houston, TX (12/2020)
 
-- 2020 Tsinghua Symposium on Statistics and Data Science for Young Scholars, Beijing, China (11/2020)
+- 2020 Tsinghua Symposium on Statistics and Data Science for Young Scholars, Beijing (11/2020)
 
-- School of Statistics, Renmin University of China, Beijing, China (10/2020)
+- School of Statistics, Renmin University of China, Beijing (10/2020)
 
 - Department of Statistics, Penn State University, University Park, PA (01/2020)
 
-- Center for Statistical Science, Tsinghua University, Beijing, China (01/2020)
+- Center for Statistical Science, Tsinghua University, Beijing (01/2020)
 
-- 2020 Global Scientist Interdisciplinary Forum, Shenzhen, China (01/2020)
+- 2020 Global Scientist Interdisciplinary Forum, Shenzhen (01/2020)
 
 - The Biostatistics Center, The George Washington University, MD (10/2019)
 
 - Department of Statistics, University of Connecticut, Storrs, CT (09/2019)
 
-- Center for Statistical Science, Tsinghua University, Beijing, China (06/2019)
+- Center for Statistical Science, Tsinghua University, Beijing (06/2019)
 
-- The Institute of Statistics and Big Data, Renmin University of China, Beijing, China (05/2019)
+- The Institute of Statistics and Big Data, Renmin University of China, Beijing (05/2019)
 
-- 2019 Hangzhou International Conference on Frontiers of Data Science, Hangzhou, China (05/2019)
+- 2019 Hangzhou International Conference on Frontiers of Data Science, Hangzhou (05/2019)
 
-- Topic-contributed session, Joint Statistical Meetings, Vancouver, Canada (08/2018)
+- Topic-contributed session, Joint Statistical Meetings, Vancouver (08/2018)
 
 - Data-Driven Model Reduction, Scientific Frontiers, and Applications Workshop, College station, TX (05/2018)
 
