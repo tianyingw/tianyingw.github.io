@@ -1,6 +1,17 @@
 ---
 layout: page
-title: Quantile Transcriptome-wide Association Analysis
+title: Quantile TWAS
 ---
 
-- **Wang, T.**, Ionita-Laza and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://arxiv.org/abs/1910.10102). _The Annals of Applied Statistics._ (accepted).
+### Quantile Transcriptome-Wide Association Analysis
+
+- Methodology
+
+- Software
+
+- Models
+
+- Results
+
+  - Ten psychiatric/disorder diseases for the manuscript ["A Unified Quantile Framework reveals nonlinear heterogeneous transcriptome-wide associations"]
+  - 797 UK Biobank traits
