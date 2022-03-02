@@ -9,13 +9,18 @@ title: Quantile TWAS
 
 
 - Methodology
-  Please see the manuscript ["A Unified Quantile Framework reveals nonlinear heterogeneous transcriptome-wide associations"]() for more details.
+
+  - Please see the manuscript ["A Unified Quantile Framework reveals nonlinear heterogeneous transcriptome-wide associations"]() for more details.
 
 - Software
 
+  The R package is on Github: ["QTWAS"]()
+
 - Models
+
+  Download all the QTWAS models for 49 tissues in GTEx v8: ["here"]()
 
 - Results
 
-  - Ten psychiatric/disorder diseases discussed in the manuscript ["A Unified Quantile Framework reveals nonlinear heterogeneous transcriptome-wide associations"]()
+  - Ten psychiatric/disorder diseases 
   - 797 UK Biobank traits
