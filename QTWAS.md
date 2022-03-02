@@ -23,6 +23,12 @@ title: Quantile TWAS
 - Results
 
   - Ten psychiatric/disorder diseases 
+    
+    - Manhattan plots
+    - QQ plots
+    
   - 797 UK Biobank traits
+    
+    
 
 - References
