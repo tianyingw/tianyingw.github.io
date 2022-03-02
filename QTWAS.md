@@ -5,7 +5,7 @@ title: Quantile TWAS
 
 ### Quantile Transcriptome-Wide Association Analysis
 
-<img align="right" src="/img/QTWAS_flowchart.jpeg" alt="" width="300">
+<img align="right" src="/img/QTWAS_flowchart.jpg" alt="" width="300">
 
 - Methodology
 
