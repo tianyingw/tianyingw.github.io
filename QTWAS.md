@@ -24,9 +24,9 @@ title: QTWAS
 
 #### Ten psychiatric/disorder diseases 
     
-  - [Manhattan plots]()
+  - [Manhattan plots](https://www.dropbox.com/sh/ksva8yexsud9on6/AADnj7RcLC0TH4xvLlVea_ZHa?dl=0)
     
-  - [QQ plots]()
+  - [QQ plots](https://www.dropbox.com/sh/omgvs4hxzlcpik8/AABqMYBiFGSzhqwFvvY5dPjZa?dl=0)
     
   - [p values for QTWAS for all genes per tissues]()
     
