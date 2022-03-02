@@ -14,21 +14,24 @@ title: Quantile TWAS
 
 - Software
 
-  The R package is on Github: ["QTWAS"]()
+  The R package is on Github: [_QTWAS_]()
 
 - Models
 
-  Download all the QTWAS models for 49 tissues in GTEx v8: ["here"]()
+  Download all the QTWAS models for 49 tissues in GTEx v8 [_here_]()
 
 - Results
 
   - Ten psychiatric/disorder diseases 
     
     - Manhattan plots
+    
     - QQ plots
+    
+    - p values for QTWAS for all genes per tissues
     
   - 797 UK Biobank traits
     
-    
+    - p values for QTWAS for all genes per tissues
 
 - References
