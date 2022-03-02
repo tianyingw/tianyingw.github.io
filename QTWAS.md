@@ -24,14 +24,14 @@ title: Quantile TWAS
 
   ### Ten psychiatric/disorder diseases 
     
-    - Manhattan plots
+  - Manhattan plots
     
-    - QQ plots
+  - QQ plots
     
-    - p values for QTWAS for all genes per tissues
+  - p values for QTWAS for all genes per tissues
     
   ### 797 UK Biobank traits
     
-    - p values for QTWAS for all genes per tissues
+  - p values for QTWAS for all genes per tissues
 
 ### References
