@@ -16,5 +16,5 @@ title: Quantile TWAS
 
 - Results
 
-  - Ten psychiatric/disorder diseases for the manuscript ["A Unified Quantile Framework reveals nonlinear heterogeneous transcriptome-wide associations"]
+  - Ten psychiatric/disorder diseases for the manuscript ["A Unified Quantile Framework reveals nonlinear heterogeneous transcriptome-wide associations"]()
   - 797 UK Biobank traits
