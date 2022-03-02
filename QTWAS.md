@@ -5,6 +5,8 @@ title: Quantile TWAS
 
 ### Quantile Transcriptome-Wide Association Analysis
 
+<img align="right" src="/img/file-1.jpeg" alt="" width="300">
+
 - Methodology
 
 - Software
