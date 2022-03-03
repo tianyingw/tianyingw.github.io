@@ -31,17 +31,17 @@ We provide pre-trained QTWAS models per gene for 49 tissues in GTEx v8. _R score
     
   Here we provide QTWAS results on the summary statistics from ten GWAS studies on brain disorders, including five neuropsychiatric traits: schizophrenia (SCZ[^fn1]), attention-deficit/hyperactivity disorder (ADHD)[^fn2], bipolar disorder (BD[^fn3]), autism spectrum disorder (ASD[^fn4]) and major depressive disorder (MDD[^fn5]); and four neurodegenerative traits: Alzheimer's disease (AD\_Kunkle[^fn6] and AD\_Jansen[^fn7]), Parkinson's disease (PD[^fn8]), multiple sclerosis (MS[^fn9]) and amyotrophic lateral sclerosis (ALS[^fn10]). 
 
-  - [Manhattan plots](https://www.dropbox.com/sh/ksva8yexsud9on6/AADnj7RcLC0TH4xvLlVea_ZHa?dl=0)
+  - [Manhattan plots](https://www.dropbox.com/sh/ksva8yexsud9on6/AADnj7RcLC0TH4xvLlVea_ZHa?dl=0) per triat (multi-tissue results based on 13 brain tissues)
     
-  - [QQ plots](https://www.dropbox.com/sh/omgvs4hxzlcpik8/AABqMYBiFGSzhqwFvvY5dPjZa?dl=0)
+  - [QQ plots](https://www.dropbox.com/sh/omgvs4hxzlcpik8/AABqMYBiFGSzhqwFvvY5dPjZa?dl=0) per trait for all 49 tissues
   
-  - [Significant genes per tissue per trait](https://www.dropbox.com/sh/qd21drdjdcz3t5h/AADGM3JwZ6SkkG9syIJDaXHIa?dl=0)
+  - [Significant genes per tissue per trait](https://www.dropbox.com/sh/qd21drdjdcz3t5h/AADGM3JwZ6SkkG9syIJDaXHIa?dl=0) per trait for all 49 tissues
     
-  - [QTWAS p values for all genes per tissues]()
+  - [QTWAS p values for all genes per tissues]() per trait for all 49 tissues
     
 #### 797 UK Biobank traits
     
-  - [QTWAS p values for all genes per tissues]()
+  - [QTWAS p values for all genes per tissues]() per trait for all 49 tissues
 
 ### References
 [^fn1]: Pardin ̃as, A. F., Holmans, P., Pocklington, A. J., Escott-Price, V., Ripke, S., Carrera, N., Legge, S. E., Bishop, S., Cameron, D., Hamshere, M. L., et al. (2018). Common schizophrenia alleles are enriched in mutation-intolerant genes and in regions under strong background selection. Nature genetics, 50, 381–389.
