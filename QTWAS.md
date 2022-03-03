@@ -40,7 +40,9 @@ We provide pre-trained QTWAS models per gene for 49 tissues in GTEx v8. _R score
   - [QTWAS p values for all genes]() per tissues per trait for all 49 tissues
     
 #### 797 UK Biobank traits
-    
+   
+   Wealso provide QTWAS results on [797 UK Biobank  continuous phenotypes](https://pan.ukbb.broadinstitute.org) with their summary statistics on 28 million imputed variants. We provide phenome-wide results for genes, genome-wide gene-based results for each trait with respect to all 49 tissues separately.
+   
   - [QTWAS p values for all genes]() per tissues per trait for all 49 tissues
 
 ### References
