@@ -15,7 +15,7 @@ bibliography: QTWAS.bib
 
 ### Software
 
-  We developed an R package [_QTWAS_]() for training gene expression model on based on GTEx data. Please see the Github page for more details.
+  We developed an R package [_QTWAS_](https://github.com/tianyingw/QTWAS) for training gene expression model on based on GTEx data. Please see the Github page for more details.
   
 
 ### Models
