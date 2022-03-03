@@ -32,7 +32,7 @@ We provide pre-trained QTWAS models per gene for 49 tissues in GTEx v8. _R score
     
   - [QQ plots](https://www.dropbox.com/sh/omgvs4hxzlcpik8/AABqMYBiFGSzhqwFvvY5dPjZa?dl=0)
   
-  - [Significant genes per tissue per trait]()
+  - [Significant genes per tissue per trait](https://www.dropbox.com/sh/qd21drdjdcz3t5h/AADGM3JwZ6SkkG9syIJDaXHIa?dl=0)
     
   - [QTWAS p values for all genes per tissues]()
     
