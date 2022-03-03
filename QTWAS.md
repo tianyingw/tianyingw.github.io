@@ -31,11 +31,13 @@ We provide pre-trained QTWAS models per gene for 49 tissues in GTEx v8. _R score
   - [Manhattan plots](https://www.dropbox.com/sh/ksva8yexsud9on6/AADnj7RcLC0TH4xvLlVea_ZHa?dl=0)
     
   - [QQ plots](https://www.dropbox.com/sh/omgvs4hxzlcpik8/AABqMYBiFGSzhqwFvvY5dPjZa?dl=0)
+  
+  - [Significant genes per tissue per trait]()
     
-  - [p values for QTWAS for all genes per tissues]()
+  - [QTWAS p values for all genes per tissues]()
     
 #### 797 UK Biobank traits
     
-  - [p values for QTWAS for all genes per tissues]()
+  - [QTWAS p values for all genes per tissues]()
 
 ### References
