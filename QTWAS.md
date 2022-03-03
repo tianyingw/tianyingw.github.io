@@ -29,7 +29,7 @@ We provide pre-trained QTWAS models per gene for 49 tissues in GTEx v8. _R score
 
 #### Ten psychiatric/disorder diseases 
     
-  We perform QTWAS on the summary statistics from ten GWAS studies on brain disorders, including five neuropsychiatric traits: schizophrenia  (SCZ, from [^fn1] \cite{pardinas2018common}), attention-deficit/hyperactivity disorder (ADHD from \cite{demontis2019discovery}), bipolar disorder (BD, from @stahl2019genome), autism spectrum disorder (ASD, from \cite{grove2019identification}) and major depressive disorder (MDD, from \cite{howard2019genome}); and four neurodegenerative traits: Alzheimer's disease (AD\_Kunkle from  \cite{kunkle2019genetic} and AD\_Jansen from \cite{jansen2019genome}), Parkinson's disease (PD, from \cite{nalls2019identification}), multiple sclerosis (MS, from \cite{andlauer2016novel}) and amyotrophic lateral sclerosis (ALS, from \cite{van2016genome}). Sample information for those studies is summarized in the Appendix (Table \ref{tab:gwas}). 
+  We perform QTWAS on the summary statistics from ten GWAS studies on brain disorders, including five neuropsychiatric traits: schizophrenia[^fn1]   (SCZ\cite{pardinas2018common}), attention-deficit/hyperactivity disorder[^fn2]  (ADHD from \cite{demontis2019discovery}), bipolar disorder (BD, from @stahl2019genome), autism spectrum disorder (ASD, from \cite{grove2019identification}) and major depressive disorder (MDD, from \cite{howard2019genome}); and four neurodegenerative traits: Alzheimer's disease (AD\_Kunkle from  \cite{kunkle2019genetic} and AD\_Jansen from \cite{jansen2019genome}), Parkinson's disease (PD, from \cite{nalls2019identification}), multiple sclerosis (MS, from \cite{andlauer2016novel}) and amyotrophic lateral sclerosis (ALS, from \cite{van2016genome}). Sample information for those studies is summarized in the Appendix (Table \ref{tab:gwas}). 
 
   - [Manhattan plots](https://www.dropbox.com/sh/ksva8yexsud9on6/AADnj7RcLC0TH4xvLlVea_ZHa?dl=0)
     
@@ -44,4 +44,5 @@ We provide pre-trained QTWAS models per gene for 49 tissues in GTEx v8. _R score
   - [QTWAS p values for all genes per tissues]()
 
 ### References
-[^fn1]: SCZ paper
+[^fn1]: Pardin ̃as, A. F., Holmans, P., Pocklington, A. J., Escott-Price, V., Ripke, S., Carrera, N., Legge, S. E., Bishop, S., Cameron, D., Hamshere, M. L., et al. (2018). Common schizophrenia alleles are enriched in mutation-intolerant genes and in regions under strong background selection. Nature genetics, 50, 381–389.
+
