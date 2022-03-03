@@ -1,6 +1,7 @@
 ---
 layout: page
 title: QTWAS
+bibliography: QTWAS.bib
 ---
 
 ## A Unified Quantile Framework for Transcriptome-Wide Association Analysis
