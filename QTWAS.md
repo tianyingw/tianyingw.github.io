@@ -15,11 +15,12 @@ bibliography: QTWAS.bib
 
 ### Software
 
-  The R package is on Github: [_QTWAS_]()
+  We developed an R package [_QTWAS_]() for training gene expression model on based on GTEx data. Please see the Github page for more details.
+  
 
 ### Models
 
-We provide pre-trained QTWAS models per gene for 49 tissues in GTEx v8. _R scores_ are also provided for each model.
+We provide pre-trained QTWAS models per gene for 49 tissues in [GTEx v8](https://gtexportal.org/home/). _R scores_ for evaluating imputation accuracy are also provided for each model.
 
   - Download all the QTWAS models [_here_]()
   
@@ -29,21 +30,21 @@ We provide pre-trained QTWAS models per gene for 49 tissues in GTEx v8. _R score
 
 #### Ten psychiatric/disorder diseases 
     
-  Here we provide QTWAS results on the summary statistics from ten GWAS studies on brain disorders, including five neuropsychiatric traits: schizophrenia (SCZ[^fn1]), attention-deficit/hyperactivity disorder (ADHD)[^fn2], bipolar disorder (BD[^fn3]), autism spectrum disorder (ASD[^fn4]) and major depressive disorder (MDD[^fn5]); and four neurodegenerative traits: Alzheimer's disease (AD\_Kunkle[^fn6] and AD\_Jansen[^fn7]), Parkinson's disease (PD[^fn8]), multiple sclerosis (MS[^fn9]) and amyotrophic lateral sclerosis (ALS[^fn10]). 
+  Here we provide QTWAS results on the summary statistics from ten GWAS studies on brain disorders, including five neuropsychiatric traits: schizophrenia (SCZ[^fn1]), attention-deficit/hyperactivity disorder (ADHD[^fn2]), bipolar disorder (BD[^fn3]), autism spectrum disorder (ASD[^fn4]) and major depressive disorder (MDD[^fn5]); and four neurodegenerative traits: Alzheimer's disease (AD\_Kunkle[^fn6] and AD\_Jansen[^fn7]), Parkinson's disease (PD[^fn8]), multiple sclerosis (MS[^fn9]) and amyotrophic lateral sclerosis (ALS[^fn10]). 
 
-  - [Manhattan plots](https://www.dropbox.com/sh/ksva8yexsud9on6/AADnj7RcLC0TH4xvLlVea_ZHa?dl=0) per triat (multi-tissue results based on 13 brain tissues)
+  - Download [Manhattan plots](https://www.dropbox.com/sh/ksva8yexsud9on6/AADnj7RcLC0TH4xvLlVea_ZHa?dl=0) per triat (multi-tissue results based on 13 brain tissues)
     
-  - [QQ plots](https://www.dropbox.com/sh/omgvs4hxzlcpik8/AABqMYBiFGSzhqwFvvY5dPjZa?dl=0) per tissue per trait for all 49 tissues
+  - Download [QQ plots](https://www.dropbox.com/sh/omgvs4hxzlcpik8/AABqMYBiFGSzhqwFvvY5dPjZa?dl=0) per tissue per trait for all 49 tissues
   
-  - [Significant genes](https://www.dropbox.com/sh/qd21drdjdcz3t5h/AADGM3JwZ6SkkG9syIJDaXHIa?dl=0) per tissue per trait for all 49 tissues
+  - Download [Significant genes](https://www.dropbox.com/sh/qd21drdjdcz3t5h/AADGM3JwZ6SkkG9syIJDaXHIa?dl=0) per tissue per trait for all 49 tissues
     
-  - [QTWAS p values for all genes]() per tissues per trait for all 49 tissues
+  - Download [QTWAS p values for all genes]() per tissues per trait for all 49 tissues
     
 #### 797 UK Biobank traits
    
    We also provide QTWAS results on [797 UK Biobank  continuous phenotypes](https://pan.ukbb.broadinstitute.org) with their summary statistics on 28 million imputed variants. We provide phenome-wide results for genes, genome-wide gene-based results for each trait with respect to all 49 tissues separately.
    
-  - [QTWAS p values for all genes]() per tissues per trait for all 49 tissues
+  - Download [QTWAS p values for all genes]() per tissues per trait for all 49 tissues
 
 ### References
 [^fn1]: Pardiiñas, A. F., Holmans, P., Pocklington, A. J., Escott-Price, V., Ripke, S., Carrera, N., Legge, S. E., Bishop, S., Cameron, D., Hamshere, M. L., et al. (2018). Common schizophrenia alleles are enriched in mutation-intolerant genes and in regions under strong background selection. Nature genetics, 50, 381–389.
