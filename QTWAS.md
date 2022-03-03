@@ -18,7 +18,11 @@ title: QTWAS
 
 ### Models
 
-  Download all the QTWAS models for 49 tissues in GTEx v8 [_here_]()
+We provide pre-trained QTWAS models per gene for 49 tissues in GTEx v8. _R scores_ are also provided for each model.
+
+  - Download all the QTWAS models [_here_]()
+  
+  - Download R scores for each model [_here_]()
 
 ### Results
 
