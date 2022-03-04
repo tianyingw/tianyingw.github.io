@@ -23,10 +23,8 @@ bibliography: QTWAS.bib
 We provide pre-trained QTWAS models per gene for 49 tissues in [GTEx v8](https://gtexportal.org/home/). _R scores_ for evaluating imputation accuracy are also provided for each model.
 
   - Download all the QTWAS models [_here_](). In each database file, we provide the information for:
-    - estimated beta at selected SNPs, indexed by _rsid_ and gene ensemble ID. _interval_ represents the quantile region of gene expression, i.e., <img src="https://render.githubusercontent.com/render/math?math=A_k">.
-    - covariance matrix of SNPs in the imputation models, indexed by _rsid_ and gene ensemble ID.
-    
-  and the covariance matrix of SNPs in the imputation models.
+    - estimated beta at selected SNPs, indexed by _rsid_ and _gene ensemble ID_. _interval_ represents the quantile region of gene expression, i.e., <img src="https://render.githubusercontent.com/render/math?math=A_k">.
+    - covariance matrix of SNPs in the imputation models, indexed by _rsid_ and _gene ensemble ID_.
   
   - Download R scores for each model [_here_]()
 
@@ -51,7 +49,7 @@ We provide pre-trained QTWAS models per gene for 49 tissues in [GTEx v8](https:/
   - Download [QTWAS p values for all genes]() per tissues per trait for all 49 tissues
 
 ### References
-[^fn1]: Pardiiñas, A. F., Holmans, P., Pocklington, A. J., Escott-Price, V., Ripke, S., Carrera, N., Legge, S. E., Bishop, S., Cameron, D., Hamshere, M. L., et al. (2018). Common schizophrenia alleles are enriched in mutation-intolerant genes and in regions under strong background selection. Nature genetics, 50, 381–389.
+  [^fn1]: Pardiiñas, A. F., Holmans, P., Pocklington, A. J., Escott-Price, V., Ripke, S., Carrera, N., Legge, S. E., Bishop, S., Cameron, D., Hamshere, M. L., et     al. (2018). Common schizophrenia alleles are enriched in mutation-intolerant genes and in regions under strong background selection. Nature genetics, 50, 381–389.
 
 [^fn2]: Demontis, D., Walters, R. K., Martin, J., Mattheisen, M., Als, T. D., Agerbo, E., Baldursson, G., Belliveau, R., Bybjerg-Grauholm, J., Bækvad-Hansen, M., et al. (2019). Discovery of the first genome-wide significant risk loci for attention deficit/hyperactivity disorder. Nature genetics, 51, 63–75.
 
