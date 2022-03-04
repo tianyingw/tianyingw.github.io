@@ -49,7 +49,8 @@ We provide pre-trained QTWAS models per gene for 49 tissues in [GTEx v8](https:/
   - Download [QTWAS p values for all genes]() per tissues per trait for all 49 tissues
 
 ### References
-  [^fn1]: Pardiiñas, A. F., Holmans, P., Pocklington, A. J., Escott-Price, V., Ripke, S., Carrera, N., Legge, S. E., Bishop, S., Cameron, D., Hamshere, M. L., et     al. (2018). Common schizophrenia alleles are enriched in mutation-intolerant genes and in regions under strong background selection. Nature genetics, 50, 381–389.
+```
+[^fn1]: Pardiiñas, A. F., Holmans, P., Pocklington, A. J., Escott-Price, V., Ripke, S., Carrera, N., Legge, S. E., Bishop, S., Cameron, D., Hamshere, M. L., et     al. (2018). Common schizophrenia alleles are enriched in mutation-intolerant genes and in regions under strong background selection. Nature genetics, 50, 381–389.
 
 [^fn2]: Demontis, D., Walters, R. K., Martin, J., Mattheisen, M., Als, T. D., Agerbo, E., Baldursson, G., Belliveau, R., Bybjerg-Grauholm, J., Bækvad-Hansen, M., et al. (2019). Discovery of the first genome-wide significant risk loci for attention deficit/hyperactivity disorder. Nature genetics, 51, 63–75.
 
@@ -68,3 +69,4 @@ We provide pre-trained QTWAS models per gene for 49 tissues in [GTEx v8](https:/
 [^fn9]: Andlauer, T. F., Buck, D., Antony, G., Bayas, A., Bechmann, L., Berthele, A., Chan, A., Gasperi, C., Gold, R., Graetz, C., et al. (2016). Novel multiple sclerosis susceptibility loci implicated in epigenetic regulation. Science advances, 2, e1501678.
 
 [^fn10]: Van Rheenen, W., Shatunov, A., Dekker, A. M., McLaughlin, R. L., Diekstra, F. P., Pulit, S. L., Van Der Spek, R. A., Vo ̃sa, U., De Jong, S., Robinson, M. R., et al. (2016). Genome-wide association analyses identify new risk variants and the genetic architecture of amyotrophic lateral sclerosis. Nature genetics, 48, 1043–1048.
+```
