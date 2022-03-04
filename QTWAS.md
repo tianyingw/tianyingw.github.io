@@ -22,7 +22,11 @@ bibliography: QTWAS.bib
 
 We provide pre-trained QTWAS models per gene for 49 tissues in [GTEx v8](https://gtexportal.org/home/). _R scores_ for evaluating imputation accuracy are also provided for each model.
 
-  - Download all the QTWAS models [_here_]()
+  - Download all the QTWAS models [_here_](). In each database file, we provide the information for:
+    - estimated beta at selected SNPs, indexed by _rsid_ and gene ensemble ID. _interval_ represents the quantile region of gene expression, i.e., $A_k$.
+    - covariance matrix of SNPs in the imputation models, indexed by _rsid_ and gene ensemble ID.
+    
+  and the covariance matrix of SNPs in the imputation models.
   
   - Download R scores for each model [_here_]()
 
