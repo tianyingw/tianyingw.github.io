@@ -6,14 +6,14 @@ bibliography: QTWAS.bib
 
 ## A Unified Quantile Framework for Transcriptome-Wide Association Analysis
 
-
-<img align="center" src="/img/QTWAS_illu.jpg" alt="" width="600">
-
+<img align="right" src="/img/QTWAS_flowchart.jpg" alt="" width="600">
 
 ### Methodology
 
   - Please see the manuscript ["A Unified Quantile Framework reveals nonlinear heterogeneous transcriptome-wide associations"]() for more details.
-<img align="right" src="/img/QTWAS_flowchart.jpg" alt="" width="600">
+
+<img align="center" src="/img/QTWAS_illu.jpg" alt="" width="600">
+
 ### Software
 
   We developed an R package [_QTWAS_](https://github.com/tianyingw/QTWAS) for training gene expression model on based on GTEx data. Please see the Github page for more details.
