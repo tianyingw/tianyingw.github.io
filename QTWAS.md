@@ -12,7 +12,7 @@ bibliography: QTWAS.bib
 
   - Please see the manuscript ["A Unified Quantile Framework reveals nonlinear heterogeneous transcriptome-wide associations"]() for more details.
 
-<img align="center" src="/img/QTWAS_illu.jpg" alt="" width="600">
+<img align="center" src="/img/QTWAS_illu_new2.pdf" alt="" width="600">
 
 ### Software
 
