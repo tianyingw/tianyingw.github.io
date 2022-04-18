@@ -6,8 +6,10 @@ title: Software
 ### R packages:
 
 - _Developed and maintained:_
+   
+   - [QTWAS](https://github.com/tianyingw/QTWAS) _(Quantile Transcriptome-Wide Association Analysis)_: We provide a quantile tool for investigating nonlinear gene-trait associations in Transcriptome-Wide Association Analysis (TWAS). It impelents the method from [A Unified Quantile Framework reveals nonlinear heterogeneous transcriptome-wide associations (2022+)](). More information can be found on the webpage: https://tianyingw.github.io/QTWAS/.
   
-   - [iQRAT](https://github.com/tianyingw/iQRAT) _(Integrated Quantile RAnk Test)_: The R package iQRAT provides an efficient quantile rank test for heterogeneous association in sequencing study. It implements the method from [Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies (2021+)](https://arxiv.org/abs/1910.10102).
+   - [iQRAT](https://github.com/tianyingw/iQRAT) _(Integrated Quantile RAnk Test)_: The R package iQRAT provides an efficient quantile rank test for heterogeneous association in sequencing study. It implements the method from [Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies (2022)](https://arxiv.org/abs/1910.10102).
 
    - [IQKM](https://github.com/tianyingw/IQKM) _(Integrated Quantile Kernel Machine)_: The R package IQKM provides tools for testing microbiome-outcome association. It impelements the method from [Testing microbiome association using integrated quantile regression models (2021)](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494).
 
