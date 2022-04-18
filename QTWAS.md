@@ -12,11 +12,9 @@ bibliography: QTWAS.bib
 
   - Please see the manuscript ["A Unified Quantile Framework reveals nonlinear heterogeneous transcriptome-wide associations"]() for more details.
 
-<img align="center" src="/img/QTWAS_illu_new2.jpg" alt="" width="300">
-
 ### Software
 
-  We developed an R package [_QTWAS_](https://github.com/tianyingw/QTWAS) for training gene expression model on based on GTEx data. Please see the Github page for more details.
+  We developed software tools based on R: [_QTWAS_](https://github.com/tianyingw/QTWAS) for training gene expression model on based on GTEx data. Please see the Github page for more details.
   
 
 ### Models
