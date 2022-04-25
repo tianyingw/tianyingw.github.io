@@ -6,7 +6,7 @@ bibliography: QTWAS.bib
 
 ## A Unified Quantile Framework for Transcriptome-Wide Association Analysis
 
-<img align="right" src="/img/flowchart_new.jpg" alt="" width="600">
+<img align="right" src="/img/flowchart_new.jpg" alt="" width="400">
 
 ### Methodology
 
