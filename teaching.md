@@ -9,19 +9,23 @@ title: Teaching
 ### Introduction to Biostatistics (Spring 2022)
    - ANOVA, categorical data analysis, survival analysis, design and analysis of clinical trials, etc.
    - level: undergraduate; class size: 20
+   - Language: English
 
 ### Advanced Topics in Statistics IV (statistical genetics) (Spring 2022)
   - population generics, association analyses, genome-wide association analysis, functional genomics and integration of functional genomics and genetic data, etc.
   - level: graduate; class size: 10
+  - Language: English & Chinese
 
 ### High dimensional Statistics (Fall 2021)
   - Optimization theory, LASSO and generalizations of the LASSO penalty, theory for LASSO prediction and variable selection consistency, etc.
   - level: graduate; class size: 30
+  - Language: English
 
 ### Multivariate Statistical Analysis (Spring 2021)
   
   - Matrix algebra, multivariate normal distribution, principal component analysis, discriminant analysis, factor analysis, canonical corelation analysis
   - level: undergraduate; classes size: 140
+  - Language: English & Chinese
 
 ## Courses at Texas A&M University
 ------------------------------------------------------
