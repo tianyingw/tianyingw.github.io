@@ -16,7 +16,7 @@ title: Teaching
   - level: graduate; class size: 10
   - Language: English & Chinese
 
-### High dimensional Statistics (Fall 2021)
+### High dimensional Statistics (Fall 2022, Fall 2021)
   - Optimization theory, LASSO and generalizations of the LASSO penalty, theory for LASSO prediction and variable selection consistency, etc.
   - level: graduate; class size: 30
   - Language: English
