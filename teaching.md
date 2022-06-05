@@ -11,7 +11,7 @@ title: Teaching
    - level: undergraduate; class size: 20
    - Language: English
 
-### Advanced Topics in Statistics IV (statistical genetics) (Spring 2022)
+### Advanced Topics in Statistics IV: Statistical Genetics (Spring 2022, Co-Instructor)
   - population generics, association analyses, genome-wide association analysis, functional genomics and integration of functional genomics and genetic data, etc.
   - level: graduate; class size: 10
   - Language: English & Chinese
@@ -21,7 +21,7 @@ title: Teaching
   - level: graduate; class size: 30
   - Language: English
 
-### Multivariate Statistical Analysis (Spring 2021)
+### Multivariate Statistical Analysis (Spring 2021, Co-Instructor)
   
   - Matrix algebra, multivariate normal distribution, principal component analysis, discriminant analysis, factor analysis, canonical corelation analysis
   - level: undergraduate; classes size: 140
