@@ -9,7 +9,7 @@ title: Publications
 
 - Lau, A.<sup><span>&#9826;</span></sup>, **Wang, T.<sup><span>&#9993;</span></sup>**, Yan, J. and Zhang, X. (2022+) "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes".
 
-- Ma, S.<sup><span>&#9826;</span></sup>, **Wang, T* **, Yan, J. and Zhang, X. (2022+) "Optimal Fingerprinting with Estimating Equations".
+- Ma, S.<sup><span>&#9826;</span></sup>, **Wang, T***, Yan, J. and Zhang, X. (2022+) "Optimal Fingerprinting with Estimating Equations".
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2022+) ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235).
 
