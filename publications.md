@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Under Review
-- **Wang, T.<sup><span>&#9993;</span></sup>**, Ionita-Laza, I. and Wei, Y. (2022+) "A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations". 
+- **Wang, T.<sup><span>&#9993;</span></sup>**, Ionita-Laza, I. and Wei, Y. (2022+) ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](http://www.columbia.edu/~ii2135/QTWAS.pdf). 
 
 - Lau, A., **Wang, T.<sup><span>&#9993;</span></sup>** and Yan, J. and Zhang, X. (2022+) "Extreme Value Modeling with Errors-in-Variables in Detection
   and Attribution of Changes in Climate Extremes".
