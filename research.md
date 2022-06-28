@@ -12,7 +12,7 @@ title: Research
 
 - The 12th ICSA International Conference, Hong Kong (12/2022, incoming)
 
-- International Chinese Statistical Association (ICSA) China Conference, Xi'an (07/2022, incoming)
+- International Chinese Statistical Association (ICSA) China Conference, Xi'an (07/2022)
 
 - Special Conference Celebrating the 85th Anniversary of Renmin University of China, Institute of Statistics and Big Data, Renmin University of China, Beijing (06/2022)
 
