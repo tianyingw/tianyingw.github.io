@@ -3,7 +3,13 @@ layout: page
 title: Publications
 ---
 
+### Under Review
+- **Wang, T.<sup><span>&#9993;</span></sup>**, Ionita-Laza, I. and Wei, Y. (2022+) "A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations". 
 
+- Lau, A., **Wang, T.<sup><span>&#9993;</span></sup>** and Yan, J. and Zhang, X. (2022+) "Extreme Value Modeling with Errors-in-Variables in Detection
+  and Attribution of Changes in Climate Extremes".
+
+### Published
 - **Wang, T.<sup><span>&#9993;</span></sup>**, Ionita-Laza, I. and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://arxiv.org/abs/1910.10102). To appear for _The Annals of Applied Statistics._ 
 
 - Houghton, L. C., Wei, Y., **Wang, T.**, Goldberg, M., Paniagua-Avila, A., Sweeden, R. L., Bradbury, A., Daly, M., Schwartz, L. A., Keegan, T., John, E. M., Knight, J. A., Andrulis, I. L., Buys, S. S., Frost, C. J., O'Toole, K., White, M. L., Chung, W. K. and Terry, M. B. (2022). ["Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study"](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyac021/6528416). _International Journal of Epidemiology_, 2022 Feb 14:dyac021. doi: 10.1093/ije/dyac021. PMID: 35157067.
