@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-<sup><span>&#9826;</span></sup> indicates student co-author; ** * ** indicates corresponding author.
+<sup><span>&#9826;</span></sup> indicates student co-author; ** *** indicates corresponding author.
 
 ### Under Review
 - **Wang, T.***, Ionita-Laza, I. and Wei, Y. (2022+) ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](http://www.columbia.edu/~ii2135/QTWAS.pdf). 
