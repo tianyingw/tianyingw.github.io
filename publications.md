@@ -11,7 +11,7 @@ title: Publications
 
 - Ma, S.<sup><span>&#9826;</span></sup>, **Wang, T.***, Yan, J. and Zhang, X. (2022+) "Optimal Fingerprinting with Estimating Equations".
 
-- Jiang, R.<sup><span>&#9826;</span></sup>, Zhan, X.* and **Wang, T.*** (2022+) "A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data".
+- Jiang, R.<sup><span>&#9826;</span></sup>, Zhan, X.* and **Wang, T.*** (2022+) "A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data". (co-corresponding)
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2022+) ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235).
 
