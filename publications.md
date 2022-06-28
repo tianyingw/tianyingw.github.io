@@ -7,22 +7,22 @@ title: Publications
 ### Under Review
 - **Wang, T.*<sup><span>&#9993;</span></sup>**, Ionita-Laza, I. and Wei, Y. (2022+) ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](http://www.columbia.edu/~ii2135/QTWAS.pdf). 
 
-- Lau, A.<sup><span>&#9826;</span></sup>, **Wang, T.<sup><span>&#9993;</span></sup>**, Yan, J. and Zhang, X. (2022+) "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes".
+- Lau, A.<sup><span>&#9826;</span></sup>, **Wang, T.***, Yan, J. and Zhang, X. (2022+) "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes".
 
 - Ma, S.<sup><span>&#9826;</span></sup>, **Wang, T.***, Yan, J. and Zhang, X. (2022+) "Optimal Fingerprinting with Estimating Equations".
 
-- Jiang, R.<sup><span>&#9826;</span></sup>, Zhan, X.* and **Wang, T.*** (2022+) "A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"
+- Jiang, R.<sup><span>&#9826;</span></sup>, Zhan, X.* and **Wang, T.*** (2022+) "A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data".
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2022+) ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235).
 
 ### Published
-- **Wang, T.<sup><span>&#9993;</span></sup>**, Ionita-Laza, I. and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://arxiv.org/abs/1910.10102). To appear for _The Annals of Applied Statistics._ 
+- **Wang, T.***, Ionita-Laza, I. and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://arxiv.org/abs/1910.10102). To appear for _The Annals of Applied Statistics._ 
 
 - Houghton, L. C., Wei, Y., **Wang, T.**, Goldberg, M., Paniagua-Avila, A., Sweeden, R. L., Bradbury, A., Daly, M., Schwartz, L. A., Keegan, T., John, E. M., Knight, J. A., Andrulis, I. L., Buys, S. S., Frost, C. J., O'Toole, K., White, M. L., Chung, W. K. and Terry, M. B. (2022). ["Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study"](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyac021/6528416). _International Journal of Epidemiology_, 2022 Feb 14:dyac021. doi: 10.1093/ije/dyac021. PMID: 35157067.
 
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M. and Zhan, X. (2022). ["Testing microbiome association using integrated quantile regression models"](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494). _Bioinformatics_, 38(2), 419-425. [R package](https://cran.r-project.org/web/packages/MiRKAT/index.html) 
 
-- **Wang, T.<sup><span>&#9993;</span></sup>** and Asher, A. (2021). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) _Statistics in Biosciences_, 13, 386–401. 
+- **Wang, T.*** and Asher, A. (2021). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) _Statistics in Biosciences_, 13, 386–401. 
 
 - Plantinga, A., Wilson, N., Zheng, H., **Wang, T.**, Zhan, Z., Wu, M., Zhao, N., and Chen, J. (2021) ["MiRKAT: Microbiome Regression-Based Analysis Tests"](https://CRAN.R-project.org/package=MiRKAT).
 
