@@ -17,7 +17,7 @@ Email: tianyingw [at] tsinghua.edu.cn
 
 ### News:
 
-- **June 2022**: Our manuscript on [A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations](http://www.columbia.edu/~ii2135/QTWAS.pdf) is now available online. Webpage resource can be found [here](https://tianyingw.github.io/QTWAS).
+- **June 2022**: Our manuscript on [A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations](http://www.columbia.edu/~ii2135/QTWAS.pdf) is now available online. Webpage resources can be found [here](https://tianyingw.github.io/QTWAS).
 
 - **January 2022**: Our paper on [Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study](https://academic.oup.com/HTTPHandlers/Sigma/LoginHandler.ashx?error=login_required&state=b85e8e8a-af9a-40bc-8f53-fb1ca6fe7770redirecturl%3Dhttpszazjzjacademiczwoupzwcomzjijezjadvancezyarticlezyabstractzjdoizj10zw1093zjijezjdyac021zj6528416) is accepted by _International Journal of Epidemiology_.
 
