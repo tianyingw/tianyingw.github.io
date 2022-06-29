@@ -5,7 +5,7 @@ title: Publications
 <sup><span>&#9826;</span></sup> indicates student co-author; <b>*</b> indicates corresponding author.
 
 ### Under Review
-- **Wang, T.<b>*</b>**, Ionita-Laza, I. and Wei, Y. (2022+) ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](http://www.columbia.edu/~ii2135/QTWAS.pdf). [(QTWAS webpage)](https://tianyingw.github.io/QTWAS/)
+- **Wang, T.<b>*</b>**, Ionita-Laza, I. and Wei, Y. (2022+) ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](http://www.columbia.edu/~ii2135/QTWAS.pdf). [(webpage resources)](https://tianyingw.github.io/QTWAS/)
 
 - Lau, A.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J. and Zhang, X. (2022+) "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes".
 
