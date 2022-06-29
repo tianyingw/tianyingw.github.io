@@ -9,9 +9,9 @@ title: Publications
 
 - Lau, A.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J. and Zhang, X. (2022+) "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes".
 
-- Ma, S.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J. and Zhang, X. (2022+) "Optimal Fingerprinting with Estimating Equations".
-
 - Jiang, R.<sup><span>&#9826;</span></sup>, Zhan, X.* and **Wang, T.<b>*</b>** (2022+) "A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data". (co-corresponding)
+
+- Ma, S.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J. and Zhang, X. (2022+) "Optimal Fingerprinting with Estimating Equations".
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2022+) ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235).
 
