@@ -18,7 +18,7 @@ title: Research
 
 - Special Conference Celebrating the 85th Anniversary of Renmin University of China, Institute of Statistics and Big Data, Renmin University of China, Beijing (06/2022)
 
-- The 5th International Conference on Econometrics and Statistics (EcoSta 2022), Kyoto (06/2022, incoming)
+- The 5th International Conference on Econometrics and Statistics (EcoSta 2022), Kyoto (06/2022)
 
 - Young Scholar Seminar, Department of Industrial Engineering, Tsinghua University, Beijing (10/2021)
 
