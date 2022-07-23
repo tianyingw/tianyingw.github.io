@@ -16,7 +16,7 @@ title: Publications
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2022+) ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235).
 
 ### Published
-- **Wang, T.<b>*</b>**, Ionita-Laza, I. and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Integrated-Quantile-RAnk-Test-iQRAT-for-gene-level-associations/10.1214/21-AOAS1548.short). _Annals of Applied Statistics_, 16, 1423–1444.
+- **Wang, T.<b>*</b>**, Ionita-Laza, I. and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Integrated-Quantile-RAnk-Test-iQRAT-for-gene-level-associations/10.1214/21-AOAS1548.short). _Annals of Applied Statistics_, 16 (3) 1423 - 1444, September 2022. https://doi.org/10.1214/21-AOAS1548
 
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M. and Zhan, X. (2022). ["Testing microbiome association using integrated quantile regression models"](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494). _Bioinformatics_, 38(2), 419-425. [R package](https://cran.r-project.org/web/packages/MiRKAT/index.html) 
 
