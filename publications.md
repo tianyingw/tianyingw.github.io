@@ -47,6 +47,9 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 - Delaigle, A., Hyndman, T., and **Wang, T.** ["deconvolve-package: Deconvolution Tools for Measurement Error Problems."](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html)
 
 
+**[My Google Scholar](https://scholar.google.com/citations?user=YKB6YmgAAAAJ&hl=en&oi=ao)**
+
+
 
 
 
