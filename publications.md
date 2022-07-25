@@ -2,18 +2,18 @@
 layout: page
 title: Publications
 ---
-<sup><span>&#9826;</span></sup> indicates student co-author; <b>*</b> indicates corresponding author.
+<sup><span>&#9830;</span></sup> indicates student co-author; <b>*</b> indicates corresponding author.
 
 ### Under Review
 - **Wang, T.<b>*</b>**, Zhang, W. and Wei, Y. (2022+) "The construction and uses of reference centile chart for rare disease clinical development".
 
 - **Wang, T.<b>*</b>**, Ionita-Laza, I. and Wei, Y. (2022+) ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](http://www.columbia.edu/~ii2135/QTWAS.pdf). [(webpage resources)](https://tianyingw.github.io/QTWAS/)
 
-- Lau, A.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J. and Zhang, X. (2022+) "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes".
+- Lau, A.<sup><span>&#9830;</span></sup>, **Wang, T.<b>*</b>**, Yan, J. and Zhang, X. (2022+) "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes".
 
-- Jiang, R.<sup><span>&#9826;</span></sup>, Zhan, X.* and **Wang, T.<b>*</b>** (2022+) ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/pdf/2207.07796.pdf). (co-corresponding)
+- Jiang, R.<sup><span>&#9830;</span></sup>, Zhan, X.* and **Wang, T.<b>*</b>** (2022+) ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/pdf/2207.07796.pdf). (co-corresponding)
 
-- Ma, S.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J. and Zhang, X. (2022+) "Optimal Fingerprinting with Estimating Equations".
+- Ma, S.<sup><span>&#9830;</span></sup>, **Wang, T.<b>*</b>**, Yan, J. and Zhang, X. (2022+) "Optimal Fingerprinting with Estimating Equations".
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y. and Carroll, R. J. (2022+) ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235).
 
@@ -31,7 +31,7 @@ title: Publications
 - Gaynanova, I. and **Wang, T.** (2019). ["Sparse quadratic classification rules via linear dimension reduction".](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6516858/) _Journal of Multivariate Analysis_, 169, 278-299. 
 [R package: DAP](https://cran.r-project.org/web/packages/DAP/index.html)
 
-- Blas Achic, B.<sup><span>&#9830;</span></sup>, **Wang, T.<sup><span>&#9830;</span></sup>** , Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. (2018). ["Categorizing a Continuous Predictor Subject to Measurement Error".](https://projecteuclid.org/euclid.ejs/1544518836) Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( <sup><span>&#9830;</span></sup> joint first authors)**. 
+- Blas Achic, B.<sup><span>&#9826;</span></sup>, **Wang, T.<sup><span>&#9826;</span></sup>** , Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. (2018). ["Categorizing a Continuous Predictor Subject to Measurement Error".](https://projecteuclid.org/euclid.ejs/1544518836) Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( <sup><span>&#9826;</span></sup> joint first authors)**. 
 
 - Li, H., Staudenmayer, J., **Wang, T.**, Keadle, S. K., and Carroll, R. J. (2018). ["Three-part joint modeling methods for complex functional data mixed with zero-and-one–inflated proportions and zero‐inflated continuous outcomes with skewness".](https://www.ncbi.nlm.nih.gov/pubmed/29052239) _Statistics in medicine_, 37(4), 611-626.
 
