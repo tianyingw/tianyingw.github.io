@@ -103,12 +103,12 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
- url-pretty: "tianyingw.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "tianyingw.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: ""
+# google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
