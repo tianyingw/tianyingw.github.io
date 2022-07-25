@@ -31,7 +31,7 @@ title: Publications
 
 - Blas Achic, B.<sup><span>&#9830;</span></sup>, **Wang, T.<sup><span>&#9830;</span></sup>** , Su, Y., Kipnis, V., Dodd, K. and Carroll, R. J. (2018). ["Categorizing a Continuous Predictor Subject to Measurement Error".](https://projecteuclid.org/euclid.ejs/1544518836) Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( <sup><span>&#9830;</span></sup> joint first authors)**. 
 
-- Li, H., Staudenmayer, J., **Wang, T.**, Keadle, S. K., and Carroll, R. J. (2018). ["Three‐part joint modeling methods for complex functional data mixed with zero‐and‐one–inflated proportions and zero‐inflated continuous outcomes with skewness".](https://www.ncbi.nlm.nih.gov/pubmed/29052239) _Statistics in medicine_, 37(4), 611-626.
+- Li, H., Staudenmayer, J., **Wang, T.**, Keadle, S. K., and Carroll, R. J. (2018). ["Three&#45;part joint modeling methods for complex functional data mixed with zero‐and‐one–inflated proportions and zero‐inflated continuous outcomes with skewness".](https://www.ncbi.nlm.nih.gov/pubmed/29052239) _Statistics in medicine_, 37(4), 611-626.
 
 - Johnson, V., Payne, R., **Wang, T.**, Asher, A. and Mandal, S. (2017).
 ["On the reproducibility of psychological science".](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2016.1240079#.WqQ13ZPwbOQ) _Journal of the American Statistical Association_, 112.517: 1-10.
