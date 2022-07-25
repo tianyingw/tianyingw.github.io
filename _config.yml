@@ -30,6 +30,7 @@ navbar-links:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   #  - GitHub Pages: "https://pages.github.com/"
+  Talks: "Talks"
   Software: "software"
   Teaching: "teaching"
 
@@ -76,7 +77,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "tw2696@cumc.columbia.edu"
+  email: "tianyingw@tsinghua.edu.cn"
 #  facebook: daattali
   github: tianyingw
 #  twitter: daattali
