@@ -8,7 +8,7 @@ title: Research
 
 #### Quantile Regression Models for Complex Data
 
-I develop novel quantile regression methods for complex data such as genetic, genomic, and microbiome data. My work in this area focuses on jointly analyzing different sources of data and examining different quantiles or subgroups of the population. To handle data heteroscedasticity, combining different data sets leads to more powerful analysis, and examining different subgroups helps give us a more comprehensive view of the entire population, further contributing to more precise analysis of the genetic effect and supporting personalized precision medicine.
+My work in this area focuses on jointly analyzing different sources of data and examining different quantiles or subgroups of the population. To handle data heteroscedasticity, combining different data sets leads to more powerful analysis, and examining different subgroups helps give us a more comprehensive view of the entire population, further contributing to more precise analysis of the genetic effect and supporting personalized precision medicine.
 
 Selected works:
 - **Wang, T.<b>*</b>**, Ionita-Laza, I. and Wei, Y. (2022+) ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](http://www.columbia.edu/~ii2135/QTWAS.pdf). [Webpage resources.](https://tianyingw.github.io/QTWAS/) (udner review)
@@ -21,6 +21,8 @@ Selected works:
 
 
 #### Statistical Models for Measurement Error Analysis
+
+I develop novel statistical methods for correcting measurement errors in complex data. My work in detection and attribution analyses of climate change focuses on addressing temporally correlated measurement errors in optimal fingerprinting and the generalized extreme value regression. My other work in epidemiologic research focuses on providing valid statistical inference when the model is misspecified.
 
 Selected works:
 - Lau, A.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J. and Zhang, X. (2022+) "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes". (udner review)
