@@ -21,15 +21,15 @@ Email: tianyingw [at] tsinghua.edu.cn
 
 - **June 2022**: Our manuscript on **A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations** is now available on [arXiv](https://arxiv.org/abs/2207.12081). Webpage resources can be found [here](https://tianyingw.github.io/QTWAS).
 
-- **January 2022**: Our paper on **[Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study]**(https://academic.oup.com/HTTPHandlers/Sigma/LoginHandler.ashx?error=login_required&state=b85e8e8a-af9a-40bc-8f53-fb1ca6fe7770redirecturl%3Dhttpszazjzjacademiczwoupzwcomzjijezjadvancezyarticlezyabstractzjdoizj10zw1093zjijezjdyac021zj6528416) is accepted by _International Journal of Epidemiology_.
+- **January 2022**: Our paper on **[Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study](https://academic.oup.com/HTTPHandlers/Sigma/LoginHandler.ashx?error=login_required&state=b85e8e8a-af9a-40bc-8f53-fb1ca6fe7770redirecturl%3Dhttpszazjzjacademiczwoupzwcomzjijezjadvancezyarticlezyabstractzjdoizj10zw1093zjijezjdyac021zj6528416)** is accepted by _International Journal of Epidemiology_.
 
-- **September 2021**: Our paper on **[Testing microbiome association using integrated quantile regression models]**(https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494) is accepted by _Bioinformatics_.
+- **September 2021**: Our paper on **[Testing microbiome association using integrated quantile regression models](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494)** is accepted by _Bioinformatics_.
 
-- **September 2021**: Our paper on **[Integrated Quantile RAnk Test (iQRAT) for gene-level associations]**(https://arxiv.org/abs/1910.10102) is accepted by _The Annals of Applied Statistics_.
+- **September 2021**: Our paper on **[Integrated Quantile RAnk Test (iQRAT) for gene-level associations](https://arxiv.org/abs/1910.10102)** is accepted by _The Annals of Applied Statistics_.
 
 - **August 2021**: Tianying received a grant from the _National Natural Science Foundation of China (NSFC)_ (No. 12101351) on the topic: **"Integrated quantile regression model for high-dimensional heterogeneous data"**. 
 
-- **October 2020**: Our paper **[Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies]**(https://doi.org/10.1007/s12561-020-09298-9) is accepted by _Statistics in Biosciences_.
+- **October 2020**: Our paper **[Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies](https://doi.org/10.1007/s12561-020-09298-9)** is accepted by _Statistics in Biosciences_.
 
 - **May 2020**: Won **[2020 IMS New Researcher Travel Award](https://imstat.org/2020/07/16/ims-announces-travel-award-winners-2020/)**.
 
