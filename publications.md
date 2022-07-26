@@ -7,7 +7,7 @@ title: Publications
 ### Under Review
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+) "The construction and uses of reference centile chart for rare disease clinical development".
 
-- **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+) ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081). [(webpage resources)](https://tianyingw.github.io/QTWAS/)
+- **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+) ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/pdf/2207.12081.pdf). [(Webpage resources)](https://tianyingw.github.io/QTWAS/)
 
 - Lau, A.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes".
 
