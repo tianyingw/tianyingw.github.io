@@ -17,9 +17,9 @@ Email: tianyingw [at] tsinghua.edu.cn
 
 ### News:
 
-- **July 2022**: Our manuscript on **A flexible zero-inflated Poisson-Gamma model with application to microbiome read count data** is now available on [arXiv](https://arxiv.org/pdf/2207.07796.pdf).
+- **July 2022**: Our manuscript on **[A flexible zero-inflated Poisson-Gamma model with application to microbiome read count data](https://arxiv.org/pdf/2207.07796.pdf)** is now available on [arXiv](https://arxiv.org/pdf/2207.07796.pdf).
 
-- **June 2022**: Our manuscript on **A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations** is now available on [arXiv](https://arxiv.org/abs/2207.12081). Webpage resources can be found [here](https://tianyingw.github.io/QTWAS).
+- **June 2022**: Our manuscript on **[A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations](https://arxiv.org/pdf/2207.12081.pdf)** is now available on [arXiv](https://arxiv.org/pdf/2207.12081.pdf). Webpage resources can be found [here](https://tianyingw.github.io/QTWAS).
 
 - **January 2022**: Our paper on **[Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study](https://academic.oup.com/HTTPHandlers/Sigma/LoginHandler.ashx?error=login_required&state=b85e8e8a-af9a-40bc-8f53-fb1ca6fe7770redirecturl%3Dhttpszazjzjacademiczwoupzwcomzjijezjadvancezyarticlezyabstractzjdoizj10zw1093zjijezjdyac021zj6528416)** is accepted by _International Journal of Epidemiology_.
 
@@ -35,11 +35,11 @@ Email: tianyingw [at] tsinghua.edu.cn
 
 - **March 2020**: Tianying won competitive travel award of the **[ENAR 2020 Fostering Diversity in Biostatistics Workshop](https://www.enar.org/meetings/FosteringDiversity/)** (rescheduled to 2021 due to COVID-19).
 
-- **November 2019**: Our manuscript on **Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies** is now available on [arXiv](https://arxiv.org/abs/1910.10102).
+- **November 2019**: Our manuscript on **[Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies](https://arxiv.org/abs/1910.10102)** is now available on [arXiv](https://arxiv.org/abs/1910.10102).
 
-- **October 2019**: Our manuscript on **Gaussian Processes with Errors in Variables: theory and computation** is now available on [arXiv](https://arxiv.org/abs/1910.06235).
+- **October 2019**: Our manuscript on **[Gaussian Processes with Errors in Variables: theory and computation](https://arxiv.org/abs/1910.06235)** is now available on [arXiv](https://arxiv.org/abs/1910.06235).
 
-- **September 2019**: Our manuscript on **Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies** is now available on [arXiv](https://arxiv.org/abs/1909.07501).
+- **September 2019**: Our manuscript on **[Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies](https://arxiv.org/abs/1909.07501)** is now available on [arXiv](https://arxiv.org/abs/1909.07501).
 
 - **August 2019**: Tianying won competitive travel award of the **[2019 NISS Writing Workshop for Junior Researchers at JSM](https://www.niss.org/events/2019-niss-writing-workshop-junior-researchers-jsm)**.
 
