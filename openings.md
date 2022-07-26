@@ -3,7 +3,7 @@ layout: page
 title: Research Opportunities
 ---
 
-If you are pursuing an undergraduate student at Tsinghua University and want to get research training experience in statistics, please email me to discuss possible research opportunities.
+If you are an undergraduate student at Tsinghua University and want to get research training experience in statistics, please email me to discuss possible research opportunities.
 
 ### Basic Requirements
 
