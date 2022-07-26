@@ -6,7 +6,7 @@ title: Research
    My research aims to develop and promote statistical learning methods to advance the science of public health and medicine. In particular, I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis**, and **high-dimensional statistics**. Much of my methodology research applies to genetic and genomic data analysis, microbiome data analysis, epidemiologic research, and climate data analysis. 
    
 
-#### Quantile Regression Models for Complex Data
+### Quantile Regression Models for Complex Data
 
 My work in this area focuses on jointly analyzing different sources of data and examining different quantiles or subgroups of the population. To handle data heteroscedasticity, combining different data sets leads to more powerful analysis, and examining different subgroups helps give us a more comprehensive view of the entire population, further contributing to more precise analysis of the genetic effect and supporting personalized precision medicine.
 
@@ -18,7 +18,7 @@ _Selected works:_
 
 
 
-#### Statistical Models for Measurement Error Analysis
+### Statistical Models for Measurement Error Analysis
 
 I develop novel statistical methods for correcting measurement errors in complex data. My work in detection and attribution analyses of climate change focuses on addressing temporally correlated measurement errors in optimal fingerprinting and the generalized extreme value regression. My other work in epidemiologic research focuses on providing valid statistical inference when the model is misspecified.
 
