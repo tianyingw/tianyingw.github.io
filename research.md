@@ -28,5 +28,8 @@ _Selected works:_
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2022+) ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235). (udner review)
 - Blas Achic, B.<sup><span>&#9830;</span></sup>, **Wang, T.<sup><span>&#9830;</span></sup>** , Su, Y., Kipnis, V., Dodd, K., and Carroll, R. J. (2018). ["Categorizing a Continuous Predictor Subject to Measurement Error".](https://projecteuclid.org/euclid.ejs/1544518836) Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( <sup><span>&#9830;</span></sup> joint first authors)**. 
 
+
+<sup><span>&#9826;</span></sup> indicates student co-author; <b>*</b> indicates corresponding author.
+
 _**Please check [here](https://tianyingw.github.io/publications/) for more of my publications.**_
 
