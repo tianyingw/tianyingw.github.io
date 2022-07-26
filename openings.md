@@ -3,7 +3,7 @@ layout: page
 title: Research Opportunities
 ---
 
-If you are an undergraduate student at Tsinghua University and want to get research training experience in statistics, please email me to discuss possible research opportunities.
+If you are an _undergraduate student_ at Tsinghua University and want to get research training experience in statistics, please email me to discuss possible research opportunities. Please include a short introduction of your background, your research interests, the statistical courses you took, and your expectation for this research experience.
 
 ### Basic Requirements
 
@@ -20,7 +20,7 @@ If you are an undergraduate student at Tsinghua University and want to get resea
 ### Note
 
 - **I DO NOT organize group meeting or reading group**.
-- Every student will be responsible for their own project.
+- Every student will be responsible for their own projects.
 - All projects will run for at least 6 months. Early drop-out is not acceptable.
 
 
