@@ -9,7 +9,7 @@ If you are an _undergraduate student_ at Tsinghua University and want to get res
 
 ### Basic Requirements
 
-- Students need to be **self-motivated** and good at communications;
+- Students need to be **highly self-motivated** and good at communications;
 - Coding skills: R (required), python (required for deep learning related projects);
 - Good at paper reading (English);
 - Have learned basic statistical courses already (e.g., probability theory, statistical inference, statistical computing, and linear model).
