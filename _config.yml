@@ -27,8 +27,8 @@ navbar-links:
   About Me: "aboutme"
   Research: 
      - Overview: "research"
-     - QTWAS: "QTWAS"
      - Talks: "Talks"
+     - QTWAS: "QTWAS"   
   Publications: "publications"
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
