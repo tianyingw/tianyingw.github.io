@@ -26,7 +26,7 @@ If you are an _undergraduate student_ at Tsinghua University and want to get res
 - All projects will run for at least 6 months. Early drop-out is not acceptable.
 
 
-## For PhD students
+## For Ph.D. students
 
 If you have already been admitted to the Ph.D. program in Statistics at the Center for Statistical Science, Tsinghua University, please email me to discuss possible research opportunities.
 
