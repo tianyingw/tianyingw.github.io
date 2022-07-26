@@ -21,6 +21,6 @@ If you are an undergraduate student at Tsinghua University and want to get resea
 
 - **I DO NOT organize group meeting or reading group**.
 - Every student will be responsible for their own project.
-- All projects will run for at least 4 months. Early drop-out is not acceptable.
+- All projects will run for at least 6 months. Early drop-out is not acceptable.
 
 
