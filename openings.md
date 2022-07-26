@@ -9,7 +9,7 @@ If you are an undergraduate student at Tsinghua University and want to get resea
 
 - Students need to be **self-motivated** and good at communications;
 - Coding skills: R (required), python (required for deep learning related projects);
-- Good at paper reading (English)；
+- Good at paper reading (English);
 - Have learned basic statistical courses already (e.g., probability theory, statistical inference, statistical computing, and linear model).
 
 ### Student Responsibility
