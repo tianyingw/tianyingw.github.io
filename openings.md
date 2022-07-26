@@ -7,19 +7,19 @@ title: Research Opportunities
 
 If you are an _undergraduate student_ at Tsinghua University and want to get research training experience in statistics, please email me to discuss possible research opportunities. Please include a short introduction of your background, your research interests, the statistical courses you took, and your expectation for this research experience.
 
-### Basic Requirements
+#### Basic Requirements
 
 - Students need to be **highly self-motivated** and good at communications;
 - Coding skills: R (required), python (required for deep learning related projects);
 - Good at paper reading (English);
 - Have learned basic statistical courses already (e.g., probability theory, statistical inference, statistical computing, and linear model).
 
-### Student Responsibility
+#### Student Responsibility
 
 - Weekly one on one meeting;
 - Maintain research progress log (Overleaf or Notion).
 
-### Note
+#### Note
 
 - **I DO NOT organize group meeting or reading group**.
 - Every student will be responsible for their own projects.
