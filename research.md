@@ -23,8 +23,8 @@ _Selected works:_
 I develop novel statistical methods for correcting measurement errors in complex data. My work in detection and attribution analyses of climate change focuses on addressing temporally correlated measurement errors in optimal fingerprinting and the generalized extreme value regression. My other work in epidemiologic research focuses on providing valid statistical inference when the model is misspecified.
 
 _Selected works:_
-- Lau, A.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes". (under review)
-- Ma, S.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) "Optimal Fingerprinting with Estimating Equations". (under review)
+- Lau, A.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) _"Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"_. (under review)
+- Ma, S.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) _"Optimal Fingerprinting with Estimating Equations"_. (under review)
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2022+) _"Gaussian Processes with Errors in Variables: theory and computation"_. (under review)
 - Blas Achic, B.<sup><span>&#9830;</span></sup>, **Wang, T.<sup><span>&#9830;</span></sup>** , Su, Y., Kipnis, V., Dodd, K., and Carroll, R. J. (2018). _"Categorizing a Continuous Predictor Subject to Measurement Error"_. Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( <sup><span>&#9830;</span></sup> joint first authors)**. 
 
