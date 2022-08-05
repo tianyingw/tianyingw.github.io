@@ -16,12 +16,12 @@ If you are an _undergraduate student_ at Tsinghua University and want to get res
 
 #### Student Responsibility
 
-- Weekly one on one meeting;
+- Weekly one on one meetings;
 - Maintain research progress log (Overleaf or Notion).
 
 #### Note
 
-- **I DO NOT organize group meeting or reading group**.
+- I prefer one on one meetings and **DO NOT organize group meeting or reading group** now.
 - Every student will be responsible for their own projects.
 - All projects will run for at least 6 months. Early drop-out is not acceptable.
 
