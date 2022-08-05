@@ -21,7 +21,7 @@ If you are an _undergraduate student_ at Tsinghua University and want to get res
 
 #### Note
 
-- I prefer one on one meetings and **DO NOT organize group meeting or reading group** now.
+- I prefer one on one meetings and **DO NOT organize any group meeting or reading group** now.
 - Every student will be responsible for their own projects.
 - All projects will run for at least 6 months. Early drop-out is not acceptable.
 
