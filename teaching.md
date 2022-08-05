@@ -9,6 +9,7 @@ title: Teaching
 ### Advanced Statistical Methods (Fall 2022)
   - level: graduate (Ph.D., required for qualify exam)
   - Language: English
+  - linear mixed model, GLM,  MLE, ANOVA,  survival analysis, etc.
 
 ### Introduction to Biostatistics (Spring 2022)
    - level: undergraduate 
