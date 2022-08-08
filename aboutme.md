@@ -26,4 +26,5 @@ title: About me
   - I enjoy scuba diving and am certified as an Advanced Open Water diver.
 
 ### Openings:
-[Research opportunities](https://tianyingw.github.io/openings/) are open to highly motivated students. Interested individuals are encouraged to reach out for more details.
+
+  - [Research opportunities](https://tianyingw.github.io/openings/) are open to highly motivated students. Interested individuals are encouraged to reach out for more details.
