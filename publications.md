@@ -5,7 +5,7 @@ title: Publications
 <sup><span>&#9826;</span></sup> indicates student co-author; <b>*</b> indicates corresponding author.
 
 ### Under Review
-- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+) "The construction and uses of reference centile chart for rare disease clinical development".
+- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+) "ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development".
 
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+) ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/pdf/2207.12081.pdf). 
 
