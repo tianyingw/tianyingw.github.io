@@ -24,13 +24,13 @@ I develop novel statistical methods for correcting measurement errors in complex
 
 _Selected works:_
 - <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) _"Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"_. (under review)
-- Ma, S.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) _"Optimal Fingerprinting with Estimating Equations"_. (under review)
-- Jiang, R.<sup><span>&#9826;</span></sup>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_. (under review)
+- <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) _"Optimal Fingerprinting with Estimating Equations"_. (under review)
+- <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_. (under review)
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2022+) _"Gaussian Processes with Errors in Variables: theory and computation"_. (under review)
 - Blas Achic, B.<sup><span>&#9830;</span></sup>, **Wang, T.<sup><span>&#9830;</span></sup>** , Su, Y., Kipnis, V., Dodd, K., and Carroll, R. J. (2018). _"Categorizing a Continuous Predictor Subject to Measurement Error"_. Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( <sup><span>&#9830;</span></sup> joint first authors)**. 
 
 
-<sup><span>&#9826;</span></sup> indicates student co-author; <b>*</b> indicates corresponding author.
+<ins>Underline</ins> indicates student co-author; <b>*</b> indicates corresponding author.
 
 _**Please check [here](https://tianyingw.github.io/publications/) for more of my publications.**_
 
