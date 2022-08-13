@@ -23,7 +23,7 @@ _Selected works:_
 I develop novel statistical methods for correcting measurement errors in complex data. My work in detection and attribution analyses of climate change focuses on addressing temporally correlated measurement errors in optimal fingerprinting and the generalized extreme value regression. My other work in epidemiologic research focuses on providing valid statistical inference when the model is misspecified.
 
 _Selected works:_
-- Lau, A.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) _"Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"_. (under review)
+- <u>Lau, A.</u>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) _"Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"_. (under review)
 - Ma, S.<sup><span>&#9826;</span></sup>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) _"Optimal Fingerprinting with Estimating Equations"_. (under review)
 - Jiang, R.<sup><span>&#9826;</span></sup>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_. (under review)
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2022+) _"Gaussian Processes with Errors in Variables: theory and computation"_. (under review)
