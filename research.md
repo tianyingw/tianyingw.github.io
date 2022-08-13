@@ -12,7 +12,7 @@ My work in this area focuses on jointly analyzing different sources of data and 
 
 _Selected works:_
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+) _"A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"_. (under review)
-- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+) _"The construction and uses of reference centile chart for rare disease clinical development"_. (under review)
+- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+) _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_. (under review)
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022). _"Integrated Quantile RAnk Test (iQRAT) for gene-level associations"_. _Annals of Applied Statistics_, 16 (3) 1423 - 1444.
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). _"Testing microbiome association using integrated quantile regression models"_. _Bioinformatics_, 38(2), 419-425. 
 
