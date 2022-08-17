@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-   My research aims to develop and promote statistical learning methods to advance the science of public health and medicine. In particular, I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis**, and **high-dimensional statistics**. Much of my methodology research applies to genetic and genomic data analysis, microbiome data analysis, epidemiologic research, and climate data analysis. 
+   My research aims to develop and promote statistical learning methods to advance the science of public health and medicine. In particular, I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis**, and **high-dimensional statistics**. Much of my methodology research applies to genetic and genomic data analysis, microbiome data analysis, epidemiologic research, and environmental data analysis. 
    
 
 ### Quantile Regression Models for Complex Data
