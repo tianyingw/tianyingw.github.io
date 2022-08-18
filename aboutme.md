@@ -16,7 +16,7 @@ title: About me
        - Advisors: [Dr. Raymond J. Carroll](https://www.stat.tamu.edu/~carroll/) and [Dr. Irina Gaynanova](https://irinagain.github.io/)       
        - Dissertation: Topics in Measurement Error Analysis and High-dimensional Binary Classification
               
-   - _Bachelor (2010-2014), School of Statistics, Renmin University of China_   
+   - _B.S. (2010-2014), School of Statistics, Renmin University of China_   
        - Advisor: [Dr. Jianxin Yin](http://stat.ruc.edu.cn/en/teacher_more.php?cid=89248&id=65)     
        - Dissertation: Robust Quantile Regression with Graphical Model
 
