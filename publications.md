@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-<ins>Underline</ins> indicates student co-author; <b>*</b> indicates corresponding author.
+<ins>Underline</ins> indicates student co-author; <b>*</b> indicates the corresponding author.
 
 ### Under Review
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+) "ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development".
