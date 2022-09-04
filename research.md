@@ -3,24 +3,31 @@ layout: page
 title: Research
 ---
 
-   My research aims to develop and promote statistical learning methods to advance the science of public health and medicine. In particular, I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis**, and **high-dimensional statistics**. Much of my methodology research applies to genetic and genomic data analysis, microbiome data analysis, epidemiologic research, and environmental data analysis. 
+My primary research is centered around developing statistical theories and methodologies to promote statistical learning to advance the science of public health. Methodologically, I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis**, and **high-dimensional statistics**. Much of my methodology research applies to genetic and genomic data analysis, microbiome data analysis, epidemiologic research, and environmental data analysis. My recent research work is summarized below.
    
 
-### Quantile Regression Models for Complex Data
+### Quantile-based inference for heterogeneous genetic association studies
 
-My work in this area focuses on jointly analyzing different sources of data and examining different quantiles or subgroups of the population. To handle data heteroscedasticity, combining different data sets leads to more powerful analysis, and examining different subgroups helps give us a more comprehensive view of the entire population, further contributing to more precise analysis of the genetic effect and supporting personalized precision medicine.
+The first thread of my research focuses on the quantile regression model for nonlinear heterogeneous genetic association studies, which serves as a complementary to existing methods based on linear regression, leading to innovative discoveries on local nonlinear gene-trait associations and identifications of high-risk subgroups.
 
 _Selected works:_
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+) _"A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"_. (under review)
-- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+) _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_. (under review)
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022). _"Integrated Quantile RAnk Test (iQRAT) for gene-level associations"_. _Annals of Applied Statistics_, 16 (3) 1423 - 1444.
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). _"Testing microbiome association using integrated quantile regression models"_. _Bioinformatics_, 38(2), 419-425. 
 
+### Flexible Statistical Modeling with Zero-inflated Data
+
+The second thread of my research focuses on robust statistical modeling in zero-inflated data, such as microbiome count data, single-cell data, and natural history data for rare diseases. My research utilizes the feature of zero inflation and advances novel learning methods, which results in significant improvement of the test power and estimation accuracy. 
+
+- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+) _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_. (under review)
+- <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+) ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/pdf/2207.07796.pdf). 
+- Wang, Z. and **Wang, T.<b>*</b>** (2022+). “Inference on single index quantile regression with zero-inflated responses”, in preparation.
+- **Wang, T.<b>*</b>** (2022+). “Zero-inflated quantile regression model with error-prone covariates”, in preparation.
 
 
 ### Statistical Models for Measurement Error Analysis
 
-I develop novel statistical methods for correcting measurement errors in complex data. My work in detection and attribution analyses of climate change focuses on addressing temporally correlated measurement errors in optimal fingerprinting and the generalized extreme value regression. My other work in epidemiologic research focuses on providing valid statistical inference when the model is misspecified.
+The third thread of my work focuses on addressing error-in-variable issues in environmental statistics, which enables us to correctly estimate scaling factors of the fingerprints in the climate system and provide valid statistical inferences for the attribution and detection analyses of climate change.
 
 _Selected works:_
 - <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) _"Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"_. (under review)
