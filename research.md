@@ -30,7 +30,7 @@ _Selected works:_
 - Blas Achic, B.<sup><span>&#9830;</span></sup>, **Wang, T.<sup><span>&#9830;</span></sup>** , Su, Y., Kipnis, V., Dodd, K., and Carroll, R. J. (2018). _"Categorizing a Continuous Predictor Subject to Measurement Error"_. Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( <sup><span>&#9830;</span></sup> joint first authors)**. 
 
 
-<ins>Underline</ins> indicates student co-author; <b>*</b> indicates the corresponding author.
+<ins>Underline</ins> indicates a student working under my (co)supervision; <b>*</b> indicates the corresponding author.
 
 _**Please check [here](https://tianyingw.github.io/publications/) for more of my publications.**_
 
