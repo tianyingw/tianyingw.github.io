@@ -15,17 +15,18 @@ _Selected works:_
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022). _"Integrated Quantile RAnk Test (iQRAT) for gene-level associations"_. _Annals of Applied Statistics_, 16 (3) 1423 - 1444.
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). _"Testing microbiome association using integrated quantile regression models"_. _Bioinformatics_, 38(2), 419-425. 
 
-### Flexible Statistical Modeling with Zero-inflated Data
+### Flexible statistical modeling with zero-inflated data
 
 The second thread of my research focuses on robust statistical modeling in zero-inflated data, such as microbiome count data, single-cell data, and natural history data for rare diseases. My research utilizes the feature of zero inflation and advances novel learning methods, which results in significant improvement of the test power and estimation accuracy. 
 
+_Selected works:_
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+) _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_. (under review)
-- <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+) ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/pdf/2207.07796.pdf). 
-- Wang, Z. and **Wang, T.<b>*</b>** (2022+). “Inference on single index quantile regression with zero-inflated responses”, in preparation.
-- **Wang, T.<b>*</b>** (2022+). “Zero-inflated quantile regression model with error-prone covariates”, in preparation.
+- <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_. (under review)
+- <ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+). _“Inference on single index quantile regression with zero-inflated responses”_, in preparation.
+- **Wang, T.<b>*</b>** (2022+). _“Zero-inflated quantile regression model with error-prone covariates”_, in preparation.
 
 
-### Statistical Models for Measurement Error Analysis
+### Robust statistical analysis on the errors-in-variables problem
 
 The third thread of my work focuses on addressing error-in-variable issues in environmental statistics, which enables us to correctly estimate scaling factors of the fingerprints in the climate system and provide valid statistical inferences for the attribution and detection analyses of climate change.
 
