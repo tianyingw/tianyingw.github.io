@@ -3,7 +3,7 @@ layout: page
 title: Showcase
 ---
 
-Welcome to the gallery of research projects with undergraduate students! Here are three examples representing methodological/theoretical/applied works, respectively. More on the way!
+Welcome to the gallery of research projects with undergraduate students I supervised at Tsinghua University. Here are three examples representing methodological/theoretical/applied works, respectively. More on the way!
 
 ## Modeling zero-inflated data with error-in-variables
 - Student's name: Roulan Jiang. (This work was conducted under my supervision when Jiang was a senior undergraduate student at Tsinghua University.)
