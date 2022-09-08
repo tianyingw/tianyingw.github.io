@@ -7,6 +7,8 @@ title: Software
 
 - _Developed and maintained:_
    
+   - [ZIPG](github.com/roulan2000/ZIPG) _(Zero-Inflated Poisson-Gamma)_: The R apckage ZIPG provides a flexible Zero-inflated Poisson-Gamma Model model for microbiome count data by connecting both mean abundance and the variability to different covariates. It implements the method from ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/pdf/2207.07796.pdf).
+   
    - [QTWAS](https://github.com/tianyingw/QTWAS) _(Quantile Transcriptome-Wide Association Analysis)_: We provide a quantile tool for investigating nonlinear gene-trait associations in Transcriptome-Wide Association Analysis (TWAS). It impelents the method from [A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations (2022+)](https://arxiv.org/pdf/2207.12081.pdf). More information can be found on [this webpage](https://tianyingw.github.io/QTWAS/).
   
    - [iQRAT](https://github.com/tianyingw/iQRAT) _(Integrated Quantile RAnk Test)_: The R package iQRAT provides an efficient quantile rank test for heterogeneous association in sequencing study. It implements the method from [Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies (2022)](https://arxiv.org/abs/1910.10102).
