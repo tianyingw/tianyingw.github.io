@@ -48,6 +48,8 @@ We provide pre-trained QTWAS models per gene for 49 tissues in [GTEx v8](https:/
   - Download [Significant genes](https://www.dropbox.com/sh/qd21drdjdcz3t5h/AADGM3JwZ6SkkG9syIJDaXHIa?dl=0) per tissue per trait for all 49 tissues
     
   - Download [QTWAS p values for all genes]() per tissues per trait for all 49 tissues
+  
+  We also developed a Shiny app to visualize the results: [tianyingw.shinyapps.io/QTWAS/](https://tianyingw.shinyapps.io/QTWAS/).
     
 #### 797 UK Biobank traits
    
