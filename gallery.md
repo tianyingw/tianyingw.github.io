@@ -16,7 +16,7 @@ connecting both mean abundance and the variability to different covariates, and 
 ## Quantile TWAS Genome Browser (Shiny app)
 - **Student's name:** Weijing Yin. (This work was conducted as a summer project in 2022 when Weijing was a sophomore undergraduate student at Tsinghua University.)
 - **Summary:** This visualization is based on QTWAS, a quantile regression model for Transcriptome-wide Association Studies (TWAS). Here we provide QTWAS results on the summary statistics from ten GWAS studies on brain disorders, including five neuropsychiatric traits: schizophrenia (SCZ), attention-deficit/hyperactivity disorder (ADHD), bipolar disorder (BD), autism spectrum disorder (ASD), and major depressive disorder (MDD); and four neurodegenerative traits: Alzheimer’s disease (AD_Kunkle and AD_Jansen), Parkinson’s disease (PD), multiple sclerosis (MS) and amyotrophic lateral sclerosis (ALS). 
-- **App link:** [http://tianyingw.shinyapps.io/QTWAS](http://tianyingw.shinyapps.io/QTWAS).
+- **App link:** [tianyingw.shinyapps.io/QTWAS/](https://tianyingw.shinyapps.io/QTWAS/).
 
 
 ## Inference on single-index zero-inflated quantile regression models
