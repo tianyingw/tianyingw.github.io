@@ -29,7 +29,7 @@ navbar-links:
   Research: 
      - Overview: "research"
      - Talks: "Talks"
-     - Showcase: "Gallery"
+     - Showcase: "gallery"
      - QTWAS: "QTWAS"   
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
