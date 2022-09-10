@@ -3,7 +3,7 @@ layout: page
 title: Showcase
 ---
 
-Welcome to the gallery of research projects with undergraduate students I supervised at Tsinghua University. Here are some examples. More on the way!
+Welcome! Here are some research projects with undergraduate students under my supervision at Tsinghua University. More on the way!
 
 ## Modeling zero-inflated data with error-in-variables
 
