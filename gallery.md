@@ -7,7 +7,7 @@ Welcome! Here are some research projects with undergraduate students under my su
 
 ## Modeling zero-inflated data with error-in-variables
 
-- **Student's name:** Roulan Jiang. (This work was conducted when Roulan was a senior undergraduate student at Tsinghua University from 2021-2022.)
+- **Student's name:** Roulan Jiang. (This work was conducted when Roulan was a senior at Tsinghua University from 2021-2022.)
 
 <img align="right" src="/img/Romero_32_violin_pre_Race01.jpg" alt="" width="400">
 
@@ -18,7 +18,7 @@ interest. We propose a Zero-Inflated Poisson Gamma (ZIPG) framework to address t
 
 
 ## Quantile TWAS Genome Browser (Shiny app)
-- **Student's name:** Weijing Yin. (This work was conducted as a summer project in 2022 when Weijing was a sophomore undergraduate student at Tsinghua University.)
+- **Student's name:** Weijing Yin. (This work was conducted as a summer project in 2022 when Weijing was a sophomore at Tsinghua University.)
 
 <img align="right" src="/img/shiny.png" alt="" width="400">
 
