@@ -3,7 +3,7 @@ layout: page
 title: Showcase
 ---
 
-Welcome to the gallery of research projects with undergraduate students I supervised at Tsinghua University. Here are three examples. More on the way!
+Welcome to the gallery of research projects with undergraduate students I supervised at Tsinghua University. Here are some examples. More on the way!
 
 ## Modeling zero-inflated data with error-in-variables
 
@@ -27,9 +27,4 @@ interest. We propose a Zero-Inflated Poisson Gamma (ZIPG) framework to address t
 - **App link:** [tianyingw.shinyapps.io/QTWAS/](https://tianyingw.shinyapps.io/QTWAS/).
 
 
-## Inference on single-index zero-inflated quantile regression models
-- **Student's name:** Zirui Wang. (This work is still ongoing. Zirui is a senior undergraduate student at Tsinghua University.)
 
-- **Summary:** Single index models provide flexible data analysis than linear model while remaining interpretability. Though single-index model has been studied under the quantile regression framework, it cannot be applied directly to zero-inflated outcomes, which are commonly observed in single-cell data, microbiome data, counts data, etc. In this paper, we propose a single-index quantile regression model for zero-inflated outcomes. We establish the asymptotic normality of the index coefficients estimator as well as the entire quantile regression curve. Through extensive numerical studies and applications with UK Biobank data, we illustrate the performance of our approach and validate our asymptotic results.
-
-- **Related paper:** will be posted on arXiv soon.
