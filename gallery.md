@@ -12,6 +12,8 @@ Welcome to the gallery of research projects with undergraduate students I superv
 interest. We propose a Zero-Inflated Poisson Gamma (ZIPG) framework to address the aforementioned challenges. From a perspective of measurement errors, we accommodate the discrepancy between observations and truths by decomposing the mean parameter in Poisson regression into a true abundance level and a multiplicative measurement of sampling variability from the microbial ecosystem. Then, we provide flexible modeling by
 connecting both mean abundance and the variability to different covariates, and build valid statistical inference procedures for both parameter estimation and hypothesis testing. Through comprehensive simulation studies and real data applications, the proposed ZIPG method provides significant insights into distinguished differential variability and abundance.
 
+<img align="right" src="/img/Romero_32_violin_pre_Race01.jpg" alt="" width="500">
+
 
 ## Quantile TWAS Genome Browser (Shiny app)
 - **Student's name:** Weijing Yin. (This work was conducted as a summer project in 2022 when Weijing was a sophomore undergraduate student at Tsinghua University.)
