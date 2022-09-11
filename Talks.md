@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Talks
+title: Invited Talks
 ---
-
-### Invited talks:
 
 - The 12th ICSA International Conference, Hong Kong (12/2022, incoming)
 
 - The 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London (12/2022, incoming)
+
+- Department of Biostatistics, Peking University, Beijing (09/2022)
 
 - International Chinese Statistical Association (ICSA) China 2022 Conference, Xi'an (07/2022)
 
