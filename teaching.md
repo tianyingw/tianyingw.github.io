@@ -7,24 +7,24 @@ title: Teaching
 ------------------------------------------------------
 
 ### Advanced Statistical Methods (Fall 2022)
-  - graduate-level (Ph.D., required for qualifying exam); taught in English;
-  - linear mixed model, GLM,  MLE, ANOVA,  survival analysis, etc.
+  - Graduate-level (Ph.D., required for qualifying exam); taught in English;
+  - Linear mixed model, GLM,  MLE, ANOVA,  survival analysis, etc.
 
 ### Introduction to Biostatistics (Spring 2022)
-   - undergraduate-level; taught in English;
+   - Undergraduate-level; taught in English;
    - ANOVA, categorical data analysis, survival analysis, design and analysis of clinical trials, etc.
 
 ### Advanced Topics in Statistics IV: Statistical Genetics (Spring 2022)
-  - graduate-level (Ph.D.); taught in English & Mandarin;
-  - population generics, association analyses, genome-wide association analysis, functional genomics and integration of functional genomics and genetic data, etc.
+  - Graduate-level (Ph.D.); taught in English & Mandarin;
+  - Population generics, association analyses, genome-wide association analysis, functional genomics and integration of functional genomics and genetic data, etc.
 
 ### High dimensional Statistics (Fall 2021)
-  - graduate-level (Ph.D.); taught in English;
-  - optimization theory, LASSO and generalizations of the LASSO penalty, theory for LASSO prediction and variable selection consistency, etc.
+  - Graduate-level (Ph.D.); taught in English;
+  - Optimization theory, LASSO and generalizations of the LASSO penalty, theory for LASSO prediction and variable selection consistency, etc.
 
 ### Multivariate Statistical Analysis (Spring 2021)
-  - undergraduate-level; taught in English & Mandarin;
-  - matrix algebra, multivariate normal distribution, principal component analysis, discriminant analysis, factor analysis, canonical corelation analysis
+  - Undergraduate-level; taught in English & Mandarin;
+  - Matrix algebra, multivariate normal distribution, principal component analysis, discriminant analysis, factor analysis, canonical corelation analysis
   
 
 
