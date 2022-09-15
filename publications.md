@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Articles
 ---
 <ins>Underline</ins> indicates a student working under my (co)supervision; <b>*</b> indicates the corresponding author.
 
