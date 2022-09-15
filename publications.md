@@ -4,6 +4,14 @@ title: Articles
 ---
 <ins>Underline</ins> indicates a student working under my (co)supervision; <b>*</b> indicates the corresponding author.
 
+### In Preparation
+- <ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+). _“Inference on single index quantile regression with zero-inflated responses”_.
+- <ins>Wang, Y.</ins> and **Wang, T.<b>*</b>** (2022+). _"Multi-group sparse discriminant analysis"_.
+- **Wang, T.<b>*</b>** (2022+). _“Zero-inflated quantile regression model with error-prone covariates”_.
+- "Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions" (with Liu, J.).
+- "Estimation of latent group structures with heterogeneous multivariate response variable" (with Ma, Y. and Wei, Y.).
+- "Optimal fingerprinting in extreme value modeling with errors-in-variables" (with Yan, J., Lau, A., and Zhang, X.)
+
 ### Under Review
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+) "ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development".
 
