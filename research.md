@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-My primary research is centered around developing statistical theories and methodologies to promote statistical learning in the emerging field of data science. Methodologically, I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis**, and **high-dimensional statistics**. Much of my methodology research applies to **genetic and genomic data analysis**, **microbiome data analysis**, **epidemiologic research**, and **environmental statistics**. My recent research work is summarized below.
+My primary research is centered around developing statistical theories and methodologies to promote statistical learning in the emerging field of data science, especially on data heterogeneity and model interpretability. Methodologically, I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis**, and **high-dimensional statistics**. Much of my methodology research applies to **genetic and genomic data analysis**, **microbiome data analysis**, **epidemiologic research**, and **environmental statistics**. My recent research work is summarized below.
    
 
 ### Quantile-based inference for heterogeneous genetic association studies
