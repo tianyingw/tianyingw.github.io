@@ -6,7 +6,7 @@ title: Research
 My primary research is centered around developing statistical theories and methodologies to promote statistical learning in the emerging field of data science, especially on data heterogeneity and model interpretability. Methodologically, I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis**, and **high-dimensional statistics**. Much of my methodology research applies to **genetic and genomic data analysis**, **microbiome data analysis**, **epidemiologic research**, and **environmental statistics**. My recent research work is summarized below.
    
 
-### Quantile-based inference for heterogeneous genetic association studies
+### Quantile-based inference for heterogeneous association studies
 
 The first thread of my research focuses on the quantile regression model for nonlinear heterogeneous genetic association studies, which serves as a complementary to existing methods based on linear regression, leading to innovative discoveries on local nonlinear gene-trait associations and identifications of high-risk subgroups.
 
