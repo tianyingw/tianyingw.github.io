@@ -3,13 +3,12 @@ layout: page
 title: Research
 ---
 
-My primary research is centered around developing statistical theories and methodologies to promote statistical learning in the emerging field of data science, especially on data heterogeneity and model interpretability. Methodologically, I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis**, and **high-dimensional statistics**. Much of my methodology research applies to **genetic and genomic data analysis**, **microbiome data analysis**, **epidemiologic research**, and **environmental statistics**. My recent research work is summarized below.
+With the increasingly large and complex data generated and need to be analyzed, statistics is highly interdisciplinary and rapidly expanding among the sciences. My primary research is centered around developing statistical theories and methodologies to promote statistical learning in complex data, especially on data heterogeneity and model interpretability. Methodologically, I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis**, and **high-dimensional statistics**. Much of my methodology research applies to **genetic and genomic data analysis**, **microbiome data analysis**, **epidemiologic research**, and **environmental statistics**. My recent research work is summarized below.
    
 
 ### Quantile-based inference for heterogeneous association studies
 
-The first thread of my research focuses on the quantile regression model for nonlinear heterogeneous genetic association studies, which serves as a complementary to existing methods based on linear regression, leading to innovative discoveries on local nonlinear gene-trait associations and identifications of high-risk subgroups.
-
+The first thread of my research focuses on nonlinear heterogeneous genetic association studies based on quantile regression, which is complementary to existing methods based on linear regression, leading to innovative discoveries on local nonlinear gene-trait associations and identifications of high-risk subgroups.
 
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+) _"A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"_, under review.
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022). _"Integrated Quantile RAnk Test (iQRAT) for gene-level associations"_. _Annals of Applied Statistics_, 16 (3) 1423 - 1444.
@@ -17,8 +16,7 @@ The first thread of my research focuses on the quantile regression model for non
 
 ### Flexible statistical modeling with zero-inflated data
 
-The second thread of my research focuses on robust statistical modeling in zero-inflated data, such as microbiome count data, single-cell data, and natural history data for rare diseases. My research utilizes the feature of zero inflation and advances novel learning methods, which results in significant improvement of the test power and estimation accuracy. 
-
+The second thread of my research focuses on robust statistical modeling in zero-inflated data, which is commonly seen in various studies, such as microbiome data analysis. My work is more robust and utilizes the data generation rationale of the zeros, resulting in significant improvement of the test power and estimation accuracy. 
 
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+) _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_, under review.
 - <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_, under review.
@@ -28,8 +26,7 @@ The second thread of my research focuses on robust statistical modeling in zero-
 
 ### Robust statistical analysis on the errors-in-variables problem
 
-The third thread of my work focuses on addressing error-in-variable issues in environmental statistics, which enables us to correctly estimate scaling factors of the fingerprints in the climate system and provide valid statistical inferences for the attribution and detection analyses of climate change.
-
+The third thread of my work focuses on addressing error-in-variable issues with complex structured data, such as in environmental statistics. My recent work on climate data analysis enables us to correctly estimate scaling factors of the fingerprints in the climate system and provide valid statistical inferences for the attribution and detection analyses of climate change.
 
 - <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) _"Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"_, under review.
 - <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) _"Optimal Fingerprinting with Estimating Equations"_, under review.
