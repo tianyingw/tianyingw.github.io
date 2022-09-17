@@ -6,7 +6,7 @@ title: Research
 With the increasingly large and complex data generated and need to be analyzed, statistics is highly interdisciplinary and rapidly expanding among the sciences. My primary research is centered around developing statistical theories and methodologies to promote statistical learning in complex data, especially on data heterogeneity and model interpretability. Methodologically, I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis**, and **high-dimensional statistics**. Much of my methodology research applies to **genetic and genomic data analysis**, **microbiome data analysis**, **epidemiologic research**, and **environmental statistics**. My recent research work is summarized below.
    
 
-### Quantile-based inference for heterogeneous association studies
+### Quantile-based inference for heterogeneous genetic association studies
 
 The first thread of my research focuses on nonlinear heterogeneous genetic association studies based on quantile regression, which is complementary to existing methods based on linear regression, leading to innovative discoveries on local nonlinear gene-trait associations and identifications of high-risk subgroups.
 
@@ -14,7 +14,7 @@ The first thread of my research focuses on nonlinear heterogeneous genetic assoc
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022). _"Integrated Quantile RAnk Test (iQRAT) for gene-level associations"_. _Annals of Applied Statistics_, 16 (3) 1423 - 1444.
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). _"Testing microbiome association using integrated quantile regression models"_. _Bioinformatics_, 38(2), 419-425. 
 
-### Flexible statistical modeling with zero-inflated data
+### Novel statistical methods for handling zero-inflated data
 
 The second thread of my research focuses on robust statistical modeling in zero-inflated data, which is commonly seen in various studies, such as microbiome data analysis. My work is more robust and utilizes the data generation rationale of the zeros, resulting in significant improvement of the test power and estimation accuracy. 
 
@@ -24,7 +24,7 @@ The second thread of my research focuses on robust statistical modeling in zero-
 - **Wang, T.<b>*</b>** (2022+). _“Zero-inflated quantile regression model with error-prone covariates”_, in preparation.
 
 
-### Robust statistical analysis on the errors-in-variables problem
+### Statistical analyses on the errors-in-variables issue with complex data
 
 The third thread of my work focuses on addressing error-in-variable issues with complex structured data, such as in environmental statistics. My recent work on climate data analysis enables us to correctly estimate scaling factors of the fingerprints in the climate system and provide valid statistical inferences for the attribution and detection analyses of climate change.
 
