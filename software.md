@@ -7,7 +7,7 @@ title: Software
 
 - _Developed and maintained:_
    
-   - [ZIPG](github.com/roulan2000/ZIPG) _(Zero-Inflated Poisson-Gamma)_: The R apckage ZIPG provides a flexible Zero-inflated Poisson-Gamma Model model for microbiome count data by connecting both mean abundance and the variability to different covariates. It implements the method from ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/pdf/2207.07796.pdf).
+   - [ZIPG](https://github.com/roulan2000/ZIPG) _(Zero-Inflated Poisson-Gamma)_: The R apckage ZIPG provides a flexible Zero-inflated Poisson-Gamma Model model for microbiome count data by connecting both mean abundance and the variability to different covariates. It implements the method from ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/pdf/2207.07796.pdf).
    
    - [QTWAS](https://github.com/tianyingw/QTWAS) _(Quantile Transcriptome-Wide Association Analysis)_: We provide a quantile tool for investigating nonlinear gene-trait associations in Transcriptome-Wide Association Analysis (TWAS). It impelents the method from [A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations (2022+)](https://arxiv.org/pdf/2207.12081.pdf). More information can be found on [this webpage](https://tianyingw.github.io/QTWAS/).
   
