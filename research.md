@@ -36,6 +36,13 @@ The third thread of my work focuses on addressing error-in-variable issues with 
 
 
 <ins>Underline</ins> indicates a student working under my (co)supervision; <b>*</b> indicates the corresponding author.
-
 _**Please check [here](https://tianyingw.github.io/publications/) for more of my publications.**_
+
+
+### Working projects
+
+- "_Estimation of latent group structures with heterogeneous multivariate response variable_" (with Ma, Y. and Wei, Y.).
+- "_Optimal fingerprinting in extreme value modeling with errors-in-variables_" (with Yan, J., Lau, A., and Zhang, X.).
+- "_Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions_" (with Liu, J.).
+
 
