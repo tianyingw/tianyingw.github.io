@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Overview
 ---
 <p align="justify">
 With the increasingly large and complex data generated and need to be analyzed, statistics is highly interdisciplinary and rapidly expanding among the sciences. My primary research is centered around developing statistical theories and methodologies to promote statistical learning in complex data, especially on data heterogeneity and model interpretability. Methodologically, I work in <b>quantile regression</b>, <b>measurement error analysis</b>, <b>semi-parametric analysis</b>, and <b>high-dimensional statistics</b>. Much of my methodology research applies to <b>genetic and genomic data analysis</b>, <b>microbiome data analysis</b>, <b>epidemiologic research</b>, and <b>environmental statistics</b>. 
