@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Undergraduate Student Research Training
+fontsize: 12pt
 ---
 
 Welcome! I have supervised ten undergraduate students at Tsinghua University with various research training projects, including statistical methodologies on modeling zero-inflated data, multivariate regression, low-rank approximation, genetic association studies, etc. Here are some examples. More on the way!
