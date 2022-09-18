@@ -35,7 +35,7 @@ navbar-links:
   #  - GitHub Pages: "https://pages.github.com/"
   Education: 
      - Teaching: "teaching"
-     - Mentoring: "gallery"
+     - Training: "gallery"
      - Talks: "Talks"
   Resources:
      - R: "software"
