@@ -10,13 +10,9 @@ Welcome! Here are some research projects with undergraduate students under my su
 - **Student's name:** Roulan Jiang. (This work was conducted when Roulan was a senior at Tsinghua University from 2021-2022.)
 
 <img align="right" src="/img/Romero_32_violin_pre_Race01.jpg" alt="" width="400">
-
-<p align="justify">
-
-<ul>
-  <li> <b>Summary:</b> In microbiome studies, it is of interest to use a sample from a population of microbes, such as the gut microbiota community, to estimate the population proportion of these taxa. However, due to biases introduced in sampling and preprocessing steps, these observed taxa abundances may not reflect true taxa abundance patterns in the ecosystem. Repeated measures including longitudinal study designs may be potential solutions to mitigate the discrepancy between observed abundances and true underlying abundances. Yet, widely observed zero-inflation and over-dispersion issues can distort downstream statistical analyses aiming to associate taxa abundances with covariates of
-interest. We propose a Zero-Inflated Poisson Gamma (ZIPG) framework to address the aforementioned challenges. The above figure shows how the estimated differential variability of a taxon in pregnant women changes over age.</li>  
-</ul>
+- **Summary:** <p align="justify"> 
+  In microbiome studies, it is of interest to use a sample from a population of microbes, such as the gut microbiota community, to estimate the population proportion of these taxa. However, due to biases introduced in sampling and preprocessing steps, these observed taxa abundances may not reflect true taxa abundance patterns in the ecosystem. Repeated measures including longitudinal study designs may be potential solutions to mitigate the discrepancy between observed abundances and true underlying abundances. Yet, widely observed zero-inflation and over-dispersion issues can distort downstream statistical analyses aiming to associate taxa abundances with covariates of
+interest. We propose a Zero-Inflated Poisson Gamma (ZIPG) framework to address the aforementioned challenges. The above figure shows how the estimated differential variability of a taxon in pregnant women changes over age.
 </p>
 - **Related paper:** <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+) ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/pdf/2207.07796.pdf), under review.
 
