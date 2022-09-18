@@ -26,9 +26,10 @@ navbar-links:
   Home: "http://tianyingw.github.io"
   People:
      - About Me: "aboutme"
-     - Openings: "openings"
-  Articles: "publications"
-  Research: "research"
+     - Opportunities: "openings"
+  Research: 
+     - Overview: "research"
+     - Articles: "publications"
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   #  - GitHub Pages: "https://pages.github.com/"
