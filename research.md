@@ -21,12 +21,13 @@ The first thread of my research focuses on nonlinear heterogeneous genetic assoc
 ### Novel statistical methods for handling zero-inflated data
 <p align="justify">
 The second thread of my research focuses on robust statistical modeling in zero-inflated data, which is commonly seen in various studies, such as microbiome data analysis. My work is more robust and utilizes the data generation rationale of the zeros, resulting in significant improvement of the test power and estimation accuracy. 
+</p>
 
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+) _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_, under review.
 - <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_, under review.
 - <ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+). _“Inference on single index quantile regression with zero-inflated responses”_, in preparation.
 - **Wang, T.<b>*</b>** (2022+). _“Zero-inflated quantile regression model with error-prone covariates”_, in preparation.
-</p>
+
 
 ### Statistical analyses on the errors-in-variables issue with complex data
 <p align="justify">
