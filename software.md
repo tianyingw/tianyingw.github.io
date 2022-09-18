@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Software
+title: R packages
 ---
 
-### R packages:
-
-- _Developed and maintained:_
+### Developed and maintained:
    
    - [ZIPG](https://github.com/roulan2000/ZIPG) _(Zero-Inflated Poisson-Gamma)_: The R apckage ZIPG provides a flexible Zero-inflated Poisson-Gamma Model model for microbiome count data by connecting both mean abundance and the variability to different covariates. It implements the method from [A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data (2022+)](https://arxiv.org/pdf/2207.07796.pdf).
    
@@ -21,12 +19,9 @@ title: Software
   - [CCP](https://github.com/tianyingw/CCP) _(Categorize a Continuous Predictor)_: The R package CCP provides tools for correcting the bias due to measurement error when the continuous risk predictor is categorized. The package includes logistic and linear regression, considering when external data are or are not provided. It implements the method from [categorizing a continuous predictor subject to measurement error (2018)](https://projecteuclid.org/euclid.ejs/1544518836).
     
 
-- _Contributed:_
+### Contributed:
 
   - [deconvolve](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html): The R package deconvolve provides tools for performing non-parametric deconvolution on measurement error problems. It contains functions for finding bandwidths, deconvolved densities and non-parametric regression estimates.
 
   - [MiRKAT](https://cran.r-project.org/web/packages/MiRKAT/index.html): Test for overall association between microbiome composition data and phenotypes via phylogenetic kernels. It includes the method from [Testing microbiome association using integrated quantile regression models (2022)](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494).
 
-### Shiny app:
-
-- [QTWAS Genome Browser](https://tianyingw.shinyapps.io/QTWAS/): Visualize quantile TWAS results in [A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations (2022+)](https://arxiv.org/pdf/2207.12081.pdf).
