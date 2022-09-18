@@ -1,12 +1,7 @@
 ---
 layout: page
-title: Undergraduate Student Research Training
+title: Training
 ---
-<style type="text/css">
-title {
-  font-size: 25px;
-}
-</style>
 
 <p align="justify">
 Welcome! I have supervised ten undergraduate students at Tsinghua University with various research training projects, including statistical methodologies on modeling zero-inflated data, multivariate regression, low-rank approximation, genetic association studies, etc. Here are some examples. More on the way!
