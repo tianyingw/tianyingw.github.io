@@ -12,20 +12,21 @@ My recent research work is summarized below. (<ins>Underline</ins> indicates a s
 ### Quantile-based inference for heterogeneous genetic association studies
 <p align="justify">
 The first thread of my research focuses on nonlinear heterogeneous genetic association studies based on quantile regression, which is complementary to existing methods based on linear regression, leading to innovative discoveries on local nonlinear gene-trait associations and identifications of high-risk subgroups.
-</p>
+
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+) _"A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"_, under review.
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022). _"Integrated Quantile RAnk Test (iQRAT) for gene-level associations"_. _Annals of Applied Statistics_, 16 (3) 1423 - 1444.
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). _"Testing microbiome association using integrated quantile regression models"_. _Bioinformatics_, 38(2), 419-425. 
+</p>
 
 ### Novel statistical methods for handling zero-inflated data
 <p align="justify">
 The second thread of my research focuses on robust statistical modeling in zero-inflated data, which is commonly seen in various studies, such as microbiome data analysis. My work is more robust and utilizes the data generation rationale of the zeros, resulting in significant improvement of the test power and estimation accuracy. 
-</p>
+
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+) _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_, under review.
 - <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_, under review.
 - <ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+). _“Inference on single index quantile regression with zero-inflated responses”_, in preparation.
 - **Wang, T.<b>*</b>** (2022+). _“Zero-inflated quantile regression model with error-prone covariates”_, in preparation.
-
+</p>
 
 ### Statistical analyses on the errors-in-variables issue with complex data
 <p align="justify">
