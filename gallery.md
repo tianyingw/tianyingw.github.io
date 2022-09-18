@@ -3,7 +3,7 @@ layout: page
 title: Undergraduate Student Research Training
 ---
 <style type="text/css">
-h1.title {
+title {
   font-size: 25px;
 }
 </style>
