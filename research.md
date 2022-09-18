@@ -3,7 +3,9 @@ layout: page
 title: Research
 ---
 
-With the increasingly large and complex data generated and need to be analyzed, statistics is highly interdisciplinary and rapidly expanding among the sciences. My primary research is centered around developing statistical theories and methodologies to promote statistical learning in complex data, especially on data heterogeneity and model interpretability. Methodologically, I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis**, and **high-dimensional statistics**. Much of my methodology research applies to **genetic and genomic data analysis**, **microbiome data analysis**, **epidemiologic research**, and **environmental statistics**. My recent research work is summarized below.
+With the increasingly large and complex data generated and need to be analyzed, statistics is highly interdisciplinary and rapidly expanding among the sciences. My primary research is centered around developing statistical theories and methodologies to promote statistical learning in complex data, especially on data heterogeneity and model interpretability. Methodologically, I work in **quantile regression**, **measurement error analysis**, **semi-parametric analysis**, and **high-dimensional statistics**. Much of my methodology research applies to **genetic and genomic data analysis**, **microbiome data analysis**, **epidemiologic research**, and **environmental statistics**. 
+
+My recent research work is summarized below. (<ins>Underline</ins> indicates a student working under my (co)supervision; <b>*</b> indicates the corresponding author.)
    
 
 ### Quantile-based inference for heterogeneous genetic association studies
@@ -33,12 +35,7 @@ The third thread of my work focuses on addressing error-in-variable issues with 
 - <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_, under review.
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2022+) _"Gaussian Processes with Errors in Variables: theory and computation"_, under review.
 - Blas Achic, B.<sup><span>&#9830;</span></sup>, **Wang, T.<sup><span>&#9830;</span></sup>** , Su, Y., Kipnis, V., Dodd, K., and Carroll, R. J. (2018). _"Categorizing a Continuous Predictor Subject to Measurement Error"_. Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( <sup><span>&#9830;</span></sup> joint first authors)**. 
-
-
-<ins>Underline</ins> indicates a student working under my (co)supervision; <b>*</b> indicates the corresponding author.
-
-_**Please check [here](https://tianyingw.github.io/publications/) for more of my publications.**_
-
+- 
 
 ### Working projects
 
@@ -46,4 +43,5 @@ _**Please check [here](https://tianyingw.github.io/publications/) for more of my
 - "_Optimal fingerprinting in extreme value modeling with errors-in-variables_" (with Yan, J., Lau, A., and Zhang, X.).
 - "_Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions_" (with Liu, J.).
 
+_**Please check [here](https://tianyingw.github.io/publications/) for more of my publications.**_
 
