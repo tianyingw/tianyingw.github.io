@@ -4,7 +4,7 @@ title: Training
 ---
 
 <p align="justify">
-Welcome! I have supervised ten undergraduate students at Tsinghua University with various research training projects, including statistical methodologies on modeling zero-inflated data, multivariate regression, low-rank approximation, genetic association studies, etc. As a mentor, I am committed to learning what each student needs to succeed and encouraging active learning skills to carry forward. Here are some examples. More on the way!
+Welcome! As a mentor, I am committed to learning what each student needs to succeed and encouraging active learning skills to carry forward. I have supervised ten undergraduate students at Tsinghua University with various research training projects, including statistical methodologies on modeling zero-inflated data, multivariate regression, low-rank approximation, genetic association studies, etc. Here are some examples. More on the way!
 </p>
 
 ## Modeling zero-inflated data with error-in-variables
