@@ -4,7 +4,7 @@ title: Training
 ---
 
 <p align="justify">
-As a mentor, I am committed to learning what each student needs to succeed and encouraging active learning skills to carry forward. I have supervised ten undergraduate students at Tsinghua University with various research training projects, including statistical methodologies on modeling zero-inflated data, multivariate regression, low-rank approximation, genetic association studies, etc. Here are some examples. More on the way! 
+I am committed to learning what each student needs to succeed and encouraging active learning skills to carry forward. I have supervised various undergraduate students' research training projects, including statistical and computational methodologies on modeling zero-inflated data, multivariate regression, low-rank approximation, genetic association studies, etc. Here are some examples. More on the way! 
 </p>
 
 [Research opportunities](https://tianyingw.github.io/openings/) are open to highly motivated students. Interested individuals are encouraged to reach out for more details. 
