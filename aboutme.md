@@ -3,7 +3,9 @@ layout: page
 title: About me
 ---
 
+<p align="justify">
 My career goal includes developing state-of-art statistical and machine learning methods for solving data-driven problems, advancing statistical theory in the emerging field of data science, and harnessing real-world evidence for decision-making and precision medicine. 
+</p>
 
 ### Working Experience:
    
