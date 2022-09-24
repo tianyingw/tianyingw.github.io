@@ -30,7 +30,6 @@ title: Articles
 - **Wang, T.<b>*</b>** and Asher, A. (2021). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) _Statistics in Biosciences_, 13, 386–401. 
 - Plantinga, A., Wilson, N., Zheng, H., **Wang, T.**, Zhan, Z., Wu, M., Zhao, N., and Chen, J. (2021) ["MiRKAT: Microbiome Regression-Based Analysis Tests"](https://CRAN.R-project.org/package=MiRKAT).
 - Gaynanova, I. and **Wang, T.** (2019). ["Sparse quadratic classification rules via linear dimension reduction".](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6516858/) _Journal of Multivariate Analysis_, 169, 278-299. 
-[R package: DAP](https://cran.r-project.org/web/packages/DAP/index.html)
 - Blas Achic, B.<sup><span>&#9830;</span></sup>, **Wang, T.<sup><span>&#9830;</span></sup>** , Su, Y., Kipnis, V., Dodd, K., and Carroll, R. J. (2018). ["Categorizing a Continuous Predictor Subject to Measurement Error".](https://projecteuclid.org/euclid.ejs/1544518836) Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( <sup><span>&#9830;</span></sup> joint first authors)**. 
 - Li, H., Staudenmayer, J., **Wang, T.**, Keadle, S. K., and Carroll, R. J. (2018). ["Three-part joint modeling methods for complex functional data mixed with zero-and-one–inflated proportions and zero‐inflated continuous outcomes with skewness".](https://www.ncbi.nlm.nih.gov/pubmed/29052239) _Statistics in medicine_, 37(4), 611-626.
 - Johnson, V., Payne, R., **Wang, T.**, Asher, A., and Mandal, S. (2017).
