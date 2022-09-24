@@ -37,7 +37,7 @@ LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.ne
 
 **[My Google Scholar](https://scholar.google.com/citations?user=YKB6YmgAAAAJ&hl=en&oi=ao)**
 
-
+I view open science practices as an important way to increase access and participation in academic research. Please check [here](https://tianyingw.github.io/software/) for all open-source software related to my articles. 
 
 
 
