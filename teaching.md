@@ -3,8 +3,12 @@ layout: page
 title: Teaching
 ---
 
-My office hour in Fall 2022: every Friday 16:00-17:00 (Weiqing Building 212A, Tsinghua University).
-[Make an appointment here](mailto:tianyingw@tsinghua.edu.cn)
+
+
+- **Office hour (Fall 2022):** every Friday 16:00-17:00 at Weiqing Building 212A, Tsinghua University.
+[(Schedule an appointment here)](mailto:tianyingw@tsinghua.edu.cn)
+
+- Having questions about the courses I taught or comments on my teaching? Let me know by filling out this (anonymous) [survey]()! 
 
 
 ## Courses taught at Tsinghua University
