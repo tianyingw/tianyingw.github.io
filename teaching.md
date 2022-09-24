@@ -2,9 +2,8 @@
 layout: page
 title: Teaching
 ---
-<p align="justify">
+
 I am committed to providing an ear and a voice to all students with respect to Inclusion, Diversity, Belonging, and Equity and to achieving a culture that lives up to the definition of these words. If you have any questions, comments, or suggestions, you are more than welcome to let me know by filling out this (anonymous) [survey]() or [scheduling an appointment](mailto:tianyingw@tsinghua.edu.cn) for my office hour.
-</p>
 
 **Office hour (Fall 2022):** every Friday 16:00-17:00 at Weiqing Building 212A.
 
