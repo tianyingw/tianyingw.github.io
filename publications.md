@@ -6,7 +6,7 @@ title: Articles
 - **[My Google Scholar](https://scholar.google.com/citations?user=YKB6YmgAAAAJ&hl=en&oi=ao)**
 
 - I view open science practices as an important way to increase access and participation in academic research. Please check [here](https://tianyingw.github.io/software/) for all open-source software related to my articles. 
-
+-----------------------------------------------------------------------------------------------
 
 <ins>Underline</ins> indicates a student working under my (co)supervision; <b>*</b> indicates the corresponding author.
 
