@@ -3,6 +3,8 @@ layout: page
 title: About me
 ---
 
+My career goal includes developing state-of-art statistical and machine learning methods for solving data-driven problems, advancing statistical theory in the emerging field of data science, and harnessing real-world evidence for decision-making and precision medicine. 
+
 ### Working Experience:
    
    - _Tenure-track Assistant Professor (2020-now), Center for Statistical Science, Tsinghua University_
