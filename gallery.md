@@ -4,7 +4,7 @@ title: Training
 ---
 
 <p align="justify">
-As a mentor, I am committed to learning what each student needs to succeed and encouraging active learning skills to carry forward. I have supervised ten undergraduate students at Tsinghua University with various research training projects, including statistical methodologies on modeling zero-inflated data, multivariate regression, low-rank approximation, genetic association studies, etc. Here are some examples. More on the way!
+As a mentor, I am committed to learning what each student needs to succeed and encouraging active learning skills to carry forward. I have supervised ten undergraduate students at Tsinghua University with various research training projects, including statistical methodologies on modeling zero-inflated data, multivariate regression, low-rank approximation, genetic association studies, etc. Here are some examples. More on the way! [Research opportunities](https://tianyingw.github.io/openings/) are open to highly motivated students. Interested individuals are encouraged to reach out for more details. 
 </p>
 
 ## Modeling zero-inflated data with error-in-variables
@@ -27,7 +27,7 @@ As a mentor, I am committed to learning what each student needs to succeed and e
 - **App link:** [tianyingw.shinyapps.io/QTWAS/](https://tianyingw.shinyapps.io/QTWAS/).
 
 
-[Research opportunities](https://tianyingw.github.io/openings/) are open to highly motivated students. Interested individuals are encouraged to reach out for more details. 
+
 
 
 
