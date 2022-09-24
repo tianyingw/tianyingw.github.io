@@ -2,12 +2,15 @@
 layout: page
 title: Overview
 ---
+
 <p align="justify">
-With the increasingly large and complex data generated and need to be analyzed, statistics is highly interdisciplinary and rapidly expanding among the sciences. My primary research is centered around developing statistical theories and methodologies to promote statistical learning in complex data, especially on data heterogeneity and model interpretability. Methodologically, I work in <b>quantile regression</b>, <b>measurement error analysis</b>, <b>semi-parametric analysis</b>, and <b>high-dimensional statistics</b>. Much of my methodology research applies to <b>genetic and genomic data analysis</b>, <b>microbiome data analysis</b>, <b>epidemiologic research</b>, and <b>environmental statistics</b>. 
+With the increasingly large and complex data generated and need to be analyzed, statistics is highly interdisciplinary and rapidly expanding among the sciences. My career goal includes developing state-of-art statistical and machine learning methods for solving data-driven problems, advancing statistical theory in the emerging field of data science, and harnessing real-world evidence for decision-making and precision medicine. 
 </p> 
+
 <p align="justify">
-My recent research work is summarized below. (<ins>Underline</ins> indicates a student working under my (co)supervision; <b>*</b> indicates the corresponding author.)
+My primary research is centered around developing statistical theories and methodologies to promote statistical learning in complex data, especially on data heterogeneity and model interpretability. Methodologically, I work in <b>quantile regression</b>, <b>measurement error analysis</b>, <b>semi-parametric analysis</b>, and <b>high-dimensional statistics</b>. Much of my methodology research applies to <b>genetic and genomic data analysis</b>, <b>microbiome data analysis</b>, <b>epidemiologic research</b>, and <b>environmental statistics</b>. 
 </p> 
+
 
 ### Quantile-based inference for heterogeneous genetic association studies
 <p align="justify">
