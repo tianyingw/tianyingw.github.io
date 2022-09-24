@@ -2,6 +2,12 @@
 layout: page
 title: Articles
 ---
+
+- **[My Google Scholar](https://scholar.google.com/citations?user=YKB6YmgAAAAJ&hl=en&oi=ao)**
+
+- I view open science practices as an important way to increase access and participation in academic research. Please check [here](https://tianyingw.github.io/software/) for all open-source software related to my articles. 
+
+
 <ins>Underline</ins> indicates a student working under my (co)supervision; <b>*</b> indicates the corresponding author.
 
 ### Articles in preparation
@@ -33,11 +39,6 @@ title: Articles
 LASSO for Quantile Regression with Penal Data".](http://www.sltj.chinajournal.net.cn/WKB2/WebPublication/paperDigest.aspx?paperID=b60aaa1e-c54c-4e9f-9f37-7f742f25b4b1) _Journal of Applied Statistics and Management_, 36(3): 429– 440.
 -  Yin, J., **Wang, T.**, and  Wang, W. (2017). ["Structure learning and parameter estimation on robust conditional graphical model".](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm) _China Science Paper_, 12(17): 1921-1929.
 - Delaigle, A., Hyndman, T., and **Wang, T.** ["deconvolve-package: Deconvolution Tools for Measurement Error Problems."](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html)
-
-
-**[My Google Scholar](https://scholar.google.com/citations?user=YKB6YmgAAAAJ&hl=en&oi=ao)**
-
-I view open science practices as an important way to increase access and participation in academic research. Please check [here](https://tianyingw.github.io/software/) for all open-source software related to my articles. 
 
 
 
