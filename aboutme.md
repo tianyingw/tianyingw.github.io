@@ -18,9 +18,7 @@ title: About me
        - Dissertation: Topics in Measurement Error Analysis and High-dimensional Binary Classification
               
    - _B.S. (2010-2014), School of Statistics, Renmin University of China_   
-       - Advisor: [Dr. Jianxin Yin](http://stat.ruc.edu.cn/en/teacher_more.php?cid=89248&id=65)     
-       - Dissertation: Robust Quantile Regression with Graphical Model
-
+ 
 ### Fun facts:
 
   - I love baking (check my instagram: [tianying.w](https://www.instagram.com/tianying.w/?hl=en)).  
@@ -28,5 +26,3 @@ title: About me
 
 
 
-
-"We are shaped by our thoughts; we become what we think."
