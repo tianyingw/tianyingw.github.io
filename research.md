@@ -53,3 +53,8 @@ The third thread of my work focuses on addressing error-in-variable issues with 
 
 _**Please check [here](https://tianyingw.github.io/publications/) for more of my publications.**_
 
+
+### Openings:
+
+  - [Research opportunities](https://tianyingw.github.io/openings/) are open to highly motivated students. Interested individuals are encouraged to reach out for more details. ([Click here](https://tianyingw.github.io/gallery/) to check out some fun projects my students did!)
+
