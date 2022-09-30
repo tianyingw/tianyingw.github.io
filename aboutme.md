@@ -27,3 +27,6 @@ title: About me
   - I enjoy scuba diving and am certified as an Advanced Open Water diver.
 
 
+
+
+"We are shaped by our thoughts; we become what we think."
