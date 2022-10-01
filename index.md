@@ -15,6 +15,10 @@ Beijing, 100084, China
 
 Email: tianyingw [at] tsinghua.edu.cn
 
+### Openings:
+
+  - [Research opportunities](https://tianyingw.github.io/openings/) are open to highly motivated students. Interested individuals are encouraged to reach out for more details.
+ 
 ### News:
 
 - **July 2022**: Our manuscript on [A flexible zero-inflated Poisson-Gamma model with application to microbiome read count data](https://arxiv.org/pdf/2207.07796.pdf) is now available on [arXiv](https://arxiv.org/pdf/2207.07796.pdf).
