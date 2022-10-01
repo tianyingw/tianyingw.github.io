@@ -5,7 +5,7 @@ title: Research Opportunities
 
 ## For undergraduate students
 <p align="justify">
-If you are an undergraduate student at Tsinghua University and want to get research training experience in statistics, please email me to discuss possible research opportunities. Please include a short introduction of your background, your research interests, the statistical courses you took, and your expectation for this research experience.
+If you are an undergraduate student at Tsinghua University and want to gain research experience in statistics, please email me to discuss possible research opportunities. Please include a brief introduction of your background, research interests, statistical courses you took, and your expectation for this research training.
 </p>
 
 #### Basic Requirements
