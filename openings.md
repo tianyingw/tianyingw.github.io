@@ -15,7 +15,7 @@ If you are an undergraduate student at Tsinghua University and want to gain rese
 - Good at paper reading (English);
 - Have learned basic statistical courses already (e.g., probability theory, statistical inference, statistical computing, and linear model).
 
-#### Student Responsibility
+#### Your Responsibility
 
 - Weekly one on one meetings;
 - Maintain research progress log (Overleaf or Notion).
