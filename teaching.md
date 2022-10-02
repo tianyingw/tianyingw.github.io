@@ -26,7 +26,7 @@ If you have any questions, comments, or suggestions, you are more than welcome t
 
 ### Advanced Topics in Statistics IV: Statistical Genetics (Spring 2022)
   - Graduate-level (Ph.D.); taught in English & Mandarin;
-  - Population generics, association analyses, genome-wide association analysis, functional genomics and integration of functional genomics and genetic data, etc.
+  - Genome-wide association analysis, functional genomics, integration of functional genomics and genetic data, gene-environment interactions, single cell transcriptomics, deep learning for regulatory genomics, etc.
 
 ### High dimensional Statistics (Fall 2021)
   - Graduate-level (Ph.D.); taught in English;
