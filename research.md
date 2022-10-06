@@ -44,6 +44,7 @@ The third thread of my work focuses on addressing error-in-variable issues with 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2022+) _"Gaussian Processes with Errors in Variables: theory and computation"_, under review.
 - Blas Achic, B.<sup><span>&#9830;</span></sup>, **Wang, T.<sup><span>&#9830;</span></sup>** , Su, Y., Kipnis, V., Dodd, K., and Carroll, R. J. (2018). _"Categorizing a Continuous Predictor Subject to Measurement Error"_. Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( <sup><span>&#9830;</span></sup> joint first authors)**. 
 
+_**Please check [here](https://tianyingw.github.io/publications/) for more of my publications.**_
 
 _______________________________________________________________________________________________________________________
 
@@ -55,9 +56,7 @@ Towards the ultimate goal of enhancing our understanding of complex disease prog
 
 - Complex Structured Data Modeling for Climate Change and Potential Health Risks
 
-_**Please check [here](https://tianyingw.github.io/publications/) for more of my publications.**_
 
 
-
-[Research opportunities](https://tianyingw.github.io/openings/) are open to highly motivated students. Interested individuals are encouraged to reach out for more details. ([Click here](https://tianyingw.github.io/gallery/) to check out some fun projects my students did!)
+[Research opportunities](https://tianyingw.github.io/openings/) are open to highly motivated students. Interested individuals are encouraged to reach out for more details. 
 
