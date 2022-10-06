@@ -45,22 +45,19 @@ The third thread of my work focuses on addressing error-in-variable issues with 
 - Blas Achic, B.<sup><span>&#9830;</span></sup>, **Wang, T.<sup><span>&#9830;</span></sup>** , Su, Y., Kipnis, V., Dodd, K., and Carroll, R. J. (2018). _"Categorizing a Continuous Predictor Subject to Measurement Error"_. Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( <sup><span>&#9830;</span></sup> joint first authors)**. 
 
 
-### Working projects
+_______________________________________________________________________________________________________________________
 
 Towards the ultimate goal of enhancing our understanding of complex disease progression and environmental health mechanisms, I am pushing forward in the following interdisciplinary research areas:
+
 - Robust Integrative Analyses for Multi-sources Data
+ 
 - Latent Structure Learning for Multiple Responses
+
 - Complex Structured Data Modeling for Climate Change and Potential Health Risks
-
-
-- "_Estimation of latent group structures with heterogeneous multivariate response variable_" (with Ma, Y. and Wei, Y.).
-- "_Optimal fingerprinting in extreme value modeling with errors in variables_" (with Yan, J., Lau, A., and Zhang, X.).
-- "_Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions_" (with Liu, J.).
 
 _**Please check [here](https://tianyingw.github.io/publications/) for more of my publications.**_
 
 
-### Openings:
 
-  - [Research opportunities](https://tianyingw.github.io/openings/) are open to highly motivated students. Interested individuals are encouraged to reach out for more details. ([Click here](https://tianyingw.github.io/gallery/) to check out some fun projects my students did!)
+[Research opportunities](https://tianyingw.github.io/openings/) are open to highly motivated students. Interested individuals are encouraged to reach out for more details. ([Click here](https://tianyingw.github.io/gallery/) to check out some fun projects my students did!)
 
