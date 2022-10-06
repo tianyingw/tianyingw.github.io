@@ -47,6 +47,12 @@ The third thread of my work focuses on addressing error-in-variable issues with 
 
 ### Working projects
 
+Towards the ultimate goal of enhancing our understanding of complex disease progression and environmental health mechanisms, I am pushing forward in the following interdisciplinary research areas:
+- Robust Integrative Analyses for Multi-sources Data
+- Latent Structure Learning for Multiple Responses
+- Complex Structured Data Modeling for Climate Change and Potential Health Risks
+
+
 - "_Estimation of latent group structures with heterogeneous multivariate response variable_" (with Ma, Y. and Wei, Y.).
 - "_Optimal fingerprinting in extreme value modeling with errors in variables_" (with Yan, J., Lau, A., and Zhang, X.).
 - "_Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions_" (with Liu, J.).
