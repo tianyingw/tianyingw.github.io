@@ -48,7 +48,10 @@ _**Please check [here](https://tianyingw.github.io/publications/) for more of my
 
 _______________________________________________________________________________________________________________________
 
+
+<p align="justify">
 Towards the ultimate goal of enhancing our understanding of complex disease progression and environmental health mechanisms, I am pushing forward in the following interdisciplinary research areas:
+</p>
 
 - Robust Integrative Analyses for Multi-sources Data
  
