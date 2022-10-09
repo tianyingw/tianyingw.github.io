@@ -3,6 +3,8 @@ layout: page
 title: Invited Talks
 ---
 
+- International Chinese Statistical Association (ICSA) China 2023 Conference, Chengdu (07/2023, incoming)
+
 - The 12th ICSA International Conference, Hong Kong (12/2022, incoming)
 
 - The 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London (12/2022, incoming)
