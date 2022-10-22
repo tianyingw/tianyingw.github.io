@@ -5,12 +5,12 @@ title: Articles
 
 **[My Google Scholar](https://scholar.google.com/citations?user=YKB6YmgAAAAJ&hl=en&oi=ao)**
 
-<p align="justify">
+
 I view open science practices as an important way to increase access and participation in academic research. Please check all open-source software related to my articles [here](https://tianyingw.github.io/software/). 
-</p>
+
 
 <p align="justify">
-<b>*</b> indicates the corresponding author; <ins>Underline</ins> indicates a student working under my (co)supervision (<sup><span>&#9839;</span></sup> presents an undergraduate student mentee).
+<b>*</b> indicates the corresponding author; <ins>underline</ins> indicates a student working under my (co)supervision (<sup><span>&#9839;</span></sup> presents an undergraduate student mentee).
 </p>
 
 ### Articles in preparation
