@@ -10,7 +10,7 @@ I view open science practices as an important way to increase access and partici
 
 <ins>Underline</ins> indicates a Ph.D. student working under my (co)supervision; <b>*</b> indicates the corresponding author.
 ### Articles in preparation
-- <ins>Wang, Z.\sharp</ins> and **Wang, T.<b>*</b>** (2022+). _“Inference on single index quantile regression with zero-inflated responses”_.
+- <ins>Wang, Z.</ins><b>\sharp</b> and **Wang, T.<b>*</b>** (2022+). _“Inference on single index quantile regression with zero-inflated responses”_.
 - <ins>Wang, Y.</ins> and **Wang, T.<b>*</b>** (2022+). _"Multi-group sparse discriminant analysis"_.
 - **Wang, T.<b>*</b>** (2022+). _“Zero-inflated quantile regression model with error-prone covariates”_.
 
@@ -18,7 +18,7 @@ I view open science practices as an important way to increase access and partici
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+). "ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development".
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+). ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081). 
 - <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+). "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes".
-- <ins>Jiang, R.\sharp</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/abs/2207.07796). 
+- <ins>Jiang, R.</ins><b>\sharp</b>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/abs/2207.07796). 
 - <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+). "Optimal Fingerprinting with Estimating Equations".
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2022+). ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235).
 
