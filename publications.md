@@ -8,9 +8,9 @@ title: Articles
 I view open science practices as an important way to increase access and participation in academic research. Please check all open-source software related to my articles [here](https://tianyingw.github.io/software/). 
 
 
-<ins>Underline</ins> indicates a student working under my (co)supervision; <span>&#9839;</span> indicates an undergraduate student mentee; <b>*</b> indicates the corresponding author.
+<ins>Underline</ins> indicates a student working under my (co)supervision (<sup><span>&#9839;</span></sup> presents an undergraduate student mentee); <b>*</b> indicates the corresponding author.
 ### Articles in preparation
-- <span>&#9839;</span><ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+). _“Inference on single index quantile regression with zero-inflated responses”_.
+- <sup><span>&#9839;</span></sup><ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+). _“Inference on single index quantile regression with zero-inflated responses”_.
 - <ins>Wang, Y.</ins> and **Wang, T.<b>*</b>** (2022+). _"Multi-group sparse discriminant analysis"_.
 - **Wang, T.<b>*</b>** (2022+). _“Zero-inflated quantile regression model with error-prone covariates”_.
 
@@ -18,7 +18,7 @@ I view open science practices as an important way to increase access and partici
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+). "ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development".
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+). ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081). 
 - <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+). "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes".
-- <span>&#9839;</span><ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/abs/2207.07796). 
+- <sup><span>&#9839;</span></sup><ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/abs/2207.07796). 
 - <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+). "Optimal Fingerprinting with Estimating Equations".
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2022+). ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235).
 
