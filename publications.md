@@ -8,7 +8,7 @@ title: Articles
 I view open science practices as an important way to increase access and participation in academic research. Please check all open-source software related to my articles [here](https://tianyingw.github.io/software/). 
 
 
-<ins>Underline</ins> indicates a student working under my (co)supervision; <span>&#9839;</span> indicates an undergraduate students mentee; <b>*</b> indicates the corresponding author.
+<ins>Underline</ins> indicates a student working under my (co)supervision; <span>&#9839;</span> indicates an undergraduate student mentee; <b>*</b> indicates the corresponding author.
 ### Articles in preparation
 - <span>&#9839;</span><ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+). _“Inference on single index quantile regression with zero-inflated responses”_.
 - <ins>Wang, Y.</ins> and **Wang, T.<b>*</b>** (2022+). _"Multi-group sparse discriminant analysis"_.
