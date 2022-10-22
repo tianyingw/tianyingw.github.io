@@ -10,7 +10,7 @@ I view open science practices as an important way to increase access and partici
 
 
 <p align="justify">
-<b>*</b> indicates the corresponding author; <ins>underline</ins> indicates a student working under my (co)supervision (<sup><span>&#9839;</span></sup> presents an undergraduate student mentee).
+<b>*</b> indicates the corresponding author; <ins>underline</ins> indicates a student working under my (co)supervision; <sup><span>&#9839;</span></sup> represents an undergraduate student mentee.
 </p>
 
 ### Articles in preparation
