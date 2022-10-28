@@ -15,9 +15,7 @@ I view open science practices as an important way to increase access and partici
 
 ### Articles in preparation
 - **<sup><span>&#9839;</span></sup>**<ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+). _“Inference on single index quantile regression with zero-inflated responses”_.
-
 - <ins>Wang, Y.</ins> and **Wang, T.<b>*</b>** (2022+). _"Multi-group sparse discriminant analysis"_.
-
 - **Wang, T.<b>*</b>** (2022+). _“Zero-inflated quantile regression model with error-prone covariates”_.
 
 ### Submitted manuscripts 
