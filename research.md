@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 
 <p align="justify">
-My research has been supported by National Science Foundation of China (NSFC). Towards the ultimate goal of enhancing our understanding of complex disease progression and environmental health mechanisms, I am pushing forward in the following interdisciplinary research areas:
+My research has been supported by National Natural Science Foundation of China (NSFC). Towards the ultimate goal of enhancing our understanding of complex disease progression and environmental health mechanisms, I am proactively working in the following interdisciplinary research areas:
 </p>
 
 - Robust Integrative Analyses for Multi-sources Data
