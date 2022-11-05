@@ -14,9 +14,6 @@ order: 1
 Beijing, 100084, China   
 
 Email: tianyingw [at] tsinghua.edu.cn
-
-### Openings:
-[Research opportunities](https://tianyingw.github.io/openings/) are open to highly motivated students. Interested individuals are encouraged to reach out for more details.
  
 ### News:
 
