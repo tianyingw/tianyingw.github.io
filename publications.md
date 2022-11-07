@@ -28,9 +28,9 @@ I view open science practices as an important way to increase access and partici
 ### Under Revision
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+). ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081), _Journal of the American Statistical Association_, under revision. 
 
-- <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+). "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes", _Annals of Applied Statistics_, under revision.
-
 - **<sup><span>&#9839;</span></sup>**<ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/abs/2207.07796), _Journal of the American Statistical Association_, under revision.  
+
+- <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+). "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes", _Annals of Applied Statistics_, under revision.
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2022+). ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235), _Journal of Machine Learning Research_, under revision.
 
