@@ -34,7 +34,7 @@ I view open science practices as an important way to increase access and partici
 
 ### Published
 
-- **<sup><span>&#9839;</span></sup>**<ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022+). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/abs/2207.07796), _Journal of the American Statistical Association_, accepted. 
+- **<sup><span>&#9839;</span></sup>**<ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/abs/2207.07796), _Journal of the American Statistical Association_, accepted. 
 
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Integrated-Quantile-RAnk-Test-iQRAT-for-gene-level-associations/10.1214/21-AOAS1548.short). _Annals of Applied Statistics_, 16 (3) 1423 - 1444. 
 
