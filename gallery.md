@@ -28,7 +28,7 @@ I have supervised various undergraduate students' research training projects, in
 
 - **App link:** [tianyingw.shinyapps.io/QTWAS/](https://tianyingw.shinyapps.io/QTWAS/).
 
-## 
+## Estimating quantile curves for zero-inflated outcomes
 - **Student's name:** Zirui Wang. 
 
 <img align="right" src="/img/Roseburia_histogram.png" alt="" width="600">
