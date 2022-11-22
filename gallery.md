@@ -36,7 +36,7 @@ I have supervised various undergraduate students' research training projects, in
 
 - **Summary:** Single-index models provide flexible data analysis than linear model while remaining interpretability. Though single-index model has been studied under the quantile regression framework, it cannot be applied directly to zero-inflated outcomes, which are commonly observed in single-cell data, microbiome data, counts data, etc. In this project, we propose a single-index quantile regression model for zero-inflated outcomes and establish the asymptotic normality of the index coefficients estimator as well as the entire quantile regression curve. The above figure shows how our proposed method fits the real microbiome data (Roseburia) better than other methods.
 
-- **Related paper:** <ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+) ["Inference on single-index quantile regression model for zero-inflated outcomes"], under review.
+- **Related paper:** <ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+) _"Inference on single-index quantile regression model for zero-inflated outcomes"_, under review.
 
 
 
