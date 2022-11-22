@@ -14,14 +14,14 @@ I view open science practices as an important way to increase access and partici
 </p>
 
 ### To be submitted
-- **Wang, T.<b>*</b>** (2022+). _“Zero-inflated quantile regression model with error-prone covariates”_.
+- **Wang, T.<b>*</b>** (2022+). _"Zero-inflated quantile regression model with error-prone covariates"_.
 - **Wang, T.** and Liu, J. (2022+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_.
 - <ins>Wang, Y.</ins> and **Wang, T.<b>*</b>** (2022+). _"Multi-group sparse discriminant analysis"_.
 
 ### Under Review 
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+). "ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development", under review.
 
-- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2022+). _“Inference on single-index quantile regression with zero-inflated responses”_.
+- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2022+). _"Inference on single-index quantile regression with zero-inflated responses"_.
 
 ### Under Revision
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+). ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081), _Journal of the American Statistical Association_, under revision.  
