@@ -21,7 +21,7 @@ I view open science practices as an important way to increase access and partici
 ### Under Review 
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+). "ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development", under review.
 
-- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2022+). _"Inference on single-index quantile regression with zero-inflated responses"_.
+- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2022+). _"Inference on single-index quantile regression with zero-inflated responses"_, under review.
 
 ### Under Revision
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+). ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081), _Journal of the American Statistical Association_, under revision.  
