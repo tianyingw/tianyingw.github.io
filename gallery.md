@@ -11,7 +11,7 @@ I have supervised various undergraduate students' research training projects, in
 
 ## Modeling zero-inflated data with error-in-variables
 
-- **Student's name:** Roulan Jiang. (This work was conducted when Roulan was a senior at Tsinghua University from 2021-2022.)
+- **Student's name:** Roulan Jiang. (This work was conducted when Roulan was a senior student at Tsinghua University from 2021-2022.)
 
 <img align="right" src="/img/Romero_32_violin_pre_Race01.jpg" alt="" width="400">
 
@@ -20,7 +20,7 @@ I have supervised various undergraduate students' research training projects, in
 - **Related paper:** <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022) ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/pdf/2207.07796.pdf), _Journal of the American Statistical Association_, accepted.
 
 ## Quantile TWAS Genome Browser (Shiny app)
-- **Student's name:** Weijing Yin. (This work was conducted as a summer project in 2022 when Weijing was a sophomore at Tsinghua University.)
+- **Student's name:** Weijing Yin. (This work was conducted as a summer project in 2022 when Weijing was a sophomore student at Tsinghua University.)
 
 <img align="right" src="/img/shiny.png" alt="" width="400">
 
@@ -28,10 +28,11 @@ I have supervised various undergraduate students' research training projects, in
 
 - **App link:** [tianyingw.shinyapps.io/QTWAS/](https://tianyingw.shinyapps.io/QTWAS/).
 
-## Estimating quantile curves for zero-inflated outcomes
-- **Student's name:** Zirui Wang. 
 
-<img align="right" src="/img/Roseburia_histogram.png" alt="" width="600">
+## Estimating quantile curves for zero-inflated outcomes
+- **Student's name:** Zirui Wang. (This work was conducted when Zirui was a junior student at Tsinghua University from 2021-2022.)
+
+<img align="center" src="/img/Roseburia_histogram.png" alt="" width="700">
 
 - **Summary:** Single-index models provide flexible data analysis than linear model while remaining interpretability. Though single-index model has been studied under the quantile regression framework, it cannot be applied directly to zero-inflated outcomes, which are commonly observed in single-cell data, microbiome data, counts data, etc. In this project, we propose a single-index quantile regression model for zero-inflated outcomes and establish the asymptotic normality of the index coefficients estimator as well as the entire quantile regression curve. The above figure shows how our proposed method fits the real microbiome data (Roseburia) better than other methods.
 
