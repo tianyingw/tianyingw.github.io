@@ -16,9 +16,9 @@ I view open science practices as an important way to increase access and partici
 ### Under Review 
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+). "ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development", under review.
 
-- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2022+). _"Inference on single-index quantile regression with zero-inflated responses"_, under review.
-
 - **Wang, T.**, Liu, J., and Wu, A. (2022+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_, under review.
+
+- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2022+). _"Inference on single-index quantile regression with zero-inflated responses"_, under review.
 
 - Ma, S. and **Wang, T.<b>*</b>** (2022+). _"The optimal pre-post allocation for randomized clinical trials"_, under review. 
 
