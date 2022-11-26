@@ -20,7 +20,7 @@ I view open science practices as an important way to increase access and partici
 
 - **Wang, T.** and Liu, J. (2022+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_, under review.
 
-- Ma, S. and **Wang, T.** (2022+). _"The optimal pre-post allocation for randomized clinical trials"_, under review. 
+- Ma, S. and **Wang, T.<b>*</b>** (2022+). _"The optimal pre-post allocation for randomized clinical trials"_, under review. 
 
 ### Under Revision
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+). ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081), _Journal of the American Statistical Association_, under revision.  
