@@ -17,7 +17,7 @@ Email: tianyingw [at] tsinghua.edu.cn
  
 ### News:
 
-- **November 2022**: Our manuscript on [A flexible zero-inflated Poisson-Gamma model with application to microbiome read count data](https://arxiv.org/pdf/2207.07796.pdf) is accepted by _Journal of the American Statistical Association_.
+- **November 2022**: Our manuscript on [A flexible zero-inflated Poisson-Gamma model with application to microbiome read count data](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447) is accepted by _Journal of the American Statistical Association_.
 
 - **July 2022**: Our manuscript on [A flexible zero-inflated Poisson-Gamma model with application to microbiome read count data](https://arxiv.org/pdf/2207.07796.pdf) is now available on [arXiv](https://arxiv.org/pdf/2207.07796.pdf).
 
