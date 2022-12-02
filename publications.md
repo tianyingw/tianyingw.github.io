@@ -14,7 +14,7 @@ I view open science practices as an important way to increase access and partici
 </p>
 
 ### Under Review 
-- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+). "ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development", under review.
+- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+). _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_, under review.
 
 - **Wang, T.**, Liu, J., and Wu, A. (2022+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_, under review.
 
