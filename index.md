@@ -12,9 +12,7 @@ order: 1
 [Center for Statistical Science](http://www.stat.tsinghua.edu.cn/about/)  
 [Tsinghua University](https://www.tsinghua.edu.cn/)   
 Beijing, 100084, China   
-
 [CV](https://www.dropbox.com/s/ld1r9d7mtzoif5g/CV_TWANG.pdf?dl=0)
-
 Email: tianyingw [at] tsinghua.edu.cn
  
 ### News:
