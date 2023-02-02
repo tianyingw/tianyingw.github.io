@@ -30,7 +30,7 @@ I have supervised various undergraduate students' research training projects, in
 
 
 ## Estimating quantile curves for zero-inflated outcomes
-- **Student's name:** Zirui Wang. (This work was finished when Zirui was a senior undergraduate student at Tsinghua University from 2021-2022.)
+- **Student's name:** Zirui Wang. (This work was finished when Zirui was a junior undergraduate student at Tsinghua University from 2021-2022.)
 
 <img align="center" src="/img/Roseburia_histogram.png" alt="" width="700">
 
