@@ -14,7 +14,7 @@ order: 1
 Beijing, 100084, China   
 **Email:** tianyingw [at] tsinghua.edu.cn
 
-**[My CV]**(https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) 
+[**My CV**](https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) 
 ### News:
 
 - **November 2022**: Our manuscript on [A flexible zero-inflated Poisson-Gamma model with application to microbiome read count data](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447) is accepted by _Journal of the American Statistical Association_.
