@@ -3,11 +3,13 @@ layout: page
 title: Invited Talks
 ---
 
+- The 6th International Conference on Econometrics and Statistics (EcoSta 2023), Tokyo (08/2023, upcoming)
+
+- The 12th ICSA International Conference, Hong Kong (07/2023, upcoming)
+
 - International Chinese Statistical Association (ICSA) China 2023 Conference, Chengdu (07/2023, upcoming)
 
-- The 12th ICSA International Conference, Hong Kong (12/2022, upcoming)
-
-- The 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London (12/2022, upcoming)
+- The 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London (12/2022)
 
 - Department of Biostatistics, Peking University, Beijing (09/2022)
 
