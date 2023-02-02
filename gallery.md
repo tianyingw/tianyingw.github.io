@@ -20,7 +20,7 @@ I have supervised various undergraduate students' research training projects, in
 - **Related paper:** <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022) ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/pdf/2207.07796.pdf), _Journal of the American Statistical Association_, accepted.
 
 ## Quantile TWAS Genome Browser (Shiny app)
-- **Student's name:** Weijing Yin. (This work was conducted as a summer project in 2022 when Weijing was a sophomore student at Tsinghua University.)
+- **Student's name:** Weijing Yin. (This work was conducted as a summer project in 2022 when Weijing was a sophomore undergraduate student at Tsinghua University.)
 
 <img align="right" src="/img/shiny.png" alt="" width="400">
 
