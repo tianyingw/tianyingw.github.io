@@ -11,7 +11,7 @@ I have supervised various undergraduate students' research training projects, in
 
 ## Modeling zero-inflated data with error-in-variables
 
-- **Student's name:** Roulan Jiang. (This work was conducted when Roulan was a senior student at Tsinghua University from 2021-2022.)
+- **Student's name:** Roulan Jiang. (This work was conducted when Roulan was a senior undergraduate student at Tsinghua University from 2021-2022.)
 
 <img align="right" src="/img/Romero_32_violin_pre_Race01.jpg" alt="" width="400">
 
@@ -30,13 +30,15 @@ I have supervised various undergraduate students' research training projects, in
 
 
 ## Estimating quantile curves for zero-inflated outcomes
-- **Student's name:** Zirui Wang. (This work was conducted when Zirui was a junior student at Tsinghua University from 2021-2022.)
+- **Student's name:** Zirui Wang. (This work was finished when Zirui was a senior undergraduate student at Tsinghua University from 2021-2022.)
 
 <img align="center" src="/img/Roseburia_histogram.png" alt="" width="700">
 
-- **Summary:** Single-index models provide flexible data analysis than linear model while remaining interpretability. Though single-index model has been studied under the quantile regression framework, it cannot be applied directly to zero-inflated outcomes, which are commonly observed in single-cell data, microbiome data, counts data, etc. In this project, we propose a single-index quantile regression model for zero-inflated outcomes and establish the asymptotic theorem for the index coefficients estimator as well as the entire quantile regression curve. The above figure shows how our proposed method fits the real microbiome data (Roseburia) better than other methods.
+- **Summary:** We consider the complex data modeling problem motivated by the zero-inflated and overdispersed microbiome read count data. Several parametric approaches have been proposed to address issues of zero inflation and overdispersion, such as zero-inflated Poisson regression and zero-inflated Negative Binomial regression. However, parametric assumptions could be easily violated in real-world applications.
+    To relax the parametric assumptions and provide a robust modeling framework, we consider single-index quantile regression models, as quantile regression makes no distribution assumptions, and single-index models provide more flexibility than linear models while remaining interpretability. Though single-index models have been studied under the quantile regression framework, they cannot be applied directly to zero-inflated outcomes, especially when the degree of zeros varies across subjects.
+    In this project, we propose a semiparametric single-index quantile regression framework, which is flexible to include a wide range of possible association functions and adaptable to the various zero proportions across subjects. We establish the asymptotic normality of the index coefficients estimator and the asymptotic convergence rate of the nonparametric quantile regression curve estimation. Through Monte Carlo simulation studies and the application in a microbiome study, we demonstrate the superior performance of the proposed method. The above figure shows how our proposed method fits the real microbiome data (Roseburia) better than other methods.
 
-- **Related paper:** <ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+). _"Inference on single-index quantile regression model for zero-inflated outcomes"_, under review.
+- **Related paper:** <ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+). _"A Semiparametric Quantile Single-Index  Model for Zero-Inflated and Overdispersed Outcomes"_, under review.
 
 
 
