@@ -29,9 +29,10 @@ I view open science practices as an important way to increase access and partici
 
 - <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+). "Optimal Fingerprinting with Estimating Equations", _Journal of Climate_, under revision.
 
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2022+). ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235), _Journal of Machine Learning Research_, under revision.
 
 ### Published
+
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2023). ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235), _Journal of Machine Learning Research_, accepted.
 
 - <ins>Jiang, R.**<sup><span>&#9830;</span></sup>**</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447), _Journal of the American Statistical Association_, 1 - 21. 
 
