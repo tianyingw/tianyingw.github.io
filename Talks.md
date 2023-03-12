@@ -9,6 +9,8 @@ title: Invited Talks
 
 - International Chinese Statistical Association (ICSA) China 2023 Conference, Chengdu (07/2023, upcoming)
 
+- Eastern North American (ENAR) Spring Meeting,  Nashville, TN (03/2023)
+
 - The 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London (12/2022)
 
 - Department of Biostatistics, Peking University, Beijing (09/2022)
