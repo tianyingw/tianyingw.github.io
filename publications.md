@@ -31,7 +31,7 @@ I view open science practices as an important way to increase access and partici
 
 ### Published
 
-- Ma, S. and **Wang, T.<b>*</b>** (2023). ["The optimal pre-post allocation for randomized clinical trials"], _BMC Medical Research Methodology_, accepted. 
+- Ma, S. and **Wang, T.<b>*</b>** (2023). ["The optimal pre-post allocation for randomized clinical trials"](), _BMC Medical Research Methodology_, accepted. 
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2023). ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235), _Journal of Machine Learning Research_, accepted.
 
