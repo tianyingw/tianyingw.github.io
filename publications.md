@@ -20,7 +20,6 @@ I view open science practices as an important way to increase access and partici
 
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2022+). _"A Semiparametric Quantile Single-Index  Model for Zero-Inflated and Overdispersed Outcomes"_, under review.
 
-- Ma, S. and **Wang, T.<b>*</b>** (2022+). _"The optimal pre-post allocation for randomized clinical trials"_, under review. 
 
 ### Under Revision
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+). ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081), _Journal of the American Statistical Association_, under revision.  
@@ -31,6 +30,8 @@ I view open science practices as an important way to increase access and partici
 
 
 ### Published
+
+- Ma, S. and **Wang, T.<b>*</b>** (2023). ["The optimal pre-post allocation for randomized clinical trials"], _BMC Medical Research Methodology_, accepted. 
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2023). ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235), _Journal of Machine Learning Research_, accepted.
 
