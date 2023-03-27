@@ -21,7 +21,7 @@ title: About me
  
 ### Fun facts:
 
-  - I love baking (check my instagram: [tianying.w](https://www.instagram.com/tianying.w/?hl=en)).  
+  - I love baking (check [here](https://tianyingw.github.io/Instagram/)).  
   - I enjoy scuba diving and am certified as an Advanced Open Water diver.
 
 
