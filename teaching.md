@@ -9,7 +9,7 @@ I am committed to providing an ear and a voice to all students with respect to I
 
 If you have any questions, comments, or suggestions, you are more than welcome to let me know by filling out this (anonymous) [survey](https://forms.gle/DKevoT48aB4gczhq6) or [scheduling an appointment](mailto:tianyingw@tsinghua.edu.cn) for my office hour.
 
-**Office hour (Fall 2022):** every Friday 16:00-17:00 at Weiqing Building 212A.
+**Office hour (Spring 2023):** every Friday 16:00-17:00 at Weiqing Building 212A.
 
 
 
@@ -20,7 +20,7 @@ If you have any questions, comments, or suggestions, you are more than welcome t
   - Graduate-level (Ph.D., required for qualifying exam); taught in English;
   - Linear mixed model, GLM,  MLE, ANOVA,  survival analysis, etc.
 
-### Introduction to Biostatistics (Spring 2022)
+### Introduction to Biostatistics (Spring 2022, Spring 2023)
    - Undergraduate-level; taught in English;
    - ANOVA, categorical data analysis, survival analysis, design and analysis of clinical trials, etc.
 
