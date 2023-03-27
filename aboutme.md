@@ -4,7 +4,7 @@ title: About me
 ---
 
 
-### Working Experience:
+### Work Experience:
    
    - _Tenure-Track Assistant Professor (2020-now), Center for Statistical Science, Tsinghua University_
    - _Postdoc (2018-2020), Department of Biostatistics, Columbia University_   
