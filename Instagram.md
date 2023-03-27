@@ -2,6 +2,8 @@
 layout: page
 title: A glance of my baking
 ---
+I enjoy baking and dessert photography. Here are some desserts I baked, and you are more than welcome to check out more on my Instagram (tianying.w).
+
 
 <img src="/img/IMG_8612.PNG" alt="" width="700">
 <img src="/img/IMG_8613.PNG" alt="" width="700">
