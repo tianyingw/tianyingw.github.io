@@ -25,5 +25,5 @@ title: R
 
   - [MiRKAT](https://cran.r-project.org/web/packages/MiRKAT/index.html): Test for overall association between microbiome composition data and phenotypes via phylogenetic kernels. It includes the method from [Testing microbiome association using integrated quantile regression models (2022)](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494).
   
-  - [Optimal pre-post allocation](https://doi.org/10.5281/zenodo.7594938): R codes reproducing numerical studies in the paper [The optimal pre-post allocation for randomized clinical trials (2023)](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-023-01893-w).
+  - [Optimal pre-post allocation](https://doi.org/10.5281/zenodo.7594938): R codes for reproducing numerical studies in the paper [The optimal pre-post allocation for randomized clinical trials (2023)](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-023-01893-w).
 
