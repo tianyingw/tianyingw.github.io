@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R packages
+title: R 
 ---
 
 ### Developed and maintained:
@@ -24,4 +24,6 @@ title: R packages
   - [deconvolve](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html): The R package deconvolve provides tools for performing non-parametric deconvolution on measurement error problems. It contains functions for finding bandwidths, deconvolved densities and non-parametric regression estimates.
 
   - [MiRKAT](https://cran.r-project.org/web/packages/MiRKAT/index.html): Test for overall association between microbiome composition data and phenotypes via phylogenetic kernels. It includes the method from [Testing microbiome association using integrated quantile regression models (2022)](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494).
+  
+  - [Optimal pre-post allocation](https://doi.org/10.5281/zenodo.7594938): R codes of paper [The optimal pre-post allocation for randomized clinical trials (2023)](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-023-01893-w).
 
