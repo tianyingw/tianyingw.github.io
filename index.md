@@ -17,11 +17,11 @@ Beijing, 100084, China
 [**My CV**](https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) 
 ### News:
 
-- **March 2023**: Our manuscript on ["The optimal pre-post allocation for randomized clinical trials"](https://doi.org/10.1186/s12874-023-01893-w) is accepted by _BMC Medical Research Methodology_.
+- **March 2023**: Our paper on ["The optimal pre-post allocation for randomized clinical trials"](https://doi.org/10.1186/s12874-023-01893-w) is accepted by _BMC Medical Research Methodology_.
  
-- **February 2023**: Our manuscript on ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235) is accepted by _Journal of Machine Learning Research_.
+- **February 2023**: Our paper on ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235) is accepted by _Journal of Machine Learning Research_.
 
-- **November 2022**: Our manuscript on [A flexible zero-inflated Poisson-Gamma model with application to microbiome read count data](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447) is accepted by _Journal of the American Statistical Association_.
+- **November 2022**: Our paper on [A flexible zero-inflated Poisson-Gamma model with application to microbiome read count data](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447) is accepted by _Journal of the American Statistical Association_.
 
 - **July 2022**: Our manuscript on [A flexible zero-inflated Poisson-Gamma model with application to microbiome read count data](https://arxiv.org/pdf/2207.07796.pdf) is now available on [arXiv](https://arxiv.org/pdf/2207.07796.pdf).
 
