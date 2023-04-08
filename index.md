@@ -19,7 +19,7 @@ Beijing, 100084, China
 
 - **March 2023**: Our paper on ["The optimal pre-post allocation for randomized clinical trials"](https://doi.org/10.1186/s12874-023-01893-w) is accepted by _BMC Medical Research Methodology_.
  
-- **February 2023**: Our paper on ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235) is accepted by _Journal of Machine Learning Research_.
+- **February 2023**: Our paper on ["Gaussian Processes with Errors in Variables: theory and computation"](https://jmlr.org/papers/volume24/21-1480/21-1480.pdf) is accepted by _Journal of Machine Learning Research_.
 
 - **November 2022**: Our paper on [A flexible zero-inflated Poisson-Gamma model with application to microbiome read count data](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447) is accepted by _Journal of the American Statistical Association_.
 
