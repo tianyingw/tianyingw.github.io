@@ -33,11 +33,11 @@ I view open science practices as an important way to increase access and partici
 
 - Ma, S. and **Wang, T.<b>*</b>** (2023). ["The optimal pre-post allocation for randomized clinical trials"](https://doi.org/10.1186/s12874-023-01893-w), _BMC Medical Research Methodology_, 23:72 doi: 10.1186/s12874-023-01893-w. 
 
-- Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2023). ["Gaussian Processes with Errors in Variables: theory and computation"](https://arxiv.org/abs/1910.06235), _Journal of Machine Learning Research_, accepted.
+- Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2023). ["Gaussian Processes with Errors in Variables: theory and computation"](https://jmlr.org/papers/volume24/21-1480/21-1480.pdf), _Journal of Machine Learning Research_, 24, 1-53.
 
 - <ins>Jiang, R.**<sup><span>&#9830;</span></sup>**</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447), _Journal of the American Statistical Association_, 1 - 21. 
 
-- **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Integrated-Quantile-RAnk-Test-iQRAT-for-gene-level-associations/10.1214/21-AOAS1548.short). _Annals of Applied Statistics_, 16 (3) 1423 - 1444. 
+- **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Integrated-Quantile-RAnk-Test-iQRAT-for-gene-level-associations/10.1214/21-AOAS1548.short). _Annals of Applied Statistics_, 16 (3), 1423 - 1444. 
 
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). ["Testing microbiome association using integrated quantile regression models"](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494). _Bioinformatics_, 38(2), 419-425. 
 
