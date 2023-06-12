@@ -5,7 +5,7 @@ subtitle: Assistant Professor, Center for Statistical Science, Tsinghua Universi
 use-site-title: true
 order: 1
 ---
-<img align="right" src="/img/IMG_1912.jpeg" alt="" width="300">
+<img align="right" src="/img/IMG_9212.jpeg" alt="" width="300">
 
 
 ### Contact:
