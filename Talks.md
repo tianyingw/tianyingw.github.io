@@ -15,15 +15,13 @@ title: Invited Talks
 
 - International Chinese Statistical Association (ICSA) China 2023 Conference, Chengdu (07/2023, upcoming)
 
-- Wang Yanan Institute for Studies in Economics and Department of Statistics, School of Economics, Xiamen University, Xiamen (06/2023, upcoming)
+- School of Medicine, Shanghai Jiao Tong University, Shanghai (06/2023)
 
-- School of Medicine, Shanghai Jiao Tong University, Shanghai (06/2023, upcoming)
+- School of Statistics, East China Normal University, Shanghai (06/2023)
 
-- School of Statistics, East China Normal University, Shanghai (06/2023, upcoming)
+- School of Management, Fudan University, Shanghai (06/2023)
 
-- School of Management, Fudan University, Shanghai (06/2023, upcoming)
-
-- School of Statistics, Southwestern University of Finance and Economics, Chengdu (06/2023, upcoming)
+- School of Statistics, Southwestern University of Finance and Economics, Chengdu (06/2023)
 
 - Eastern North American (ENAR) Spring Meeting,  Nashville, TN (03/2023)
 
