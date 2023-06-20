@@ -15,6 +15,8 @@ title: Invited Talks
 
 - International Chinese Statistical Association (ICSA) China 2023 Conference, Chengdu (07/2023, upcoming)
 
+- Wang Yanan Institute for Studies in Economics and Department of Statistics, School of Economics, Xiamen University, Xiamen (06/2023)
+
 - School of Medicine, Shanghai Jiao Tong University, Shanghai (06/2023)
 
 - School of Statistics, East China Normal University, Shanghai (06/2023)
