@@ -21,7 +21,7 @@ I view open science practices as an important way to increase access and partici
 
 - <ins>Zhao, H.</ins> and **Wang, T.<b>*</b>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
 
-- Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2023+). ["Quantile Regression for biomarkers in the UK Biobank"](http://www.columbia.edu/~ii2135/QR_0602.pdf).
+- Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2023+). ["Quantile Regression for biomarkers in the UK Biobank"](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf).
 
 
 ### Under Revision
