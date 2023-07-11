@@ -7,13 +7,13 @@ title: Invited Talks
 
 - The 16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2023), Berlin (12/2023, upcoming)
 
-- The 6th International Conference on Econometrics and Statistics (EcoSta 2023), Tokyo (08/2023, upcoming)
+- The 6th International Conference on Econometrics and Statistics (EcoSta 2023), Tokyo (08/2023)
 
-- Joint Conference on Statistics and Data Science in China (JCSDS), Beijing (07/2023, upcoming) 
+- Joint Conference on Statistics and Data Science in China (JCSDS), Beijing (07/2023) 
 
-- The 12th ICSA International Conference, Hong Kong (07/2023, upcoming)
+- The 12th ICSA International Conference, Hong Kong (07/2023)
 
-- International Chinese Statistical Association (ICSA) China 2023 Conference, Chengdu (07/2023, upcoming)
+- International Chinese Statistical Association (ICSA) China 2023 Conference, Chengdu (07/2023)
 
 - Wang Yanan Institute for Studies in Economics and Department of Statistics, School of Economics, Xiamen University, Xiamen (06/2023)
 
