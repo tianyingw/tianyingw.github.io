@@ -31,10 +31,9 @@ I view open science practices as an important way to increase access and partici
 
 - <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+). "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes", _Annals of Applied Statistics_, under revision.
 
-- <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+). "Optimal Fingerprinting with Estimating Equations", _Journal of Climate_, under revision.
-
-
 ### Published
+
+- <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+). "Optimal Fingerprinting with Estimating Equations", _Journal of Climate_, accepted.
 
 - Ma, S. and **Wang, T.<b>*</b>** (2023). ["The optimal pre-post allocation for randomized clinical trials"](https://doi.org/10.1186/s12874-023-01893-w), _BMC Medical Research Methodology_, 23:72 doi: 10.1186/s12874-023-01893-w. 
 
