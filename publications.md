@@ -33,7 +33,7 @@ I view open science practices as an important way to increase access and partici
 
 ### Published
 
-- <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+). "Optimal Fingerprinting with Estimating Equations", _Journal of Climate_, accepted.
+- <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023). "Optimal Fingerprinting with Estimating Equations", _Journal of Climate_, accepted.
 
 - Ma, S. and **Wang, T.<b>*</b>** (2023). ["The optimal pre-post allocation for randomized clinical trials"](https://doi.org/10.1186/s12874-023-01893-w), _BMC Medical Research Methodology_, 23:72 doi: 10.1186/s12874-023-01893-w. 
 
