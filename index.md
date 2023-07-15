@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tianying Wang
-subtitle: Assistant Professor, Center for Statistical Science, Tsinghua University
+subtitle: Associate Professor, Center for Statistical Science, Tsinghua University
 use-site-title: true
 order: 1
 ---
