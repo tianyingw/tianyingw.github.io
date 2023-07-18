@@ -26,5 +26,5 @@ title: About me
   - I love baking (check [here](https://tianyingw.github.io/Instagram/)).  
   - I enjoy scuba diving and am certified as an Advanced Open Water diver.
 
-<img align="left" src="/img/IMG_0189.jpg" alt="" width="300">
+<img align="center" src="/img/IMG_0189.jpg" alt="" width="400">
 
