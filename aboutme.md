@@ -2,7 +2,7 @@
 layout: page
 title: About me
 ---
-<img align="right" src="/img/IMG_0819.jpeg" alt="" width="300">
+<img align="right" src="/img/IMG_0189.jpeg" alt="" width="300">
 
 
 ### Work Experience:
