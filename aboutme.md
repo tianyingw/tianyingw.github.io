@@ -13,6 +13,7 @@ title: About me
    - _Postdoc (2018-2020), Department of Biostatistics, Columbia University_   
        - Supervisors: [Dr. Ying Wei](https://yingweistat.com/) and [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
        
+<img align="right" src="/img/TianyingWang.jpg" alt="" width="300">
 
 ### Education:
 
@@ -27,5 +28,4 @@ title: About me
   - I love baking (check [here](https://tianyingw.github.io/Instagram/)).  
   - I enjoy scuba diving and am certified as an Advanced Open Water diver.
 
-<img align="middle" src="/img/IMG_0189.jpg" alt="" width="400">
 
