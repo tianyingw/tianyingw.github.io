@@ -12,9 +12,7 @@ order: 1
 [Department of Statistics](https://statistics.colostate.edu/)  
 [Colorado State University](https://www.colostate.edu/)   
 102 Statistics Building
-
 Fort Collins
-
 Colorado 80523-1877
    
 **Email:** Tianying[dot]Wang[at]colostate.edu
