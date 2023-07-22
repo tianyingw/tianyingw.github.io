@@ -11,7 +11,10 @@ order: 1
 ### Contact:
 [Department of Statistics](https://statistics.colostate.edu/)  
 [Colorado State University](https://www.colostate.edu/)   
-Beijing, 100084, China   
+102 Statistics Building
+1877 Campus Delivery
+Fort Collins, Colorado 80523-1877
+   
 **Email:** Tianying[dot]Wang[at]colostate.edu
 
 [**My CV**](https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) 
