@@ -11,8 +11,8 @@ order: 1
 ### Contact:
 [Department of Statistics](https://statistics.colostate.edu/)  
 [Colorado State University](https://www.colostate.edu/)   
-102 Statistics Building
-Fort Collins
+102 Statistics Building<br/>
+Fort Collins<br/>
 Colorado 80523-1877
    
 **Email:** Tianying[dot]Wang[at]colostate.edu
