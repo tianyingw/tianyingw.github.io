@@ -4,7 +4,8 @@ title: About me
 ---
 
 
-<img align="left" src="/img/TianyingWang.jpg" alt="" width="350">
+<img align="center" src="/img/TianyingWang.jpg" alt="" width="350">
+
 
 
 ### Work Experience:
