@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tianying Wang
-subtitle: Associate Professor, Center for Statistical Science, Tsinghua University
+subtitle: Assistant Professor, Department of Statistics, Colorado State University
 use-site-title: true
 order: 1
 ---
@@ -9,10 +9,10 @@ order: 1
 
 
 ### Contact:
-[Center for Statistical Science](http://www.stat.tsinghua.edu.cn/about/)  
-[Tsinghua University](https://www.tsinghua.edu.cn/)   
+[Department of Statistics](https://statistics.colostate.edu/)  
+[Colorado State University](https://www.colostate.edu/)   
 Beijing, 100084, China   
-**Email:** tianyingw [at] tsinghua.edu.cn
+**Email:** Tianying[dot]Wang[at]colostate.edu
 
 [**My CV**](https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) 
 ### News:
