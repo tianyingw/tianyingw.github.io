@@ -3,24 +3,20 @@ layout: page
 title: About me
 ---
 
-
-<img align="center" src="/img/TianyingWang.jpg" alt="" width="350">
-
+<div align="center">
+  <img src="/img/TianyingWang.jpg" alt="" width="350">
+</div>
 
 
 ### Work Experience:
 
-   - _Assistant Professor (2023-now)_
-       - Department of Statistics, Colorado State University
+   - _Assistant Professor (2023-now), Department of Statistics, Colorado State University_
          
-   - _Associate Professor (2023-2023)_
-       - Center for Statistical Science, Tsinghua University
+   - _Associate Professor (2023-2023), Center for Statistical Science, Tsinghua University_
          
-   - _Assistant Professor (2020-2023)_
-       - Center for Statistical Science, Tsinghua University
+   - _Assistant Professor (2020-2023), Center for Statistical Science, Tsinghua University_
          
-   - _Postdoc (2018-2020)_
-       - Department of Biostatistics, Columbia University   
+   - _Postdoc (2018-2020), Department of Biostatistics, Columbia University_   
        - Supervisors: [Dr. Ying Wei](https://yingweistat.com/) and [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
        
 
