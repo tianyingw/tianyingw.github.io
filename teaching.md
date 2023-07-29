@@ -11,7 +11,12 @@ If you have any questions, comments, or suggestions, you are more than welcome t
 
 **Office hour (Spring 2023):** every Friday 16:00-17:00 at Weiqing Building 212A.
 
+## Courses taught at Colorado State University
+------------------------------------------------------
 
+### STAR 511: Design and Data Analysis for Researchers I (Fall 2023)
+  -Graduate-level;
+  - Probability distributions, inferences about population mean and variances, multiple comparisons, categorical data analysis, linear regression and correlation, etc.
 
 ## Courses taught at Tsinghua University
 ------------------------------------------------------
