@@ -9,13 +9,12 @@ I am committed to providing an ear and a voice to all students with respect to I
 
 If you have any questions, comments, or suggestions, you are more than welcome to let me know by filling out this (anonymous) [survey](https://forms.gle/DKevoT48aB4gczhq6) or [scheduling an appointment](mailto:tianyingw@tsinghua.edu.cn) for my office hour.
 
-**Office hour (Spring 2023):** every Friday 16:00-17:00 at Weiqing Building 212A.
 
 ## Courses taught at Colorado State University
 ------------------------------------------------------
 
 ### STAR 511: Design and Data Analysis for Researchers I (Fall 2023)
-  -Graduate-level;
+  - Graduate-level;
   - Probability distributions, inferences about population mean and variances, multiple comparisons, categorical data analysis, linear regression and correlation, etc.
 
 ## Courses taught at Tsinghua University
