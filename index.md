@@ -20,7 +20,7 @@ Colorado 80523-1877
 [**My CV**](https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) 
 ### News:
 
-- **July 2023**: Our paper on ["Optimal Fingerprinting with Estimating Equations"]() is accepted by _Journal of Climate_.
+- **July 2023**: Our paper on ["Optimal Fingerprinting with Estimating Equations"](https://journals.ametsoc.org/configurable/content/journals$002fclim$002faop$002fJCLI-D-22-0681.1$002fJCLI-D-22-0681.1.xml?t:ac=journals%24002fclim%24002faop%24002fJCLI-D-22-0681.1%24002fJCLI-D-22-0681.1.xml) is accepted by _Journal of Climate_.
  
 - **June 2023**: Our manuscript on [Quantile Regression for biomarkers in the UK Biobank](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf) is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf).
 
