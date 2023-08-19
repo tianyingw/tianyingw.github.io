@@ -13,25 +13,23 @@ I view open science practices as an important way to increase access and partici
 <b>*</b> indicates the corresponding author; <ins>underline</ins> indicates a student working under my (co)supervision; <sup><span>&#9830;</span></sup> represents an undergraduate student mentee.
 </p>
 
-### Under Review 
+### Submitted manuscripts
 
 - **Wang, T.**, Liu, J., and Wu, A. (2022+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_.
 
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2022+). _"A Semiparametric Quantile Single-Index  Model for Zero-Inflated and Overdispersed Outcomes"_.
 
-- <ins>Zhao, H.</ins> and **Wang, T.<b>*</b>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
-
-- Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2023+). ["Quantile Regression for biomarkers in the UK Biobank"](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf).
-
-
-### Under Revision
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022+). ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081), _Journal of the American Statistical Association_, under revision.  
 
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2022+). _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_, _Statistica Sinica_, under revision.
 
-- <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+). "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes", _Annals of Applied Statistics_, under revision.
+- <ins>Zhao, H.</ins> and **Wang, T.<b>*</b>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
+
+- Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2023+). ["Quantile Regression for biomarkers in the UK Biobank"](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf).
 
 ### Published
+
+- <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023). "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes", _Statistics and Computing_, accepted.
 
 - <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023). ["Optimal Fingerprinting with Estimating Equations"](https://journals.ametsoc.org/configurable/content/journals$002fclim$002faop$002fJCLI-D-22-0681.1$002fJCLI-D-22-0681.1.xml?t:ac=journals%24002fclim%24002faop%24002fJCLI-D-22-0681.1%24002fJCLI-D-22-0681.1.xml), _Journal of Climate_, accepted.
 
