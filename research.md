@@ -39,8 +39,8 @@ The third thread of my work focuses on addressing error-in-variable issues with 
 </p>
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2023) _"Gaussian Processes with Errors in Variables: theory and computation"_, _Journal of Machine Learning Research_, accepted.
-- <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) _"Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"_, _Annals of Applied Statistics_, under revision.
-- <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2022+) _"Optimal Fingerprinting with Estimating Equations"_, under revision.
+- <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023) _"Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"_, _Statistics and Computing_, accepted.
+- <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023) _"Optimal Fingerprinting with Estimating Equations"_, _Journal of Climate_, accepted.
 - <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_,  _Journal of the American Statistical Association_, 1 - 21.
 - Blas Achic, B.<sup><span>&#9839;</span></sup>, **Wang, T.<sup><span>&#9839;</span></sup>** , Su, Y., Kipnis, V., Dodd, K., and Carroll, R. J. (2018). _"Categorizing a Continuous Predictor Subject to Measurement Error"_. Electronic Journal of Statistics, Vol. 12, No. 2, 4032-4056. **( <sup><span>&#9839;</span></sup> joint first authors)**. 
 
