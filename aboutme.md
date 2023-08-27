@@ -21,12 +21,15 @@ title: About me
 
    - _Postdoc (2018-2020)_, Department of Biostatistics, Columbia University
      - Supervisors: [Dr. Ying Wei](https://yingweistat.com/) and [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
+
        
    - _Ph.D. (2014-2018)_, Department of Statistics, Texas A&M University   
        - Advisors: [Dr. Raymond J. Carroll](https://www.stat.tamu.edu/~carroll/) and [Dr. Irina Gaynanova](https://irinagain.github.io/)       
        - Dissertation: Topics in Measurement Error Analysis and High-dimensional Binary Classification
+
          
    - _B.S. (2010-2014)_, School of Statistics, Renmin University of China  
+
  
 ### Fun Facts:
 
