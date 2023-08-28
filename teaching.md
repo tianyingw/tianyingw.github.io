@@ -32,7 +32,7 @@ If you have any questions, comments, or suggestions, you are more than welcome t
   - Graduate-level (Ph.D.); taught in English & Mandarin;
   - Genome-wide association analysis, functional genomics, integration of functional genomics and genetic data, gene-environment interactions, single cell transcriptomics, deep learning for regulatory genomics, etc.
 
-### High dimensional Statistics (Fall 2021)
+### High Dimensional Statistics (Fall 2021)
   - Graduate-level (Ph.D.); taught in English;
   - Optimization theory, LASSO and generalizations of the LASSO penalty, theory for LASSO prediction and variable selection consistency, etc.
 
