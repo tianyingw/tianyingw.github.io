@@ -35,6 +35,6 @@ title: About me
 
   - I love baking (check [here](https://tianyingw.github.io/Instagram/)).  
   - I enjoy scuba diving and am certified as an Advanced Open Water diver.
-  - I have been playing Pokémon games since 1998. My favorite generation is _Pokémon Ruby_.
+  - I have been playing Pokémon games since 1998. My favorite generation is _Pokémon Ruby and Sapphire_.
 
 
