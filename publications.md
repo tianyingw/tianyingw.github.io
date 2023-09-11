@@ -29,7 +29,7 @@ I view open science practices as an important way to increase access and partici
 
 ### Published
 
-- <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023). "Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes", _Statistics and Computing_, accepted.
+- <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023). ["Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"](https://doi.org/10.1007/s11222-023-10290-8), _Statistics and Computing_, accepted.
 
 - <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023). ["Optimal Fingerprinting with Estimating Equations"](https://journals.ametsoc.org/configurable/content/journals$002fclim$002faop$002fJCLI-D-22-0681.1$002fJCLI-D-22-0681.1.xml?t:ac=journals%24002fclim%24002faop%24002fJCLI-D-22-0681.1%24002fJCLI-D-22-0681.1.xml), _Journal of Climate_, accepted.
 
