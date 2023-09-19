@@ -4,14 +4,16 @@ title: R
 ---
 
 ### Developed and maintained:
-   
-   - [ZIPG](https://cran.r-project.org/web/packages/ZIPG/index.html) _(Zero-Inflated Poisson-Gamma)_: The R apckage ZIPG provides a flexible Zero-inflated Poisson-Gamma Model model for microbiome count data by connecting both mean abundance and the variability to different covariates. It implements the method from [A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data (2022)](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2151447?journalCode=uasa20).
-   
-   - [QTWAS](https://github.com/tianyingw/QTWAS) _(Quantile Transcriptome-Wide Association Analysis)_: We provide a quantile tool for investigating nonlinear gene-trait associations in Transcriptome-Wide Association Analysis (TWAS). It impelents the method from [A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations (2022+)](https://arxiv.org/pdf/2207.12081.pdf). More information can be found on [this webpage](https://tianyingw.github.io/QTWAS/).
-  
-   - [iQRAT](https://github.com/tianyingw/iQRAT) _(Integrated Quantile RAnk Test)_: The R package iQRAT provides an efficient quantile rank test for heterogeneous association in sequencing study. It implements the method from [Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies (2022)](https://arxiv.org/abs/1910.10102).
 
-   - [IQKM](https://github.com/tianyingw/IQKM) _(Integrated Quantile Kernel Machine)_: The R package IQKM provides tools for testing microbiome-outcome association. It impelements the method from [Testing microbiome association using integrated quantile regression models (2022)](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494).
+   - [PSIMEX](https://github.com/tianyingw/PSIMEX)_(Pseudo-SIMEX)_: We provide a pseudo-simulation extrapolation method for misspecified models with errors-in-variables.
+   
+   - [ZIPG](https://cran.r-project.org/web/packages/ZIPG/index.html) _(Zero-Inflated Poisson-Gamma)_: The R package ZIPG provides a flexible Zero-inflated Poisson-Gamma Model model for microbiome count data by connecting both mean abundance and the variability to different covariates. It implements the method from [A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data (2022)](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2151447?journalCode=uasa20).
+   
+   - [QTWAS](https://github.com/tianyingw/QTWAS) _(Quantile Transcriptome-Wide Association Analysis)_: We provide a quantile tool for investigating nonlinear gene-trait associations in Transcriptome-Wide Association Analysis (TWAS). It implements the method from [A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations (2022+)](https://arxiv.org/pdf/2207.12081.pdf). More information can be found on [this webpage](https://tianyingw.github.io/QTWAS/).
+  
+   - [iQRAT](https://github.com/tianyingw/iQRAT) _(Integrated Quantile RAnk Test)_: The R package iQRAT provides an efficient quantile rank test for heterogeneous association in sequencing study. It implements the method from [Integrated Quantile RAnk Test (iQRAT) for the heterogeneous joint effect of rare and common variants in sequencing studies (2022)](https://arxiv.org/abs/1910.10102).
+
+   - [IQKM](https://github.com/tianyingw/IQKM) _(Integrated Quantile Kernel Machine)_: The R package IQKM provides tools for testing microbiome-outcome association. It implements the method from [Testing microbiome association using integrated quantile regression models (2022)](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494).
 
    - [DAP](https://cran.r-project.org/web/packages/DAP/index.html) _(Discriminant Analysis via Projection)_: The R package DAP provides tools for high-dimensional binary classification in the case of unequal covariance matrices. It implements the method from the following paper:
 [Sparse quadratic classification rules via linear dimension reduction by Gaynanova and Wang (2019)](https://arxiv.org/abs/1711.04817).
