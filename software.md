@@ -5,7 +5,7 @@ title: R
 
 ### Developed and maintained:
 
-   - [PSIMEX](https://github.com/tianyingw/PSIMEX)_(Pseudo-SIMEX)_: We provide a pseudo-simulation extrapolation method for misspecified models with errors-in-variables.
+   - [PSIMEX](https://github.com/tianyingw/PSIMEX) _(Pseudo-SIMEX)_: We provide a pseudo-simulation extrapolation method for misspecified models with errors-in-variables.
    
    - [ZIPG](https://cran.r-project.org/web/packages/ZIPG/index.html) _(Zero-Inflated Poisson-Gamma)_: The R package ZIPG provides a flexible Zero-inflated Poisson-Gamma Model model for microbiome count data by connecting both mean abundance and the variability to different covariates. It implements the method from [A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data (2022)](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2151447?journalCode=uasa20).
    
