@@ -13,21 +13,19 @@ I view open science practices as an important way to increase access and partici
 <b>*</b> indicates the corresponding author; <ins>underline</ins> indicates a student working under my (co)supervision; <sup><span>&#9830;</span></sup> represents an undergraduate student mentee.
 </p>
 
-### Submitted manuscripts
+#### 2023
 
-- **Wang, T.**, Liu, J., and Wu, A. (2023+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_.
+- **Wang, T.**, Liu, J., and Wu, A. (2023+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_, submitted.
 
-- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2023+). _"A Semiparametric Quantile Single-Index  Model for Zero-Inflated and Overdispersed Outcomes"_.
+- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2023+). _"A Semiparametric Quantile Single-Index  Model for Zero-Inflated and Overdispersed Outcomes"_, submitted.
 
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2023+). ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081), _Journal of the American Statistical Association_, revision submitted.  
 
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2023+). _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_, _Statistica Sinica_, revision submitted.
 
-- <ins>Zhao, H.</ins>, Hou, L., and **Wang, T.<b>*</b>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
+- <ins>Zhao, H.</ins>, Hou, L., and **Wang, T.<b>*</b>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_, submitted.
 
-- Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2023+). ["Quantile Regression for biomarkers in the UK Biobank"](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf).
-
-### Published
+- Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2023+). ["Quantile Regression for biomarkers in the UK Biobank"](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf), submitted.
 
 - <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023). ["Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"](https://doi.org/10.1007/s11222-023-10290-8), _Statistics and Computing_, 33 (6), 125.
 
@@ -39,11 +37,15 @@ I view open science practices as an important way to increase access and partici
 
 - <ins>Jiang, R.**<sup><span>&#9830;</span></sup>**</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2023). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447), _Journal of the American Statistical Association_, 118 (542) 792 - 804. 
 
+#### 2022
+
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Integrated-Quantile-RAnk-Test-iQRAT-for-gene-level-associations/10.1214/21-AOAS1548.short). _Annals of Applied Statistics_, 16 (3), 1423 - 1444. 
 
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). ["Testing microbiome association using integrated quantile regression models"](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494). _Bioinformatics_, 38(2), 419-425. 
 
 - Houghton, L. C., Wei, Y., **Wang, T.**, Goldberg, M., Paniagua-Avila, A., Sweeden, R. L., Bradbury, A., Daly, M., Schwartz, L. A., Keegan, T., John, E. M., Knight, J. A., Andrulis, I. L., Buys, S. S., Frost, C. J., O'Toole, K., White, M. L., Chung, W. K., and Terry, M. B. (2022). ["Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study"](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyac021/6528416). _International Journal of Epidemiology_, 2022 Feb 14:dyac021. doi: 10.1093/ije/dyac021. PMID: 35157067.
+
+#### 2021 and before
 
 - **Wang, T.<b>*</b>** and Asher, A. (2021). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) _Statistics in Biosciences_, 13, 386–401. 
 
