@@ -13,7 +13,7 @@ I view open science practices as an important way to increase access and partici
 <b>*</b> indicates the corresponding author; <ins>underline</ins> indicates a student working under my (co)supervision; <sup><span>&#9830;</span></sup> represents an undergraduate student mentee.
 </p>
 
-#### 2023
+#### 2023+
 
 - **Wang, T.**, Liu, J., and Wu, A. (2023+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_, submitted.
 
@@ -26,6 +26,8 @@ I view open science practices as an important way to increase access and partici
 - <ins>Zhao, H.</ins>, Hou, L., and **Wang, T.<b>*</b>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_, submitted.
 
 - Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2023+). ["Quantile Regression for biomarkers in the UK Biobank"](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf), submitted.
+
+#### 2023
 
 - <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023). ["Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"](https://doi.org/10.1007/s11222-023-10290-8), _Statistics and Computing_, 33 (6), 125.
 
