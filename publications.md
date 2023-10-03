@@ -45,11 +45,13 @@ I view open science practices as an important way to increase access and partici
 
 - Houghton, L. C., Wei, Y., **Wang, T.**, Goldberg, M., Paniagua-Avila, A., Sweeden, R. L., Bradbury, A., Daly, M., Schwartz, L. A., Keegan, T., John, E. M., Knight, J. A., Andrulis, I. L., Buys, S. S., Frost, C. J., O'Toole, K., White, M. L., Chung, W. K., and Terry, M. B. (2022). ["Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study"](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyac021/6528416). _International Journal of Epidemiology_, 2022 Feb 14:dyac021. doi: 10.1093/ije/dyac021. PMID: 35157067.
 
-#### 2021 and before
+#### 2021 
 
 - **Wang, T.<b>*</b>** and Asher, A. (2021). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) _Statistics in Biosciences_, 13, 386–401. 
 
 - Plantinga, A., Wilson, N., Zheng, H., **Wang, T.**, Zhan, Z., Wu, M., Zhao, N., and Chen, J. (2021). ["MiRKAT: Microbiome Regression-Based Analysis Tests"](https://CRAN.R-project.org/package=MiRKAT).
+
+#### Before 2020
 
 - Gaynanova, I. and **Wang, T.** (2019). ["Sparse quadratic classification rules via linear dimension reduction".](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6516858/) _Journal of Multivariate Analysis_, 169, 278-299. 
 
