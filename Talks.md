@@ -5,6 +5,8 @@ title: Invited Talks
 
 ## 2024 ##
 
+- Joint Statistical Meetings, Portland, OR (08/2024, upcoming)
+
 - The Banff International Research Station: workshop on "Bridging statistical strategies for censored covariates", Banff, Alberta, Canada (01/2024, upcoming)
 
 ## 2023 ##
