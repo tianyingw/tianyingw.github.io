@@ -9,9 +9,11 @@ title: Invited Talks
 
 - The Banff International Research Station: workshop on "Bridging statistical strategies for censored covariates", Banff, Alberta, Canada (01/2024, upcoming)
 
+- IMS-APRM, Melbourne, Australia (01/2024, upcoming)
+
 ## 2023 ##
 
-- The 16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2023), Berlin (12/2023, upcoming)
+- The 16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2023), Berlin, Germany (12/2023, upcoming)
 
 - The 6th International Conference on Econometrics and Statistics (EcoSta 2023), Tokyo (08/2023)
 
