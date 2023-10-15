@@ -33,7 +33,7 @@ title: About me
  
 ### Fun Facts:
 
-  - I love baking (check [here](https://tianyingw.github.io/Instagram/)).  
+  - I love baking (check [my Instagram](https://tianyingw.github.io/Instagram/)) and hiking (check [hiking in Fort Collins, Colorado](https://tianyingw.github.io/hiking/)).  
   - I enjoy scuba diving and am certified as an Advanced Open Water diver.
   - I have been playing Pokémon games since 1998. My favorite generation is _Pokémon Ruby and Sapphire_.
 
