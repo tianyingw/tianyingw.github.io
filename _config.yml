@@ -44,7 +44,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/IMG_9210.jpg"
+avatar: "/img/IMG_1127.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -84,7 +84,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "tianyingw@tsinghua.edu.cn"
+  email: "Tianying.Wang@colostate.edu"
 #  facebook: daattali
   github: tianyingw
 #  twitter: daattali
