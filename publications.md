@@ -37,7 +37,7 @@ I view open science practices as an important way to increase access and partici
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2023). ["Gaussian Processes with Errors in Variables: theory and computation"](https://jmlr.org/papers/volume24/21-1480/21-1480.pdf), _Journal of Machine Learning Research_, 24, 1-53.
 
-- <ins>Jiang, R.**<sup><span>&#9830;</span></sup>**</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2023). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447), _Journal of the American Statistical Association_, 118 (542) 792 - 804. 
+- <ins>Jiang, R.**<sup><span>&#9830;</span></sup>**</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2023). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447), _Journal of the American Statistical Association_, 118 (542), 792 - 804. 
 
 #### 2022
 
