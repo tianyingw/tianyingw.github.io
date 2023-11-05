@@ -17,7 +17,7 @@ I view open science practices as an important way to increase access and partici
 
 - **Wang, T.**, Liu, J., and Wu, A. (2023+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_, submitted.
 
-- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2023+). _"A Semiparametric Quantile Single-Index  Model for Zero-Inflated and Overdispersed Outcomes"_, submitted.
+- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2023+). _"A Semiparametric Quantile Single-Index Model for Microbiome Sequencing Count Data"_, submitted.
 
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2023+). ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081), _Journal of the American Statistical Association_, revision submitted.  
 
