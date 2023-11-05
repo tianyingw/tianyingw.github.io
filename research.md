@@ -30,7 +30,7 @@ The second thread of my research focuses on robust statistical modeling in zero-
 
 - <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_,  _Journal of the American Statistical Association_, 118 (542), 792 - 804. 
 - **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2023+). _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_, _Statistica Sinica_, revision submitted.
-- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2023+). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated and Overdispersed Outcomes"_, submitted.
+- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2023+). _"A Semiparametric Quantile Single-Index Model for Microbiome Sequencing Count Data"_, submitted.
 - **Wang, T.<b>*</b>** (2023+). _“Zero-inflated quantile regression model with error-prone covariates”_, in preparation.
 
 ### Statistical analyses on the errors-in-variables issue with complex data
