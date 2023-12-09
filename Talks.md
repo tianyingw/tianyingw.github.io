@@ -7,6 +7,10 @@ title: Invited Talks
 
 - Joint Statistical Meetings, Portland, OR (08/2024, upcoming)
 
+- ICSA-Canada Chapter Symposium, Niagara Falls, Canada (06/2024, upcoming)
+
+- STATGEN 2024: Conference on Statistics in Genomics and Genetics, Pittsburgh (05/2024)
+
 - The Banff International Research Station: workshop on "Bridging statistical strategies for censored covariates", Banff, Alberta, Canada (01/2024, upcoming)
 
 - IMS-APRM, Melbourne, Australia (01/2024, upcoming)
