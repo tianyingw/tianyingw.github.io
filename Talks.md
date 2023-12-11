@@ -91,5 +91,5 @@ title: Invited Talks
 
 2. Topic-contributed session, Joint Statistical Meetings, Vancouver (08/2018)
 
-1. Data-Driven Model Reduction, Scientific Frontiers, and Applications Workshop, College station, TX (05/2018)
+1. Data-Driven Model Reduction, Scientific Frontiers, and Applications Workshop, College Station, TX (05/2018)
 
