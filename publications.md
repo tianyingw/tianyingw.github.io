@@ -31,7 +31,7 @@ I view open science practices as an important way to increase access and partici
 
 - <ins>Luo, Q.**<sup><span>&#9830;</span></sup>**</ins>, <ins>Yu, Y.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2024+). _"A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity"_.
 
-#### 2023
+#### Published
 
 - <ins>Lau, A.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023). ["Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"](https://doi.org/10.1007/s11222-023-10290-8), _Statistics and Computing_, 33 (6), 125.
 
@@ -43,22 +43,15 @@ I view open science practices as an important way to increase access and partici
 
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2023). ["Gaussian Processes with Errors in Variables: theory and computation"](https://jmlr.org/papers/volume24/21-1480/21-1480.pdf), _Journal of Machine Learning Research_, 24, 1-53.
 
-
-#### 2022
-
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Integrated-Quantile-RAnk-Test-iQRAT-for-gene-level-associations/10.1214/21-AOAS1548.short). _Annals of Applied Statistics_, 16 (3), 1423 - 1444. 
 
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). ["Testing microbiome association using integrated quantile regression models"](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494). _Bioinformatics_, 38(2), 419-425. 
 
 - Houghton, L. C., Wei, Y., **Wang, T.**, Goldberg, M., Paniagua-Avila, A., Sweeden, R. L., Bradbury, A., Daly, M., Schwartz, L. A., Keegan, T., John, E. M., Knight, J. A., Andrulis, I. L., Buys, S. S., Frost, C. J., O'Toole, K., White, M. L., Chung, W. K., and Terry, M. B. (2022). ["Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study"](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyac021/6528416). _International Journal of Epidemiology_, 2022 Feb 14:dyac021. doi: 10.1093/ije/dyac021. PMID: 35157067.
 
-#### 2021 
-
 - **Wang, T.<b>*</b>** and Asher, A. (2021). ["Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies".](https://doi.org/10.1007/s12561-020-09298-9) _Statistics in Biosciences_, 13, 386–401. 
 
 - Plantinga, A., Wilson, N., Zheng, H., **Wang, T.**, Zhan, Z., Wu, M., Zhao, N., and Chen, J. (2021). ["MiRKAT: Microbiome Regression-Based Analysis Tests"](https://CRAN.R-project.org/package=MiRKAT).
-
-#### Before 2020
 
 - Gaynanova, I. and **Wang, T.** (2019). ["Sparse quadratic classification rules via linear dimension reduction".](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6516858/) _Journal of Multivariate Analysis_, 169, 278-299. 
 
