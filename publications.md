@@ -27,9 +27,6 @@ I view open science practices as an important way to increase access and partici
 
 - Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2023+). ["Quantile Regression for biomarkers in the UK Biobank"](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf).
 
-- <ins>Zhao, H.</ins> and **Wang, T.<b>*</b>** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_.
-
-- <ins>Luo, Q.**<sup><span>&#9830;</span></sup>**</ins>, <ins>Yu, Y.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2024+). _"A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity"_.
 
 #### Published
 
