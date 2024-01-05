@@ -15,6 +15,8 @@ I view open science practices as an important way to increase access and partici
 
 #### Under Review
 
+- <ins>Zhao, H.</ins>, and **Wang, T.** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_.
+
 - **Wang, T.**, Liu, J., and Wu, A. (2023+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_.
 
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2023+). _"A Semiparametric Quantile Single-Index Model for Microbiome Sequencing Count Data"_.
