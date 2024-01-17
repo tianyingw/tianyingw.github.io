@@ -20,7 +20,7 @@ Colorado 80523-1877
 [**My CV**](https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) 
 ### News:
 
-- **January 2024**: Our paper on ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"]() is accepted by _Statistica Sinica_.
+- **January 2024**: Our paper on ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf) is accepted by _Statistica Sinica_.
   
 - **August 2023**: Our paper on ["Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"](https://doi.org/10.1007/s11222-023-10290-8) is accepted by _Statistics and Computing_.
   
