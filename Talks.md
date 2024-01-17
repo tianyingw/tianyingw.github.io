@@ -5,7 +5,9 @@ title: Invited Talks
 
 ## 2024 ##
 
-38. Joint Statistical Meetings, Portland, OR (08/2024, upcoming)
+39. Joint Statistical Meetings, Portland, OR (08/2024, upcoming)
+
+38. 2024 ICSA China Conference, Wuhan (06/2024, upcoming) 
 
 37. International Chinese Statistical Association (ICSA) Applied Symposium, Tennessee (06/2024, upcoming)
 
