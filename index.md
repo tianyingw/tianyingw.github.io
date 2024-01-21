@@ -18,6 +18,9 @@ Colorado 80523-1877
 **Email:** Tianying[dot]Wang[at]colostate.edu
 
 [**My CV**](https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) 
+
+I am actively looking for undergraduate and graduate students to work on fun research projects together!
+
 ### News:
 
 - **January 2024**: Our paper on ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf) is accepted by _Statistica Sinica_.
