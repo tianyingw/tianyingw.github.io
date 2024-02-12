@@ -11,6 +11,7 @@ title: About me
 ### Work Experience:
 
    - 2023 - Now, Assistant Professor, _Department of Statistics, Colorado State University_
+                 Affiliated with _Data Science Research Institute, Colorado State University_
           
    - 2023 - 2023, Associate Professor, _Center for Statistical Science, Tsinghua University_
         
