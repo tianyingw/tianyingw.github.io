@@ -56,21 +56,21 @@ LASSO for Quantile Regression with Panel Data".](http://www.sltj.chinajournal.ne
 
 - <ins>Zhao, H.</ins>, and **Wang, T.<b>*</b>** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_.
 
-- <ins>Luo, Q.**<sup><span>&#9830;</span></sup>**</ins>, <ins>Yu, Y.**<sup><span>&#9830;</span></sup>**</ins>, and **Wang, T.<b>*</b>** (2024+). ``A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity".
+- <ins>Luo, Q.**<sup><span>&#9830;</span></sup>**</ins>, <ins>Yu, Y.**<sup><span>&#9830;</span></sup>**</ins>, and **Wang, T.<b>*</b>** (2024+). _"A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity"_.
 
-- Li, Y., **Wang, T.**, Yan, J., and Zhang, X. (2024+). ``Detection and Attribution Analysis of Regional Temperature with Estimating Equations".
+- Li, Y., **Wang, T.**, Yan, J., and Zhang, X. (2024+). _"Detection and Attribution Analysis of Regional Temperature with Estimating Equations"_.
 
 - Mao, Y., Jiang, Z., **Wang, T.**, and Zhan, X. (2024+) _"Tree-guided compositional variable selection analysis of microbiome data"_. 
+
+- **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2023+). _["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081)_.  
 
 - **Wang, T.**, Liu, J., and Wu, A. (2023+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_.
 
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2023+). _"A Semiparametric Quantile Single-Index Model for Microbiome Sequencing Count Data"_.
 
-- **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2023+). ["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081), _Journal of the American Statistical Association_, revision submitted.  
-
 - <ins>Zhao, H.</ins> and **Wang, T.<b>*</b>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
 
-- Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2023+). ["Quantile Regression for biomarkers in the UK Biobank"](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf).
+- Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2023+). _["Quantile Regression for biomarkers in the UK Biobank"](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf)_.
 
 
 
