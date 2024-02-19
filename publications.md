@@ -14,7 +14,7 @@ I view open science practices as an important way to increase access and partici
 </p>
 
 
-- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2024). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), _Statistica Sinica_, accepted.
+- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2024). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), _Statistica Sinica_, to appear.
     
 - <ins>Lau, Y.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023). ["Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"](https://doi.org/10.1007/s11222-023-10290-8), _Statistics and Computing_, 33 (6), 125.
 
