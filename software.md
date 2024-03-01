@@ -5,7 +5,7 @@ title: R
 
 ### Developed and maintained:
 
-   - [ZIKQ](https://github.com/tianyingw/ZIKQ)_(ZIKQ)_: We provide the R code for constructing centile charts for natural history data. It implements the method from [ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development]().
+   - [ZIKQ](https://github.com/tianyingw/ZIKQ) _(ZIKQ)_: We provide the R code for constructing centile charts for natural history data. It implements the method from [ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development]().
    
    - [PSIMEX](https://github.com/tianyingw/PSIMEX) _(Pseudo-SIMEX)_: We provide a pseudo-simulation extrapolation method for misspecified models with errors-in-variables.
    
