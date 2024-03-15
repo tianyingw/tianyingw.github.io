@@ -5,15 +5,15 @@ title: Invited Talks
 
 ## 2024 ##
 
-40. Joint Statistical Meetings, Portland, OR (08/2024, upcoming)
+40. Joint Statistical Meetings, Portland, OR (08/2024)
 
-39. The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing (08/2024, upcoming)
+39. The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing (08/2024)
 
-38. 2024 ICSA China Conference, Wuhan (06/2024, upcoming) 
+38. 2024 ICSA China Conference, Wuhan (06/2024) 
 
-37. International Chinese Statistical Association (ICSA) Applied Symposium, Tennessee (06/2024, upcoming)
+37. International Chinese Statistical Association (ICSA) Applied Symposium, Tennessee (06/2024)
 
-36. The 6th ICSA-Canada Chapter Symposium, Niagara Falls, Canada (06/2024, upcoming)
+36. The 6th ICSA-Canada Chapter Symposium, Niagara Falls, Canada (06/2024)
 
 35. STATGEN 2024: Conference on Statistics in Genomics and Genetics, Pittsburgh (05/2024)
 
