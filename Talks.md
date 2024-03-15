@@ -5,7 +5,9 @@ title: Invited Talks
 
 ## 2024 ##
 
-39. Joint Statistical Meetings, Portland, OR (08/2024, upcoming)
+40. Joint Statistical Meetings, Portland, OR (08/2024, upcoming)
+
+39. The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing (08/2024, upcoming)
 
 38. 2024 ICSA China Conference, Wuhan (06/2024, upcoming) 
 
@@ -15,9 +17,9 @@ title: Invited Talks
 
 35. STATGEN 2024: Conference on Statistics in Genomics and Genetics, Pittsburgh (05/2024)
 
-34. The Banff International Research Station: workshop on "Bridging statistical strategies for censored covariates", Banff, Alberta, Canada (01/2024, upcoming)
+34. The Banff International Research Station: workshop on "Bridging statistical strategies for censored covariates", Banff, Alberta, Canada (01/2024)
 
-33. IMS-APRM, Melbourne, Australia (01/2024, upcoming)
+33. IMS-APRM, Melbourne, Australia (01/2024)
 
 ## 2023 ##
 
