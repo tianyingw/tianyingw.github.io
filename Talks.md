@@ -17,7 +17,7 @@ title: Invited Talks
 
 36. The 6th ICSA-Canada Chapter Symposium, Niagara Falls, Canada (06/2024)
 
-35. STATGEN 2024: Conference on Statistics in Genomics and Genetics, Pittsburgh (05/2024)
+35. Conference on Statistical Methods for High-Dimensional Complex Data (Selected Young Investigator Presentation), College Station (05/2024)
 
 34. The Banff International Research Station: workshop on "Bridging statistical strategies for censored covariates", Banff, Alberta, Canada (01/2024)
 
