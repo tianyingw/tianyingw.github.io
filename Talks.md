@@ -5,45 +5,47 @@ title: Invited Talks
 
 ## 2024 ##
 
-41. Joint Statistical Meetings, Portland, OR (08/2024)
+42. Joint Statistical Meetings, Portland, OR (08/2024)
 
-40. The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing (08/2024)
+41. The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing (08/2024)
 
-39. Joint Conference on Statistics and Data Science in China (JCSDS), Yunnan (07/2024) 
+40. Joint Conference on Statistics and Data Science in China (JCSDS), Yunnan (07/2024) 
 
-38. 2024 ICSA China Conference, Wuhan (06/2024) 
+39. 2024 ICSA China Conference, Wuhan (06/2024) 
 
-37. International Chinese Statistical Association (ICSA) Applied Symposium, Tennessee (06/2024)
+38. International Chinese Statistical Association (ICSA) Applied Symposium, Tennessee (06/2024)
 
-36. The 6th ICSA-Canada Chapter Symposium, Niagara Falls, Canada (06/2024)
+37. The 6th ICSA-Canada Chapter Symposium, Niagara Falls, Canada (06/2024)
 
-35. Conference on Statistical Methods for High-Dimensional Complex Data (Selected Young Investigator Presentation), College Station (05/2024)
+36. Conference on Statistical Methods for High-Dimensional Complex Data (Selected Young Investigator Presentation), College Station (05/2024)
 
-34. The Banff International Research Station: workshop on "Bridging statistical strategies for censored covariates", Banff, Alberta, Canada (01/2024)
+35. The Banff International Research Station: workshop on "Bridging statistical strategies for censored covariates", Banff, Alberta, Canada (01/2024)
 
-33. IMS-APRM, Melbourne, Australia (01/2024)
+34. IMS-APRM, Melbourne, Australia (01/2024)
 
 ## 2023 ##
 
-32. The 16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2023), Berlin, Germany (12/2023, upcoming)
+33. The 16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2023), Berlin, Germany (12/2023, upcoming)
 
-31. The 6th International Conference on Econometrics and Statistics (EcoSta 2023), Tokyo (08/2023)
+32. The 6th International Conference on Econometrics and Statistics (EcoSta 2023), Tokyo (08/2023)
 
-30. Joint Conference on Statistics and Data Science in China (JCSDS), Beijing (07/2023) 
+31. Joint Conference on Statistics and Data Science in China (JCSDS), Beijing (07/2023) 
 
-29. The 12th ICSA International Conference, Hong Kong (07/2023)
+30. The 12th ICSA International Conference, Hong Kong (07/2023)
 
-28. International Chinese Statistical Association (ICSA) China 2023 Conference, Chengdu (07/2023)
+29. International Chinese Statistical Association (ICSA) China 2023 Conference, Chengdu (07/2023)
 
-27. Wang Yanan Institute for Studies in Economics and Department of Statistics, School of Economics, Xiamen University, Xiamen (06/2023)
+28. Wang Yanan Institute for Studies in Economics and Department of Statistics, School of Economics, Xiamen University, Xiamen (06/2023)
 
-26. School of Medicine, Shanghai Jiao Tong University, Shanghai (06/2023)
+27. School of Medicine, Shanghai Jiao Tong University, Shanghai (06/2023)
 
-25. School of Statistics, East China Normal University, Shanghai (06/2023)
+26. School of Statistics, East China Normal University, Shanghai (06/2023)
 
-24. School of Management, Fudan University, Shanghai (06/2023)
+25. School of Management, Fudan University, Shanghai (06/2023)
 
-23. School of Statistics, Southwestern University of Finance and Economics, Chengdu (06/2023)
+24. School of Statistics, Southwestern University of Finance and Economics, Chengdu (06/2023)
+
+23. Department of Automation, Tsinghua University, Beijing  (05/2023)
 
 22. Eastern North American (ENAR) Spring Meeting,  Nashville, TN (03/2023)
 
