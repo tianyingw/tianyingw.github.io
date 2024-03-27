@@ -5,11 +5,13 @@ title: Invited Talks
 
 ## 2024 ##
 
-42. Joint Statistical Meetings, Portland, OR (08/2024)
+43. Joint Statistical Meetings, Portland, OR (08/2024)
 
-41. The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing (08/2024)
+42. The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing (08/2024)
 
-40. Joint Conference on Statistics and Data Science in China (JCSDS), Yunnan (07/2024) 
+41. Joint Conference on Statistics and Data Science in China (JCSDS), Yunnan (07/2024)
+
+40. 2024 IMS-China International Conference on Statistics and Probability, Yinchuan (07/2024)
 
 39. 2024 ICSA China Conference, Wuhan (06/2024) 
 
