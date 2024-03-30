@@ -11,7 +11,7 @@ Research opportunities are open to highly motivated students. Interested individ
 
 ## Modeling zero-inflated data with error-in-variables
 
-- **Student's name:** Roulan Jiang. (This work was conducted when Roulan was a senior undergraduate student at Tsinghua University from 2021-2022.)
+- **Mentored student:** Roulan Jiang. (This work was conducted when Roulan was a senior undergraduate student at Tsinghua University from 2021-2022.)
 
 <img align="right" src="/img/Romero_32_violin_pre_Race01.jpg" alt="" width="400">
 
@@ -20,7 +20,7 @@ Research opportunities are open to highly motivated students. Interested individ
 - **Related paper:** <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022) ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/pdf/2207.07796.pdf), _Journal of the American Statistical Association_, 1 - 21.
 
 ## Quantile TWAS Genome Browser (Shiny app)
-- **Student's name:** Weijing Yin. (This work was conducted as a summer project in 2022 when Weijing was a sophomore undergraduate student at Tsinghua University.)
+- **Mentored student:** Weijing Yin. (This work was conducted as a summer project in 2022 when Weijing was a sophomore undergraduate student at Tsinghua University.)
 
 <img align="right" src="/img/shiny.png" alt="" width="400">
 
@@ -30,16 +30,16 @@ Research opportunities are open to highly motivated students. Interested individ
 
 
 ## Estimating quantile curves for zero-inflated outcomes
-- **Student's name:** Zirui Wang. (This work was finished when Zirui was a junior undergraduate student at Tsinghua University from 2021-2022.)
+- **Mentored student:** Zirui Wang. (This work was finished when Zirui was a junior undergraduate student at Tsinghua University from 2021-2022.)
 
 <img align="center" src="/img/Roseburia_histogram.png" alt="" width="700">
 
-- **Summary:** We consider the complex data modeling problem motivated by the zero-inflated and overdispersed microbiome read count data. Several parametric approaches have been proposed to address issues of zero inflation and overdispersion, such as zero-inflated Poisson regression and zero-inflated Negative Binomial regression. However, parametric assumptions could be easily violated in real-world applications. In this project, we propose a semiparametric single-index quantile regression framework, which is flexible to include a wide range of possible association functions and adaptable to the various zero proportions across subjects. We establish the asymptotic normality of the index coefficients estimator and the asymptotic convergence rate of the nonparametric quantile regression curve estimation. Through Monte Carlo simulation studies and the application in a microbiome study, we demonstrate the superior performance of the proposed method. The above figure shows how our proposed method fits the real microbiome data (Roseburia) better than other methods.
+- **Summary:** We consider the complex data modeling problem motivated by the zero-inflated and overdispersed microbiome read count data. Several parametric approaches have been proposed to address issues of zero inflation and overdispersion, such as zero-inflated Poisson regression and zero-inflated Negative Binomial regression. However, parametric assumptions could be easily violated in real-world applications. In this project, we propose a semiparametric single-index quantile regression framework, which is flexible in including a wide range of possible association functions and adaptable to the various zero proportions across subjects. We establish the asymptotic normality of the index coefficients estimator and the asymptotic convergence rate of the nonparametric quantile regression curve estimation. Through Monte Carlo simulation studies and the application in a microbiome study, we demonstrate the superior performance of the proposed method. The above figure shows how our proposed method fits the real microbiome data (Roseburia) better than other methods.
 
 - **Related paper:** <ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+). _"A Semiparametric Quantile Single-Index  Model for Zero-Inflated and Overdispersed Outcomes"_, under review.
 
-## Deep learning based statistical modeling for data denoising and imputation
-- **Student's name:** Qinhuan Luo and Yongzhe Yu. (This work was finished when Qinhuan and Yongzhen were undergraduate students at Tsinghua University from 2022-2023.)
+## Deep learning-based statistical modeling for data denoising and imputation
+- **Mentored students:** Qinhuan Luo and Yongzhe Yu. (This work was finished when Qinhuan and Yongzhen were undergraduate students at Tsinghua University from 2022-2023.)
 
 <img align="center" src="/img/deep.png" alt="" width="600">
 
