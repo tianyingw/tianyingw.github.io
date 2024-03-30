@@ -38,6 +38,15 @@ Research opportunities are open to highly motivated students. Interested individ
 
 - **Related paper:** <ins>Wang, Z.</ins> and **Wang, T.<b>*</b>** (2022+). _"A Semiparametric Quantile Single-Index  Model for Zero-Inflated and Overdispersed Outcomes"_, under review.
 
+## Deep learning based statistical modeling for data denoising and imputation
+- **Student's name:** Qinhuan Luo and Yongzhe Yu. (This work was finished when Qinhuan and Yongzhen were undergraduate students at Tsinghua University from 2022-2023.)
+
+<img align="center" src="/img/deep.png" alt="" width="700">
+
+- **Summary:** Single-cell RNA sequencing data is a vital and rich resource for researchers to investigate the underlying mechanisms of various biological or disease-related processes. However, the well-known data heterogeneity is an unignorable barrier and causes many challenges in related studies. The heterogeneity can arise from multiple sources, such as sequencing techniques and platforms, and is reflected in cell-wise or gene-wise heterogeneity. To mitigate the modeling limitations caused by unobserved confounders and unexplored transcriptomic pathways, we propose a novel framework to model the complex heterogeneity in scRNA seq data by integrating deep generative models with parametric statistical models. By comprehensively evaluating the proposed method on four datasets, we demonstrated its superior ability to model different sources of data heterogeneity at different levels of known information.
+
+- **Related paper:** <ins>Luo, Q.</ins>, <ins>Yu, Y.</ins> and **Wang, T.<b>*</b>** (2023+). _"A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity"_, under review.
+
 
 
 
