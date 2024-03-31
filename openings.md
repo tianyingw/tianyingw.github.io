@@ -26,10 +26,11 @@ If you are an undergraduate student at Tsinghua University and want to gain rese
 - Every student will be responsible for their own projects.
 - All projects will run for at least 6 months. Early drop-out is not acceptable. (Exception: If you are in the undergraduate research program, which usually lasts one month)
 - [Click here](https://tianyingw.github.io/gallery/) to check out some fun projects my students did.
+- You are encouraged to check [this folder](https://www.dropbox.com/scl/fo/65ni0wzzilr8us03lzqif/h?rlkey=p2wdja8ihvxq0i1k7je6zs53p&dl=0/) and let me know if there is any paper that you are particularly interested in.
 
 
 ## For Ph.D. students
-
-If you have already been admitted to the Ph.D. program in the Department of Statistics at Colorado State University, please email me to discuss possible research opportunities. You are encouraged to check [this folder](https://www.dropbox.com/scl/fo/65ni0wzzilr8us03lzqif/h?rlkey=p2wdja8ihvxq0i1k7je6zs53p&dl=0/) and let me know if there is any paper that you are particularly interested in.
-
+<p align="justify">
+If you have already been admitted to the Ph.D. program in the Department of Statistics at Colorado State University, please email me to discuss possible research opportunities. 
+</p>
 
