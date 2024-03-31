@@ -5,7 +5,7 @@ title: Research Opportunities
 
 ## For undergraduate students
 <p align="justify">
-If you are an undergraduate student at Tsinghua University and want to gain research experience in statistics, please email me to discuss possible research opportunities. Please include a brief introduction of your background, research interests, statistical courses you took, and your expectation for this research training.
+If you are an undergraduate student at Tsinghua University and want to gain research experience in statistics, please email me to discuss possible research opportunities. Please include a brief introduction of your background, research interests, statistical courses you took, and your expectations for this research training. 
 </p>
 
 #### Basic Requirements
@@ -17,19 +17,19 @@ If you are an undergraduate student at Tsinghua University and want to gain rese
 
 #### Your Responsibility
 
-- Weekly one on one meetings;
+- Weekly one-on-one meetings;
 - Maintain research progress log (Overleaf or Notion).
 
 #### Note
 
-- I prefer one on one meetings and **DO NOT organize any group meeting or reading group** now.
+- I prefer one-on-one meetings and **DO NOT organize any group meeting or reading group** now.
 - Every student will be responsible for their own projects.
-- All projects will run for at least 6 months. Early drop-out is not acceptable.
+- All projects will run for at least 6 months. Early drop-out is not acceptable. (Exception: If you are in the undergraduate research program, that usually lasts one month)
 - [Click here](https://tianyingw.github.io/gallery/) to check out some fun projects my students did.
 
 
 ## For Ph.D. students
 <p align="justify">
-If you have already been admitted to the Ph.D. program in Statistics at the Center for Statistical Science, Tsinghua University, please email me to discuss possible research opportunities.
+If you have already been admitted to the Ph.D. program in the Department of Statistics at Colorado State University, please email me to discuss possible research opportunities. You are encouraged to check this folder and let me know if there is any paper that you are particularly interested in.
 </p>
 
