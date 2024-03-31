@@ -30,6 +30,6 @@ If you are an undergraduate student at Tsinghua University and want to gain rese
 
 ## For Ph.D. students
 <p align="justify">
-If you have already been admitted to the Ph.D. program in the Department of Statistics at Colorado State University, please email me to discuss possible research opportunities. You are encouraged to check this folder and let me know if there is any paper that you are particularly interested in.
+If you have already been admitted to the Ph.D. program in the Department of Statistics at Colorado State University, please email me to discuss possible research opportunities. You are encouraged to check this [folder](https://www.dropbox.com/scl/fo/65ni0wzzilr8us03lzqif/h?rlkey=p2wdja8ihvxq0i1k7je6zs53p&dl=0) and let me know if there is any paper that you are particularly interested in.
 </p>
 
