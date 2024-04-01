@@ -17,8 +17,8 @@ My primary research is centered around developing statistical theories and metho
 The first thread of my research focuses on nonlinear heterogeneous genetic association studies based on quantile regression, which is complementary to existing methods based on linear regression, leading to innovative discoveries on local nonlinear gene-trait associations and identifications of high-risk subgroups.
 </p>
 
-- **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2023+) _"A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"_, _Journal of the American Statistical Association_, revision submitted.
-- Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2023+). ["Quantile Regression for biomarkers in the UK Biobank"](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf), submitted.
+- **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2023+) _"A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"_, under review.
+- Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2023+). ["Quantile Regression for biomarkers in the UK Biobank"](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf), under review.
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2022). _"Integrated Quantile RAnk Test (iQRAT) for gene-level associations"_. _Annals of Applied Statistics_, 16 (3) 1423 - 1444.
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). _"Testing microbiome association using integrated quantile regression models"_. _Bioinformatics_, 38(2), 419-425. 
 
@@ -29,10 +29,10 @@ The first thread of my research focuses on nonlinear heterogeneous genetic assoc
 The second thread of my research focuses on robust statistical modeling in zero-inflated data, which is commonly seen in various studies, such as microbiome data analysis. My work is more robust and utilizes the data generation rationale of the zeros, resulting in significant improvement of the test power and estimation accuracy. 
 </p>
 
-- <ins>Zhao, H.</ins> and **Wang, T.<b>*</b>** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_, submitted.
-- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2023+). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"_, submitted.
+- <ins>Zhao, H.</ins> and **Wang, T.<b>*</b>** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_, under review.
+- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2023+). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated and Overdispersed Outcomes"_, under review.
 - <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2023) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_,  _Journal of the American Statistical Association_, 118 (542), 792 - 804. 
-- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2023+). _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_, _Statistica Sinica_, revision submitted.
+- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2024). _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_, _Statistica Sinica_, to appear.
 
 
 ### Statistical analyses on the errors-in-variables issue with complex data
@@ -41,9 +41,9 @@ The third thread of my work focuses on addressing error-in-variable issues with 
 </p>
 
 
-- <ins>Luo, Q.**<sup><span>&#9830;</span></sup>**</ins>, <ins>Yu, Y.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2024+). _"A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity"_, submitted.
-- <ins>Zhao, H.</ins> and **Wang, T.<b>*</b>** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_, submitted.
-- <ins>Zhao, H.</ins> and **Wang, T.<b>*</b>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_, submitted.
+- <ins>Luo, Q.**<sup><span>&#9830;</span></sup>**</ins>, <ins>Yu, Y.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2024+). _"A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity"_, under review.
+- <ins>Zhao, H.</ins> and **Wang, T.<b>*</b>** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_, under review.
+- <ins>Zhao, H.</ins> and **Wang, T.<b>*</b>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_, under review.
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2023). ["Gaussian Processes with Errors in Variables: theory and computation"](https://jmlr.org/papers/volume24/21-1480/21-1480.pdf), _Journal of Machine Learning Research_, 24, 1-53.
 - <ins>Lau, Y.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023). ["Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"](https://doi.org/10.1007/s11222-023-10290-8), _Statistics and Computing_, 33 (6), 125.
 - <ins>Ma, S.</ins>, **Wang, T.<b>*</b>**, Yan, J., and Zhang, X. (2023). ["Optimal Fingerprinting with Estimating Equations"](https://journals.ametsoc.org/configurable/content/journals$002fclim$002faop$002fJCLI-D-22-0681.1$002fJCLI-D-22-0681.1.xml?t:ac=journals%24002fclim%24002faop%24002fJCLI-D-22-0681.1%24002fJCLI-D-22-0681.1.xml), _Journal of Climate_, 36(20), 7109-7122.
@@ -57,7 +57,7 @@ I am also interested in a broad range of research topics, such as high-dimension
 </p>
 
 - Ma, S. and **Wang, T.<b>*</b>** (2023). "The optimal pre-post allocation for randomized clinical trials". _BMC Medical Research Methodology_,  23:72 doi: 10.1186/s12874-023-01893-w.
-- **Wang, T.**, Liu, J., and Wu, A. (2023+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_, submitted.
+- **Wang, T.**, Liu, J., and Wu, A. (2023+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_, under review.
 - **Wang, T.<b>*</b>** and Asher, A. (2021). "Improved Semiparametric Analysis of Polygenic Gene-Environment Interactions in Case-Control Studies". _Statistics in Biosciences_, 13, 386--401.
 - Gaynanova, I. and **Wang, T.** (2019). "Sparse quadratic classification rules via linear dimension reduction". _Journal of Multivariate Analysis_, 169, 278--299.
 
