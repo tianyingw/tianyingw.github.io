@@ -6,7 +6,7 @@ title: Invited Talks
 ## 2024 ##
 
 44. Joint Statistical Meetings, Portland, OR (08/2024)
-    <font color="grey"> - A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies </font> 
+    - <font color="grey"> A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies </font> 
 
 43. The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing (08/2024)
     - A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations
