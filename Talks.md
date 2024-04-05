@@ -6,38 +6,37 @@ title: Invited Talks
 ## 2024 ##
 
 44. Joint Statistical Meetings, Portland, OR (08/2024)
-    - <span style="color:grey"> A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies </span>
-      
+    - <span style="color:grey"> A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies </span>      
 
 43. The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing (08/2024)
-    - A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations
+    - <span style="color:grey"> A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations </span>
 
 42. Joint Conference on Statistics and Data Science in China (JCSDS), Yunnan (07/2024)
-    - Detection and Attribution Analysis of Regional Temperature with Estimating Equations
+    - <span style="color:grey"> Detection and Attribution Analysis of Regional Temperature with Estimating Equations </span>
 
 41. 2024 Hangzhou International Conference on Frontiers of Data Science, Hangzhou (07/2024)
-    - Quantile rank score based approaches for detecting heterogeneous genetic association studies
+    - <span style="color:grey"> Quantile rank score based approaches for detecting heterogeneous genetic association studies </span>
 
 40. 2024 IMS-China International Conference on Statistics and Probability, Yinchuan (07/2024)
-    - Constructing centile curves for zero-inflated response with informative censoring
+    - <span style="color:grey"> Constructing centile curves for zero-inflated response with informative censoring </span>
 
 39. 2024 ICSA China Conference, Wuhan (06/2024)
-    - An innovative centile chart method for utilizing natural history data in rare disease clinical development
+    - <span style="color:grey"> An innovative centile chart method for utilizing natural history data in rare disease clinical development </span>
 
 38. International Chinese Statistical Association (ICSA) Applied Symposium, Tennessee (06/2024)
-    - A high-dimensional calibration method for log-contrast models subject to measurement errors
+    - <span style="color:grey"> A high-dimensional calibration method for log-contrast models subject to measurement errors </span>
 
 37. The 6th ICSA-Canada Chapter Symposium, Niagara Falls, Canada (06/2024)
-    - An innovative centile chart method for utilizing natural history data in rare disease clinical development
+    - <span style="color:grey"> An innovative centile chart method for utilizing natural history data in rare disease clinical development </span>
 
 36. Conference on Statistical Methods for High-Dimensional Complex Data (Selected Young Investigator Presentation), College Station (05/2024)
-    - A high-dimensional calibration method for log-contrast models subject to measurement errors
+    - <span style="color:grey"> A high-dimensional calibration method for log-contrast models subject to measurement errors </span>
 
 35. The Banff International Research Station: workshop on "Bridging statistical strategies for censored covariates", Banff, Alberta, Canada (01/2024)
-    - An innovative centile chart method for utilizing natural history data in rare disease clinical development
+    - <span style="color:grey"> An innovative centile chart method for utilizing natural history data in rare disease clinical development </span>
 
 34. IMS-APRM, Melbourne, Australia (01/2024)
-    - A Semiparametric Quantile Single-Index Model for Microbiome Sequencing Count Data
+    - <span style="color:grey"> A Semiparametric Quantile Single-Index Model for Microbiome Sequencing Count Data </span>
 
 ## 2023 ##
 
