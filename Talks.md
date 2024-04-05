@@ -9,24 +9,34 @@ title: Invited Talks
     - A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies
 
 43. The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing (08/2024)
+    - A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations
 
 42. Joint Conference on Statistics and Data Science in China (JCSDS), Yunnan (07/2024)
+    - Detection and Attribution Analysis of Regional Temperature with Estimating Equations
 
 41. 2024 Hangzhou International Conference on Frontiers of Data Science, Hangzhou (07/2024)
+    - Quantile rank score based approaches for detecting heterogeneous genetic association studies
 
 40. 2024 IMS-China International Conference on Statistics and Probability, Yinchuan (07/2024)
+    - Constructing centile curves for zero-inflated response with informative censoring
 
-39. 2024 ICSA China Conference, Wuhan (06/2024) 
+39. 2024 ICSA China Conference, Wuhan (06/2024)
+    - An innovative centile chart method for utilizing natural history data in rare disease clinical development
 
 38. International Chinese Statistical Association (ICSA) Applied Symposium, Tennessee (06/2024)
+    - A high-dimensional calibration method for log-contrast models subject to measurement errors
 
 37. The 6th ICSA-Canada Chapter Symposium, Niagara Falls, Canada (06/2024)
+    - An innovative centile chart method for utilizing natural history data in rare disease clinical development
 
 36. Conference on Statistical Methods for High-Dimensional Complex Data (Selected Young Investigator Presentation), College Station (05/2024)
+    - A high-dimensional calibration method for log-contrast models subject to measurement errors
 
 35. The Banff International Research Station: workshop on "Bridging statistical strategies for censored covariates", Banff, Alberta, Canada (01/2024)
+    - An innovative centile chart method for utilizing natural history data in rare disease clinical development
 
 34. IMS-APRM, Melbourne, Australia (01/2024)
+    - A Semiparametric Quantile Single-Index Model for Microbiome Sequencing Count Data
 
 ## 2023 ##
 
