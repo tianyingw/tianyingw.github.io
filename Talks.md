@@ -5,8 +5,11 @@ title: Invited Talks
 
 ## 2024 ##
 
-44. Joint Statistical Meetings, Portland, OR (08/2024)
-    - <span style="font-size:0.8em;color:grey"> A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies </span>      
+45. Joint Statistical Meetings, Portland, OR (08/2024)
+    - <span style="font-size:0.8em;color:grey"> A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies </span>
+
+44. International Conference on Robust Statistics (ICORS), Fairfax, VA (07/2024)
+    - <span style="font-size:0.8em;color:grey"> A joint-modeling quantile approach for time-varying genetic effect across multiple phenotypes </span>      
 
 43. The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing (08/2024)
     - <span style="font-size:0.8em;color:grey"> A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations </span>
