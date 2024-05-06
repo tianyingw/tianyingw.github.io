@@ -5,21 +5,23 @@ title: Invited Talks
 
 ## 2024 ##
 
-45. Joint Statistical Meetings, Portland, OR (08/2024)
+46. Joint Statistical Meetings, Portland, OR (08/2024)
     
-44. International Conference on Robust Statistics (ICORS), Fairfax, VA (07/2024)
+45. International Conference on Robust Statistics (ICORS), Fairfax, VA (07/2024)
     
-43. The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing (08/2024)
+44. The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing (08/2024)
     
-42. Joint Conference on Statistics and Data Science in China (JCSDS), Yunnan (07/2024)
+43. Joint Conference on Statistics and Data Science in China (JCSDS), Yunnan (07/2024)
     
-41. 2024 Hangzhou International Conference on Frontiers of Data Science, Hangzhou (07/2024)
+42. 2024 Hangzhou International Conference on Frontiers of Data Science, Hangzhou (07/2024)
     
-40. 2024 IMS-China International Conference on Statistics and Probability, Yinchuan (07/2024)
+41. 2024 IMS-China International Conference on Statistics and Probability, Yinchuan (07/2024)
     
-39. 2024 ICSA China Conference, Wuhan (06/2024)
+40. 2024 ICSA China Conference, Wuhan (06/2024)
     
-38. International Chinese Statistical Association (ICSA) Applied Symposium, Tennessee (06/2024)
+39. International Chinese Statistical Association (ICSA) Applied Symposium, Nashville, TN (06/2024)
+
+38. 2024 Western North American Region of The International Biometric Society (WNAR)/IMS Annual Meeting, Fort Collins, CO (06/2024)
     
 37. The 6th ICSA-Canada Chapter Symposium, Niagara Falls, Canada (06/2024)
     
