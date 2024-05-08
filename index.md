@@ -23,6 +23,8 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 ### News:
 
+- **May 2024**: Tianying received a seed grant from the _Center for Interdisciplinary Mathematics and Statistics_ at _Colorado State Univeristy_ on the topic: **"Deep Learning-based Gene Discovery on Personalized Alzheimer's Disease Progression"**.
+  
 - **January 2024**: Our paper on ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf) is accepted by _Statistica Sinica_.
   
 - **August 2023**: Our paper on ["Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"](https://doi.org/10.1007/s11222-023-10290-8) is accepted by _Statistics and Computing_.
