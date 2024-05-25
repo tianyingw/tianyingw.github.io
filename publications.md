@@ -56,9 +56,9 @@ LASSO for Quantile Regression with Panel Data".](http://www.sltj.chinajournal.ne
 
 - <ins>Zhao, H.</ins>, and **Wang, T.<b>*</b>** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_.
 
-- Liu, Y. and **Wang, T.<b>*</b>** (2024+) _``A powerful transformation of quantitative responses for biobank-scale association studies"_.
+- Liu, Y. and **Wang, T.<b>*</b>** (2024+) _"A powerful transformation of quantitative responses for biobank-scale association studies"_.
 
-- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2024+). _``A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"_.
+- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2024+). _"A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"_.
 
 - <ins>Luo, Q.**<sup><span>&#9830;</span></sup>**</ins>, <ins>Yu, Y.**<sup><span>&#9830;</span></sup>**</ins>, and **Wang, T.<b>*</b>** (2024+). _"A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity"_.
 
