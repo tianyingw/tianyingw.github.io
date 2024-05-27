@@ -4,7 +4,7 @@ title: Overview
 ---
 
 <p align="justify">
-With the increasingly large and complex data generated and need to be analyzed, statistics is highly interdisciplinary and rapidly expanding among the sciences. My career goal includes developing state-of-art statistical and machine learning methods for solving data-driven problems, advancing statistical theory in the emerging field of data science, and harnessing real-world evidence for decision-making and precision medicine. 
+With the increasingly large and complex data generated and need to be analyzed, statistics is highly interdisciplinary and rapidly expanding among the sciences. My career goal includes developing state-of-the-art statistical and machine learning methods for solving data-driven problems, advancing statistical theory in the emerging field of data science, and harnessing real-world evidence for decision-making and precision medicine. 
 </p> 
 
 <p align="justify">
@@ -35,13 +35,13 @@ The second thread of my research focuses on robust statistical modeling in zero-
 - <ins>Zhao, H.</ins> and **Wang, T.<b>*</b>** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_, under review.
 - Mao, Y., Jiang, Z., **Wang, T.**, and Zhan, X. (2024+) _"Tree-guided compositional variable selection analysis of microbiome data"_, under review. 
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<b>*</b>** (2023+). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated and Overdispersed Outcomes"_, under review.
+- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2024). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), _Statistica Sinica_, to appear.
 - <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2023) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_,  _Journal of the American Statistical Association_, 118 (542), 792 - 804. 
-- **Wang, T.<b>*</b>**, Zhang, W., and Wei, Y. (2024). _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_, _Statistica Sinica_, to appear.
 
 
 ### Measurement error analysis in complex structured data
 <p align="justify">
-The third thread of my work focuses on addressing measurement errors with complex structured data, such as in environmental statistics. My recent work on climate data analysis enables us to correctly estimate scaling factors of the fingerprints in the climate system and provide valid statistical inferences for the attribution and detection analyses of climate change.
+The third thread of my work focuses on addressing measurement errors with complex structured data, such as in environmental statistics and high-dimensional statistics. My recent work on climate data analysis enables us to correctly estimate scaling factors of the fingerprints in the climate system and provide valid statistical inferences for the attribution and detection analyses of climate change.
 </p>
 
 - <ins>Zhao, H.</ins> and **Wang, T.<b>*</b>** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_, under review.
