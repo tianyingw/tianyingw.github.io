@@ -10,7 +10,7 @@ I view open science practices as an important way to increase access and partici
 
 
 <p align="justify">
-**<ins>underline</ins>** indicates a student working under my (co)supervision; **<sup><span>&#9830;</span></sup>** represents an undergraduate student mentee; **<span>&#x2709;</span>** indicates the corresponding author.
+<ins>underline</ins> indicates a student working under my (co)supervision, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
 </p>
 
 - Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2024). _["Quantile Regression for biomarkers in the UK Biobank"](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf)_, **_Nature Communications_**, accepted.
