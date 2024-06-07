@@ -55,7 +55,7 @@ LASSO for Quantile Regression with Panel Data".](http://www.sltj.chinajournal.ne
 
 #### Under Review
 
-- **Wang, T.<span>&#x2709;</span>>**, Ionita-Laza, I., and Wei, Y. (2023+). _["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081)_. 
+- **Wang, T.<span>&#x2709;</span>**, Ionita-Laza, I., and Wei, Y. (2023+). _["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081)_. 
 
 - **Wang, T.**, Liu, J., and Wu, A. (2023+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_.
 
