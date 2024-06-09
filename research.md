@@ -36,7 +36,7 @@ The second thread of my research focuses on robust statistical modeling in zero-
 - Mao, Y., Jiang, Z., **Wang, T.**, and Zhan, X. (2024+) _"Tree-guided compositional variable selection analysis of microbiome data"_, under review. 
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2023+). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated and Overdispersed Outcomes"_, under review.
 - **Wang, T.<span>&#x2709;</span>**, Zhang, W., and Wei, Y. (2024). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), _Statistica Sinica_, to appear.
-- <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<span>&#x2709;</span>** (2023) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_,  _Journal of the American Statistical Association_, 118 (542), 792 - 804. 
+- <ins>Jiang, R.</ins>, Zhan, X.<span>&#x2709;</span>, and **Wang, T.<span>&#x2709;</span>** (2023) _"A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"_,  _Journal of the American Statistical Association_, 118 (542), 792 - 804. 
 
 
 ### Measurement error analysis in complex structured data
