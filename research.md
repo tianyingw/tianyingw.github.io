@@ -59,7 +59,6 @@ The third thread of my work focuses on addressing measurement errors with comple
 I am also interested in a broad range of research topics, such as high-dimensional statistics and case-control studies.
 </p>
 
-- <ins>Luo, Q.**<sup><span>&#9830;</span></sup>**</ins>, <ins>Yu, Y.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024+). _"A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity"_, under review.
 - <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_, under review.
 - Ma, S. and **Wang, T.<span>&#x2709;</span>** (2023). "The optimal pre-post allocation for randomized clinical trials". _BMC Medical Research Methodology_,  23:72 doi: 10.1186/s12874-023-01893-w.
 - **Wang, T.**, Liu, J., and Wu, A. (2023+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_, under review.
