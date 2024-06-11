@@ -67,8 +67,6 @@ LASSO for Quantile Regression with Panel Data".](http://www.sltj.chinajournal.ne
 
 - Liu, Y. and **Wang, T.<span>&#x2709;</span>** (2024+). _"A powerful transformation of quantitative responses for biobank-scale association studies"_.
 
-- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024+). _"A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"_.
-
 - <ins>Li, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024+). _"Tree-aggregation of high-dimensional compositional data subject to measurement errors"_.
 
 - Li, Y., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2024+). _"Detection and Attribution Analysis of Regional Temperature with Estimating Equations"_.
