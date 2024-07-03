@@ -13,7 +13,7 @@ I view open science practices as an important way to increase access and partici
 <ins>underline</ins> indicates a student working under my (co)supervision, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
 </p>
 
-- Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2024). _["Genome-wide discovery for biomarkers using quantile regression at biobank scale"]()_, **_Nature Communications_**, to appear.
+- Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2024). ["Genome-wide discovery for biomarkers using quantile regression at biobank scale"](), **_Nature Communications_**, to appear.
 
 - **Wang, T.<span>&#x2709;</span>**, Zhang, W., and Wei, Y. (2024). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), **_Statistica Sinica_**, to appear.
     
