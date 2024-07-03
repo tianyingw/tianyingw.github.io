@@ -20,7 +20,7 @@ The first thread of my research focuses on nonlinear heterogeneous genetic assoc
 - Liu, Y. and **Wang, T.<span>&#x2709;</span>** (2024+). _"A powerful transformation of quantitative responses for biobank-scale association studies"_, under review.
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024+). _"A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"_, under review.
 - **Wang, T.<b>*</b>**, Ionita-Laza, I., and Wei, Y. (2023+). _"A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"_, under review.
-- Wang, C., **Wang, T.**, Wei, Y., Aschard, H., and Ionita-Laza, I. (2024). ["Quantile Regression for biomarkers in the UK Biobank"](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf), Nature Communications, accepted.
+- Wang, C., **Wang, T.**, Kiryluk, K., Wei, Y., Aschard, H., and Ionita-Laza, I. (2024). ["Genome-wide discovery for biomarkers using quantile regression at biobank scale"](), Nature Communications, accepted.
 - **Wang, T.<span>&#x2709;</span>**, Ionita-Laza, I., and Wei, Y. (2022). _"Integrated Quantile RAnk Test (iQRAT) for gene-level associations"_. _Annals of Applied Statistics_, 16 (3) 1423 - 1444.
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). _"Testing microbiome association using integrated quantile regression models"_. _Bioinformatics_, 38(2), 419-425. 
 
