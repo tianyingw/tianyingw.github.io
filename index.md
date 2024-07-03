@@ -23,7 +23,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 ### News:
 
-- **June 2024**: Our paper on [Quantile Regression for biomarkers in the UK Biobank](https://www.biorxiv.org/content/10.1101/2023.06.05.543699v1.full.pdf) is accepted by **_Nature Communications_**.
+- **June 2024**: Our paper on [Genome-wide discovery for biomarkers using quantile regression at biobank scale]() is accepted by **_Nature Communications_**.
   
 - **May 2024**: Tianying received a seed grant from the [_Center for Interdisciplinary Mathematics and Statistics_](https://www.natsci.colostate.edu/research/) at _Colorado State Univeristy_.
   
