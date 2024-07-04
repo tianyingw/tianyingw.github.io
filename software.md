@@ -7,7 +7,7 @@ title: R
 
    - [ZIKQ](https://github.com/tianyingw/ZIKQ) _(ZIKQ)_: We provide the R code for constructing centile charts for natural history data. It implements the method from [ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development]().
    
-   - [PSIMEX](https://github.com/tianyingw/PSIMEX) _(Pseudo-SIMEX)_: We provide a pseudo-simulation extrapolation method for misspecified models with errors-in-variables.
+   - [SIMFEX](https://github.com/tianyingw/SIMFEX) _(SIMFEX)_: We provide a SIMulation-Free EXtrapolation method for misspecified models with errors-in-variables.
    
    - [ZIPG](https://cran.r-project.org/web/packages/ZIPG/index.html) _(Zero-Inflated Poisson-Gamma)_: The R package ZIPG provides a flexible Zero-inflated Poisson-Gamma Model model for microbiome count data by connecting both mean abundance and the variability to different covariates. It implements the method from [A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data (2022)](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2151447?journalCode=uasa20).
    
