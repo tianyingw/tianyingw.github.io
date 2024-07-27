@@ -63,7 +63,7 @@ LASSO for Quantile Regression with Panel Data".](http://www.sltj.chinajournal.ne
 
 - <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
 
-- **Wang, T.<span>&#x2709;</span>**, Ma, Y. and Wei, Y. (2024+) _"Joint Quantile Regression for Time-Dependent Genetic Effects on Multiple Traits"_.
+- **Wang, T.<span>&#x2709;</span>**, Ma, Y. and Wei, Y. (2024+) _"Joint Quantile Regression with Latent Clustering for Age-Dependent Genetic Effects on Multiple Traits"_.
 
 - Liu, Y. and **Wang, T.<span>&#x2709;</span>** (2024+). _"A powerful transformation of quantitative responses for biobank-scale association studies"_.
 
