@@ -5,7 +5,7 @@ title: Invited Talks
 
 ## 2024 ##
 
-47. 18th International Joint Conference CFE-CMStatistics, London, UK (12/2024)
+47. The 18th International Joint Conference CFE-CMStatistics, London (12/2024)
 
 46. Joint Statistical Meetings, Portland, OR (08/2024)
     
@@ -35,7 +35,7 @@ title: Invited Talks
     
 ## 2023 ##
 
-33. The 16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2023), Berlin, Germany (12/2023, upcoming)
+33. The 17th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2023), Berlin, Germany (12/2023, upcoming)
 
 32. The 6th International Conference on Econometrics and Statistics (EcoSta 2023), Tokyo (08/2023)
 
@@ -61,7 +61,7 @@ title: Invited Talks
 
 ## 2022 ##
 
-21. The 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London (12/2022)
+21. The 16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London (12/2022)
 
 20. Department of Biostatistics, Peking University, Beijing (09/2022)
 
