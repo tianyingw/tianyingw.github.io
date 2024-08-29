@@ -5,6 +5,8 @@ title: Invited Talks
 
 ## 2024 ##
 
+47. 18th International Joint Conference CFE-CMStatistics, London, UK (12/2024)
+
 46. Joint Statistical Meetings, Portland, OR (08/2024)
     
 45. International Conference on Robust Statistics (ICORS), Fairfax, VA (07/2024)
