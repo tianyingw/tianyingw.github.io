@@ -60,7 +60,7 @@ I am also interested in a broad range of research topics, such as high-dimension
 
 
 - Ma, S. and **Wang, T.<span>&#x2709;</span>** (2023). "The optimal pre-post allocation for randomized clinical trials". _BMC Medical Research Methodology_,  23:72 doi: 10.1186/s12874-023-01893-w.
-- **Wang, T.**, Liu, J., and Wu, A. (2023+). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_, revision submitted.
+- **Wang, T.**, Liu, J., and Wu, A. (2024). ["Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"], _Journal of Data Science_, accepted.
 - **Wang, T.<span>&#x2709;</span>** and Asher, A. (2021). "Improved Semiparametric Analysis of Polygenic Gene-Environment Interactions in Case-Control Studies". _Statistics in Biosciences_, 13, 386--401.
 - Gaynanova, I. and **Wang, T.** (2019). "Sparse quadratic classification rules via linear dimension reduction". _Journal of Multivariate Analysis_, 169, 278--299.
 
