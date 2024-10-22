@@ -25,6 +25,8 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 - **September 2024**: Our manuscript on [A high-dimensional calibration method for log-contrast models subject to measurement errors](https://arxiv.org/abs/2409.07568) is available on [arXiv](https://arxiv.org/abs/2409.07568).
 
+- **September 2024**: Our paper on [Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions]() is accepted by **_Journal of Data Science_**
+
 - **June 2024**: Our paper on [Genome-wide discovery for biomarkers using quantile regression at biobank scale](https://www.nature.com/articles/s41467-024-50726-x) is accepted by **_Nature Communications_**.
   
 - **May 2024**: Tianying received a seed grant from the [_Center for Interdisciplinary Mathematics and Statistics_](https://www.natsci.colostate.edu/research/) at _Colorado State Univeristy_.
