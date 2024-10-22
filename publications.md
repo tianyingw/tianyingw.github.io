@@ -67,7 +67,7 @@ LASSO for Quantile Regression with Panel Data".](http://www.sltj.chinajournal.ne
 
 - Liu, Y. and **Wang, T.<span>&#x2709;</span>** (2024+). _"A powerful transformation of quantitative responses for biobank-scale association studies"_.
 
-- <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_.
+- <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024+). _["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://arxiv.org/abs/2409.07568)_.
 
 - <ins>Li, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024+). _"Tree-aggregation of high-dimensional compositional data subject to measurement errors"_.
 
