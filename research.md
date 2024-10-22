@@ -31,7 +31,7 @@ The second thread of my research focuses on robust statistical modeling in zero-
 </p>
 
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins>, Ling, W., and **Wang, T.<span>&#x2709;</span>** (2024+). _"A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"_, under review.
-- <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_, revision submitted.
+- <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2024+). _["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://arxiv.org/abs/2409.07568)_, revision submitted.
 - Mao, Y., Jiang, Z., **Wang, T.**, and Zhan, X. (2024+) _"Tree-guided compositional variable selection analysis of microbiome data"_, under review. 
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2023+). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated and Overdispersed Outcomes"_, revision submitted.
 - **Wang, T.<span>&#x2709;</span>**, Zhang, W., and Wei, Y. (2024). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), _Statistica Sinica_, to appear.
