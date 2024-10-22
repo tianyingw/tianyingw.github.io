@@ -43,7 +43,7 @@ The second thread of my research focuses on robust statistical modeling in zero-
 The third thread of my work focuses on addressing measurement errors with complex structured data, such as in environmental statistics and high-dimensional statistics. My recent work on climate data analysis enables us to correctly estimate scaling factors of the fingerprints in the climate system and provide valid statistical inferences for the attribution and detection analyses of climate change.
 </p>
 
-- <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_, revision submitted.
+- <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2024+). _["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://arxiv.org/abs/2409.07568)_, revision submitted.
 - Li, Y., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2024+). _"Detection and Attribution Analysis of Regional Temperature with Estimating Equations"_, revision submitted.
 - <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_, revision submitted.
 - Zhou, S., Pati, D., **Wang, T.**, Yang, Y., and Carroll, R. J. (2023). ["Gaussian Processes with Errors in Variables: theory and computation"](https://jmlr.org/papers/volume24/21-1480/21-1480.pdf), _Journal of Machine Learning Research_, 24, 1-53.
