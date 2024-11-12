@@ -62,14 +62,13 @@ LASSO for Quantile Regression with Panel Data".](http://www.sltj.chinajournal.ne
 - **Wang, T.<span>&#x2709;</span>**, Ionita-Laza, I., and Wei, Y. (2023+). _["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081)_. 
 
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2023+). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated and Overdispersed Outcomes"_.
+  + Won the Best Student Paper Award in the 2024 National Graduate Statistics Symposium (China), Section of Mathematical Statistics.
 
 - <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
 
 - **Wang, T.<span>&#x2709;</span>**, Ma, Y. and Wei, Y. (2024+) _"Joint Quantile Regression with Latent Clustering for Age-Dependent Genetic Effects on Multiple Traits"_.
 
 - Liu, Y. and **Wang, T.<span>&#x2709;</span>** (2024+). _"A powerful transformation of quantitative responses for biobank-scale association studies"_.
-
-- <ins>Li, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024+). _"Tree-aggregation of high-dimensional compositional data subject to measurement errors"_.
 
 - Li, Y., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2024+). _"Detection and Attribution Analysis of Regional Temperature with Estimating Equations"_.
 
