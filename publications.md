@@ -17,6 +17,8 @@ I view open science practices as an important way to increase access and partici
 
 - **Wang, T.**, Liu, J., and Wu, A. (2024). ["Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"](), **_Journal of Data Science_**, accepted.
 
+- <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024). _["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://arxiv.org/abs/2409.07568)_, **_Biometrics_**, accepted.
+
 - Wang, C., **Wang, T.**, Kiryluk, K., Wei, Y., Aschard, H., and Ionita-Laza, I. (2024). ["Genome-wide discovery for biomarkers using quantile regression at biobank scale"](https://www.nature.com/articles/s41467-024-50726-x), **_Nature Communications_**, 15 (1), 6460.
     
 - <ins>Lau, Y.</ins>, **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2023). ["Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"](https://doi.org/10.1007/s11222-023-10290-8), **_Statistics and Computing_**, 33 (6), 125.
@@ -66,8 +68,6 @@ LASSO for Quantile Regression with Panel Data".](http://www.sltj.chinajournal.ne
 - **Wang, T.<span>&#x2709;</span>**, Ma, Y. and Wei, Y. (2024+) _"Joint Quantile Regression with Latent Clustering for Age-Dependent Genetic Effects on Multiple Traits"_.
 
 - Liu, Y. and **Wang, T.<span>&#x2709;</span>** (2024+). _"A powerful transformation of quantitative responses for biobank-scale association studies"_.
-
-- <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024+). _["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://arxiv.org/abs/2409.07568)_.
 
 - <ins>Li, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024+). _"Tree-aggregation of high-dimensional compositional data subject to measurement errors"_.
 
