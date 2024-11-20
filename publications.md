@@ -62,7 +62,7 @@ LASSO for Quantile Regression with Panel Data".](http://www.sltj.chinajournal.ne
 - **Wang, T.<span>&#x2709;</span>**, Ionita-Laza, I., and Wei, Y. (2023+). _["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081)_. 
 
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2023+). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated and Overdispersed Outcomes"_.
-  + Won the Best Student Paper Award in the 2024 National Graduate Statistics Symposium (China), Section of Mathematical Statistics.
+  + Won the Best Student Paper Award in the 2024 National Graduate Statistics Symposium, Section of Mathematical Statistics.
 
 - <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
 
