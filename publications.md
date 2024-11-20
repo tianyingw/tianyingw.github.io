@@ -15,9 +15,12 @@ I view open science practices as an important way to increase access and partici
 
 - **Wang, T.<span>&#x2709;</span>**, Zhang, W., and Wei, Y. (2024). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), **_Statistica Sinica_**, accepted.
 
-- **Wang, T.**, Liu, J., and Wu, A. (2024). ["Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"](), **_Journal of Data Science_**, accepted.
+- **Wang, T.**, Liu, J., and Wu, A. (2024). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_, **_Journal of Data Science_**, accepted.
 
 - <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024). _["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://arxiv.org/abs/2409.07568)_, **_Biometrics_**, accepted.
+
+- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated and Overdispersed Outcomes"_, **_Statistica Sinica_**, accepted.
+  + Won the Best Student Paper Award in the 2024 National Graduate Statistics Symposium, Section of Mathematical Statistics.
 
 - Wang, C., **Wang, T.**, Kiryluk, K., Wei, Y., Aschard, H., and Ionita-Laza, I. (2024). ["Genome-wide discovery for biomarkers using quantile regression at biobank scale"](https://www.nature.com/articles/s41467-024-50726-x), **_Nature Communications_**, 15 (1), 6460.
     
@@ -60,9 +63,6 @@ LASSO for Quantile Regression with Panel Data".](http://www.sltj.chinajournal.ne
 #### Under Review
 
 - **Wang, T.<span>&#x2709;</span>**, Ionita-Laza, I., and Wei, Y. (2023+). _["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081)_. 
-
-- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2023+). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated and Overdispersed Outcomes"_.
-  + Won the Best Student Paper Award in the 2024 National Graduate Statistics Symposium, Section of Mathematical Statistics.
 
 - <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
 
