@@ -60,20 +60,6 @@ LASSO for Quantile Regression with Panel Data".](http://www.sltj.chinajournal.ne
 
 - Delaigle, A., Hyndman, T., and **Wang, T.** ["deconvolve-package: Deconvolution Tools for Measurement Error Problems."](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html)
 
-#### Under Review
-
-- **Wang, T.<span>&#x2709;</span>**, Ionita-Laza, I., and Wei, Y. (2023+). _["A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081)_. 
-
-- <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
-
-- **Wang, T.<span>&#x2709;</span>**, Ma, Y. and Wei, Y. (2024+) _"Joint Quantile Regression with Latent Clustering for Age-Dependent Genetic Effects on Multiple Traits"_.
-
-- Liu, Y. and **Wang, T.<span>&#x2709;</span>** (2024+). _"A powerful transformation of quantitative responses for biobank-scale association studies"_.
-
-- Li, Y., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2024+). _"Detection and Attribution Analysis of Regional Temperature with Estimating Equations"_.
-
-- Mao, Y., Jiang, Z., **Wang, T.**, and Zhan, X. (2024+) _"Tree-guided compositional variable selection analysis of microbiome data"_. 
-
 
 
 
