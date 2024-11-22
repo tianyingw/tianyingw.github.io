@@ -23,7 +23,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 ### News:
 
-- **November 2024**: Our paper on _A Semiparametric Quantile Single-Index Model for Zero-Inflated and Overdispersed Outcomes_ is accepted by **_Statistica Sinica_**.
+- **November 2024**: Our paper on _A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes_ is accepted by **_Statistica Sinica_**.
 
 - **November 2024**: Our paper on [A high-dimensional calibration method for log-contrast models subject to measurement errors](https://arxiv.org/abs/2409.07568) is accepted by **_Biometrics_**.
 
