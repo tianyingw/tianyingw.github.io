@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Construct co-expression network for single-cell data
+title: Co-expression network for single-cell data
 ---
 Note: This is a project summary created by Mujin Zhou from Tsinghua University under the supervision of Tianying Wang.
 
