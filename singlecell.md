@@ -1,15 +1,15 @@
 ---
 layout: page
-title: method
+title: Construct co-expression network for single-cell data
 ---
-Note: This is a project summary done by Mujin Zhou from Tsinghua University, under the supervision of Tianying Wang.
+Note: This is a project summary done by Mujin Zhou from Tsinghua University under the supervision of Tianying Wang.
 
 
 ## Introduction
 
 Inference of gene co-expression is pivotal for our understanding of biological functions and gene regulations. For scRNA-seq data, the expression level of a specific gene is measured through the observed UMI (unique molecular identifier) count for this gene, and the sequencing depth of a cell is the sum of UMI counts across all genes. The gene co-expression is measured by correlations of UMI counts.
 
-This document aims to describe the process of inferring gene co-expression with a rank-based estimator based on a latent Gaussian copula model and conduct a simulation study that assesses the performance of estimators. To construct co-expression networks, we first review Chang Su's approach called [CS-CORE](https://www.nature.com/articles/s41467-023-40503-7) (cell-type-specific co-expressions)[^fn1]. CS-CORE models the underlying expression levels as latent variables, linked to the observed UMI counts through a Poisson measurement model depending on the underlying expression levels and sequencing depth. Under this model, CS-CORE implements an iteratively re-weighted least squares approach for estimating the true correlations between underlying expression levels. Building upon the CS-CORE framework, we incorporate the semiparametric approach proposed by [Grace Yoon](https://academic.oup.com/biomet/article/107/3/609/5820553?login=true)[^fn2], which models the latent variables with a Gaussian copula and use a rank-based estimator for correlation estimation.
+This document aims to describe the process of inferring gene co-expression with a rank-based estimator based on a latent Gaussian copula model and conduct a simulation study that assesses the performance of estimators. To construct co-expression networks, we first review the method of [CS-CORE](https://www.nature.com/articles/s41467-023-40503-7) (cell-type-specific co-expressions)[^fn1]. CS-CORE models the underlying expression levels as latent variables, linked to the observed UMI counts through a Poisson measurement model depending on the underlying expression levels and sequencing depth. Under this model, CS-CORE implements an iteratively re-weighted least squares approach for estimating the true correlations between underlying expression levels. Building upon the CS-CORE framework, we incorporate the semiparametric approach proposed by [Grace Yoon et al. (2020)](https://academic.oup.com/biomet/article/107/3/609/5820553?login=true)[^fn2], which models the latent variables with a Gaussian copula and use a rank-based estimator for correlation estimation.
 
 The observed UMI counts for $p$ genes of cell $i, i=1,\cdots,n$ from $n$ cells is denoted by $(x\_{i1},\cdots,x\_{ip})$. ${s}\_{i}=\mathop{\sum }\nolimits\_{j=1}^{p}{x}\_{ij}$ denotes the sequencing depth of cell $i$, which is the sum of UMI counts across $p$ genes. $(z\_{i1},\cdots,z\_{ip})$ denote the underlying expression levels from $p$ genes in cell $i$, defined to be the UMI counts from each gene relative to the sequencing depth $s\_i$. Assume that:
 $$(z\_{i1},...,z\_{ip}) \sim F\_p({\bf \mu,\Sigma}),x\_{ij}|z\_{ij}\sim \text{Poisson}(s\_iz\_{ij})$$
