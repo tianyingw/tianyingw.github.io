@@ -1,4 +1,5 @@
 This document provides an implementation of the simulation. We followed the method in Chang Su’s paper and assessed two estimators: R.cscore is estimated via the iteratively reweighted least squares approach, and the other is our proposed rank-based estimator R.rank.
+(Created by Mujin Zhou)
 
 ## 1.download raw data and packages and preprocess
 ```R
