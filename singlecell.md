@@ -16,24 +16,24 @@ $$(z\_{i1},...,z\_{ip}) \sim F\_p({\bf \mu,\Sigma}),x\_{ij}|z\_{ij}\sim \text{Po
 where $F\_p(\bf \mu,\Sigma)$ is an unknown nonnegative $p$-variate distribution with mean vector $\mu=(\mu\_1,\cdots,\mu\_p)$, $\sum\_{j=1}^p \mu\_j = 1$ and covariance matrix ${\bf\Sigma}  = (\sigma\_{jj'})\_{p \times p}$, the element in row $j$ and column $j'$ being $\sigma\_{jj'}$. Here, $x\_{ij}$ is the UMI count of gene $j$ in cell $i$, assumed to follow a Poisson measurement model depending on the underlying expression level $z\_{ij}$ and sequencing depth $s\_i$. This Poisson measurement model explicitly accounts for the sequencing depths so that the gene co-expressions measured by ${\bf\Sigma} = (\sigma\_{jj'})\_{p \times p}$, the covariance of $(z\_{i1},...,z\_{ip})$, is not biased by sequencing depths.
 
 ## Methods
-CS-CORE uses a moment-based iteratively reweighted least squares approach to estimate the covariance $\Sigma$. Given $\{x\_{i1},...,x\_{ip}\}\_i^n$ and $\{s\_i\}\_i^n$, under the model in assumptions, $E({x}\_{ij})={s}\_{i}{\mu }\_{j}, {{{{{{{\rm{Var}}}}}}}}({x}\_{ij})=E[{({x}\_{ij}-{s}\_{i}{\mu }\_{j})}^{2}]={s}\_{i}{\mu }\_{j}+{s}\_{i}^{2}{\sigma }\_{jj}, E[({x}\_{ij}-{s}\_{i}{\mu }\_{j})({x}\_{i{j}^{' }}-{s}\_{i}{\mu }\_{{j}^{' }})]={s}\_{i}^{2}{\sigma }\_{j{j}^{' }}$, so the following set of regression equations hold: 
+CS-CORE uses a moment-based iteratively reweighted least squares approach to estimate the covariance $\Sigma$. Given $\{x\_{i1},...,x\_{ip}\}\_i^n$ and $\{s\_i\}\_i^n$, under the model in assumptions, $E({x}\_{ij})={s}\_{i}{\mu }\_{j}, {{{{{{{\rm{Var}}}}}}}}({x}\_{ij})=E[{({x}\_{ij}-{s}\_{i}{\mu }\_{j})}^{2}]={s}\_{i}{\mu }\_{j}+{s}\_{i}^{2}{\sigma }\_{jj}, E[({x}\_{ij}-{s}\_{i}{\mu }\_{j})({x}\_{i{j}'}-{s}\_{i}{\mu }\_{{j}'})]={s}\_{i}^{2}{\sigma }\_{j{j}'}$, so the following set of regression equations hold: 
 ```math
 \begin{array}{rlr}
 &{x}_{ij}={s}_{i}{\mu }_{j}+{\epsilon }_{ij}, &\\ 
 &{({x}_{ij}-{s}_{i}{\mu }_{j})}^{2}={s}_{i}{\mu }_{j}+{s}_{i}^{2}{\sigma }_{jj}+{\eta }_{ij}, \\ 
-&({x}_{ij}-{s}_{i}{\mu }_{j})({x}_{i{j}^{' }}-{s}_{i}{\mu }_{{j}^{' }})={s}_{i}^{2}{\sigma }_{j{j}^{' }}+{\xi }_{ij{j}^{' }},
+&({x}_{ij}-{s}_{i}{\mu }_{j})({x}_{i{j}'}-{s}_{i}{\mu }_{{j}'})={s}_{i}^{2}{\sigma }_{j{j}'}+{\xi }_{ij{j}'},
 \end{array}
 ```
-where ${\epsilon }\_{ij}, {\eta }\_{ij}, {\xi }\_{ij{j}^{' }}$ are independent and mean-zero error variables for all $i, j, j'$.  
+where ${\epsilon }\_{ij}, {\eta }\_{ij}, {\xi }\_{ij{j}'}$ are independent and mean-zero error variables for all $i, j, j'$.  
 Then $\mu\_j, \sigma\_{jj}, \sigma\_{jj'}$ are estimated by weighted least squares:
 ```math
 \begin{aligned}
     \hat \mu_j &= {\min }_{\mu }\mathop{\sum }\nolimits_{i=1}^{n}{w}_{ij}{({x}_{ij}-{s}_{i}\mu )}^{2}\\
     \hat \sigma_{jj} &= {\min }_{\sigma }\mathop{\sum }\nolimits_{i=1}^{n}{h}_{ij}{[{({x}_{ij}-{s}_{i}{\hat{\mu }}_{j})}^{2}-{s}_{i}{\hat{\mu }}_{j}-{s}_{i}^{2}\sigma ]}^{2}\\
-    \hat \sigma_{jj'} &= {\min }_{\sigma }\mathop{\sum }\nolimits_{i=1}^{n}{g}_{ij{j}^{' }}{[({x}_{ij}-{s}_{i}{\hat{\mu }}_{j})({x}_{i{j}^{' }}-{s}_{i}{\hat{\mu }}_{{j}^{' }})-{s}_{i}^{2}\sigma ]}^{2}\\
+    \hat \sigma_{jj'} &= {\min }_{\sigma }\mathop{\sum }\nolimits_{i=1}^{n}{g}_{ij{j}'}{[({x}_{ij}-{s}_{i}{\hat{\mu }}_{j})({x}_{i{j}'}-{s}_{i}{\hat{\mu }}_{{j}'})-{s}_{i}^{2}\sigma ]}^{2}\\
 \end{aligned}
 ```
-where ${w}\_{ij}, h\_{ij}, g\_{ijj'}$ are the weights. In the interative process, the weights are updated: ${w}\_{ij}=1/{{{{{{{\rm{Var}}}}}}}}({\epsilon }\_{ij})=1/({s}\_{i}{\mu }\_{j}+{s}\_{i}^{2}{\sigma }\_{jj})$, ${h}\_{ij}={w}\_{ij}^{2}$ and ${g}\_{ij{j}^{' }}={w}\_{ij}{w}\_{i{j}^{' }}$. Finally we have $\hat\mu\_j, {\bf\hat\Sigma}=(\hat\sigma\_{jk})\_{p \times p}$, leading to the estimation of the correlation matrix $\bf \hat R$, whose element in row $j$ and column $k$ is ${\hat{\rho }}\_{jk}={\hat{\sigma }}\_{jk}/\sqrt{{\hat{\sigma }}\_{jj}{\hat{\sigma }}\_{kk}}$. We called the estimator R.cscore.
+where ${w}\_{ij}, h\_{ij}, g\_{ijj'}$ are the weights. In the interative process, the weights are updated: ${w}\_{ij}=1/{{{{{{{\rm{Var}}}}}}}}({\epsilon }\_{ij})=1/({s}\_{i}{\mu }\_{j}+{s}\_{i}^{2}{\sigma }\_{jj})$, ${h}\_{ij}={w}\_{ij}^{2}$ and ${g}\_{ij{j}'}={w}\_{ij}{w}\_{i{j}'}$. Finally we have $\hat\mu\_j, {\bf\hat\Sigma}=(\hat\sigma\_{jk})\_{p \times p}$, leading to the estimation of the correlation matrix $\bf \hat R$, whose element in row $j$ and column $k$ is ${\hat{\rho }}\_{jk}={\hat{\sigma }}\_{jk}/\sqrt{{\hat{\sigma }}\_{jj}{\hat{\sigma }}\_{kk}}$. We called the estimator R.cscore.
 
 The proposed model in CS-CORE does not impose distributional assumptions on the underlying expression levels, its distribution being an unknown nonnegative $p$-variate distribution, $(z\_{i1},\cdots,z\_{ip}) \sim F\_p(\mu, {\bf \Sigma})$. We reviewed Grace Yoon's paper and adopted its approach, modeling latent variables with a Gaussian copula. The assumption is that the Gaussian copula can be transformed into the distribution of observed count data through unknown monotonic transformations, and due to the invariance of Kendall's $\tau$, the measure of correlation based on ranks, under monotonic transformations, a bridge function can link the Kendall's $\tau$ of the observed data to the correlation matrix of the latent Gaussian copula. We justify applying this assumption to observed UMI counts, that is, the existence of monotonic functions that transform the Gaussian distribution into the Poisson measurement model.
 
