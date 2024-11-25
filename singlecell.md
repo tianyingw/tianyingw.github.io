@@ -21,7 +21,7 @@ CS-CORE uses a moment-based iteratively reweighted least squares approach to est
 \begin{array}{rlr}
 &{x}_{ij}={s}_{i}{\mu }_{j}+{\epsilon }_{ij}, &\\ 
 &{({x}_{ij}-{s}_{i}{\mu }_{j})}^{2}={s}_{i}{\mu }_{j}+{s}_{i}^{2}{\sigma }_{jj}+{\eta }_{ij}, \\ 
-&({x}_{ij}-{s}_{i}{\mu }_{j})({x}_{i{j}'}-{s}_{i}{\mu }_{{j}'})={s}_{i}^{2}{\sigma }_{j{j}'}+{\xi }_{ij{j}'},
+&({x}_{ij}-{s}_{i}{\mu }_{j})({x}_{i{j}'}-{s}_{i}{\mu }_{j'})={s}_{i}^{2}{\sigma }_{jj'}+{\xi }_{ijj'},
 \end{array}
 ```
 where ${\epsilon }\_{ij}, {\eta }\_{ij}, {\xi }\_{ij{j}'}$ are independent and mean-zero error variables for all $i, j, j'$.  
@@ -30,7 +30,7 @@ Then $\mu\_j, \sigma\_{jj}, \sigma\_{jj'}$ are estimated by weighted least squar
 \begin{aligned}
     \hat \mu_j &= {\min }_{\mu }\mathop{\sum }\nolimits_{i=1}^{n}{w}_{ij}{({x}_{ij}-{s}_{i}\mu )}^{2}\\
     \hat \sigma_{jj} &= {\min }_{\sigma }\mathop{\sum }\nolimits_{i=1}^{n}{h}_{ij}{[{({x}_{ij}-{s}_{i}{\hat{\mu }}_{j})}^{2}-{s}_{i}{\hat{\mu }}_{j}-{s}_{i}^{2}\sigma ]}^{2}\\
-    \hat \sigma_{jj'} &= {\min }_{\sigma }\mathop{\sum }\nolimits_{i=1}^{n}{g}_{ij{j}'}{[({x}_{ij}-{s}_{i}{\hat{\mu }}_{j})({x}_{i{j}'}-{s}_{i}{\hat{\mu }}_{{j}'})-{s}_{i}^{2}\sigma ]}^{2}\\
+    \hat \sigma_{jj'} &= {\min }_{\sigma }\mathop{\sum }\nolimits_{i=1}^{n}{g}_{ij{j}'}{[({x}_{ij}-{s}_{i}{\hat{\mu }}_{j})({x}_{i{j}'}-{s}_{i}{\hat{\mu }}_{j'})-{s}_{i}^{2}\sigma ]}^{2}\\
 \end{aligned}
 ```
 where ${w}\_{ij}, h\_{ij}, g\_{ijj'}$ are the weights. In the interative process, the weights are updated: ${w}\_{ij}=1/{{{{{{{\rm{Var}}}}}}}}({\epsilon }\_{ij})=1/({s}\_{i}{\mu }\_{j}+{s}\_{i}^{2}{\sigma }\_{jj})$, ${h}\_{ij}={w}\_{ij}^{2}$ and ${g}\_{ij{j}'}={w}\_{ij}{w}\_{i{j}'}$. Finally we have $\hat\mu\_j, {\bf\hat\Sigma}=(\hat\sigma\_{jk})\_{p \times p}$, leading to the estimation of the correlation matrix $\bf \hat R$, whose element in row $j$ and column $k$ is ${\hat{\rho }}\_{jk}={\hat{\sigma }}\_{jk}/\sqrt{{\hat{\sigma }}\_{jj}{\hat{\sigma }}\_{kk}}$. We called the estimator R.cscore.
