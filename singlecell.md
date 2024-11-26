@@ -130,9 +130,10 @@ We call the rank-based estimator R.rank.
 To validate our approach, we conduct a simulation study that assesses the performance of our estimators under various conditions. We followed the simulation method in Chang Su's paper. We specified the distribution of true expression level $z\_{ij}$ to be Gamma distribution, marginally $z\_{ij} \sim \text{ Gamma }(\alpha\_j,\beta\_j), \mu\_j = \alpha\_j/\beta\_j, \sigma\_{jj} = \alpha\_j/\beta\_j^2$, where $\mu\_j$ and $\sigma\_{jj}$ correspond to the marginal mean and variance in assumption $F\_p(\mu, {\bf \Sigma})$. Conditional on $z\_{ij}$, we simulated counts $x\_{ij} \sim \text{Poisson}(s\_iz\_{ij})$. We obtain $s\_i,\mu\_j,\sigma\_{jj}$ from the sequencing depths, mean and variance of real data, and then obtain $\alpha\_j,\beta\_j$ from $\mu\_j = \alpha\_j/\beta\_j, \sigma\_{jj} = \alpha\_j/\beta\_j^2$.  
 Next, given a correlation matrix $\bf R^\*$, we adopted a Gaussian copula to generate correlated Gamma random variables: $(v\_{i1},...,v\_{ip}) \sim N(0,\bf R^\*)$ and then generate ${z}\_{ij}={F}\_{j}^{-1}({{\Phi }}({v}\_{ij}))$ where $F\_j$ is the CDF of $\text{ Gamma }(\alpha\_j,\beta\_j)$, $\bf R^*$ is estimated from real data by Cscore.  
 $(z\_{i1},...,z\_{ip}) \sim F\_p(\mu,\Sigma)$, where $\sigma\_{jk} = cov({F}\_{j}^{-1}({{\Phi }}({v}\_{ij})),{F}\_{k}^{-1}({{\Phi }}({v}\_{ik})))$  
-For details and implementation of simulation in R, see more information [here]().
+For details and implementation of simulation in R, see more information [here](https://tianyingw.github.io/singlecellsimulation/).
 
 
+## References
 [^fn1]: Su, C., Xu, Z., Shan, X. et al. Cell-type-specific co-expression inference from single cell RNA-sequencing data. Nat Commun 14, 4846 (2023).
 
 [^fn2]: Grace Yoon, Raymond J Carroll, Irina Gaynanova, Sparse semiparametric canonical correlation analysis for data of mixed types, Biometrika, Volume 107, Issue 3, September 2020, Pages 609–625.
