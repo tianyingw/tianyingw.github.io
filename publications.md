@@ -16,8 +16,7 @@ I view open science practices as an important way to increase access and partici
 - <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024). _["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://arxiv.org/abs/2409.07568)_, **_Biometrics_**, accepted.
 
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"_, **_Statistica Sinica_**, accepted.
-  - Won the Best Student Paper Award in the 2024 National Graduate Statistics Symposium, Section of Mathematical Statistics.
-
+  
 - **Wang, T.**, Liu, J., and Wu, A. (2024). _"Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"_, **_Journal of Data Science_**, accepted.
 
 - **Wang, T.<span>&#x2709;</span>**, Zhang, W., and Wei, Y. (2024). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), **_Statistica Sinica_**, accepted.
