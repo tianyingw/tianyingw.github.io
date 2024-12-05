@@ -25,19 +25,19 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 - **December 2024**: Our paper on ["A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081) is accepted by **_Annals of Applied Statistics_**.
   
-- **November 2024**: Our paper on _A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes_ is accepted by **_Statistica Sinica_**.
+- **November 2024**: Our paper on _"A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"_ is accepted by **_Statistica Sinica_**.
 
-- **November 2024**: Our paper on [A high-dimensional calibration method for log-contrast models subject to measurement errors](https://arxiv.org/abs/2409.07568) is accepted by **_Biometrics_**.
+- **November 2024**: Our paper on ["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://arxiv.org/abs/2409.07568) is accepted by **_Biometrics_**.
 
 - **October 2024**: Congratulations to Zirui for winning the Best Student Paper Award at the 2024 National Graduate Statistics Symposium, Mathematical Statistics Section, for her work on _A Semiparametric Quantile Single-Index Model for Zero-Inflated and Overdispersed Outcomes_.
 
-- **September 2024**: Our paper on [Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions](https://jds-online.org/journal/JDS/article/1391/info) is accepted by **_Journal of Data Science_**.
+- **September 2024**: Our paper on ["Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"](https://jds-online.org/journal/JDS/article/1391/info) is accepted by **_Journal of Data Science_**.
 
-- **September 2024**: Our manuscript on [A high-dimensional calibration method for log-contrast models subject to measurement errors](https://arxiv.org/abs/2409.07568) is available on [arXiv](https://arxiv.org/abs/2409.07568).
+- **September 2024**: Our manuscript on ["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://arxiv.org/abs/2409.07568) is available on [arXiv](https://arxiv.org/abs/2409.07568).
 
-- **June 2024**: Our paper on [Genome-wide discovery for biomarkers using quantile regression at biobank scale](https://www.nature.com/articles/s41467-024-50726-x) is accepted by **_Nature Communications_**.
+- **June 2024**: Our paper on ["Genome-wide discovery for biomarkers using quantile regression at biobank scale"](https://www.nature.com/articles/s41467-024-50726-x) is accepted by **_Nature Communications_**.
   
-- **May 2024**: Tianying received a seed grant from the [_Center for Interdisciplinary Mathematics and Statistics_](https://www.natsci.colostate.edu/research/) at _Colorado State Univeristy_.
+- **May 2024**: Tianying received a seed grant from the [Center for Interdisciplinary Mathematics and Statistics_](https://www.natsci.colostate.edu/research/) at _Colorado State Univeristy_.
   
 - **January 2024**: Our paper on ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf) is accepted by **_Statistica Sinica_**.
   
