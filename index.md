@@ -23,6 +23,8 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 ### News:
 
+- **December 2024**: Our paper on ["A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081) is accepted by **_Annals of Applied Statistics_**.
+  
 - **November 2024**: Our paper on _A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes_ is accepted by **_Statistica Sinica_**.
 
 - **November 2024**: Our paper on [A high-dimensional calibration method for log-contrast models subject to measurement errors](https://arxiv.org/abs/2409.07568) is accepted by **_Biometrics_**.
