@@ -11,9 +11,9 @@ title: R
 
    - [MGQDA](https://github.com/tianyingw/MGQDA/tree/main) _(MGQDA)_: An R package for multi-group high-dimensional discriminant analysis.
 
-   - [HighCal](http://github.com/tianyingw/HighCal) _(HighCal)_: An R package that implements the high-dimensional calibration method for contaminated data.
+   - [HighCal](http://github.com/tianyingw/HighCal) _(HighCal)_: An R package that implements the high-dimensional calibration method for contaminated data. It implements the method from [Debiased high-dimensional regression calibration for errors-in-variables log-contrast models](https://arxiv.org/abs/2409.07568).
      
-   - [ZIKQ](https://github.com/tianyingw/ZIKQ) _(ZIKQ)_: We provide the R code for constructing centile charts for natural history data. It implements the method from [ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development]().
+   - [ZIKQ](https://github.com/tianyingw/ZIKQ) _(ZIKQ)_: We provide the R code for constructing centile charts for natural history data. It implements the method from [ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development](https://doi.org/10.5705/ss.202023.0107).
    
    - [SIMFEX](https://github.com/tianyingw/SIMFEX) _(SIMFEX)_: We provide a SIMulation-Free EXtrapolation method for misspecified models with errors-in-variables.
    
