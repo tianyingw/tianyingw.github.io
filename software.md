@@ -12,6 +12,8 @@ title: R
    - [MGQDA](https://github.com/tianyingw/MGQDA/tree/main) _(MGQDA)_: An R package for multi-group high-dimensional discriminant analysis.
 
    - [HighCal](http://github.com/tianyingw/HighCal) _(HighCal)_: An R package that implements the high-dimensional calibration method for contaminated data. It implements the method from [Debiased high-dimensional regression calibration for errors-in-variables log-contrast models](https://arxiv.org/abs/2409.07568).
+
+   - [ZILLNB](https://github.com/tianyingw/ZILLNB) _(ZILLNB)_: An R package with Python code for a deep-learning-embeded zero-inflated negative binomial regression method.
      
    - [ZIKQ](https://github.com/tianyingw/ZIKQ) _(ZIKQ)_: We provide the R code for constructing centile charts for natural history data. It implements the method from [ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development](https://doi.org/10.5705/ss.202023.0107).
    
