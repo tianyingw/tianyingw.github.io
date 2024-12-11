@@ -5,6 +5,14 @@ title: R
 
 ### Developed and maintained:
 
+   - [ZIQ-SIR](https://github.com/tianyingw/ZIQ-SIR) _(ZIQ-SIR)_: We provide the R code for a semiparametric quantile rank score test for zero-inflated data.
+
+   - [ZIQSI](https://github.com/tianyingw/ZIQSI) _(ZIQSI)_: This R package is designed to provide advanced statistical tools for quantile curve fitting and average quantile effect calculation via a quantile single index model.
+
+   - [MGQDA](https://github.com/tianyingw/MGQDA/tree/main) _(MGQDA)_: An R package for multi-group high-dimensional discriminant analysis.
+
+   - [HighCal](http://github.com/tianyingw/HighCal) _(HighCal)_: An R package that implements the high-dimensional calibration method for contaminated data.
+     
    - [ZIKQ](https://github.com/tianyingw/ZIKQ) _(ZIKQ)_: We provide the R code for constructing centile charts for natural history data. It implements the method from [ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development]().
    
    - [SIMFEX](https://github.com/tianyingw/SIMFEX) _(SIMFEX)_: We provide a SIMulation-Free EXtrapolation method for misspecified models with errors-in-variables.
