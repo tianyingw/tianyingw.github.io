@@ -3,9 +3,19 @@ layout: page
 title: Invited Talks
 ---
 
+## 2025 ##
+
+51. STATGEN 2025, Minneapolis, MN (05/2024)
+
+50. Department of Mathematics and Statistics, University of New Hampshire, Durham, NH (04/2024)
+
+49. Department of Applied Mathematics, Illinois Institute of Technology, Chicago, IL (04/2024)
+
 ## 2024 ##
 
-47. The 18th International Joint Conference CFE-CMStatistics, London (12/2024)
+48. The 18th International Joint Conference CFE-CMStatistics, London (12/2024)
+
+47. School of Mathematical and Statistical Sciences, Arizona State University, Tempe, AZ (10/2024)
 
 46. Joint Statistical Meetings, Portland, OR (08/2024)
     
