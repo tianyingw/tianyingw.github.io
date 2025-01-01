@@ -7,6 +7,11 @@ title: About me
   <img src="/img/TianyingWang.jpg" alt="" width="350">
 </div>
 
+### Research Interests:
+   - Quantile Regression
+   - Measurement Error and Missing/Censored Data Analysis
+   - High Dimensional Statistics
+   - Nonparametric and Semiparametric Statistics
 
 ### Work Experience:
 
