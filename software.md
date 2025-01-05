@@ -5,19 +5,19 @@ title: R
 
 ### Developed and maintained:
 
-   - [ZIQ-SIR](https://github.com/tianyingw/ZIQ-SIR) _(ZIQ-SIR)_: We provide the R code for a semiparametric quantile rank score test for zero-inflated data.
+   - [ZIQ-SIR](https://github.com/tianyingw/ZIQ-SIR): We provide the R code for a semiparametric quantile rank score test for zero-inflated data.
 
-   - [ZIQSI](https://github.com/tianyingw/ZIQSI) _(ZIQSI)_: This R package is designed to provide advanced statistical tools for quantile curve fitting and average quantile effect calculation via a quantile single index model.
+   - [ZIQSI](https://github.com/tianyingw/ZIQSI): This R package is designed to provide advanced statistical tools for quantile curve fitting and average quantile effect calculation via a quantile single index model.
 
-   - [MGQDA](https://github.com/tianyingw/MGQDA/tree/main) _(MGQDA)_: An R package for multi-group high-dimensional discriminant analysis.
+   - [MGQDA](https://github.com/tianyingw/MGQDA/tree/main): An R package for multi-group high-dimensional discriminant analysis.
 
-   - [HighCal](http://github.com/tianyingw/HighCal) _(HighCal)_: An R package that implements the high-dimensional calibration method for contaminated data. It implements the method from [Debiased high-dimensional regression calibration for errors-in-variables log-contrast models](https://arxiv.org/abs/2409.07568).
+   - [HighCal](http://github.com/tianyingw/HighCal): An R package that implements the high-dimensional calibration method for contaminated data. It implements the method from [Debiased high-dimensional regression calibration for errors-in-variables log-contrast models](https://arxiv.org/abs/2409.07568).
 
-   - [ZILLNB](https://github.com/tianyingw/ZILLNB) _(ZILLNB)_: An R package with Python code for a deep-learning-embeded zero-inflated negative binomial regression method.
+   - [ZILLNB](https://github.com/tianyingw/ZILLNB): An R package with Python code for a deep-learning-embeded zero-inflated negative binomial regression method.
      
-   - [ZIKQ](https://github.com/tianyingw/ZIKQ) _(ZIKQ)_: We provide the R code for constructing centile charts for natural history data. It implements the method from [ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development](https://doi.org/10.5705/ss.202023.0107).
+   - [ZIKQ](https://github.com/tianyingw/ZIKQ): We provide the R code for constructing centile charts for natural history data. It implements the method from [ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development](https://doi.org/10.5705/ss.202023.0107).
    
-   - [SIMFEX](https://github.com/tianyingw/SIMFEX) _(SIMFEX)_: We provide a SIMulation-Free EXtrapolation method for misspecified models with errors-in-variables.
+   - [SIMFEX](https://github.com/tianyingw/SIMFEX) _(SIMulation-Free EXtrapolation)_: We provide a SIMulation-Free EXtrapolation method for misspecified models with errors-in-variables.
    
    - [ZIPG](https://cran.r-project.org/web/packages/ZIPG/index.html) _(Zero-Inflated Poisson-Gamma)_: The R package ZIPG provides a flexible Zero-inflated Poisson-Gamma Model model for microbiome count data by connecting both mean abundance and the variability to different covariates. It implements the method from [A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data (2022)](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2151447?journalCode=uasa20).
    
