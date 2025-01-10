@@ -15,14 +15,14 @@ title: About me
 
 ### Work Experience:
 
-   - 2023 - Now, Assistant Professor, _Department of Statistics, Colorado State University_
-   - 2024 - Now, Affiliate, _Data Science Research Institute, Colorado State University_
-   - 2024 - Now, Adjunct Assistant Professor, _Department of Biostatistics and Informatics, Colorado School of Public Health_
+   - 2023-Now, Assistant Professor, _Department of Statistics, Colorado State University_
+   - 2024-Now, Affiliate, _Data Science Research Institute, Colorado State University_
+   - 2024-Now, Adjunct Assistant Professor, _Department of Biostatistics and Informatics, Colorado School of Public Health_
    
           
-   - 2023 - 2023, Associate Professor, _Center for Statistical Science, Tsinghua University_
+   - 2023, Associate Professor, _Center for Statistical Science, Tsinghua University_
         
-   - 2020 - 2023, Assistant Professor, _Center for Statistical Science, Tsinghua University_         
+   - 2020-2023, Assistant Professor, _Center for Statistical Science, Tsinghua University_         
        
 
 ### Education and Training:
