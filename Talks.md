@@ -4,12 +4,13 @@ title: Invited Talks
 ---
 
 ## 2025 ##
+52. Department of Mathematics and Statistics, University of New Hampshire, Durham, NH (09/2025)
 
-51. STATGEN 2025, Minneapolis, MN (05/2024)
+51. Joint Statistical Meetings, Nashville, TN (08/2025)
 
-50. Department of Mathematics and Statistics, University of New Hampshire, Durham, NH (04/2024)
+50. STATGEN 2025, Minneapolis, MN (05/2025)
 
-49. Department of Applied Mathematics, Illinois Institute of Technology, Chicago, IL (04/2024)
+49. Department of Applied Mathematics, Illinois Institute of Technology, Chicago, IL (04/2025)
 
 ## 2024 ##
 
