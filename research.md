@@ -7,6 +7,9 @@ title: Overview
 My research focuses on developing statistical methods to address fundamental data challenges, including heterogeneity, measurement errors, missingness, and zero-inflation. These challenges arise in diverse domains such as genomics, epidemiology, and electronic health records, where conventional statistical models often fall short. To tackle these issues, I leverage and extend methodologies in quantile regression, machine learning, and debiasing techniques from measurement error analysis. My goal is to create robust, interpretable, and computationally efficient approaches that improve inference and prediction in complex data environments.
 </p> 
 
+<p align="justify">
+<ins>underline</ins> indicates a student working under my (co)supervision, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
+</p>
 
 ### Understanding Heterogeneous Data with Quantile Regression 
 <p align="justify">
@@ -20,9 +23,6 @@ Real-world data often exhibit complex, nonlinear, and heterogeneous relationship
 - Wang, C., **Wang, T.**, Kiryluk, K., Wei, Y., Aschard, H., and Ionita-Laza, I. (2024). ["Genome-wide discovery for biomarkers using quantile regression at biobank scale"](https://www.nature.com/articles/s41467-024-50726-x), Nature Communications, 15 (1), 6460.
 - **Wang, T.<span>&#x2709;</span>**, Ionita-Laza, I., and Wei, Y. (2022). ["Integrated Quantile RAnk Test (iQRAT) for gene-level associations"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Integrated-Quantile-RAnk-Test-iQRAT-for-gene-level-associations/10.1214/21-AOAS1548.short). **_Annals of Applied Statistics_**, 16 (3), 1423 - 1444. 
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). ["Testing microbiome association using integrated quantile regression models"](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494). **_Bioinformatics_**, 38(2), 419-425. 
-- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"_, **_Statistica Sinica_**, accepted.
-- **Wang, T.<span>&#x2709;</span>**, Zhang, W., and Wei, Y. (2024). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), _Statistica Sinica_, accepted.
-- <ins>Jiang, R.**<sup><span>&#9830;</span></sup>**</ins>, Zhan, X.<span>&#x2709;</span>, and **Wang, T.<span>&#x2709;</span>** (2023). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447), **_Journal of the American Statistical Association_**, 118 (542), 792 - 804. 
 
 
 ### Correcting Bias in Complex Data with Measurement Errors
@@ -48,7 +48,7 @@ Missing values and zero inflation are prevalent in fields such as clinical trial
 - <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2025+). _"Generalizing Transfer Learning: A Flexible Doubly Robust Estimation Approach for Missing Data"_, under review.
 - <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2025+). _"Doubly robust augmented model transfer inference with completely missing covariates"_, under review.
 - <ins>Wang, Z.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"_, **Statistica Sinica**, accepted.
-- **Wang, T.<span>&#x2709;</span>**, Zhang, W. and Wei, Y. (2024). _"ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"_, **Statistica Sinica**, accepted.
+- **Wang, T.<span>&#x2709;</span>**, Zhang, W., and Wei, Y. (2024). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), _Statistica Sinica_, accepted.
 - <ins>Wang, Z.</ins>, Ling, W. and **Wang, T.<span>&#x2709;</span>** (2024). _"A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"_, under review.
 
 ### Other topics
