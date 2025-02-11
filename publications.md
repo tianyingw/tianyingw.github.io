@@ -54,17 +54,17 @@ I view open science practices as an important way to increase access and partici
 
 - Blas Achic, B.<sup><span>&#9839;</span></sup>, **Wang, T.<sup><span>&#9839;</span></sup>** , Su, Y., Kipnis, V., Dodd, K., and Carroll, R. J. (2018). ["Categorizing a Continuous Predictor Subject to Measurement Error".](https://projecteuclid.org/euclid.ejs/1544518836) **_Electronic Journal of Statistics_**, Vol. 12, No. 2, 4032-4056. **( <sup><span>&#9839;</span></sup> joint first authors)**. 
 
-- Li, H., Staudenmayer, J., **Wang, T.**, Keadle, S. K., and Carroll, R. J. (2018). ["Three-part joint modeling methods for complex functional data mixed with zero-and-one–inflated proportions and zero‐inflated continuous outcomes with skewness".](https://www.ncbi.nlm.nih.gov/pubmed/29052239) **_Statistics in Medicine_**, 37(4), 611-626.
+4. Li, H., Staudenmayer, J., **Wang, T.**, Keadle, S. K., and Carroll, R. J. (2018). ["Three-part joint modeling methods for complex functional data mixed with zero-and-one–inflated proportions and zero‐inflated continuous outcomes with skewness".](https://www.ncbi.nlm.nih.gov/pubmed/29052239) **_Statistics in Medicine_**, 37(4), 611-626.
 
-- Johnson, V., Payne, R., **Wang, T.**, Asher, A., and Mandal, S. (2017).
+3. Johnson, V., Payne, R., **Wang, T.**, Asher, A., and Mandal, S. (2017).
 ["On the reproducibility of psychological science".](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2016.1240079#.WqQ13ZPwbOQ) **_Journal of the American Statistical Association_**, 112.517: 1-10.
 
--  **Wang, T.**, Yang, Y., and Tian, M. (2017). ["Tuning Parameter Selection in Adaptive 
+2.  **Wang, T.**, Yang, Y., and Tian, M. (2017). ["Tuning Parameter Selection in Adaptive 
 LASSO for Quantile Regression with Panel Data".](http://www.sltj.chinajournal.net.cn/WKB2/WebPublication/paperDigest.aspx?paperID=b60aaa1e-c54c-4e9f-9f37-7f742f25b4b1) **_Journal of Applied Statistics and Management_**, 36(3): 429–440.
 
--  Yin, J., **Wang, T.**, and  Wang, W. (2017). ["Structure learning and parameter estimation on robust conditional graphical model".](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm) **_China Science Paper_**, 12(17): 1921-1929.
+1.  Yin, J., **Wang, T.**, and  Wang, W. (2017). ["Structure learning and parameter estimation on robust conditional graphical model".](http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm) **_China Science Paper_**, 12(17): 1921-1929.
 
-- Delaigle, A., Hyndman, T., and **Wang, T.** ["deconvolve-package: Deconvolution Tools for Measurement Error Problems."](https://rdrr.io/github/TimothyHyndman/deconvolve/man/deconvolve-package.html)
+
 
 
 
