@@ -2,6 +2,24 @@
 layout: page
 title: Publications
 ---
+<style>
+  .label {
+    display: inline-block;
+    padding: 2px 6px;
+    margin: 0 3px;
+    border-radius: 3px;
+    font-size: 0.8em;
+    font-weight: 500;
+  }
+  .climate {background-color: #a8e6cf; color: #1d3557;}
+  .genomics {background-color: #ff8a5b; color: #ffffff;}
+  .zero-inflated {background-color: #b8b5ff; color: #3a3042;}
+  .genetics {background-color: #ffd166; color: #3d3a4b;}
+  .quantile {background-color: #06d6a0; color: #ffffff;}
+  .environment {background-color: #118ab2; color: #ffffff;}
+  .epidemiology {background-color: #ef476f; color: #ffffff;}
+  .measurement {background-color: #073b4c; color: #ffffff;}
+</style>
 
 **[My Google Scholar](https://scholar.google.com/citations?user=YKB6YmgAAAAJ&hl=en&oi=ao)**
 
@@ -18,7 +36,7 @@ I view open science practices as an important way to increase access and partici
 
 ### 2025
 
-- Li, Y., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2025). ["Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0193.1/JCLI-D-24-0193.1.xml),  **_Journal of Climate_**, in press.
+- Li, Y., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2025). ["Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0193.1/JCLI-D-24-0193.1.xml),  **_Journal of Climate_**, in press. <span class="label climate">climate science</span> <span class="label measurement">measurement error</span> <span class="label stats-method">estimating equations</span>
 
 ### 2024
 
