@@ -16,6 +16,10 @@ I view open science practices as an important way to increase access and partici
 <ins>underline</ins> indicates a student working under my (co)supervision, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
 </p>
 
+### 2025
+
+- Li, Y., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2024). ["Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0193.1/JCLI-D-24-0193.1.xml),  **_Journal of Climate_**, in press.
+
 ### 2024
 
 - **Wang, T.<span>&#x2709;</span>**, Ionita-Laza, I., and Wei, Y. (2024). ["A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081), **_Annals of Applied Statistics_**, accepted.
@@ -28,8 +32,6 @@ I view open science practices as an important way to increase access and partici
 
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"_, **_Statistica Sinica_**, accepted.
   
-- Li, Y., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2024). _"Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"_,  **_Journal of Climate_**, accepted.
-
 - Wang, C., **Wang, T.**, Kiryluk, K., Wei, Y., Aschard, H., and Ionita-Laza, I. (2024). ["Genome-wide discovery for biomarkers using quantile regression at biobank scale"](https://www.nature.com/articles/s41467-024-50726-x), **_Nature Communications_**, 15 (1), 6460.
 
 ### 2023
