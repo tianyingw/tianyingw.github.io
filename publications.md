@@ -2,24 +2,6 @@
 layout: page
 title: Publications
 ---
-<style>
-  .label {
-    display: inline-block;
-    padding: 2px 6px;
-    margin: 0 3px;
-    border-radius: 3px;
-    font-size: 0.8em;
-    font-weight: 500;
-  }
-  .climate {background-color: #a8e6cf; color: #1d3557;}
-  .genomics {background-color: #ff8a5b; color: #ffffff;}
-  .zero-inflated {background-color: #b8b5ff; color: #3a3042;}
-  .genetics {background-color: #ffd166; color: #3d3a4b;}
-  .quantile {background-color: #06d6a0; color: #ffffff;}
-  .environment {background-color: #118ab2; color: #ffffff;}
-  .epidemiology {background-color: #ef476f; color: #ffffff;}
-  .measurement {background-color: #073b4c; color: #ffffff;}
-</style>
 
 **[My Google Scholar](https://scholar.google.com/citations?user=YKB6YmgAAAAJ&hl=en&oi=ao)**
 
