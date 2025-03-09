@@ -23,7 +23,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 ### News:
 
-- **December 2024**: Our paper on _"Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"_ is accepted by **_Journal of Climate_**.
+- **December 2024**: Our paper on ["Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0193.1/JCLI-D-24-0193.1.xml) is accepted by **_Journal of Climate_**.
 
 - **December 2024**: Our paper on ["A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081) is accepted by **_Annals of Applied Statistics_**.
   
