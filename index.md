@@ -23,6 +23,8 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 ### News:
 
+- **March 2025**: Our paper on _"A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"_ is accepted by **_Biometrics_**.
+
 - **March 2025**: Our book chapter _"Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression"_ is accepted for publication in **_Big Data Analysis, Biostatistics and Bioinformatics_** (Eds. Chen D. and Zhao, Y.), Springer.
 
 - **December 2024**: Our paper on ["Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0193.1/JCLI-D-24-0193.1.xml) is accepted by **_Journal of Climate_**.
