@@ -34,7 +34,7 @@ I view open science practices as an important way to increase access and partici
 
 - <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024). _["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418)_, **_Biometrics_**, 80(4), ujae153.
 
-- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"_, **_Statistica Sinica_**, accepted.
+- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024). ["A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0104_na.pdf), **_Statistica Sinica_**, accepted.
   
 - Wang, C., **Wang, T.**, Kiryluk, K., Wei, Y., Aschard, H., and Ionita-Laza, I. (2024). ["Genome-wide discovery for biomarkers using quantile regression at biobank scale"](https://www.nature.com/articles/s41467-024-50726-x), **_Nature Communications_**, 15 (1), 6460.
 
