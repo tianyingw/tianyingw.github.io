@@ -31,7 +31,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 - **December 2024**: Our paper on ["A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081) is accepted by **_Annals of Applied Statistics_**.
   
-- **November 2024**: Our paper on _"A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"_ is accepted by **_Statistica Sinica_**.
+- **November 2024**: Our paper on ["A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0104_na.pdf) is accepted by **_Statistica Sinica_**.
 
 - **November 2024**: Our paper on ["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418) is accepted by **_Biometrics_**.
 
