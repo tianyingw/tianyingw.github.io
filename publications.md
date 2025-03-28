@@ -13,7 +13,7 @@ I view open science practices as an important way to increase access and partici
 
 
 <p align="justify">
-<ins>underline</ins> indicates a student working under my (co)supervision, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
+<ins>underline</ins> indicates a student working under my supervision, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
 </p>
 
 ### 2025
@@ -42,9 +42,9 @@ I view open science practices as an important way to increase access and partici
 
 - <ins>Jiang, R.**<sup><span>&#9830;</span></sup>**</ins>, Zhan, X.<span>&#x2709;</span>, and **Wang, T.<span>&#x2709;</span>** (2023). ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447), **_Journal of the American Statistical Association_**, 118 (542), 792 - 804. 
 
-- <ins>Lau, Y.</ins>, **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2023). ["Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"](https://doi.org/10.1007/s11222-023-10290-8), **_Statistics and Computing_**, 33 (6), 125.
+- Lau, Y., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2023). ["Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes"](https://doi.org/10.1007/s11222-023-10290-8), **_Statistics and Computing_**, 33 (6), 125.
 
-- <ins>Ma, S.</ins>, **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2023). ["Optimal Fingerprinting with Estimating Equations"](https://journals.ametsoc.org/configurable/content/journals$002fclim$002faop$002fJCLI-D-22-0681.1$002fJCLI-D-22-0681.1.xml?t:ac=journals%24002fclim%24002faop%24002fJCLI-D-22-0681.1%24002fJCLI-D-22-0681.1.xml), **_Journal of Climate_**, 36(20), 7109-7122.
+- Ma, S., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2023). ["Optimal Fingerprinting with Estimating Equations"](https://journals.ametsoc.org/configurable/content/journals$002fclim$002faop$002fJCLI-D-22-0681.1$002fJCLI-D-22-0681.1.xml?t:ac=journals%24002fclim%24002faop%24002fJCLI-D-22-0681.1%24002fJCLI-D-22-0681.1.xml), **_Journal of Climate_**, 36(20), 7109-7122.
 
 - Ma, S. and **Wang, T.<span>&#x2709;</span>** (2023). ["The optimal pre-post allocation for randomized clinical trials"](https://doi.org/10.1186/s12874-023-01893-w), **_BMC Medical Research Methodology_**, 23:72 doi: 10.1186/s12874-023-01893-w. 
 
