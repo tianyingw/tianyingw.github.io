@@ -37,7 +37,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 - **November 2024**: Our paper on ["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418) is accepted by **_Biometrics_**.
 
-- **October 2024**: Congratulations to Zirui for winning the Best Student Paper Award at the 2024 National Graduate Statistics Symposium, Mathematical Statistics Section, for her work on _A Semiparametric Quantile Single-Index Model for Zero-Inflated and Overdispersed Outcomes_.
+- **October 2024**: Congratulations to Zirui for winning the Best Student Paper Award at the 2024 National Graduate Statistics Symposium, Mathematical Statistics Section, for her work on ["A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0104_na.pdf).
 
 - **September 2024**: Our paper on ["Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"](https://jds-online.org/journal/JDS/article/1391/info) is accepted by **_Journal of Data Science_**.
 
