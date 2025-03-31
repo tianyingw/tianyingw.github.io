@@ -23,6 +23,8 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 ### News:
 
+- **April 2025**: Congratulations to Huali on winning the 2025 IMS Hannan Graduate Student Travel Award for her work on "_Augmented transfer regression learning for handling completely missing covariates_"!
+
 - **March 2025**: Our paper on _"A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"_ is accepted by **_Biometrics_**.
 
 - **March 2025**: Our book chapter _"Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression"_ is accepted for publication in **_Big Data Analysis, Biostatistics and Bioinformatics_** (Eds. Chen D. and Zhao, Y.), Springer.
