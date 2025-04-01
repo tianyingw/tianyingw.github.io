@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Overview: Statistical Methodology
+title: Statistical Methodology
 ---
 
 <p align="justify">
