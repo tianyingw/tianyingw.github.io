@@ -20,7 +20,7 @@ I view open science practices as an important way to increase access and partici
 
 - <ins>Wang, Z.</ins>, Ling, W., and **Wang, T.<span>&#x2709;</span>** (2025). _"A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"_, **_Biometrics_**, accepted.
 
-- **Wang, T.<span>&#x2709;</span>** (2025). _"Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression,"_ **_Big Data Analysis, Biostatistics and Bioinformatics_** (Eds. Chen D. and Zhao, Y.), Springer, New York, in press.
+- **Wang, T.<span>&#x2709;</span>** (2025). _"Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression,"_ **_Big Data Analysis, Biostatistics and Bioinformatics_** (Eds. Chen, D. and Zhao, Y.), Springer, New York, in press.
 
 - Li, Y., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2025). ["Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"](https://journals.ametsoc.org/view/journals/clim/38/8/JCLI-D-24-0193.1.xml),  **_Journal of Climate_**, 38(8), 1779-1790.
 
