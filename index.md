@@ -29,7 +29,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 - **March 2025**: Our book chapter _"Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression"_ is accepted for publication in **_Big Data Analysis, Biostatistics and Bioinformatics_** (Eds. Chen D. and Zhao, Y.), Springer.
 
-- **December 2024**: Our paper on ["Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0193.1/JCLI-D-24-0193.1.xml) is accepted by **_Journal of Climate_**.
+- **December 2024**: Our paper on ["Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"](https://journals.ametsoc.org/view/journals/clim/38/8/JCLI-D-24-0193.1.xml) is accepted by **_Journal of Climate_**.
 
 - **December 2024**: Our paper on ["A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081) is accepted by **_Annals of Applied Statistics_**.
   
@@ -37,7 +37,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 - **November 2024**: Our paper on ["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418) is accepted by **_Biometrics_**.
 
-- **October 2024**: Congratulations to Zirui on winning the **Best Student Paper Award at the 2024 National Graduate Statistics Symposium, Mathematical Statistics Section**, for her work on ["A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0104_na.pdf).
+- **October 2024**: Congratulations to Zirui on winning the **Best Student Paper Award at the 2024 National Graduate Statistics Symposium, Mathematical Statistics Section**, for her work on ["A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0104_na.pdf)!
 
 - **September 2024**: Our paper on ["Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"](https://jds-online.org/journal/JDS/article/1391/info) is accepted by **_Journal of Data Science_**.
 
