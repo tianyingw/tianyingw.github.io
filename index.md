@@ -17,7 +17,7 @@ Colorado 80523-1877
    
 **Email:** Tianying[dot]Wang[at]colostate.edu
 
-[**My CV**](https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) 
+<!-- [**My CV**](https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) -->
 
 I am actively looking for undergraduate and graduate students to work on fun research projects together!
 
