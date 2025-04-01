@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Overview
+title: Overview: Statistical Methodology
 ---
 
 <p align="justify">
@@ -14,7 +14,6 @@ Below are some selected papers.
 <p align="justify">
 <ins>underline</ins> indicates a student working under my (co)supervision, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
 </p>
-
 
 ### Quantile Regression Models 
 
