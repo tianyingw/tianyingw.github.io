@@ -11,6 +11,10 @@ To tackle these issues, I build on and extend methodologies and theories in quan
 Below are some selected papers.
 </p> 
 
+<p align="justify">
+<ins>underline</ins> indicates a student working under my (co)supervision, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
+</p>
+
 
 ### Quantile Regression Models 
 
@@ -52,9 +56,6 @@ Below are some selected papers.
 
 
 
-<p align="justify">
-<ins>underline</ins> indicates a student working under my (co)supervision, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
-</p>
 
 
 [Research opportunities](https://tianyingw.github.io/openings/) are open to highly motivated students. Interested individuals are encouraged to reach out for more details. 
