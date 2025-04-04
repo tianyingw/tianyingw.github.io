@@ -47,7 +47,6 @@ Below are some selected papers.
 ### High-Dimensional Data and Big Data Analysis
 
 - Liu, Y. and **Wang, T.<span>&#x2709;</span>** (2025+). _"A powerful transformation of quantitative responses for biobank-scale association studies"_, under review.
-- <ins>Li, Z.**<sup><span>&#9830;</span></sup>**</ins>, and **Wang, T.<span>&#x2709;</span>** (2025+). _"Tree-aggregation of high-dimensional compositional data subject to measurement errors"_, under review.
 - <ins>Wang, Y.</ins>, and **Wang, T.<span>&#x2709;</span>** (2025+). _"Multi-Group Quadratic Discriminant Analysis via Projection"_, under review.
 - <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024). _["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418)_, **_Biometrics_**, accepted.
 - Gaynanova, I. and **Wang, T.** (2019). "Sparse quadratic classification rules via linear dimension reduction". **_Journal of Multivariate Analysis_**, 169, 278--299.
