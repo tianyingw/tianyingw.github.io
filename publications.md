@@ -40,9 +40,9 @@ I view open science practices as an important way to increase access and partici
 
 - **Wang, T.<span>&#x2709;</span>**, Zhang, W., and Wei, Y. (2024). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), **_Statistica Sinica_**, accepted.
 
-- **Wang, T.**, Liu, J., and Wu, A. (2024). _["Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"](https://jds-online.org/journal/JDS/article/1391/info)_, **_Journal of Data Science_**, accepted.
+- **Wang, T.**, Liu, J., and Wu, A. (2024). ["Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"](https://jds-online.org/journal/JDS/article/1391/info), **_Journal of Data Science_**, accepted.
 
-- <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024). _["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418)_, **_Biometrics_**, 80(4), ujae153.
+- <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024). ["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418), **_Biometrics_**, 80(4), ujae153.
 
 - <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024). ["A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0104_na.pdf), **_Statistica Sinica_**, accepted.
   
