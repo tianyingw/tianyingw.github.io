@@ -18,12 +18,12 @@ I view open science practices as an important way to increase access and partici
 
 ### Under Review
 
-- <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2025+) _"Doubly robust augmented model transfer inference with completely missing covariates"_.
+- <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2025+). _"Doubly robust augmented model transfer inference with completely missing covariates"_.
   - An earlier version won the **2025 IMS Hannan Graduate Student Travel Award**
 
-- **Wang, T.<span>&#x2709;</span>** (2025+) _"Optimal Conformal Prediction under Asymmetry: A Quantile Selection Approach"_.
+- **Wang, T.<span>&#x2709;</span>** (2025+). _"Optimal Conformal Prediction under Asymmetry: A Quantile Selection Approach"_.
 
-- **Wang, T.<span>&#x2709;</span>**, Ma, Y., and Wei, Y. (2025+) _Time-varying Quantile Regression with Multi-outcome Latent Groups"_.
+- **Wang, T.<span>&#x2709;</span>**, Ma, Y., and Wei, Y. (2025+). _"Time-varying Quantile Regression with Multi-outcome Latent Groups"_.
 
 
 ### 2025
