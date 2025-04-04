@@ -22,7 +22,6 @@ Below are some selected papers.
 - **Wang, T.<span>&#x2709;</span>** and Asher, A. (2021). "Improved Semiparametric Analysis of Polygenic Gene-Environment Interactions in Case-Control Studies". **_Statistics in Biosciences_**, 13, 386--401.
 
 ### Microbiome Studies
-- <ins>Li, Z.**<sup><span>&#9830;</span></sup>**</ins>, and **Wang, T.<span>&#x2709;</span>** (2025+). _"Tree-aggregation of high-dimensional compositional data subject to measurement errors"_, under review.
 - <ins>Wang, Z.</ins>, Ling, W., and **Wang, T.<span>&#x2709;</span>** (2025). _"A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"_, **_Biometrics_**, accepted.
 - <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024). _["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418)_, **_Biometrics_**, accepted.
 - <ins>Wang, Z.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024). _"A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"_, **Statistica Sinica**, accepted.
