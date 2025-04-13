@@ -23,6 +23,8 @@ I view open science practices as an important way to increase access and partici
 
 - **Wang, T.<span>&#x2709;</span>** (2025+). _"Optimal Conformal Prediction under Asymmetry: A Quantile Selection Approach"_.
 
+- **Wang, T.<span>&#x2709;</span>** (2025+). _"Conformal Prediction for Multivariate Quantile Regression"_.
+
 - **Wang, T.<span>&#x2709;</span>**, Ma, Y., and Wei, Y. (2025+). _"Time-varying Quantile Regression with Multi-outcome Latent Groups"_.
 
 
