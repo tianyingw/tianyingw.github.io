@@ -6,7 +6,7 @@ title: Publications
 **[My Google Scholar](https://scholar.google.com/citations?user=YKB6YmgAAAAJ&hl=en&oi=ao)**
 
 <p align="justify">
-With the increasingly large and complex data generated and need to be analyzed, statistics is highly interdisciplinary and rapidly expanding among the sciences. My career goal includes developing state-of-the-art statistical and machine learning methods for solving data-driven problems, advancing statistical theory in the emerging field of data science, and harnessing real-world evidence for decision-making and precision medicine. My primary research is centered around developing statistical theories and methodologies to promote statistical learning in complex data, especially on data heterogeneity and measurement errors. Much of my methodology research applies to genetic and genomic data analysis, microbiome data analysis, epidemiologic research, and environmental statistics. 
+With the increasingly large and complex data generated and the need to be analyzed, statistics is highly interdisciplinary and rapidly expanding among the sciences. My career goal includes developing state-of-the-art statistical and machine learning methods for solving data-driven problems, advancing statistical theory in the emerging field of data science, and harnessing real-world evidence for decision-making and precision medicine. My primary research is centered around developing statistical theories and methodologies to promote statistical learning in complex data, especially on data heterogeneity and measurement errors. Much of my methodology research applies to genetic and genomic data analysis, microbiome data analysis, epidemiologic research, and environmental statistics. 
 </p>
 
 I view open science practices as an important way to increase access and participation in academic research. Please check all open-source software related to my articles [here](https://tianyingw.github.io/software/). 
@@ -30,7 +30,7 @@ I view open science practices as an important way to increase access and partici
 
 ### 2025
 
-- <ins>Wang, Z.</ins>, Ling, W., and **Wang, T.<span>&#x2709;</span>** (2025). _"A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"_, **_Biometrics_**, accepted.
+- <ins>Wang, Z.</ins>, Ling, W., and **Wang, T.<span>&#x2709;</span>** (2025). ["A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"](https://doi.org/10.1093/biomtc/ujaf050), **_Biometrics_**, accepted.
 
 - **Wang, T.<span>&#x2709;</span>** (2025). _"Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression,"_ **_Big Data Analysis, Biostatistics and Bioinformatics_** (Eds. Chen, D. and Zhao, Y.), Springer, New York, in press.
 
