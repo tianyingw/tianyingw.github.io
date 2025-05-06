@@ -22,11 +22,11 @@ Colorado 80523-1877
 I am actively looking for undergraduate and graduate students to work on fun research projects together!
 
 ### News:
-- **May 2025**: Congratulations to Mussa on winning the **Undergraduate Excellence in Research Award** for his work on [_Handling Missing Data in Cancer Cell Line Datasets_](https://tianyingw.github.io/gallery/)! 
+- **May 2025**: Congratulations to Mussa on winning the **Undergraduate Excellence in Research Award** for his work on ["Handling Missing Data in Cancer Cell Line Datasets"](https://tianyingw.github.io/gallery/)! 
 
 - **April 2025**: Congratulations to Huali on winning the [**2025 IMS Hannan Graduate Student Travel Award**](https://imstat.org/ims-awards/ims-awards-recipients/) for her work on "_Augmented transfer regression learning for handling completely missing covariates_"!
 
-- **March 2025**: Our paper on _"A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"_ is accepted by **_Biometrics_**.
+- **March 2025**: Our paper on ["A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"](https://doi.org/10.1093/biomtc/ujaf050) is accepted by **_Biometrics_**.
 
 - **March 2025**: Our book chapter _"Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression"_ is accepted for publication in **_Big Data Analysis, Biostatistics and Bioinformatics_** (Eds. Chen, D. and Zhao, Y.), Springer.
 
