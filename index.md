@@ -22,6 +22,9 @@ Colorado 80523-1877
 I am actively looking for undergraduate and graduate students to work on fun research projects together!
 
 ### News:
+
+- **May 2025**: Our paper on ["Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf) is available on [biorxiv](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
+
 - **May 2025**: Congratulations to Mussa on winning the **Undergraduate Excellence in Research Award** for his work on ["Handling Missing Data in Cancer Cell Line Datasets"](https://tianyingw.github.io/gallery/)! 
 
 - **April 2025**: Congratulations to Huali on winning the [**2025 IMS Hannan Graduate Student Travel Award**](https://imstat.org/ims-awards/ims-awards-recipients/) for her work on "_Augmented transfer regression learning for handling completely missing covariates_"!
