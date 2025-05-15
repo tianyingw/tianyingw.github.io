@@ -59,3 +59,4 @@ Research opportunities are open to highly motivated students. Interested individ
 - **Note:** Mussa won the _2025 Undergraduate Excellence in Research Award_ for his efforts in this project. Congratulations, Mussa!
     
 <img align="center" src="/img/CURC_Mussa.jpg" alt="" width="700">
+<img align="center" src="/img/Mussa_award.png" alt="" width="700">
