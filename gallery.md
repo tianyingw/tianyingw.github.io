@@ -56,7 +56,7 @@ Research opportunities are open to highly motivated students. Interested individ
 
 - **Summary:** Large, publicly available cancer-cell-line resources fuel precision-oncology discovery yet suffer from pervasive, non-ignorable missing values that distort downstream analyses of multi-omics profiles and drug responses. In this project, we harmonized these heterogeneous panels, mapped their complex missing-data mechanisms, and benchmarked a comprehensive suite of statistical and machine-learning imputation schemes. The resulting pipeline, highlighted in a CURC poster, offers a transferable template for rigorously handling missingness in other large-scale biomedical datasets.
 
-- **Note:** Mussa won the _2025 Undergraduate Excellence in Research Award_ for his efforts in this project. Congratulations, Mussa!
-    
 <img align="center" src="/img/CURC_Mussa.jpg" alt="" width="700">
+
+- **Note:** Mussa won the _2025 Undergraduate Excellence in Research Award_ for his efforts in this project. Congratulations, Mussa!
 <img align="center" src="/img/Mussa_award.png" alt="" width="700">
