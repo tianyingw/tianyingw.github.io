@@ -60,3 +60,4 @@ Research opportunities are open to highly motivated students. Interested individ
 
 - **Note:** Mussa won the _2025 Undergraduate Excellence in Research Award_ for his efforts in this project. Congratulations, Mussa!
 <img align="center" src="/img/Mussa_award.png" alt="" width="700">
+Photo courtesy of CSU Department of Statistics — 2025 Statistics Awards Ceremony
