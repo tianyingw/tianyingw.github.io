@@ -14,13 +14,13 @@ Research opportunities are open to highly motivated students. Interested individ
 - **Mentored student:** Mussa Hassen (2024 Summer, undergraduate students' research program at CSU)
 
 - **Summary:** Large, publicly available cancer-cell-line resources fuel precision-oncology discovery yet suffer from pervasive, non-ignorable missing values that distort downstream analyses of multi-omics profiles and drug responses. In this project, we harmonized these heterogeneous panels, mapped their complex missing-data mechanisms, and benchmarked a comprehensive suite of statistical and machine-learning imputation schemes. The resulting pipeline, highlighted in a CURC poster, offers a transferable template for rigorously handling missingness in other large-scale biomedical datasets.
-
 <img align="center" src="/img/CURC_Mussa.jpg" alt="" width="700">
 
 - **Note:** Mussa won the _2025 Undergraduate Excellence in Research Award_ for his efforts in this project. Congratulations, Mussa!
 <img align="center" src="/img/Mussa_award.png" alt="" width="700">
 Photo courtesy of CSU Department of Statistics — 2025 Statistics Awards Ceremony
 
+-------------------------------------------------------------
 ## Deep learning-based statistical modeling for data denoising and imputation
 - **Mentored students:** Qinhuan Luo and Yongzhe Yu. (This work was finished when Qinhuan and Yongzhen were undergraduate students at Tsinghua University from 2022-2023.)
 
@@ -30,7 +30,7 @@ Photo courtesy of CSU Department of Statistics — 2025 Statistics Awards Ceremo
 
 - **Related paper:** <ins>Luo, Q.</ins>, <ins>Yu, Y.</ins> and **Wang, T.<b>*</b>** (2023+). _"A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity"_, under review.
 
-
+-------------------------------------------------------------
 ## Modeling zero-inflated data with error-in-variables
 
 - **Mentored student:** Roulan Jiang. (This work was conducted when Roulan was a senior undergraduate student at Tsinghua University from 2021-2022.)
