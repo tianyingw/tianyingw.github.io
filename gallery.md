@@ -9,6 +9,28 @@ I have supervised various undergraduate students' research training projects, in
 
 Research opportunities are open to highly motivated students. Interested individuals are encouraged to reach out for more details. 
 
+
+## Handling Missing Data in Cancer Cell Line Datasets
+- **Mentored student:** Mussa Hassen (2024 Summer, undergraduate students' research program at CSU)
+
+- **Summary:** Large, publicly available cancer-cell-line resources fuel precision-oncology discovery yet suffer from pervasive, non-ignorable missing values that distort downstream analyses of multi-omics profiles and drug responses. In this project, we harmonized these heterogeneous panels, mapped their complex missing-data mechanisms, and benchmarked a comprehensive suite of statistical and machine-learning imputation schemes. The resulting pipeline, highlighted in a CURC poster, offers a transferable template for rigorously handling missingness in other large-scale biomedical datasets.
+
+<img align="center" src="/img/CURC_Mussa.jpg" alt="" width="700">
+
+- **Note:** Mussa won the _2025 Undergraduate Excellence in Research Award_ for his efforts in this project. Congratulations, Mussa!
+<img align="center" src="/img/Mussa_award.png" alt="" width="700">
+Photo courtesy of CSU Department of Statistics — 2025 Statistics Awards Ceremony
+
+## Deep learning-based statistical modeling for data denoising and imputation
+- **Mentored students:** Qinhuan Luo and Yongzhe Yu. (This work was finished when Qinhuan and Yongzhen were undergraduate students at Tsinghua University from 2022-2023.)
+
+<img align="center" src="/img/deep.png" alt="" width="700">
+
+- **Summary:** Single-cell RNA sequencing data is a vital and rich resource for researchers to investigate the underlying mechanisms of various biological or disease-related processes. However, the well-known data heterogeneity is an unignorable barrier and causes many challenges in related studies. The heterogeneity can arise from multiple sources, such as sequencing techniques and platforms, and is reflected in cell-wise or gene-wise heterogeneity. To mitigate the modeling limitations caused by unobserved confounders and unexplored transcriptomic pathways, we propose a novel framework to model the complex heterogeneity in scRNA-seq data by integrating deep generative models with parametric statistical models. By comprehensively evaluating the proposed method on four datasets, we demonstrated its superior ability to model different sources of data heterogeneity at different levels of known information.
+
+- **Related paper:** <ins>Luo, Q.</ins>, <ins>Yu, Y.</ins> and **Wang, T.<b>*</b>** (2023+). _"A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity"_, under review.
+
+
 ## Modeling zero-inflated data with error-in-variables
 
 - **Mentored student:** Roulan Jiang. (This work was conducted when Roulan was a senior undergraduate student at Tsinghua University from 2021-2022.)
@@ -40,24 +62,3 @@ Research opportunities are open to highly motivated students. Interested individ
 
 - **Notes:** Zirui won the _Best Student Paper Award at the 2024 National Graduate Statistics Symposium, Mathematical Statistics Section_, based on this work. Congratulations, Zirui!
 
-## Deep learning-based statistical modeling for data denoising and imputation
-- **Mentored students:** Qinhuan Luo and Yongzhe Yu. (This work was finished when Qinhuan and Yongzhen were undergraduate students at Tsinghua University from 2022-2023.)
-
-<img align="center" src="/img/deep.png" alt="" width="700">
-
-- **Summary:** Single-cell RNA sequencing data is a vital and rich resource for researchers to investigate the underlying mechanisms of various biological or disease-related processes. However, the well-known data heterogeneity is an unignorable barrier and causes many challenges in related studies. The heterogeneity can arise from multiple sources, such as sequencing techniques and platforms, and is reflected in cell-wise or gene-wise heterogeneity. To mitigate the modeling limitations caused by unobserved confounders and unexplored transcriptomic pathways, we propose a novel framework to model the complex heterogeneity in scRNA-seq data by integrating deep generative models with parametric statistical models. By comprehensively evaluating the proposed method on four datasets, we demonstrated its superior ability to model different sources of data heterogeneity at different levels of known information.
-
-- **Related paper:** <ins>Luo, Q.</ins>, <ins>Yu, Y.</ins> and **Wang, T.<b>*</b>** (2023+). _"A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity"_, under review.
-
-
-
-## Handling Missing Data in Cancer Cell Line Datasets
-- **Mentored student:** Mussa Hassen (2024 Summer, undergraduate students' research program at CSU)
-
-- **Summary:** Large, publicly available cancer-cell-line resources fuel precision-oncology discovery yet suffer from pervasive, non-ignorable missing values that distort downstream analyses of multi-omics profiles and drug responses. In this project, we harmonized these heterogeneous panels, mapped their complex missing-data mechanisms, and benchmarked a comprehensive suite of statistical and machine-learning imputation schemes. The resulting pipeline, highlighted in a CURC poster, offers a transferable template for rigorously handling missingness in other large-scale biomedical datasets.
-
-<img align="center" src="/img/CURC_Mussa.jpg" alt="" width="700">
-
-- **Note:** Mussa won the _2025 Undergraduate Excellence in Research Award_ for his efforts in this project. Congratulations, Mussa!
-<img align="center" src="/img/Mussa_award.png" alt="" width="700">
-Photo courtesy of CSU Department of Statistics — 2025 Statistics Awards Ceremony
