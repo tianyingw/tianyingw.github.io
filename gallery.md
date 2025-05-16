@@ -9,6 +9,7 @@ I have supervised various undergraduate students' research training projects, in
 
 Research opportunities are open to highly motivated students. Interested individuals are encouraged to reach out for more details. 
 
+-------------------------------------------------------------
 
 ## Handling Missing Data in Cancer Cell Line Datasets
 - **Mentored student:** Mussa Hassen (2024 Summer, undergraduate students' research program at CSU)
