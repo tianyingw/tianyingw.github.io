@@ -21,6 +21,7 @@ Research opportunities are open to highly motivated students. Interested individ
 Photo courtesy of CSU Department of Statistics — 2025 Statistics Awards Ceremony
 
 -------------------------------------------------------------
+
 ## Deep learning-based statistical modeling for data denoising and imputation
 - **Mentored students:** Qinhuan Luo and Yongzhe Yu. (This work was finished when Qinhuan and Yongzhen were undergraduate students at Tsinghua University from 2022-2023.)
 
@@ -31,6 +32,7 @@ Photo courtesy of CSU Department of Statistics — 2025 Statistics Awards Ceremo
 - **Related paper:** <ins>Luo, Q.</ins>, <ins>Yu, Y.</ins> and **Wang, T.<b>*</b>** (2023+). _"A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity"_, under review.
 
 -------------------------------------------------------------
+
 ## Modeling zero-inflated data with error-in-variables
 
 - **Mentored student:** Roulan Jiang. (This work was conducted when Roulan was a senior undergraduate student at Tsinghua University from 2021-2022.)
@@ -41,6 +43,8 @@ Photo courtesy of CSU Department of Statistics — 2025 Statistics Awards Ceremo
 
 - **Related paper:** <ins>Jiang, R.</ins>, Zhan, X.*, and **Wang, T.<b>*</b>** (2022) ["A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Read Count Data"](https://arxiv.org/pdf/2207.07796.pdf), _Journal of the American Statistical Association_, 1 - 21.
 
+-------------------------------------------------------------
+
 ## Quantile TWAS Genome Browser (Shiny app)
 - **Mentored student:** Weijing Yin. (This work was conducted as a summer project in 2022 when Weijing was a sophomore undergraduate student at Tsinghua University.)
 
@@ -50,6 +54,7 @@ Photo courtesy of CSU Department of Statistics — 2025 Statistics Awards Ceremo
 
 - **App link:** [tianyingw.shinyapps.io/QTWAS/](https://tianyingw.shinyapps.io/QTWAS/).
 
+-------------------------------------------------------------
 
 ## Estimating quantile curves for zero-inflated outcomes
 - **Mentored student:** Zirui Wang. (This work was finished when Zirui was a junior undergraduate student at Tsinghua University from 2021-2022.)
