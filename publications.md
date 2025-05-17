@@ -27,12 +27,12 @@ I view open science practices as an important way to increase access and partici
 
 - **Wang, T.<span>&#x2709;</span>** (2025+). _"Conformal Prediction for Multivariate Quantile Regression"_.
 
-- Wang, F., Wang, C., **Wang, T.**, Masala, M., Fiorillo, E., Devoto, M., Cucca, F., Ionita-Laza, I. (2025+) ["_Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale_"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
+- Wang, F., Wang, C., **Wang, T.**, Masala, M., Fiorillo, E., Devoto, M., Cucca, F., Ionita-Laza, I. (2025+). ["_Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale_"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
 
 
 ### 2025
 
-- <ins>Wang, Z.</ins>, Ling, W., and **Wang, T.<span>&#x2709;</span>** (2025). ["A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"](https://doi.org/10.1093/biomtc/ujaf050), **_Biometrics_**, accepted.
+- <ins>Wang, Z.</ins>, Ling, W., and **Wang, T.<span>&#x2709;</span>** (2025). ["A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"](https://doi.org/10.1093/biomtc/ujaf050), **_Biometrics_**, 81(2), ujaf050.
 
 - **Wang, T.<span>&#x2709;</span>** (2025). _"Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression,"_ **_Big Data Analysis, Biostatistics and Bioinformatics_** (Eds. Chen, D. and Zhao, Y.), Springer, New York, in press.
 
