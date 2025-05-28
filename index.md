@@ -27,7 +27,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 - **May 2025**: Congratulations to Mussa on winning the **Undergraduate Excellence in Research Award** for his work on ["Handling Missing Data in Cancer Cell Line Datasets"](https://tianyingw.github.io/gallery/)! 
 
-- **April 2025**: Congratulations to Huali on winning the [**2025 IMS Hannan Graduate Student Travel Award**](https://imstat.org/ims-awards/ims-awards-recipients/) for her work on "_Augmented transfer regression learning for handling completely missing covariates_"!
+- **April 2025**: Congratulations to Huali on winning the [**2025 IMS Hannan Graduate Student Travel Award**](https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-the-winners/) for her work on "_Augmented transfer regression learning for handling completely missing covariates_"!
 
 - **March 2025**: Our paper on ["A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"](https://doi.org/10.1093/biomtc/ujaf050) is accepted by **_Biometrics_**.
 
