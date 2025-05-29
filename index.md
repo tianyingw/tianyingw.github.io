@@ -35,7 +35,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 - **December 2024**: Our paper on ["Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"](https://journals.ametsoc.org/view/journals/clim/38/8/JCLI-D-24-0193.1.xml) is accepted by **_Journal of Climate_**.
 
-- **December 2024**: Our paper on ["A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081) is accepted by **_Annals of Applied Statistics_**.
+- **December 2024**: Our paper on ["A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/A-unified-quantile-framework-for-nonlinear-heterogeneous-transcriptome-wide-associations/10.1214/24-AOAS1999.short) is accepted by **_Annals of Applied Statistics_**.
   
 - **November 2024**: Our paper on ["A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0104_na.pdf) is accepted by **_Statistica Sinica_**.
 
