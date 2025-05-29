@@ -32,6 +32,8 @@ I view open science practices as an important way to increase access and partici
 
 ### 2025
 
+- **Wang, T.<span>&#x2709;</span>**, Ionita-Laza, I., and Wei, Y. (2025). ["A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/A-unified-quantile-framework-for-nonlinear-heterogeneous-transcriptome-wide-associations/10.1214/24-AOAS1999.short), **_Annals of Applied Statistics_**, 19(2): 967-985.
+  
 - <ins>Wang, Z.</ins>, Ling, W., and **Wang, T.<span>&#x2709;</span>** (2025). ["A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"](https://doi.org/10.1093/biomtc/ujaf050), **_Biometrics_**, 81(2), ujaf050.
 
 - **Wang, T.<span>&#x2709;</span>** (2025). _"Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression,"_ **_Big Data Analysis, Biostatistics and Bioinformatics_** (Eds. Chen, D. and Zhao, Y.), Springer, New York, in press.
@@ -39,8 +41,6 @@ I view open science practices as an important way to increase access and partici
 - Li, Y., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2025). ["Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"](https://journals.ametsoc.org/view/journals/clim/38/8/JCLI-D-24-0193.1.xml),  **_Journal of Climate_**, 38(8), 1779-1790.
 
 ### 2024
-
-- **Wang, T.<span>&#x2709;</span>**, Ionita-Laza, I., and Wei, Y. (2024). ["A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081), **_Annals of Applied Statistics_**, accepted.
 
 - **Wang, T.<span>&#x2709;</span>**, Zhang, W., and Wei, Y. (2024). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), **_Statistica Sinica_**, accepted.
 
