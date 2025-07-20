@@ -32,6 +32,8 @@ I view open science practices as an important way to increase access and partici
 
 ### 2025
 
+- Liu, Y. and **Wang, T.<span>&#x2709;</span>** (2025). ["_A powerful transformation of quantitative responses for biobank-scale association studies_"](https://arxiv.org/abs/2507.06496), **_Journal of the American Statistical Association_** (accepted).
+  
 - **Wang, T.<span>&#x2709;</span>**, Ionita-Laza, I., and Wei, Y. (2025). ["A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/A-unified-quantile-framework-for-nonlinear-heterogeneous-transcriptome-wide-associations/10.1214/24-AOAS1999.short), **_Annals of Applied Statistics_**, 19(2): 967-985.
   
 - <ins>Wang, Z.</ins>, Ling, W., and **Wang, T.<span>&#x2709;</span>** (2025). ["A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"](https://doi.org/10.1093/biomtc/ujaf050), **_Biometrics_**, 81(2), ujaf050.
