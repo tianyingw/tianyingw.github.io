@@ -27,9 +27,9 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 - **July 2025**: Tianying's work on _"Joint Quantile Regression with Latent Clustering for Age-Dependent Genetic Effects on Multiple Traits"_ was recognized and selected as a finalist by the ASA Statistics and Data Science in Aging (SDSA) group, and will be featured in the **_ARISE (Aging Research – Innovations in Statistical Exploration)_** Webinar Series.
 
-- **June 2025**: Our paper on ["Denoising Single-cell RNA-Seq Data with A Deep Learning-embedded Statistical Framework"](https://www.biorxiv.org/content/10.1101/2025.05.20.655104v1) is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.20.655104v1).
+- **June 2025**: Our manuscript on ["Denoising Single-cell RNA-Seq Data with A Deep Learning-embedded Statistical Framework"](https://www.biorxiv.org/content/10.1101/2025.05.20.655104v1) is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.20.655104v1).
   
-- **May 2025**: Our paper on ["Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf) is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
+- **May 2025**: Our manuscript on ["Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf) is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
 
 - **May 2025**: Congratulations to Mussa on winning the **Undergraduate Excellence in Research Award** for his work on ["Handling Missing Data in Cancer Cell Line Datasets"](https://tianyingw.github.io/gallery/)! 
 
