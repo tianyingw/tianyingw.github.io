@@ -24,9 +24,10 @@ I am actively looking for undergraduate and graduate students to work on fun res
 ### News:
 
 - **July 2025**: Our paper on ["_A powerful transformation of quantitative responses for biobank-scale association studies_"](https://arxiv.org/abs/2507.06496) is accepted by **_Journal of the American Statistical Association_**.
-- **May 2025**: Our paper on ["Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf) is available on [biorxiv](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
 
 - **July 2025**: Tianying's work on _"Joint Quantile Regression with Latent Clustering for Age-Dependent Genetic Effects on Multiple Traits"_ was recognized and selected as a finalist by the ASA Statistics and Data Science in Aging (SDSA) group, and will be presented in the ARISE (Aging Research – Innovations in Statistical Exploration) Webinar Series.
+  
+- **May 2025**: Our paper on ["Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf) is available on [biorxiv](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
 
 - **May 2025**: Congratulations to Mussa on winning the **Undergraduate Excellence in Research Award** for his work on ["Handling Missing Data in Cancer Cell Line Datasets"](https://tianyingw.github.io/gallery/)! 
 
