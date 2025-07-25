@@ -44,6 +44,7 @@ title: About me
 
   - I love baking (check [my Instagram](https://tianyingw.github.io/Instagram/)) and hiking (check [hiking in Fort Collins, Colorado](https://tianyingw.github.io/hiking/)).  
   - I enjoy scuba diving and am certified as an Advanced Open Water diver.
+  - I am always excited to learn new languages—whether human or machine.
 
  
 
