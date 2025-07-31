@@ -23,7 +23,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 ### News:
 
-- **July 2025**: Our paper on ["_A powerful transformation of quantitative responses for biobank-scale association studies_"](https://arxiv.org/abs/2507.06496) is accepted by **_Journal of the American Statistical Association_**.
+- **July 2025**: Our paper on ["_A powerful transformation of quantitative responses for biobank-scale association studies_"](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2540083) is accepted by **_Journal of the American Statistical Association_**.
 
 - **July 2025**: Tianying's work on _"Joint Quantile Regression with Latent Clustering for Age-Dependent Genetic Effects on Multiple Traits"_ was recognized and selected as a finalist by the ASA Statistics and Data Science in Aging (SDSA) group, and will be featured in the **_ARISE (Aging Research – Innovations in Statistical Exploration)_** Webinar Series.
 
