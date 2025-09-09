@@ -29,6 +29,7 @@ I view open science practices as an important way to increase access and partici
 
 - Wang, F., Wang, C., **Wang, T.**, Masala, M., Fiorillo, E., Devoto, M., Cucca, F., Ionita-Laza, I. (2025+). ["_Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale_"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
 
+- <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2025+). ["_A simulation-free extrapolation method for misspecified models with errors-in-variables in epidemiological studies_"](https://arxiv.org/abs/2509.06118).
 
 ### 2025
 
