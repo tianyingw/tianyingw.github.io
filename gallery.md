@@ -30,7 +30,7 @@ Photo courtesy of CSU Department of Statistics — 2025 Statistics Awards Ceremo
 
 - **Summary:** Single-cell RNA sequencing data is a vital and rich resource for researchers to investigate the underlying mechanisms of various biological or disease-related processes. However, the well-known data heterogeneity is an unignorable barrier and causes many challenges in related studies. The heterogeneity can arise from multiple sources, such as sequencing techniques and platforms, and is reflected in cell-wise or gene-wise heterogeneity. To mitigate the modeling limitations caused by unobserved confounders and unexplored transcriptomic pathways, we propose a novel framework to model the complex heterogeneity in scRNA-seq data by integrating deep generative models with parametric statistical models. By comprehensively evaluating the proposed method on four datasets, we demonstrated its superior ability to model different sources of data heterogeneity at different levels of known information.
 
-- **Related paper:** <ins>Luo, Q.</ins>, <ins>Yu, Y.</ins> and **Wang, T.<b>*</b>** (2024+). _"A Deep Learning-Embedded Statistical Framework for Modeling Single-Cell RNA-Seq Data Heterogeneity"_, under review.
+- **Related paper: <ins>Luo, Q.**<sup><span>&#9830;</span></sup>**</ins>, <ins>Yu, Y.**<sup><span>&#9830;</span></sup>**</ins>, and **Wang, T.<span>&#x2709;</span>** (2025+). ["_Denoising Single-Cell RNA-Seq Data with a Deep Learning-Embedded Statistical Framework_"](https://www.biorxiv.org/content/10.1101/2025.05.20.655104v1.abstract)
 
 -------------------------------------------------------------
 
