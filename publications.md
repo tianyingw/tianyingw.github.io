@@ -27,9 +27,13 @@ I view open science practices as an important way to increase access and partici
 
 - **Wang, T.<span>&#x2709;</span>** (2025+). _"Conformal Prediction for Multivariate Quantile Regression"_.
 
-- Wang, F., Wang, C., **Wang, T.**, Masala, M., Fiorillo, E., Devoto, M., Cucca, F., Ionita-Laza, I. (2025+). ["_Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale_"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
-
 - <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2025+). ["_A simulation-free extrapolation method for misspecified models with errors-in-variables in epidemiological studies_"](https://arxiv.org/abs/2509.06118).
+
+- Wang, F., Wang, C., **Wang, T.**, Masala, M., Fiorillo, E., Devoto, M., Cucca, F., Ionita-Laza, I. (2025+). ["_Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale_"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
+  
+- <ins>Luo, Q.**<sup><span>&#9830;</span></sup>**</ins>, <ins>Yu, Y.**<sup><span>&#9830;</span></sup>**</ins>, and **Wang, T.<span>&#x2709;</span>** (2025+). ["_Denoising Single-Cell RNA-Seq Data with a Deep Learning-Embedded Statistical Framework_"](https://www.biorxiv.org/content/10.1101/2025.05.20.655104v1.abstract).
+
+
 
 ### 2025
 
@@ -51,7 +55,7 @@ I view open science practices as an important way to increase access and partici
 
 - <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2024). ["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418), **_Biometrics_**, 80(4), ujae153.
 
-- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024). ["A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0104_na.pdf), **_Statistica Sinica_**, accepted.
+- <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024). ["A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0104_na.pdf), **_Statistica Sinica_**, 23(3): 454-469.
   
 - Wang, C., **Wang, T.**, Kiryluk, K., Wei, Y., Aschard, H., and Ionita-Laza, I. (2024). ["Genome-wide discovery for biomarkers using quantile regression at biobank scale"](https://www.nature.com/articles/s41467-024-50726-x), **_Nature Communications_**, 15 (1), 6460.
 
