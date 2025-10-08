@@ -31,9 +31,6 @@ I view open science practices as an important way to increase access and partici
 
 - Wang, F., Wang, C., **Wang, T.**, Masala, M., Fiorillo, E., Devoto, M., Cucca, F., Ionita-Laza, I. (2025+). ["_Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale_"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
   
-- <ins>Luo, Q.**<sup><span>&#9830;</span></sup>**</ins>, <ins>Yu, Y.**<sup><span>&#9830;</span></sup>**</ins>, and **Wang, T.<span>&#x2709;</span>** (2025+). ["_Denoising Single-Cell RNA-Seq Data with a Deep Learning-Embedded Statistical Framework_"](https://www.biorxiv.org/content/10.1101/2025.05.20.655104v1.abstract).
-
-
 
 ### 2025
 
@@ -45,11 +42,13 @@ I view open science practices as an important way to increase access and partici
 
 - **Wang, T.<span>&#x2709;</span>** (2025). _"Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression,"_ **_Big Data Analysis, Biostatistics and Bioinformatics_** (Eds. Chen, D. and Zhao, Y.), Springer, New York, in press.
 
+- **Wang, T.<span>&#x2709;</span>**, Zhang, W., and Wei, Y. (2025). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), **_Statistica Sinica_**, 35, 2451-2468.
+  
+- <ins>Luo, Q.**<sup><span>&#9830;</span></sup>**</ins>, <ins>Yu, Y.**<sup><span>&#9830;</span></sup>**</ins>, and **Wang, T.<span>&#x2709;</span>** (2025). ["_Denoising Single-Cell RNA-Seq Data with a Deep Learning-Embedded Statistical Framework_"](https://www.biorxiv.org/content/10.1101/2025.05.20.655104v1.abstract), **_BMC Bioinformatics_**, accepted.
+
 - Li, Y., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2025). ["Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"](https://journals.ametsoc.org/view/journals/clim/38/8/JCLI-D-24-0193.1.xml),  **_Journal of Climate_**, 38(8), 1779-1790.
 
 ### 2024
-
-- **Wang, T.<span>&#x2709;</span>**, Zhang, W., and Wei, Y. (2024). ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf), **_Statistica Sinica_**, accepted.
 
 - **Wang, T.**, Liu, J., and Wu, A. (2024). ["Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"](https://jds-online.org/journal/JDS/article/1391/info), **_Journal of Data Science_**, 23(3): 454-469.
 
