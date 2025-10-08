@@ -23,6 +23,8 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 ### News:
 
+- **October 2025**: Our paper on ["Denoising Single-cell RNA-Seq Data with A Deep Learning-embedded Statistical Framework"](https://www.biorxiv.org/content/10.1101/2025.05.20.655104v1) is accepted by **_BMC Bioinformatics_**.
+  
 - **September 2025**: Our manuscript on ["A simulation-free extrapolation method for misspecified models with errors-in-variables in epidemiological studies"](https://arxiv.org/abs/2509.06118) is available on [arXiv](https://arxiv.org/abs/2509.06118).
   
 - **July 2025**: Our paper on ["A powerful transformation of quantitative responses for biobank-scale association studies"](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2540083) is accepted by **_Journal of the American Statistical Association_**.
