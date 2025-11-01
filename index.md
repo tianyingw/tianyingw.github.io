@@ -23,7 +23,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 ### News:
 
-- **November 2025**: Our paper on ["CVS: Tree-guided compositional variable selection analysis of microbiome data"] is accepted by **_Bioinformatics_**.
+- **November 2025**: Our paper on _"TCVS: Tree-guided compositional variable selection analysis of microbiome data"_ is accepted by **_Bioinformatics_**.
   
 - **October 2025**: Our paper on ["Denoising Single-cell RNA-Seq Data with A Deep Learning-embedded Statistical Framework"](https://www.biorxiv.org/content/10.1101/2025.05.20.655104v1) is accepted by **_BMC Bioinformatics_**.
   
