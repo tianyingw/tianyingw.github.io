@@ -13,7 +13,7 @@ I view open science practices as an important way to increase access and partici
 
 
 <p align="justify">
-<ins>underline</ins> indicates a student working under my supervision, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
+<ins>underline</ins> indicates a student co-author, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
 </p>
 
 ### Under Review
@@ -46,7 +46,7 @@ I view open science practices as an important way to increase access and partici
   
 - <ins>Luo, Q.**<sup><span>&#9830;</span></sup>**</ins>, <ins>Yu, Y.**<sup><span>&#9830;</span></sup>**</ins>, and **Wang, T.<span>&#x2709;</span>** (2025). ["_Denoising Single-Cell RNA-Seq Data with a Deep Learning-Embedded Statistical Framework_"](https://www.biorxiv.org/content/10.1101/2025.05.20.655104v1.abstract), **_BMC Bioinformatics_**, accepted.
 
-- Mao, Y., Jiang, Z., **Wang, T.**, Hu, Y., and Zhan, X. (2025). ["TCVS: Tree-guided compositional variable selection analysis of microbiome data"](), **_Bioinformatics_**, accepted.
+- <ins>Mao, Y.</ins>, <ins>Jiang, Z.</ins>, **Wang, T.**, Hu, Y., and Zhan, X. (2025). ["TCVS: Tree-guided compositional variable selection analysis of microbiome data"](), **_Bioinformatics_**, accepted.
 
 ### 2024
 
