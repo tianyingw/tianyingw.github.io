@@ -18,21 +18,21 @@ I view open science practices as an important way to increase access and partici
 
 ### Under Review
 
-- <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2025+). "_Augmented transfer regression learning for handling completely missing covariates_".
+1. <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2025+). "_Augmented transfer regression learning for handling completely missing covariates_".
   - An earlier version won the **2025 IMS Hannan Graduate Student Travel Award**
 
-- **Wang, T.<span>&#x2709;</span>** (2025+). _"Optimal Conformal Prediction under Asymmetry: A Quantile Selection Approach"_.
+1. **Wang, T.<span>&#x2709;</span>** (2025+). _"Optimal Conformal Prediction under Asymmetry: A Quantile Selection Approach"_.
 
-- **Wang, T.<span>&#x2709;</span>**, Ma, Y., and Wei, Y. (2025+). _"Time-varying Quantile Regression with Multi-outcome Latent Groups"_.
+1. **Wang, T.<span>&#x2709;</span>**, Ma, Y., and Wei, Y. (2025+). _"Time-varying Quantile Regression with Multi-outcome Latent Groups"_.
 
-- <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2025+). ["_A simulation-free extrapolation method for misspecified models with errors-in-variables in epidemiological studies_"](https://arxiv.org/abs/2509.06118).
+1. <ins>Zhao, H.</ins> and **Wang, T.<span>&#x2709;</span>** (2025+). ["_A simulation-free extrapolation method for misspecified models with errors-in-variables in epidemiological studies_"](https://arxiv.org/abs/2509.06118).
 
-- Wang, F., Wang, C., **Wang, T.**, Masala, M., Fiorillo, E., Devoto, M., Cucca, F., Ionita-Laza, I. (2025+). ["_Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale_"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
+1. Wang, F., Wang, C., **Wang, T.**, Masala, M., Fiorillo, E., Devoto, M., Cucca, F., Ionita-Laza, I. (2025+). ["_Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale_"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
   
 
 ### 2025
 
-- Liu, Y. and **Wang, T.<span>&#x2709;</span>** (2025). ["_A powerful transformation of quantitative responses for biobank-scale association studies_"](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2540083), **_Journal of the American Statistical Association_** (accepted).
+1. Liu, Y. and **Wang, T.<span>&#x2709;</span>** (2025). ["_A powerful transformation of quantitative responses for biobank-scale association studies_"](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2540083), **_Journal of the American Statistical Association_** (accepted).
   
 - **Wang, T.<span>&#x2709;</span>**, Ionita-Laza, I., and Wei, Y. (2025). ["A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/A-unified-quantile-framework-for-nonlinear-heterogeneous-transcriptome-wide-associations/10.1214/24-AOAS1999.short), **_Annals of Applied Statistics_**, 19(2): 967-985.
   
