@@ -60,7 +60,7 @@ I view open science practices as an important way to increase access and partici
 <ol>
   <li value="11"><b>Wang, T.<span>&#x2709;</span></b>, Ionita-Laza, I., and Wei, Y. (2022). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Integrated-Quantile-RAnk-Test-iQRAT-for-gene-level-associations/10.1214/21-AOAS1548.short">“Integrated Quantile RAnk Test (iQRAT) for gene-level associations”</a>. <b><i>Annals of Applied Statistics</i></b>, 16(3), 1423–1444.</li>
   <li value="10"><b>Wang, T.</b>, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494">“Testing microbiome association using integrated quantile regression models”</a>. <b><i>Bioinformatics</i></b>, 38(2), 419–425.</li>
-  <li value="9">Houghton, L. C., Wei, Y., <b>Wang, T.</b>, et al. (2022). <a href="https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyac021/6528416">“Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study”</a>. <b><i>International Journal of Epidemiology</i></b>, 2022 Feb 14:dyac021. doi:10.1093/ije/dyac021.</li>
+  <li value="9">Houghton, L. C., Wei, Y., <b>Wang, T.</b>, Goldberg, M., Paniagua-Avila, A., Sweeden, R. L., Bradbury, A., Daly, M., Schwartz, L. A., Keegan, T., John, E. M., Knight, J. A., Andrulis, I. L., Buys, S. S., Frost, C. J., O&#39;Toole, K., White, M. L., Chung, W. K., and Terry, M. B. (2022). <a href="https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyac021/6528416">“Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study”</a>. <b><i>International Journal of Epidemiology</i></b>, 2022 Feb 14:dyac021. doi:10.1093/ije/dyac021. PMID: 35157067.</li>
 </ol>
 
 ### 2021
@@ -78,7 +78,3 @@ I view open science practices as an important way to increase access and partici
   <li value="2"><b>Wang, T.</b>, Yang, Y., and Tian, M. (2017). <a href="http://www.sltj.chinajournal.net.cn/WKB2/WebPublication/paperDigest.aspx?paperID=b60aaa1e-c54c-4e9f-9f37-7f742f25b4b1">“Tuning Parameter Selection in Adaptive LASSO for Quantile Regression with Panel Data”</a>. <b><i>Journal of Applied Statistics and Management</i></b>, 36(3): 429–440.</li>
   <li value="1">Yin, J., <b>Wang, T.</b>, and Wang, W. (2017). <a href="http://www.cnki.com.cn/Article/CJFDTotal-ZKZX201717001.htm">“Structure learning and parameter estimation on robust conditional graphical model”</a>. <b><i>China Science Paper</i></b>, 12(17): 1921–1929.</li>
 </ol>
-
-
-
-
