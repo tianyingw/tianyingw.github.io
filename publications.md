@@ -29,7 +29,7 @@ I view open science practices as an important way to increase access and partici
 
 ### 2025
 <ol>
-  <li value="29">Liu, Y. and <b>Wang, T.<span>&#x2709;</span></b> (2025). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2540083">“A powerful transformation of quantitative responses for biobank-scale association studies”</a>, <b><i>Journal of the American Statistical Association</i></b> (accepted).</li>
+  <li value="29">Liu, Y. and <b>Wang, T.<span>&#x2709;</span></b> (2025). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2540083">“A powerful transformation of quantitative responses for biobank-scale association studies”</a>, <b><i>Journal of the American Statistical Association</i></b>, accepted.</li>
   <li value="28"><b>Wang, T.<span>&#x2709;</span></b>, Ionita-Laza, I., and Wei, Y. (2025). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/A-unified-quantile-framework-for-nonlinear-heterogeneous-transcriptome-wide-associations/10.1214/24-AOAS1999.short">“A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations”</a>, <b><i>Annals of Applied Statistics</i></b>, 19(2): 967–985.</li>
   <li value="27"><ins>Wang, Z.</ins>, Ling, W., and <b>Wang, T.<span>&#x2709;</span></b> (2025). <a href="https://doi.org/10.1093/biomtc/ujaf050">“A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data”</a>, <b><i>Biometrics</i></b>, 81(2), ujaf050.</li>
   <li value="26"><b>Wang, T.<span>&#x2709;</span></b> (2025). <i>“Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression,”</i> <b><i>Big Data Analysis, Biostatistics and Bioinformatics</i></b> (Eds. Chen, D. and Zhao, Y.), Springer, New York, in press.</li>
