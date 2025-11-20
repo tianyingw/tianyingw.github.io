@@ -33,7 +33,7 @@ title: About me
 
        
    - _Ph.D. (2014-2018)_, Department of Statistics, Texas A&M University   
-       - Advisors: [Dr. Raymond J. Carroll](https://www.stat.tamu.edu/~carroll/) and [Dr. Irina Gaynanova](https://irinagain.github.io/)       
+       - Advisors: [Dr. Raymond J. Carroll](https://carroll.stat.tamu.edu/) and [Dr. Irina Gaynanova](https://irinagain.github.io/)       
 
          
    - _B.S. (2010-2014)_, School of Statistics, Renmin University of China  
