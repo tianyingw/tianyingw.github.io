@@ -16,6 +16,8 @@ Below are some selected papers.
 </p>
 
 ### Quantile Regression Models 
+<img align="center" src="/img/comic_quantile_regression.jpg" alt="" width="700">
+
 
 - **Wang, T.<span>&#x2709;</span>**, Ma, Y, and Wei, Y. (2025+). _"Time-varying Quantile Regression with Multi-outcome Latent Groups"_, under review.
 - <ins>Jiang, R.</ins>, and **Wang, T.<span>&#x2709;</span>** (2025+). _"A Minimax Optimal Quantile Rank Score Test"_, under review.
@@ -25,6 +27,7 @@ Below are some selected papers.
 - **Wang, T.**, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). ["Testing microbiome association using integrated quantile regression models"](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494). **_Bioinformatics_**, 38(2), 419-425. 
 
 ### Measurement Errors Analysis
+<img align="center" src="/img/comic_measurement_error.jpg" alt="" width="700">
 
 - <ins>Zhao, H.</ins>, and **Wang, T.<span>&#x2709;</span>** (2025+). _"A simulation-free extrapolation method for misspecified models with errors-in-variables"_, under review.
 - Li, Y., **Wang, T.<span>&#x2709;</span>**, Yan, J., and Zhang, X. (2025). _"Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming"_,  **_Journal of Climate_**, 38(8), 1779-1790.
