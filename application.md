@@ -13,6 +13,8 @@ Below are some selected papers.
 </p>
 
 ### Statistical Genetics
+<img align="center" src="/img/comic_genetic_association.jpeg" alt="" width="700">
+
 - Liu, Y. and **Wang, T.<span>&#x2709;</span>** (2025+). _"A powerful transformation of quantitative responses for biobank-scale association studies"_, under review.
 - <ins>Jiang, R.</ins>, and **Wang, T.<span>&#x2709;</span>** (2025+). _"A Minimax Optimal Quantile Rank Score Test"_, under review.
 - **Wang, T.<span>&#x2709;</span>**, Ionita-Laza, I., and Wei, Y. (2024). ["A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations"](https://arxiv.org/abs/2207.12081), **_Annals of Applied Statistics_**, accepted.
