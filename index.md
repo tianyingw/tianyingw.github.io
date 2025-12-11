@@ -23,7 +23,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 ### News:
 
-- **November 2025**: Our paper on ["Computationally efficient whole-genome quantile regression at biobank scale"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf) is accepted by **_Proceedings of the National Academy of Sciences (PNAS)_**.
+- **November 2025**: Our paper on ["Computationally efficient whole-genome quantile regression at biobank scale"](https://www.pnas.org/doi/epdf/10.1073/pnas.2513007122) is accepted by **_Proceedings of the National Academy of Sciences (PNAS)_**.
 
 - **November 2025**: Our paper on _"TCVS: Tree-guided compositional variable selection analysis of microbiome data"_ is accepted by **_Bioinformatics_**.
   
