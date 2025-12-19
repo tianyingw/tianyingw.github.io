@@ -13,7 +13,7 @@ Below are some selected papers.
 </p>
 
 ### Statistical Genetics
-<img align="center" src="/img/comic_genetic_association.jpeg" alt="" width="700">
+<img align="center" src="/img/comic_quantile_regression.jpeg" alt="" width="700">
 
 - Liu, Y. and **Wang, T.<span>&#x2709;</span>** (2025+). _"A powerful transformation of quantitative responses for biobank-scale association studies"_, under review.
 - <ins>Jiang, R.</ins>, and **Wang, T.<span>&#x2709;</span>** (2025+). _"A Minimax Optimal Quantile Rank Score Test"_, under review.
