@@ -16,7 +16,7 @@ Below are some selected papers.
 </p>
 
 ### Quantile Regression Models 
-<img align="center" src="/img/comic_quantile_regression.jpeg" alt="" width="700">
+<img align="center" src="/img/comic_genetic_association.jpeg" alt="" width="700">
 
 
 - **Wang, T.<span>&#x2709;</span>**, Ma, Y, and Wei, Y. (2025+). _"Time-varying Quantile Regression with Multi-outcome Latent Groups"_, under review.
