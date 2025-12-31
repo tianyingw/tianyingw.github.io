@@ -21,7 +21,8 @@ I view open science practices as an important way to increase access and partici
   <li value="33"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Augmented transfer regression learning for handling completely missing covariates”.</i>
     <ul><li>An earlier version won the <b>2025 IMS Hannan Graduate Student Travel Award</b></li></ul>
   </li>
-  <li value="32"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Optimal Conformal Prediction under Asymmetry: A Quantile Selection Approach”.</i></li>
+  <li value="32"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Optimal conformalized quantile regression via adaptive quantile selection”.</i></li>
+  <li value="33"><ins>Wang, Y.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Multi-Group Quadratic Discriminant Analysis via Projection”.</i></li>
   <li value="31"><b>Wang, T.<span>&#x2709;</span></b>, Ma, Y., and Wei, Y. (2026+). <i>“Time-varying Quantile Regression with Multi-outcome Latent Groups”.</i>
     <ul><li>An earlier version received <b>First Place</b> in the <b>ARISE (Aging Research – Innovations in Statistical Exploration) 2025 Webinar Series</b> hosted by the ASA Statistics and Data Science in Aging (SDSA) group</li></ul>
   </li>
