@@ -32,7 +32,7 @@ I view open science practices as an important way to increase access and partici
 
 ### 2026
 <ol>
- <li value="30"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Doubly robust transfer learning under sub-group shift for cohort-Level missing indicator covariates”</i>, <b><i>Statistica Sinica</i></b>, accepted.</li>
+ <li value="30"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates”</i>, <b><i>Statistica Sinica</i></b>, accepted.</li>
    
 </ol>
 
