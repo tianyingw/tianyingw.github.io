@@ -30,6 +30,11 @@ I view open science practices as an important way to increase access and partici
 
 </ol>
 
+### 2026
+<ol>
+ <li value="33"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Doubly robust transfer learning under sub-group shift for cohort-Level missing indicator covariates”</i>, <b><i>Statistica Sinica</i></b>, accepted.</li>
+   
+</ol>
 ### 2025
 <ol>
   <li value="29">Liu, Y. and <b>Wang, T.<span>&#x2709;</span></b> (2025). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2540083">“A powerful transformation of quantitative responses for biobank-scale association studies”</a>, <b><i>Journal of the American Statistical Association</i></b>, 1–12.</li>
