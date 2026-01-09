@@ -22,8 +22,10 @@ Colorado 80523-1877
 I am actively looking for undergraduate and graduate students to work on fun research projects together!
 
 ### News:
+- **January 2026**: Our paper on "_Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates_" is accepted by **_Statistica Sinica_**.
 
 - **December 2025**: Tianying received **_First Place_** in the **_ARISE (Aging Research – Innovations in Statistical Exploration) 2025 Webinar Series_** hosted by the ASA Statistics and Data Science in Aging (SDSA) group.
+  
 - **November 2025**: Our paper on ["Computationally efficient whole-genome quantile regression at biobank scale"](https://www.pnas.org/doi/epdf/10.1073/pnas.2513007122) is accepted by **_Proceedings of the National Academy of Sciences (PNAS)_**.
 
 - **November 2025**: Our paper on ["TCVS: Tree-guided compositional variable selection analysis of microbiome data"](https://doi.org/10.1093/bioinformatics/btaf617) is accepted by **_Bioinformatics_**.
