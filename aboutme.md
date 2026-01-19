@@ -7,13 +7,14 @@ title: About me
   <img src="/img/TianyingWang.jpg" alt="" width="350">
 </div>
 
-### Research Interests:
+### Research Interests
    - Quantile Regression
    - Measurement Error and Missing/Censored Data Analysis
    - High Dimensional Statistics
    - Nonparametric and Semiparametric Statistics
+   - Transfer Learning and Conformal Prediction
 
-### Professional Experience:
+### Employment
 
    - 2023-Now, Assistant Professor, _Department of Statistics, Colorado State University_
    
@@ -29,7 +30,7 @@ title: About me
    - 2024-Now, Adjoint Assistant Professor (courtesy appointment), _Department of Biostatistics and Informatics, Colorado School of Public Health_
      
 
-### Education and Training:
+### Education and Training
 
    - _Postdoc (2018-2020)_, Department of Biostatistics, Columbia University
      - Supervisors: [Dr. Ying Wei](https://yingweistat.com/) and [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
@@ -42,7 +43,7 @@ title: About me
    - _B.S. (2010-2014)_, School of Statistics, Renmin University of China  
 
  
-### Fun Facts:
+### Fun Facts
 
   - I love baking (check [my Instagram](https://tianyingw.github.io/Instagram/)) and hiking (check [hiking in Fort Collins, Colorado](https://tianyingw.github.io/hiking/)).  
   - I enjoy scuba diving and am certified as an Advanced Open Water diver.
