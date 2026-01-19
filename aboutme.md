@@ -13,18 +13,21 @@ title: About me
    - High Dimensional Statistics
    - Nonparametric and Semiparametric Statistics
 
-### Work Experience:
+### Professional Experience:
 
    - 2023-Now, Assistant Professor, _Department of Statistics, Colorado State University_
-     
-   - 2024-Now, Affiliate, _Data Science Research Institute, Colorado State University_
-     
-   - 2024-Now, Adjunct Assistant Professor, _Department of Biostatistics and Informatics, Colorado School of Public Health_
    
    - 2023, Associate Professor, _Center for Statistical Science, Tsinghua University_
         
-   - 2020-2023, Assistant Professor, _Center for Statistical Science, Tsinghua University_         
-       
+   - 2020-2023, Assistant Professor, _Center for Statistical Science, Tsinghua University_
+     
+
+### Affiliations and Courtesy Appointments
+
+   - 2024-Now, Faculty Affiliate, _Data Science Research Institute, Colorado State University_
+     
+   - 2024-Now, Adjoint Assistant Professor (courtesy appointment), _Department of Biostatistics and Informatics, Colorado School of Public Health_
+     
 
 ### Education and Training:
 
