@@ -5,6 +5,8 @@ title: R
 
 ### Developed and maintained:
 
+   - [DRTL-comb](https://github.com/tianyingw/DRTL-comb): We provide the R package for a double robust transfer learning framework for missing binary covariates.
+
    - [ZIQ-SIR](https://github.com/tianyingw/ZIQ-SIR): We provide the R code for a semiparametric quantile rank score test for zero-inflated data.
 
    - [ZIQSI](https://github.com/tianyingw/ZIQSI): This R package is designed to provide advanced statistical tools for quantile curve fitting and average quantile effect calculation via a quantile single index model.
