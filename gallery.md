@@ -16,7 +16,8 @@ Research opportunities are open to highly motivated students. Interested individ
 
 - **Summary:** Using camera trap detections and paired berry surveys collected in the Methow Valley (May–Oct 2024), this project explored how bear detections relate to environmental and human factors. The student conducted exploratory analyses and correlation screening, then compared a multiple linear regression model for monthly detection counts with a Poisson generalized linear mixed model (effort offset and site-level random intercept). The analysis highlights consistent associations of bear detections with proximity to development and serviceberry abundance, and a pronounced seasonal pattern (July vs June).
 
-- **Note:** Project report ([PDF](https://www.dropbox.com/scl/fi/2ux21xy8ksucfwqjfe1jy/Honors-Project-Danielle-Terry.pdf?rlkey=646x339s23fb9ctbp6cse06lz&st=gc17ye0w&dl=0)) 
+- **Note:** Project report ([PDF](https://www.dropbox.com/scl/fi/2ux21xy8ksucfwqjfe1jy/Honors-Project-Danielle-Terry.pdf?rlkey=646x339s23fb9ctbp6cse06lz&st=gc17ye0w&dl=0))
+  
 -------------------------------------------------------------
 
 ## Handling Missing Data in Cancer Cell Line Datasets
