@@ -803,3 +803,16 @@ td.gutter {
     font-size: 26px;
   }
 }
+
+/* --- Reduce the big page title size --- */
+@media only screen and (min-width: 768px) {
+  .intro-header .page-heading h1 {
+    font-size: 56px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .intro-header .page-heading h1 {
+    font-size: 60px;
+  }
+}
