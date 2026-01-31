@@ -791,3 +791,15 @@ td.gutter {
     width: 1500px;
   }
 }
+/* --- Slightly smaller section headings on large screens --- */
+@media (min-width: 992px) {
+  h2, .h2 {
+    font-size: 28px;
+  }
+}
+
+@media (min-width: 1200px) {
+  h2, .h2 {
+    font-size: 26px;
+  }
+}
