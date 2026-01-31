@@ -8,11 +8,10 @@ title: About me
 </div>
 
 ### Research Interests
-   - Quantile Regression
-   - Measurement Error and Missing/Censored Data Analysis
-   - High Dimensional Statistics
-   - Nonparametric and Semiparametric Statistics
-   - Transfer Learning and Conformal Prediction
+   - Distribution shift, robust learning, and uncertainty quantification
+   - Quantile and distributional modeling for heterogeneity, with applications in statistical genetics
+   - Scalable inference for biobank-scale studies
+
 
 ### Employment
 
