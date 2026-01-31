@@ -19,6 +19,7 @@ My current research program is organized around two main methodological themes, 
 
 ## Distribution shift, robust learning, and uncertainty quantification
 
+
 - <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Optimal conformalized quantile regression via adaptive quantile selection”.</i> under review.
 - <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Support-constrained quantile alignment for learning Berkson measurement error models”.</i> under review.
 - <ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Augmented transfer regression learning for handling completely missing covariates”.</i> under review.
@@ -28,6 +29,7 @@ My current research program is organized around two main methodological themes, 
 ---
 
 ## Quantile-based modeling and heterogeneity in statistical genetics
+
 
 - <b>Wang, T.<span>&#x2709;</span></b>, Ionita-Laza, I., and Wei, Y. (2025). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/A-unified-quantile-framework-for-nonlinear-heterogeneous-transcriptome-wide-associations/10.1214/24-AOAS1999.short"><i>“A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations”</i></a>, <b><i>Annals of Applied Statistics</i></b>, 19(2): 967–985.
 - <b>Wang, T.<span>&#x2709;</span></b>, Ionita-Laza, I., and Wei, Y. (2022). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Integrated-Quantile-RAnk-Test-iQRAT-for-gene-level-associations/10.1214/21-AOAS1548.short"><i>“Integrated Quantile RAnk Test (iQRAT) for gene-level associations”</i></a>, <b><i>Annals of Applied Statistics</i></b>, 16(3), 1423–1444.
