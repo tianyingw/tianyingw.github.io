@@ -8,7 +8,7 @@ My research develops statistical methodology for reliable inference and uncertai
 </p>
 
 <p align="justify">
-My current research program is organized around two main methodological directions, together with a bridging line of work on scalable inference for biobank-scale studies. Selected papers are listed below. Full list is on the [Publications page](https://tianyingw.github.io/publications/).
+My current research program is organized around two main methodological directions, together with a bridging line of work on scalable inference for biobank-scale studies. Selected papers are listed below. For a complete and up-to-date list of publications, please refer to the <a href="https://tianyingw.github.io/publications/">Publications page</a>.
 </p>
 
 <p align="justify">
