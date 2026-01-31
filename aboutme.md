@@ -11,6 +11,8 @@ title: About me
    - Distribution shift, robust learning, and uncertainty quantification
    - Quantile and distributional modeling for heterogeneity, with applications in statistical genetics
    - Scalable inference for biobank-scale studies
+   - Measurement error and missing data
+   - High-dimensional and semiparametric methods
 
 
 ### Employment
