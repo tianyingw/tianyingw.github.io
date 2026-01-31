@@ -6,7 +6,7 @@ title: Publications
 **[My Google Scholar](https://scholar.google.com/citations?user=YKB6YmgAAAAJ&hl=en&oi=ao)**
 
 <p align="justify">
-With the increasingly large and complex data generated and the need to be analyzed, statistics is highly interdisciplinary and rapidly expanding among the sciences. My career goal includes developing state-of-the-art statistical and machine learning methods for solving data-driven problems, advancing statistical theory in the emerging field of data science, and harnessing real-world evidence for decision-making and precision medicine. My primary research is centered around developing statistical theories and methodologies to promote statistical learning in complex data, especially on data heterogeneity and measurement errors. Much of my methodology research applies to genetic and genomic data analysis, microbiome data analysis, epidemiologic research, and environmental statistics. 
+I develop statistical methodology for reliable inference and uncertainty quantification in complex biomedical data. My work is motivated by settings where distribution shift, outcome heterogeneity, and imperfect measurements are unavoidable, including statistical genetics and genomics, epidemiology, electronic health records, and related applications. Methodologically, I focus on distributional and quantile-based modeling, robust learning under shift, and debiasing ideas from measurement error analysis, with an emphasis on interpretability and scalability.
 </p>
 
 I view open science practices as an important way to increase access and participation in academic research. Please check all open-source software related to my articles [here](https://tianyingw.github.io/software/). 
