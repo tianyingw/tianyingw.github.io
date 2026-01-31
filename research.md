@@ -4,12 +4,13 @@ title: Statistical Methodology
 ---
 
 <p align="justify">
-My research develops statistical methods to address fundamental data challenges, including heterogeneity, measurement errors, missingness, and zero-inflation. These challenges commonly arise in fields such as genomics, epidemiology, and electronic health records, where conventional statistical models often fall short.
-
-To tackle these issues, I build on and extend methodologies and theories in quantile regression, machine learning, and debiasing techniques from measurement error analysis. My goal is to create robust, interpretable, and computationally efficient approaches that enhance inference and prediction in complex data environments.
-
-Below are some selected papers.
+My research develops statistical methodology for reliable inference and uncertainty quantification in complex biomedical data, where distribution shift, outcome heterogeneity, and imperfect measurements are unavoidable. I focus on methods that are robust, interpretable, and computationally scalable, motivated by problems in statistical genetics, genomics, epidemiology, and electronic health records.
 </p> 
+
+<p align="justify">
+A central theme is to understand and leverage distributional structure, rather than focusing only on mean effects. Methodologically, I build on quantile and distributional modeling, robust learning under shift, and debiasing ideas from measurement error analysis. The selected papers below are organized by two research thrusts, followed by supporting themes.
+</p>
+
 
 <p align="justify">
 <ins>underline</ins> indicates a student working under my (co)supervision, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
