@@ -3,14 +3,33 @@ layout: page
 title: Invited Talks
 ---
 
+## 2026 ##
+
+59. SLDS 2026 Conference, New York, NY (11/2026)
+    
+58. 14th International Conference on Intelligent Biology and Medicine (ICIBM 2026), Buffalo, NY (08/2026)
+    
+57. Sixth International Workshop on Statistical Analyses of Multi-Outcome Data, Bordeaux, France (06/2026)
+    
+56. Department of Statistics, Iowa State University, Ames, IA (04/2026)
+    
+55. Department of Biostatistics, Epidemiology and Informatics, University of Pennsylvania, Philadelphia, PA (03/2026)
+
+
+
 ## 2025 ##
-52. Department of Mathematics and Statistics, University of New Hampshire, Durham, NH (09/2025)
 
-51. Joint Statistical Meetings, Nashville, TN (08/2025)
+54. Aging Research - Innovations in Statistical Exploration Webinar Series, hosted by ASA Statistics and Data Science in Aging (08/2025)
 
-50. STATGEN 2025, Minneapolis, MN (05/2025)
+53. The 8th International Conference on Econometrics and Statistics (EcoSta 2025), Tokyo (08/2025)
 
-49. Department of Applied Mathematics, Illinois Institute of Technology, Chicago, IL (04/2025)
+52. Joint Statistical Meetings, Nashville, TN (08/2025)
+
+51. STATGEN 2025, Minneapolis, MN (05/2025)
+
+50. Department of Applied Mathematics, Illinois Institute of Technology, Chicago, IL (04/2025)
+
+49. The 21st Annual Meeting of the MidSouth Computational Biology and Bioinformatics Society: Data-Driven Discovery: Harnessing the power of AI to transform health, Salt Lake City, UT (03/2025)
 
 ## 2024 ##
 
