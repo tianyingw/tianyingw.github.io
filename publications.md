@@ -18,6 +18,7 @@ I view open science practices as an important way to increase access and partici
 
 ### Under Review
 <ol>
+  <li value="30"><ins>Zhao, H.</ins>, <b>Liu, M.<span>&#x2709;</span></b> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <i>“A Data Fusion Framework for Errors-in-Variables”</i>.
   <li value="36"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Augmented transfer regression learning for handling completely missing covariates”.</i>
     <ul><li>An earlier version won the <b>2025 IMS Hannan Graduate Student Travel Award</b></li></ul>
   </li>
