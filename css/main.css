@@ -819,8 +819,8 @@ td.gutter {
 
 /* 只作用在 publication 列表 */
 ol.pub-list > li {
-  line-height: 1.55;        /* 1) 每条内部换行的行距 */
-  margin-bottom: 0.65rem;   /* 2) 条目与条目之间的间距 */
+  line-height: 1.5;        /* 1) 每条内部换行的行距 */
+  margin-bottom: 0.8rem;   /* 2) 条目与条目之间的间距 */
 }
 
 /* 最后一条不需要额外空白的话可以加 */
