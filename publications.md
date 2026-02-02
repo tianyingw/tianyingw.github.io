@@ -19,16 +19,23 @@ I view open science practices as an important way to increase access and partici
 ### Under Review
 <ol>
   <li value="38"><ins>Zhao, H.</ins>, Liu, M.<span>&#x2709;</span>, and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“A Data Fusion Framework for Errors-in-Variables”.</i></li>
+  
   <li value="37"><ins>Li, Z.<sup><span>&#9830;</span></sup></ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Tree-aggregated regression for compositional data with measurement errors”.</i></li>
+  
   <li value="36"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Augmented transfer regression learning for handling completely missing covariates”.</i>
     <ul><li>An earlier version won the <b>2025 IMS Hannan Graduate Student Travel Award</b></li></ul>
   </li>
+  
   <li value="35"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Optimal conformalized quantile regression via adaptive quantile selection”.</i></li>
+  
   <li value="34"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Support-constrained quantile alignment for learning berkson measurement error models”.</i></li>
+  
   <li value="33"><ins>Wang, Y.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2601.05415"><i>“Multi-Group Quadratic Discriminant Analysis via Projection”.</i></a></li>
+  
   <li value="32"><b>Wang, T.<span>&#x2709;</span></b>, Ma, Y., and Wei, Y. (2026+). <i>“Time-varying Quantile Regression with Multi-outcome Latent Groups”.</i>
     <ul><li>An earlier version received <b>First Place</b> in the <b>ARISE (Aging Research – Innovations in Statistical Exploration) 2025 Webinar Series</b> hosted by the ASA Statistics and Data Science in Aging (SDSA) group</li></ul>
   </li>
+  
   <li value="31"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2509.06118"><i>“A simulation-free extrapolation method for misspecified models with errors-in-variables in epidemiological studies”</i></a>.</li>
 
 </ol>
