@@ -816,3 +816,26 @@ td.gutter {
     font-size: 60px;
   }
 }
+
+/* 只作用在 publication 列表 */
+ol.pub-list > li {
+  line-height: 1.45;        /* 1) 每条内部换行的行距 */
+  margin-bottom: 0.55rem;   /* 2) 条目与条目之间的间距 */
+}
+
+/* 最后一条不需要额外空白的话可以加 */
+ol.pub-list > li:last-child {
+  margin-bottom: 0;
+}
+
+/* 处理你每条下面的子 bullet 说明 */
+ol.pub-list > li > ul {
+  margin-top: 0.25rem;      /* 主条目和子说明之间的距离 */
+  margin-bottom: 0.15rem;
+}
+
+/* 子 bullet 本身行距和条目间距 */
+ol.pub-list > li > ul > li {
+  line-height: 1.35;
+  margin-bottom: 0.15rem;
+}
