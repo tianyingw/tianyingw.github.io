@@ -18,8 +18,6 @@ title: About me
 ### Employment
 
    - 2023-Now, Assistant Professor, _Department of Statistics, Colorado State University_
-   
-   - 2023, Associate Professor, _Center for Statistical Science, Tsinghua University_
         
    - 2020-2023, Assistant Professor, _Center for Statistical Science, Tsinghua University_
      
