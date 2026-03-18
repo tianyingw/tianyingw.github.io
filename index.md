@@ -22,7 +22,9 @@ Colorado 80523-1877
 I am actively looking for undergraduate and graduate students to work on fun research projects together!
 
 ### News:
-- **January 2026**: Our paper on "_Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates_" is accepted by **_Statistica Sinica_**.
+- **March 2026**: Our paper on ["Multi-Group Quadratic Discriminant Analysis via Projection"](https://arxiv.org/abs/2601.05415) is accepted by the **_Journal of Computational and Graphical Statistics_**.
+
+- **January 2026**: Our paper on ["Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0245_na.pdf) is accepted by **_Statistica Sinica_**.
 
 - **December 2025**: Tianying received **_First Place_** in the **_ARISE (Aging Research – Innovations in Statistical Exploration) 2025 Webinar Series_** hosted by the ASA Statistics and Data Science in Aging (SDSA) group.
   
