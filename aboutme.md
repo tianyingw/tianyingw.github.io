@@ -7,6 +7,13 @@ title: About me
   <img src="/img/TianyingWang.jpg" alt="" width="350">
 </div>
 
+<p>
+  <a href="https://edu.google.accredible.com/23cefe62-34e0-4ed7-8b61-c216ea85f68d#acc.j9zmElsr" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/img/google-educator-badge.png" alt="Google Certified Educator Level 2 badge" width="120">
+  </a>
+</p>
+
+
 ### Research Interests
    - Distribution shift, robust learning, and uncertainty quantification
    - Quantile and distributional modeling for heterogeneity, with applications in statistical genetics
@@ -14,6 +21,12 @@ title: About me
    - Measurement error and missing data
    - High-dimensional and semiparametric methods
 
+<li>
+  <strong>Google Certified Educator Level 1</strong>, Google for Education, 2026.
+  <a href="https://edu.google.accredible.com/23cefe62-34e0-4ed7-8b61-c216ea85f68d#acc.j9zmElsr" target="_blank" rel="noopener noreferrer">
+    Verified credential
+  </a>
+</li>
 
 ### Employment
 
