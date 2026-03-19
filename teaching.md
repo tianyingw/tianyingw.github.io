@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 <p align="justify">
-I am committed to providing an ear and a voice to all students with respect to Inclusion, Diversity, Belonging, and Equity and to achieving a culture that lives up to the definition of these words. 
+I am committed to fostering a respectful and supportive learning environment in which all students can participate fully and thrive. I also hold the <a href="https://edu.google.accredible.com/23cefe62-34e0-4ed7-8b61-c216ea85f68d#acc.j9zmElsr" target="_blank" rel="noopener noreferrer">Google Certified Educator Level 1</a> credential.
 </p>
 
 If you have any questions, comments, or suggestions, you are more than welcome to let me know by filling out this (anonymous) [survey](https://forms.gle/DKevoT48aB4gczhq6) or [scheduling an appointment](mailto:tianyingw@tsinghua.edu.cn) for my office hour.
