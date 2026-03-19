@@ -13,15 +13,15 @@ If you have any questions, comments, or suggestions, you are more than welcome t
 ## Courses taught at Colorado State University
 ------------------------------------------------------
 
-### STAR 511: Design and Data Analysis for Researchers I (Fall 2023, Spring 2024, Fall 2024, Spring 2025)
+- **STAR 511: Design and Data Analysis for Researchers I** (Fall 2023, Spring 2024, Fall 2024, Spring 2025)
   - Graduate-level;
   - Probability distributions, inferences about population mean and variances, multiple comparisons, categorical data analysis, linear regression and correlation, etc.
 
-### STAT 341: Statistical Data Analysis I (Fall 2025)
+- **STAT 341: Statistical Data Analysis I** (Fall 2025)
   - Undergraduate-level;
   - Simple linear regression, multiple linear regression, etc.
 
-### DSCI 336: Data Graphics and Visualization (Spring 2026)
+- **DSCI 336: Data Graphics and Visualization** (Spring 2026)
   - Undergraduate-level;
   - Data visualization using ggplot and related R packages.
 
@@ -29,23 +29,23 @@ If you have any questions, comments, or suggestions, you are more than welcome t
 ## Courses taught at Tsinghua University
 ------------------------------------------------------
 
-### Advanced Statistical Methods (Fall 2022)
+- **Advanced Statistical Methods** (Fall 2022)
   - Graduate-level (Ph.D., required for qualifying exam); taught in English;
   - Linear mixed model, GLM,  MLE, ANOVA,  survival analysis, etc.
 
-### Introduction to Biostatistics (Spring 2022, Spring 2023)
+- **Introduction to Biostatistics** (Spring 2022, Spring 2023)
    - Undergraduate-level; taught in English;
    - ANOVA, categorical data analysis, survival analysis, design and analysis of clinical trials, etc.
 
-### Advanced Topics in Statistics IV: Statistical Genetics (Spring 2022)
+- **Advanced Topics in Statistics IV: Statistical Genetics** (Spring 2022)
   - Graduate-level (Ph.D.); taught in English & Mandarin;
   - Genome-wide association analysis, functional genomics, integration of functional genomics and genetic data, gene-environment interactions, single cell transcriptomics, deep learning for regulatory genomics, etc.
 
-### High Dimensional Statistics (Fall 2021)
+- **High Dimensional Statistics** (Fall 2021)
   - Graduate-level (Ph.D.); taught in English;
   - Optimization theory, LASSO and generalizations of the LASSO penalty, theory for LASSO prediction and variable selection consistency, etc.
 
-### Multivariate Statistical Analysis (Spring 2021)
+- **Multivariate Statistical Analysis** (Spring 2021)
   - Undergraduate-level; taught in English & Mandarin;
   - Matrix algebra, multivariate normal distribution, principal component analysis, discriminant analysis, factor analysis, canonical corelation analysis
   
