@@ -13,10 +13,19 @@ If you have any questions, comments, or suggestions, you are more than welcome t
 ## Courses taught at Colorado State University
 ------------------------------------------------------
 
-### STAR 511: Design and Data Analysis for Researchers I (Fall 2023)
+### STAR 511: Design and Data Analysis for Researchers I (Fall 2023, Spring 2024, Fall 2024, Spring 2025)
   - Graduate-level;
   - Probability distributions, inferences about population mean and variances, multiple comparisons, categorical data analysis, linear regression and correlation, etc.
 
+### STAT 341: Statistical Data Analysis I (Fall 2025)
+  - Undergraduate-level;
+  - Simple linear regression, multiple linear regression, etc.
+
+### DSCI 336: Data Graphics and Visualization (Spring 2026)
+  - Undergraduate-level;
+  - Data visualization using ggplot and related R packages.
+
+    
 ## Courses taught at Tsinghua University
 ------------------------------------------------------
 
