@@ -5,13 +5,15 @@ title: Invited Talks
 
 ## 2026 ##
 
-59\. SLDS 2026 Conference, New York, NY (11/2026)
+60\. SLDS 2026 Conference, New York, NY (11/2026)
     
-58\. 14th International Conference on Intelligent Biology and Medicine (ICIBM 2026), Buffalo, NY (08/2026)
+59\. 14th International Conference on Intelligent Biology and Medicine (ICIBM 2026), Buffalo, NY (08/2026)
     
-57\. Sixth International Workshop on Statistical Analyses of Multi-Outcome Data, Bordeaux, France (06/2026)
+58\. Sixth International Workshop on Statistical Analyses of Multi-Outcome Data, Bordeaux, France (06/2026)
     
-56\. Department of Statistics, Iowa State University, Ames, IA (04/2026)
+57\. Department of Statistics, Iowa State University, Ames, IA (04/2026)
+
+56\. Department of Mathematics and Statistics, University of New Hampshire, Durham, NH (04/2026)
     
 55\. Department of Biostatistics, Epidemiology and Informatics, University of Pennsylvania, Philadelphia, PA (03/2026)
 
