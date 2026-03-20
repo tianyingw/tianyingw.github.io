@@ -13,7 +13,7 @@ title: Teaching
     <img
       src="img/google-certified-educator-level2.png"
       alt="Google for Education Certified Educator Level 2 badge"
-      style="height:70px; width:auto; vertical-align:middle;"
+      style="height:70px; width:auto; vertical-align:bottom;"
     >
   </a>
 </p>
