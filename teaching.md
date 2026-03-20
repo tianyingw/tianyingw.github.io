@@ -4,16 +4,9 @@ title: Teaching
 ---
 
 <p>
+     <img src="img/google-certified-educator-level2.png" alt="Google for Education Certified Educator Level 2 badge" style="height:240px;">
 I am committed to fostering a respectful and supportive learning environment in which all students can participate fully and thrive. As part of my ongoing teaching development, I have earned the <a href="https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX" target="_blank" rel="noopener noreferrer">Google for Education Certified Educator Level 2</a> credential.
 </p>
-
-<p>
-    <img src="img/google-certified-educator-level2.png" alt="Google for Education Certified Educator Level 2 badge" style="height:240px;">
-  </a>
-</p>
-
-
-https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX
 
 If you have any questions, comments, or suggestions, you are more than welcome to let me know by filling out this (anonymous) [survey](https://forms.gle/DKevoT48aB4gczhq6) or [scheduling an appointment](mailto:tianyingw@tsinghua.edu.cn) for my office hour.
 
