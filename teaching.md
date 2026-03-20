@@ -3,16 +3,22 @@ layout: page
 title: Teaching
 ---
 
-<p style="overflow:auto;">
-  <a href="https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX" target="_blank" rel="noopener noreferrer">
-    <img
-      src="img/google-certified-educator-level2.png"
-      alt="Google for Education Certified Educator Level 2 badge"
-      style="float:right; height:240px; margin-left:20px; margin-bottom:10px;"
-    >
-  </a>
-  I am committed to fostering a respectful and supportive learning environment in which all students can participate fully and thrive. As part of my ongoing teaching development, I have earned the <a href="https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX" target="_blank" rel="noopener noreferrer">Google for Education Certified Educator Level 2</a> credential.
-</p>
+<div style="display:flex; align-items:flex-start; gap:20px;">
+  <div style="flex:1;">
+    <p>
+      I am committed to fostering a respectful and supportive learning environment in which all students can participate fully and thrive. As part of my ongoing teaching development, I have earned the <a href="https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX" target="_blank" rel="noopener noreferrer">Google for Education Certified Educator Level 2</a> credential.
+    </p>
+  </div>
+  <div style="flex:0 0 auto;">
+    <a href="https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX" target="_blank" rel="noopener noreferrer">
+      <img
+        src="img/google-certified-educator-level2.png"
+        alt="Google for Education Certified Educator Level 2 badge"
+        style="height:240px;"
+      >
+    </a>
+  </div>
+</div>
 
 If you have any questions, comments, or suggestions, you are more than welcome to let me know by filling out this (anonymous) [survey](https://forms.gle/DKevoT48aB4gczhq6) or [scheduling an appointment](mailto:tianyingw@tsinghua.edu.cn) for my office hour.
 
