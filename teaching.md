@@ -8,14 +8,14 @@ title: Teaching
   <a href="https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX" target="_blank" rel="noopener noreferrer">
     Google for Education Certified Educator Level 2
   </a>
-  <a href="https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX" target="_blank" rel="noopener noreferrer">
+  credential
+  <a href="https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-left:6px; vertical-align:middle;">
     <img
       src="img/google-certified-educator-level2.png"
       alt="Google for Education Certified Educator Level 2 badge"
-      style="height:28px; vertical-align:middle; margin-left:8px;"
+      style="height:18px; width:auto; vertical-align:middle;"
     >
-  </a>
-  credential.
+  </a>.
 </p>
 
 If you have any questions, comments, or suggestions, you are more than welcome to let me know by filling out this (anonymous) [survey](https://forms.gle/DKevoT48aB4gczhq6) or [scheduling an appointment](mailto:Tianying.Wang@colostate.edu) for my office hour.
