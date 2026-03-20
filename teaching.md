@@ -4,18 +4,19 @@ title: Teaching
 ---
 
 <p>
-  I am committed to fostering a respectful and supportive learning environment in which all students can participate fully and thrive. As part of my ongoing teaching development, I have earned the <a href="https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX" target="_blank" rel="noopener noreferrer">Google for Education Certified Educator Level 2</a> credential.
-</p>
-
-<div style="text-align:right; margin-top:6px; margin-bottom:10px;">
+  I am committed to fostering a respectful and supportive learning environment in which all students can participate fully and thrive. As part of my ongoing teaching development, I have earned the
+  <a href="https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX" target="_blank" rel="noopener noreferrer">
+    Google for Education Certified Educator Level 2
+  </a>
   <a href="https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX" target="_blank" rel="noopener noreferrer">
     <img
       src="img/google-certified-educator-level2.png"
       alt="Google for Education Certified Educator Level 2 badge"
-      style="height:70px;"
+      style="height:28px; vertical-align:middle; margin-left:8px;"
     >
   </a>
-</div>
+  credential.
+</p>
 
 If you have any questions, comments, or suggestions, you are more than welcome to let me know by filling out this (anonymous) [survey](https://forms.gle/DKevoT48aB4gczhq6) or [scheduling an appointment](mailto:Tianying.Wang@colostate.edu) for my office hour.
 
