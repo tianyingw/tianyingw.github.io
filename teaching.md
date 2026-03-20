@@ -20,7 +20,7 @@ title: Teaching
   </div>
 </div>
 
-If you have any questions, comments, or suggestions, you are more than welcome to let me know by filling out this (anonymous) [survey](https://forms.gle/DKevoT48aB4gczhq6) or [scheduling an appointment](mailto:tianyingw@tsinghua.edu.cn) for my office hour.
+If you have any questions, comments, or suggestions, you are more than welcome to let me know by filling out this (anonymous) [survey](https://forms.gle/DKevoT48aB4gczhq6) or [scheduling an appointment](mailto:Tianying.Wang@colostate.edu) for my office hour.
 
 
 ## Courses taught at Colorado State University
