@@ -8,8 +8,7 @@ I am committed to fostering a respectful and supportive learning environment in 
 </p>
 
 <p>
-  <a href="https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX" target="_blank" rel="noopener noreferrer">
-    <img src="img/google-certified-educator-level2.png" alt="Google for Education Certified Educator Level 2 badge" style="height:48px;">
+    <img src="img/google-certified-educator-level2.png" alt="Google for Education Certified Educator Level 2 badge" style="height:240px;">
   </a>
 </p>
 
