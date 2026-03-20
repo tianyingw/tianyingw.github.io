@@ -45,9 +45,11 @@ title: About me
          
    - _B.S. (2010-2014)_, School of Statistics, Renmin University of China  
 
-### Certificates
+### Selected Educational Certifications
 
-  - [Google Certified Educator Level 1](https://edu.google.accredible.com/23cefe62-34e0-4ed7-8b61-c216ea85f68d#acc.j9zmElsr), Google for Education, 2026-2029.
+  - [Google Certified Educator Level 1](https://edu.google.accredible.com/23cefe62-34e0-4ed7-8b61-c216ea85f68d#acc.j9zmElsr), Google for Education, 2026.
+  - [Google Certified Educator Level 2](https://edu.google.accredible.com/4a6f6c74-6b48-4420-b983-0d93a9dcb54e#acc.VeFT0RaX), Google for Education, 2026.
+
 
 ### Fun Facts
 
