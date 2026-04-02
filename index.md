@@ -22,7 +22,7 @@ Colorado 80523-1877
 I am actively looking for undergraduate and graduate students to work on fun research projects together!
 
 ### News:
-- **March 2026**: Our paper on ["Multi-Group Quadratic Discriminant Analysis via Projection"](https://arxiv.org/abs/2601.05415) is accepted by the **_Journal of Computational and Graphical Statistics_**.
+- **March 2026**: Our paper on ["Multi-Group Quadratic Discriminant Analysis via Projection"](https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2653763) is accepted by the **_Journal of Computational and Graphical Statistics_**.
 
 - **January 2026**: Our paper on ["Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0245_na.pdf) is accepted by **_Statistica Sinica_**.
 
