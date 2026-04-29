@@ -25,7 +25,7 @@ I view open science practices as an important way to increase access and partici
     <ul><li>An earlier version won the <b>2025 IMS Hannan Graduate Student Travel Award</b></li></ul>
   </li>
   
-  <li value="35"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Optimal conformalized quantile regression via adaptive quantile selection”.</i></li>
+  <li value="35"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Tail allocation for conformal prediction intervals”.</i></li>
   
   <li value="34"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Support-constrained quantile alignment for learning berkson measurement error models”.</i></li>
     
