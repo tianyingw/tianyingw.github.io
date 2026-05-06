@@ -22,6 +22,15 @@ Colorado 80523-1877
 I am actively looking for undergraduate and graduate students to work on fun research projects together!
 
 ### News:
+
+<!-- - **May 2026**: Our manuscript on ["Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2604.25202) is available on [arXiv](https://arxiv.org/abs/2604.25202). -->
+
+- **May 2026**: Congratulations to Danielle Terry on winning the **Undergraduate Early Academic Achievement Award**!
+  
+- **May 2026**: Congratulations to Eva Krastev on winning the **James R. zumBrunnen Statistical Collaboration Award**!
+
+- **April 2026**: Our manuscript on ["Tail allocation for conformal prediction intervals"](https://arxiv.org/abs/2604.25202) is available on [arXiv](https://arxiv.org/abs/2604.25202).
+
 - **March 2026**: Our paper on ["Multi-Group Quadratic Discriminant Analysis via Projection"](https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2653763) is accepted by the **_Journal of Computational and Graphical Statistics_**.
 
 - **January 2026**: Our paper on ["Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0245_na.pdf) is accepted by **_Statistica Sinica_**.
@@ -44,7 +53,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
   
 - **May 2025**: Our manuscript on ["Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf) is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
 
-- **May 2025**: Congratulations to Mussa on winning the **Undergraduate Excellence in Research Award** for his work on ["Handling Missing Data in Cancer Cell Line Datasets"](https://tianyingw.github.io/gallery/)! 
+- **May 2025**: Congratulations to Mussa Hassen on winning the **Undergraduate Excellence in Research Award** for his work on ["Handling Missing Data in Cancer Cell Line Datasets"](https://tianyingw.github.io/gallery/)! 
 
 - **April 2025**: Congratulations to Huali on winning the [**2025 IMS Hannan Graduate Student Travel Award**](https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-the-winners/) for her work on "_Augmented transfer regression learning for handling completely missing covariates_"!
 
