@@ -25,9 +25,9 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 - **May 2026**: Our manuscript on ["Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2605.04469) is available on [arXiv](https://arxiv.org/abs/2605.04469).
 
-- **May 2026**: Congratulations to Danielle Terry on winning the **Undergraduate Early Academic Achievement Award**!
+- **May 2026**: Congratulations to [_Danielle Terry_](https://tianyingw.github.io/gallery/) on winning the **Undergraduate Early Academic Achievement Award**!
   
-- **May 2026**: Congratulations to Eva Krastev on winning the **James R. zumBrunnen Statistical Collaboration Award**!
+- **May 2026**: Congratulations to _Eva Krastev_ on winning the **James R. zumBrunnen Statistical Collaboration Award**!
 
 - **April 2026**: Our manuscript on ["Tail allocation for conformal prediction intervals"](https://arxiv.org/abs/2604.25202) is available on [arXiv](https://arxiv.org/abs/2604.25202).
 
@@ -53,9 +53,9 @@ I am actively looking for undergraduate and graduate students to work on fun res
   
 - **May 2025**: Our manuscript on ["Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale"](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf) is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1.full.pdf).
 
-- **May 2025**: Congratulations to Mussa Hassen on winning the **Undergraduate Excellence in Research Award** for his work on ["Handling Missing Data in Cancer Cell Line Datasets"](https://tianyingw.github.io/gallery/)! 
+- **May 2025**: Congratulations to [_Mussa Hassen_](https://tianyingw.github.io/gallery/) on winning the **Undergraduate Excellence in Research Award**! 
 
-- **April 2025**: Congratulations to Huali on winning the [**2025 IMS Hannan Graduate Student Travel Award**](https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-the-winners/) for her work on "_Augmented transfer regression learning for handling completely missing covariates_"!
+- **April 2025**: Congratulations to _Huali Zhao_ on winning the [**2025 IMS Hannan Graduate Student Travel Award**](https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-the-winners/) for her work on "_Augmented transfer regression learning for handling completely missing covariates_"!
 
 - **March 2025**: Our paper on ["A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data"](https://doi.org/10.1093/biomtc/ujaf050) is accepted by **_Biometrics_**.
 
@@ -69,7 +69,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 - **November 2024**: Our paper on ["A high-dimensional calibration method for log-contrast models subject to measurement errors"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418) is accepted by **_Biometrics_**.
 
-- **October 2024**: Congratulations to Zirui on winning the **Best Student Paper Award at the 2024 National Graduate Statistics Symposium, Mathematical Statistics Section**, for her work on ["A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0104_na.pdf)!
+- **October 2024**: Congratulations to _Zirui Wang_ on winning the **Best Student Paper Award at the 2024 National Graduate Statistics Symposium, Mathematical Statistics Section**, for her work on ["A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0104_na.pdf)!
 
 - **September 2024**: Our paper on ["Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions"](https://jds-online.org/journal/JDS/article/1391/info) is accepted by **_Journal of Data Science_**.
 
