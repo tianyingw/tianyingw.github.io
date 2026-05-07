@@ -26,8 +26,6 @@ I view open science practices as an important way to increase access and partici
   </li>
   
   <li value="35"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2604.25202"><i>“Tail allocation for conformal prediction intervals”</i></a>.</li>
-  
-  <li value="34"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Support-constrained quantile alignment for learning berkson measurement error models”.</i></li>
     
   <li value="33"><b>Wang, T.<span>&#x2709;</span></b>, Ma, Y., and Wei, Y. (2026+). <i>“Time-varying Quantile Regression with Multi-outcome Latent Groups”.</i>
     <ul><li>An earlier version received <b>First Place</b> in the <b>ARISE (Aging Research – Innovations in Statistical Exploration) 2025 Webinar Series</b> hosted by the ASA Statistics and Data Science in Aging (SDSA) group</li></ul>
