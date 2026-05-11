@@ -21,6 +21,7 @@ Research opportunities are open to highly motivated students. Interested individ
 - **Note:** Project report ([PDF](https://www.dropbox.com/scl/fi/2ux21xy8ksucfwqjfe1jy/Honors-Project-Danielle-Terry.pdf?rlkey=646x339s23fb9ctbp6cse06lz&st=gc17ye0w&dl=0)) and [poster](https://tilttools.colostate.edu/UR/Showcase/CURC/Gallery/ViewProject/1468).
 
 Danielle won the _2026 Undergraduate Early Academic Achievement Award_ for her exceptional performance in Statistics classes and research. Congratulations, Danielle!
+
 <img align="center" src="/img/Danielle_certificate.jpg" alt="" width="700">
 
 -------------------------------------------------------------
