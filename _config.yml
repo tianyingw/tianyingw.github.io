@@ -36,6 +36,7 @@ navbar-links:
   Education: 
      - Teaching: "teaching"
      - Training: "gallery"
+     - Demos: "teaching-demos"
    
   Resources:
      - R: "software"
