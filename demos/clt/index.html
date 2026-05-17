@@ -1,0 +1,1003 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Central Limit Theorem - Interactive Demo</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      min-height: 100vh;
+      background: #fbf7ee;
+      color: #1a1a1f;
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 15px;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+
+    button,
+    input,
+    select {
+      font: inherit;
+    }
+
+    .app {
+      width: min(1440px, 100%);
+      margin: 0 auto;
+      padding: 28px 32px 80px;
+    }
+
+    .app-header {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 24px;
+      margin-bottom: 18px;
+    }
+
+    .title-row {
+      display: flex;
+      align-items: baseline;
+      gap: 14px;
+      min-width: 0;
+    }
+
+    .badge {
+      flex: 0 0 auto;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 11px;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      background: #1a1a1f;
+      color: #fbf7ee;
+      padding: 4px 9px;
+      border-radius: 999px;
+      font-weight: 700;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(24px, 3vw, 34px);
+      line-height: 1;
+      font-weight: 750;
+      letter-spacing: 0;
+    }
+
+    h1 em {
+      font-style: normal;
+      color: #ff6b5b;
+    }
+
+    .app-sub {
+      max-width: 520px;
+      color: #4a4a55;
+      font-size: 14px;
+      line-height: 1.45;
+      text-align: right;
+    }
+
+    .stage {
+      display: grid;
+      grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+      gap: 18px;
+      align-items: start;
+    }
+
+    .right-col {
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+      min-width: 0;
+    }
+
+    .card {
+      background: #fffdf7;
+      border: 1px solid rgba(26, 26, 31, .12);
+      border-radius: 8px;
+      box-shadow: 0 1px 0 rgba(255, 255, 255, .8) inset, 0 1px 2px rgba(26, 26, 31, .05), 0 6px 24px -8px rgba(26, 26, 31, .18);
+      overflow: hidden;
+    }
+
+    .card-hd {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      padding: 14px 18px 10px;
+      border-bottom: 1px dashed rgba(26, 26, 31, .12);
+    }
+
+    .card-hd h2,
+    .card-hd h3 {
+      margin: 0;
+      color: #4a4a55;
+      font-size: 13px;
+      font-weight: 760;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+    }
+
+    .hint {
+      color: #8b8b95;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 11px;
+      letter-spacing: .02em;
+      text-align: right;
+    }
+
+    .card-body {
+      padding: 16px 18px;
+    }
+
+    .visual-card {
+      min-height: 640px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .visual-body {
+      flex: 1;
+      display: grid;
+      align-content: center;
+      gap: 18px;
+      padding: 18px;
+    }
+
+    .mini-title {
+      color: #4a4a55;
+      font-size: 12px;
+      font-weight: 780;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      margin: 0 0 8px;
+    }
+
+    .chart {
+      width: 100%;
+      display: block;
+    }
+
+    .sample-tray {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 6px;
+      min-height: 42px;
+      align-items: center;
+    }
+
+    .latest-sample {
+      display: grid;
+      gap: 8px;
+    }
+
+    .latest-sample-hd {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      color: #4a4a55;
+      font-size: 12px;
+      font-weight: 760;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+    }
+
+    .latest-sample-hd .plain {
+      color: #8b8b95;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 11px;
+      font-weight: 650;
+      letter-spacing: 0;
+      text-transform: none;
+    }
+
+    .sample-piece {
+      width: 34px;
+      height: 30px;
+      border-radius: 8px;
+      display: grid;
+      place-items: center;
+      background: #f2ecdc;
+      color: #1a1a1f;
+      border: 1px solid rgba(26, 26, 31, .12);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-weight: 760;
+      font-size: 12px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      border-radius: 999px;
+      background: #f2ecdc;
+      color: #4a4a55;
+      padding: 4px 9px;
+      font-size: 12px;
+      font-weight: 680;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+
+    .chip.live {
+      background: #ff6b5b;
+      color: #fffdf7;
+    }
+
+    .controls-grid {
+      display: grid;
+      gap: 14px;
+    }
+
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      min-width: 0;
+    }
+
+    .field label {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      color: #8b8b95;
+      font-size: 11px;
+      font-weight: 760;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .val {
+      color: #1a1a1f;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 12px;
+      letter-spacing: 0;
+      text-transform: none;
+      white-space: nowrap;
+    }
+
+    input[type="range"] {
+      width: 100%;
+      appearance: none;
+      height: 6px;
+      background: #f2ecdc;
+      border-radius: 999px;
+      outline: none;
+    }
+
+    input[type="range"]::-webkit-slider-thumb {
+      appearance: none;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: #1a1a1f;
+      border: 3px solid #fffdf7;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, .2);
+      cursor: pointer;
+    }
+
+    input[type="range"]::-moz-range-thumb {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: #1a1a1f;
+      border: 3px solid #fffdf7;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, .2);
+      cursor: pointer;
+    }
+
+    select {
+      width: 100%;
+      height: 36px;
+      border: 1px solid rgba(26, 26, 31, .16);
+      border-radius: 8px;
+      color: #1a1a1f;
+      background: #fffdf7;
+      padding: 0 10px;
+      outline: none;
+    }
+
+    .row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .row.between {
+      justify-content: space-between;
+    }
+
+    .btn {
+      appearance: none;
+      border: 1.5px solid #1a1a1f;
+      background: #fffdf7;
+      color: #1a1a1f;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: 700;
+      line-height: 1;
+      padding: 10px 14px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      transition: transform .08s ease, background .15s, color .15s, border-color .15s;
+    }
+
+    .btn:hover {
+      background: #1a1a1f;
+      color: #fbf7ee;
+    }
+
+    .btn:active {
+      transform: translateY(1px);
+    }
+
+    .btn.primary {
+      background: #ff6b5b;
+      border-color: #ff6b5b;
+      color: #fffdf7;
+    }
+
+    .btn.primary:hover {
+      background: #1a1a1f;
+      border-color: #1a1a1f;
+    }
+
+    .btn.ghost {
+      border-color: rgba(26, 26, 31, .16);
+      color: #4a4a55;
+    }
+
+    .btn.ghost:hover {
+      background: #f2ecdc;
+      color: #1a1a1f;
+    }
+
+    .btn.sm {
+      padding: 7px 11px;
+      font-size: 13px;
+      border-width: 1.25px;
+    }
+
+    .btn-group {
+      display: inline-flex;
+      border: 1.25px solid rgba(26, 26, 31, .14);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .btn-group .btn {
+      border: 0;
+      border-radius: 0;
+      background: #fffdf7;
+    }
+
+    .btn-group .btn + .btn {
+      border-left: 1px solid rgba(26, 26, 31, .14);
+    }
+
+    .btn-group .btn:hover {
+      background: #f2ecdc;
+      color: #1a1a1f;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .stat {
+      background: #f2ecdc;
+      border-radius: 8px;
+      padding: 10px 12px;
+      min-width: 0;
+    }
+
+    .stat .lbl {
+      color: #8b8b95;
+      font-size: 10.5px;
+      font-weight: 760;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+
+    .stat .num {
+      color: #1a1a1f;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 22px;
+      font-weight: 760;
+      line-height: 1;
+      overflow-wrap: anywhere;
+    }
+
+    .stat .sub {
+      color: #8b8b95;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 11px;
+      margin-top: 5px;
+      overflow-wrap: anywhere;
+    }
+
+    .stat.hot {
+      background: #ffe4de;
+    }
+
+    .stat.hot .num {
+      color: #d44a3d;
+    }
+
+    .stat.cool {
+      background: #dff5f1;
+    }
+
+    .stat.cool .num {
+      color: #147f74;
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      color: #4a4a55;
+      font-size: 12px;
+    }
+
+    .swatch {
+      display: inline-block;
+      width: 14px;
+      height: 3px;
+      border-radius: 2px;
+      margin-right: 6px;
+      vertical-align: middle;
+      background: #ff6b5b;
+    }
+
+    .lesson {
+      background: #1a1a1f;
+      color: #fbf7ee;
+      border-radius: 8px;
+      padding: 16px 18px;
+      font-size: 13.5px;
+      line-height: 1.55;
+      display: flex;
+      gap: 14px;
+      align-items: flex-start;
+    }
+
+    .lesson .mark {
+      width: 28px;
+      height: 28px;
+      border-radius: 8px;
+      background: #ff6b5b;
+      color: #fffdf7;
+      flex: 0 0 auto;
+      display: grid;
+      place-items: center;
+      font-weight: 800;
+    }
+
+    .lesson b {
+      color: #f5c53d;
+      font-weight: 760;
+    }
+
+    .formula {
+      display: inline-block;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 12.5px;
+      background: rgba(255, 255, 255, .09);
+      border-radius: 5px;
+      padding: 2px 8px;
+      color: #fbf7ee;
+    }
+
+    .foot {
+      margin-top: 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      color: #8b8b95;
+      font-size: 12px;
+    }
+
+    @media (max-width: 980px) {
+      .app {
+        padding: 20px 16px 64px;
+      }
+
+      .app-header {
+        display: block;
+      }
+
+      .title-row {
+        display: grid;
+        gap: 10px;
+      }
+
+      .app-sub {
+        margin-top: 12px;
+        text-align: left;
+      }
+
+      .stage {
+        grid-template-columns: 1fr;
+      }
+
+      .visual-card {
+        min-height: 480px;
+      }
+    }
+
+    @media (max-width: 620px) {
+      .stats {
+        grid-template-columns: 1fr;
+      }
+
+      .card-hd {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .hint {
+        text-align: left;
+      }
+
+      .foot {
+        display: block;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="app">
+    <header class="app-header">
+      <div class="title-row">
+        <span class="badge">AGES 9-14 - GUIDED STATISTICS</span>
+        <h1>The <em>Average Machine</em></h1>
+      </div>
+      <div class="app-sub">
+        A guided demo: draw many samples from the same population, average each sample, and watch those averages gather around the true population average.
+      </div>
+    </header>
+
+    <section class="stage">
+      <div class="card visual-card">
+        <div class="card-hd">
+          <h2>Central Limit Theorem</h2>
+          <span class="hint" id="visual-hint">true average</span>
+        </div>
+        <div class="visual-body">
+          <div>
+            <p class="mini-title">Population values</p>
+            <div id="population-chart"></div>
+          </div>
+          <div>
+            <p class="mini-title">Averages from repeated samples</p>
+            <div id="means-chart"></div>
+          </div>
+          <div class="latest-sample">
+            <div class="latest-sample-hd">
+              Latest sample values
+              <span class="plain" id="sample-note"></span>
+            </div>
+            <div class="sample-tray" id="sample-tray"></div>
+          </div>
+          <div class="legend">
+            <span><i class="swatch" style="background:#5b8def"></i>population shape</span>
+            <span><i class="swatch" style="background:#ff6b5b"></i>sample averages</span>
+            <span><i class="swatch" style="height:0;border-top:2px solid #1fb6a8;background:transparent"></i>normal approximation</span>
+            <span><i class="swatch" style="height:0;border-top:2px dashed #1a1a1f;background:transparent"></i>true average</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="right-col">
+        <div class="card">
+          <div class="card-hd">
+            <h3>Controls</h3>
+            <span class="hint">average of n independent draws</span>
+          </div>
+          <div class="card-body controls-grid">
+            <div class="field">
+              <label>Population shape <span class="val" id="shape-label"></span></label>
+              <select id="shape">
+                <option value="skew">Lopsided candy jar</option>
+                <option value="two">Two classroom groups</option>
+                <option value="flat">Flat spinner</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label>Values per average <span class="val" id="sample-size-label"></span></label>
+              <input id="sample-size" type="range" min="1" max="80" step="1" value="40">
+            </div>
+
+            <div class="row between">
+              <div class="row">
+                <button class="btn primary" id="toggle">Start</button>
+                <button class="btn ghost sm" id="reset">Reset</button>
+              </div>
+              <span class="chip" id="run-state">Ready</span>
+            </div>
+
+            <div class="field">
+              <label>Animation speed <span class="val" id="speed-label"></span></label>
+              <input id="speed" type="range" min="0.5" max="5" step="0.5" value="1">
+            </div>
+
+            <div class="row">
+              <span class="hint">Jump ahead</span>
+              <div class="btn-group">
+                <button class="btn sm" data-batch="1">+1</button>
+                <button class="btn sm" data-batch="100">+100</button>
+                <button class="btn sm" data-batch="1000">+1000</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-hd">
+            <h3>Live stats</h3>
+            <span class="hint" id="population-note"></span>
+          </div>
+          <div class="card-body">
+            <div class="stats" id="stats"></div>
+          </div>
+        </div>
+
+        <div class="lesson">
+          <div class="mark">!</div>
+          <div>
+            <b>Central Limit Theorem.</b> In this demo, each value is drawn independently from the same population.
+            Individual values can be lopsided, flat, or split into groups.
+            As each sample average uses more values, the distribution of those averages becomes more mound-shaped around the true average.
+            The spread of the sample averages is about
+            <span class="formula">population SD / sqrt(sample size)</span>.
+            For small sample sizes or very lopsided populations, the bars can still look bumpy before the approximation becomes clear.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="foot">
+      <div>Interactive guided demo - runs entirely in your browser.</div>
+      <div>One concept: averages become more stable as sample size grows.</div>
+    </footer>
+  </main>
+
+  <script>
+    const COLORS = {
+      ink: "#1a1a1f",
+      ink2: "#4a4a55",
+      ink3: "#8b8b95",
+      bg: "#fbf7ee",
+      card: "#fffdf7",
+      coral: "#ff6b5b",
+      blue: "#5b8def",
+      teal: "#1fb6a8",
+      red: "#d44a3d"
+    };
+
+    const POPULATIONS = {
+      skew: {
+        label: "Lopsided candy jar",
+        values: [0, 1, 2, 8],
+        weights: [45, 25, 20, 10],
+        note: "many small values, a few large ones"
+      },
+      two: {
+        label: "Two classroom groups",
+        values: [1, 2, 7, 8],
+        weights: [28, 22, 22, 28],
+        note: "values gather near two sides"
+      },
+      flat: {
+        label: "Flat spinner",
+        values: [1, 2, 3, 4, 5, 6],
+        weights: [1, 1, 1, 1, 1, 1],
+        note: "all values are equally likely"
+      }
+    };
+
+    const state = {
+      shape: "skew",
+      n: 40,
+      speed: 1,
+      running: false,
+      means: [],
+      latest: []
+    };
+
+    let timerId = null;
+
+    function clamp(x, lo, hi) {
+      return Math.max(lo, Math.min(hi, x));
+    }
+
+    function fmt(x, digits) {
+      if (!Number.isFinite(x)) return "-";
+      const rounded = Math.abs(x) < Math.pow(10, -digits) / 2 ? 0 : x;
+      return rounded.toFixed(digits);
+    }
+
+    function mean(arr) {
+      if (!arr.length) return 0;
+      let total = 0;
+      for (let i = 0; i < arr.length; i += 1) total += arr[i];
+      return total / arr.length;
+    }
+
+    function sd(arr) {
+      if (arr.length < 2) return 0;
+      const m = mean(arr);
+      let total = 0;
+      for (let i = 0; i < arr.length; i += 1) {
+        const d = arr[i] - m;
+        total += d * d;
+      }
+      return Math.sqrt(total / (arr.length - 1));
+    }
+
+    function populationMoments(pop) {
+      const totalWeight = pop.weights.reduce((a, b) => a + b, 0);
+      let m = 0;
+      for (let i = 0; i < pop.values.length; i += 1) {
+        m += pop.values[i] * pop.weights[i] / totalWeight;
+      }
+      let v = 0;
+      for (let i = 0; i < pop.values.length; i += 1) {
+        const d = pop.values[i] - m;
+        v += d * d * pop.weights[i] / totalWeight;
+      }
+      return { mean: m, sd: Math.sqrt(v) };
+    }
+
+    function weightedDraw(pop) {
+      const totalWeight = pop.weights.reduce((a, b) => a + b, 0);
+      let r = Math.random() * totalWeight;
+      for (let i = 0; i < pop.values.length; i += 1) {
+        r -= pop.weights[i];
+        if (r <= 0) return pop.values[i];
+      }
+      return pop.values[pop.values.length - 1];
+    }
+
+    function drawSamples(count) {
+      const pop = POPULATIONS[state.shape];
+      for (let i = 0; i < count; i += 1) {
+        const sample = [];
+        let total = 0;
+        for (let j = 0; j < state.n; j += 1) {
+          const x = weightedDraw(pop);
+          sample.push(x);
+          total += x;
+        }
+        state.latest = sample;
+        state.means.push(total / state.n);
+      }
+      if (state.means.length > 1200) {
+        state.means.splice(0, state.means.length - 1200);
+      }
+    }
+
+    function populationSvg(pop) {
+      const w = 560;
+      const h = 150;
+      const pad = { left: 34, right: 18, top: 18, bottom: 30 };
+      const maxWeight = Math.max.apply(null, pop.weights);
+      const slot = (w - pad.left - pad.right) / pop.values.length;
+      let bars = "";
+      for (let i = 0; i < pop.values.length; i += 1) {
+        const barW = Math.min(54, slot * .58);
+        const barH = (pop.weights[i] / maxWeight) * (h - pad.top - pad.bottom);
+        const x = pad.left + slot * i + slot / 2 - barW / 2;
+        const y = h - pad.bottom - barH;
+        bars += `
+          <rect x="${x.toFixed(1)}" y="${y.toFixed(1)}" width="${barW.toFixed(1)}" height="${barH.toFixed(1)}" rx="5" fill="${COLORS.blue}"></rect>
+          <text x="${(x + barW / 2).toFixed(1)}" y="${h - 10}" text-anchor="middle" font-size="11" fill="${COLORS.ink2}" font-family="ui-monospace, monospace">${pop.values[i]}</text>
+        `;
+      }
+      return `
+        <svg class="chart" viewBox="0 0 ${w} ${h}" role="img" aria-label="Population values">
+          <rect x="0" y="0" width="${w}" height="${h}" rx="8" fill="${COLORS.card}"></rect>
+          <line x1="${pad.left}" x2="${w - pad.right}" y1="${h - pad.bottom}" y2="${h - pad.bottom}" stroke="${COLORS.ink}" stroke-width="1.2"></line>
+          ${bars}
+        </svg>
+      `;
+    }
+
+    function histogramSvg(values, popMean, theorySd, lo, hi) {
+      const w = 560;
+      const h = 270;
+      const bins = 24;
+      const pad = { left: 38, right: 18, top: 18, bottom: 30 };
+      const innerH = h - pad.top - pad.bottom;
+      const innerW = w - pad.left - pad.right;
+      const counts = new Array(bins).fill(0);
+      for (let i = 0; i < values.length; i += 1) {
+        const raw = Math.floor((values[i] - lo) / Math.max(hi - lo, 1e-9) * bins);
+        const idx = clamp(raw, 0, bins - 1);
+        counts[idx] += 1;
+      }
+      const slot = innerW / bins;
+      const binWidth = (hi - lo) / bins;
+      const normalCounts = [];
+      if (theorySd > 0) {
+        for (let i = 0; i < 121; i += 1) {
+          const x = lo + (hi - lo) * i / 120;
+          const z = (x - popMean) / theorySd;
+          const density = Math.exp(-0.5 * z * z) / (theorySd * Math.sqrt(2 * Math.PI));
+          normalCounts.push({ x, y: density * Math.max(values.length, 1) * binWidth });
+        }
+      }
+      const maxNormal = normalCounts.reduce((m, point) => Math.max(m, point.y), 0);
+      const yMax = Math.max(1, ...counts, maxNormal) * 1.05;
+      let bars = "";
+      for (let i = 0; i < bins; i += 1) {
+        const barW = Math.max(2, slot - 3);
+        const barH = (counts[i] / yMax) * innerH;
+        const x = pad.left + i * slot + 1.5;
+        const y = h - pad.bottom - barH;
+        bars += `<rect x="${x.toFixed(1)}" y="${y.toFixed(1)}" width="${barW.toFixed(1)}" height="${barH.toFixed(1)}" rx="3" fill="${COLORS.coral}"></rect>`;
+      }
+      const tx = pad.left + ((popMean - lo) / Math.max(hi - lo, 1e-9)) * (w - pad.left - pad.right);
+      const normalPath = normalCounts.map(function(point, index) {
+        const x = pad.left + ((point.x - lo) / Math.max(hi - lo, 1e-9)) * innerW;
+        const y = h - pad.bottom - (point.y / yMax) * innerH;
+        return (index === 0 ? "M " : "L ") + x.toFixed(1) + " " + y.toFixed(1);
+      }).join(" ");
+      return `
+        <svg class="chart" viewBox="0 0 ${w} ${h}" role="img" aria-label="Averages from repeated samples">
+          <rect x="0" y="0" width="${w}" height="${h}" rx="8" fill="${COLORS.card}"></rect>
+          <line x1="${pad.left}" x2="${w - pad.right}" y1="${h - pad.bottom}" y2="${h - pad.bottom}" stroke="${COLORS.ink}" stroke-width="1.2"></line>
+          <line x1="${tx.toFixed(1)}" x2="${tx.toFixed(1)}" y1="${pad.top}" y2="${h - pad.bottom}" stroke="${COLORS.ink}" stroke-width="1.8" stroke-dasharray="5 5"></line>
+          ${bars}
+          <path d="${normalPath}" fill="none" stroke="${COLORS.teal}" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></path>
+          <text x="${tx.toFixed(1)}" y="14" text-anchor="middle" font-size="11" font-weight="700" fill="${COLORS.ink}" font-family="ui-monospace, monospace">true average</text>
+          <text x="${pad.left}" y="${h - 10}" font-size="11" fill="${COLORS.ink3}" font-family="ui-monospace, monospace">${fmt(lo, 1)}</text>
+          <text x="${w - pad.right}" y="${h - 10}" text-anchor="end" font-size="11" fill="${COLORS.ink3}" font-family="ui-monospace, monospace">${fmt(hi, 1)}</text>
+        </svg>
+      `;
+    }
+
+    function stat(label, value, sub, tone) {
+      return `
+        <div class="stat ${tone || ""}">
+          <div class="lbl">${label}</div>
+          <div class="num">${value}</div>
+          <div class="sub">${sub || ""}</div>
+        </div>
+      `;
+    }
+
+    function reset() {
+      state.means = [];
+      state.latest = [];
+      render();
+    }
+
+    function start() {
+      stop();
+      state.running = true;
+      timerId = window.setInterval(function() {
+        drawSamples(Math.max(1, Math.round(7 * state.speed)));
+        render();
+      }, Math.max(45, 170 / state.speed));
+      render();
+    }
+
+    function stop() {
+      state.running = false;
+      if (timerId !== null) {
+        window.clearInterval(timerId);
+        timerId = null;
+      }
+    }
+
+    function toggle() {
+      if (state.running) {
+        stop();
+        render();
+      } else {
+        start();
+      }
+    }
+
+    function render() {
+      const pop = POPULATIONS[state.shape];
+      const moments = populationMoments(pop);
+      const latestMean = state.latest.length ? mean(state.latest) : null;
+      const meanSpread = moments.sd / Math.sqrt(state.n);
+      const popMin = Math.min(...pop.values);
+      const popMax = Math.max(...pop.values);
+      const axisHalfWidth = Math.max(4 * meanSpread, .75);
+      const lo = Math.max(popMin - .5, moments.mean - axisHalfWidth);
+      const hi = Math.min(popMax + .5, moments.mean + axisHalfWidth);
+
+      document.getElementById("visual-hint").textContent = "true average = " + fmt(moments.mean, 2);
+      document.getElementById("shape-label").textContent = pop.label;
+      document.getElementById("sample-size-label").textContent = String(state.n);
+      document.getElementById("speed-label").textContent = state.speed.toFixed(1) + "x";
+      document.getElementById("population-note").textContent = pop.note;
+      document.getElementById("toggle").textContent = state.running ? "Pause" : "Start";
+      document.getElementById("run-state").textContent = state.running ? "Running" : "Ready";
+      document.getElementById("run-state").className = state.running ? "chip live" : "chip";
+
+      document.getElementById("population-chart").innerHTML = populationSvg(pop);
+      document.getElementById("means-chart").innerHTML = histogramSvg(state.means, moments.mean, meanSpread, lo, hi);
+      const visibleSampleValues = state.latest.slice(0, 40);
+      document.getElementById("sample-note").textContent = state.latest.length
+        ? (state.latest.length <= visibleSampleValues.length
+          ? String(state.latest.length) + " raw values, average = " + fmt(latestMean, 2)
+          : "showing first " + String(visibleSampleValues.length) + " of " + String(state.latest.length) + ", average = " + fmt(latestMean, 2))
+        : "";
+      document.getElementById("sample-tray").innerHTML = state.latest.length
+        ? visibleSampleValues.map(x => `<div class="sample-piece">${x}</div>`).join("")
+        : '<span class="chip">Draw a sample to see its values</span>';
+
+      document.getElementById("stats").innerHTML = [
+        stat("Averages", state.means.length.toLocaleString(), "repeated samples", ""),
+        stat("Latest", latestMean === null ? "-" : fmt(latestMean, 2), "new sample average", "hot"),
+        stat("Center", state.means.length ? fmt(mean(state.means), 2) : "-", "truth " + fmt(moments.mean, 2), "hot"),
+        stat("Spread", state.means.length > 1 ? fmt(sd(state.means), 2) : "-", "about " + fmt(meanSpread, 2), "cool"),
+        stat("Sample size", String(state.n), "values per average", ""),
+        stat("Population SD", fmt(moments.sd, 2), "before averaging", "")
+      ].join("");
+    }
+
+    document.getElementById("shape").addEventListener("input", function(event) {
+      stop();
+      state.shape = event.target.value;
+      reset();
+    });
+
+    document.getElementById("sample-size").addEventListener("input", function(event) {
+      stop();
+      state.n = Number(event.target.value);
+      reset();
+    });
+
+    document.getElementById("speed").addEventListener("input", function(event) {
+      state.speed = Number(event.target.value);
+      if (state.running) start();
+      else render();
+    });
+
+    document.getElementById("toggle").addEventListener("click", toggle);
+    document.getElementById("reset").addEventListener("click", function() {
+      stop();
+      reset();
+    });
+
+    document.querySelectorAll("[data-batch]").forEach(function(button) {
+      button.addEventListener("click", function() {
+        stop();
+        drawSamples(Number(button.getAttribute("data-batch")));
+        render();
+      });
+    });
+
+    drawSamples(800);
+    render();
+  </script>
+</body>
+</html>
