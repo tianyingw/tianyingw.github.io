@@ -1,0 +1,1640 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>P-value and Errors - Interactive Guided Demo</title>
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      min-height: 100vh;
+      background: #fbf7ee;
+      color: #1a1a1f;
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 15px;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+    button, input { font: inherit; }
+    .app {
+      width: min(1440px, 100%);
+      margin: 0 auto;
+      padding: 28px 32px 80px;
+    }
+    .app-header {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 24px;
+      margin-bottom: 18px;
+    }
+    .title-row {
+      display: flex;
+      align-items: baseline;
+      gap: 14px;
+      min-width: 0;
+    }
+    .badge {
+      flex: 0 0 auto;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 11px;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      background: #1a1a1f;
+      color: #fbf7ee;
+      padding: 4px 9px;
+      border-radius: 999px;
+      font-weight: 700;
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(24px, 3vw, 34px);
+      line-height: 1;
+      font-weight: 750;
+      letter-spacing: 0;
+      white-space: nowrap;
+    }
+    h1 em {
+      font-style: normal;
+      color: #ff6b5b;
+    }
+    .app-sub {
+      max-width: 560px;
+      color: #4a4a55;
+      font-size: 14px;
+      line-height: 1.45;
+      text-align: right;
+    }
+    .stage {
+      display: grid;
+      grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+      gap: 18px;
+      align-items: start;
+    }
+    .right-col {
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+      min-width: 0;
+    }
+    .card {
+      background: #fffdf7;
+      border: 1px solid rgba(26, 26, 31, .12);
+      border-radius: 8px;
+      box-shadow: 0 1px 0 rgba(255, 255, 255, .8) inset, 0 1px 2px rgba(26, 26, 31, .05), 0 6px 24px -8px rgba(26, 26, 31, .18);
+      overflow: hidden;
+    }
+    .card-hd {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      padding: 14px 18px 10px;
+      border-bottom: 1px dashed rgba(26, 26, 31, .12);
+    }
+    .card-hd h2, .card-hd h3 {
+      margin: 0;
+      color: #4a4a55;
+      font-size: 13px;
+      font-weight: 760;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+    }
+    .hint {
+      color: #8b8b95;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 11px;
+      letter-spacing: .02em;
+      text-align: right;
+    }
+    .visual-card {
+      min-height: 660px;
+      display: flex;
+      flex-direction: column;
+    }
+    .visual-body {
+      flex: 1;
+      display: grid;
+      align-content: center;
+      gap: 18px;
+      padding: 18px;
+    }
+    .mini-title {
+      color: #4a4a55;
+      font-size: 12px;
+      font-weight: 780;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      margin: 0 0 8px;
+    }
+    .hypotheses {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+    .rule-card, .world-card {
+      background: #f2ecdc;
+      border: 1px solid rgba(26, 26, 31, .12);
+      border-radius: 8px;
+      padding: 10px 12px;
+      min-width: 0;
+    }
+    .rule-card b, .world-card b {
+      display: block;
+      color: #1a1a1f;
+      font-size: 12px;
+      font-weight: 780;
+      margin-bottom: 4px;
+    }
+    .rule-card span, .world-card span {
+      display: block;
+      color: #4a4a55;
+      font-size: 12px;
+      line-height: 1.35;
+    }
+    .worlds {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .world-card {
+      background: #fffdf7;
+    }
+    .world-card.false {
+      border-color: rgba(212, 74, 61, .35);
+      background: #fff1ed;
+    }
+    .world-card.miss {
+      border-color: rgba(245, 197, 61, .45);
+      background: #fff8df;
+    }
+    .world-card.detect {
+      border-color: rgba(31, 182, 168, .35);
+      background: #e8f8f5;
+    }
+    .world-kv {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 8px;
+      margin-top: 10px;
+    }
+    .sample-lab {
+      display: grid;
+      gap: 12px;
+      background: #f6efdf;
+      border: 1px solid rgba(26, 26, 31, .12);
+      border-radius: 8px;
+      padding: 12px;
+    }
+    .sample-top {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 12px;
+      align-items: center;
+    }
+    .world-picker {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px;
+    }
+    .choice-btn {
+      appearance: none;
+      text-align: left;
+      border: 1.5px solid rgba(26, 26, 31, .16);
+      background: #fffdf7;
+      color: #1a1a1f;
+      border-radius: 8px;
+      padding: 9px 10px;
+      cursor: pointer;
+      min-width: 0;
+      transition: background .15s, border-color .15s, transform .08s ease;
+    }
+    .choice-btn:hover {
+      background: #fff8df;
+      border-color: rgba(26, 26, 31, .34);
+    }
+    .choice-btn:active { transform: translateY(1px); }
+    .choice-btn.active {
+      border-color: #1a1a1f;
+      box-shadow: 0 0 0 2px rgba(26, 26, 31, .08);
+    }
+    .choice-btn b {
+      display: block;
+      font-size: 12px;
+      font-weight: 780;
+      margin-bottom: 3px;
+    }
+    .choice-btn span {
+      display: block;
+      color: #4a4a55;
+      font-size: 11.5px;
+      line-height: 1.25;
+    }
+    .sample-plot {
+      width: 100%;
+      display: block;
+      background: #fffdf7;
+      border-radius: 8px;
+    }
+    .sample-summary {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 8px;
+    }
+    .sample-note {
+      color: #4a4a55;
+      font-size: 12px;
+      line-height: 1.4;
+    }
+    .chart-topline {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .zoom-controls {
+      display: inline-flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+    .region {
+      cursor: pointer;
+      outline: none;
+    }
+    .region .area {
+      transition: opacity .15s ease, stroke-width .15s ease;
+    }
+    .region.active .area {
+      stroke-width: 1.8;
+      opacity: .52;
+    }
+    .region.dim .area {
+      opacity: .16;
+    }
+    .tap-icon {
+      pointer-events: none;
+      opacity: .85;
+      filter: drop-shadow(0 1px 1px rgba(26, 26, 31, .18));
+    }
+    .callout {
+      cursor: pointer;
+      transition: opacity .15s ease;
+    }
+    .callout.dim {
+      opacity: .55;
+    }
+    .callout.active rect {
+      stroke-width: 2.1;
+    }
+    .region-info {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      gap: 10px;
+      align-items: start;
+      background: #f2ecdc;
+      border: 1px solid rgba(26, 26, 31, .12);
+      border-radius: 8px;
+      padding: 10px 12px;
+      color: #4a4a55;
+      font-size: 12.5px;
+      line-height: 1.45;
+    }
+    .region-pill {
+      color: #fffdf7;
+      background: #1a1a1f;
+      border-radius: 999px;
+      padding: 5px 9px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 11px;
+      font-weight: 760;
+      white-space: nowrap;
+    }
+    .region-info b {
+      color: #1a1a1f;
+    }
+    .outcome-row {
+      cursor: pointer;
+      outline: none;
+    }
+    .outcome-row .bar {
+      transition: opacity .15s ease, stroke-width .15s ease;
+    }
+    .outcome-row.active .bar {
+      stroke: #1a1a1f;
+      stroke-width: 1.6;
+      opacity: .96;
+    }
+    .outcome-row.dim .bar {
+      opacity: .42;
+    }
+    .outcome-row:hover .bar {
+      opacity: .92;
+    }
+    .outcome-info {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      gap: 10px;
+      align-items: start;
+      background: #f2ecdc;
+      border: 1px solid rgba(26, 26, 31, .12);
+      border-radius: 8px;
+      padding: 10px 12px;
+      margin-top: 8px;
+      color: #4a4a55;
+      font-size: 12.5px;
+      line-height: 1.45;
+    }
+    .outcome-pill {
+      color: #fffdf7;
+      background: #1a1a1f;
+      border-radius: 999px;
+      padding: 5px 9px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 11px;
+      font-weight: 760;
+      white-space: nowrap;
+    }
+    .outcome-info b {
+      color: #1a1a1f;
+    }
+    .kv {
+      background: rgba(255, 255, 255, .72);
+      border-radius: 8px;
+      padding: 8px;
+      min-width: 0;
+    }
+    .kv .lbl {
+      color: #8b8b95;
+      font-size: 10px;
+      font-weight: 760;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+    .kv .num {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-weight: 760;
+      font-size: 18px;
+      line-height: 1;
+      overflow-wrap: anywhere;
+    }
+    .meter {
+      position: relative;
+      height: 10px;
+      border-radius: 999px;
+      background: #e7dfcf;
+      margin-top: 12px;
+      overflow: hidden;
+    }
+    .meter .alpha {
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      background: rgba(255, 107, 91, .32);
+    }
+    .meter .dot {
+      position: absolute;
+      top: 50%;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: #1a1a1f;
+      border: 3px solid #fffdf7;
+      transform: translate(-50%, -50%);
+      box-shadow: 0 1px 4px rgba(0, 0, 0, .18);
+    }
+    .decision-chart {
+      width: 100%;
+      display: block;
+    }
+    .curve-wrap {
+      display: grid;
+      gap: 8px;
+    }
+    .controls-grid {
+      display: grid;
+      gap: 14px;
+      padding: 16px 18px;
+    }
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      min-width: 0;
+    }
+    .field label {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      color: #8b8b95;
+      font-size: 11px;
+      font-weight: 760;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+    .val {
+      color: #1a1a1f;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 12px;
+      letter-spacing: 0;
+      text-transform: none;
+      white-space: nowrap;
+    }
+    input[type="range"] {
+      width: 100%;
+      appearance: none;
+      height: 6px;
+      background: #f2ecdc;
+      border-radius: 999px;
+      outline: none;
+    }
+    input[type="range"]::-webkit-slider-thumb {
+      appearance: none;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: #1a1a1f;
+      border: 3px solid #fffdf7;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, .2);
+      cursor: pointer;
+    }
+    input[type="range"]::-moz-range-thumb {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: #1a1a1f;
+      border: 3px solid #fffdf7;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, .2);
+      cursor: pointer;
+    }
+    .row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .row.between {
+      justify-content: space-between;
+    }
+    .btn {
+      appearance: none;
+      border: 1.5px solid #1a1a1f;
+      background: #fffdf7;
+      color: #1a1a1f;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: 700;
+      line-height: 1;
+      padding: 10px 14px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      transition: transform .08s ease, background .15s, color .15s, border-color .15s;
+    }
+    .btn:hover {
+      background: #1a1a1f;
+      color: #fbf7ee;
+    }
+    .btn:active { transform: translateY(1px); }
+    .btn.primary {
+      background: #ff6b5b;
+      border-color: #ff6b5b;
+      color: #fffdf7;
+    }
+    .btn.primary:hover {
+      background: #1a1a1f;
+      border-color: #1a1a1f;
+    }
+    .btn.ghost {
+      border-color: rgba(26, 26, 31, .16);
+      color: #4a4a55;
+    }
+    .btn.ghost:hover {
+      background: #f2ecdc;
+      color: #1a1a1f;
+    }
+    .btn.active {
+      background: #1a1a1f;
+      border-color: #1a1a1f;
+      color: #fbf7ee;
+    }
+    .btn.sm {
+      padding: 7px 11px;
+      font-size: 13px;
+      border-width: 1.25px;
+    }
+    .btn-group {
+      display: inline-flex;
+      border: 1.25px solid rgba(26, 26, 31, .14);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .btn-group .btn {
+      border: 0;
+      border-radius: 0;
+      background: #fffdf7;
+    }
+    .btn-group .btn + .btn {
+      border-left: 1px solid rgba(26, 26, 31, .14);
+    }
+    .btn-group .btn:hover {
+      background: #f2ecdc;
+      color: #1a1a1f;
+    }
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      border-radius: 999px;
+      background: #f2ecdc;
+      color: #4a4a55;
+      padding: 4px 9px;
+      font-size: 12px;
+      font-weight: 680;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+    .chip.live {
+      background: #ff6b5b;
+      color: #fffdf7;
+    }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      padding: 16px 18px;
+    }
+    .stat {
+      background: #f2ecdc;
+      border-radius: 8px;
+      padding: 10px 12px;
+      min-width: 0;
+    }
+    .stat .lbl {
+      color: #8b8b95;
+      font-size: 10.5px;
+      font-weight: 760;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+    .stat .num {
+      color: #1a1a1f;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 22px;
+      font-weight: 760;
+      line-height: 1;
+      overflow-wrap: anywhere;
+    }
+    .stat .sub {
+      color: #8b8b95;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 11px;
+      margin-top: 5px;
+      overflow-wrap: anywhere;
+    }
+    .stat.hot { background: #ffe4de; }
+    .stat.hot .num { color: #d44a3d; }
+    .stat.cool { background: #dff5f1; }
+    .stat.cool .num { color: #147f74; }
+    .stat.warn { background: #fff6d7; }
+    .stat.warn .num { color: #8d6b00; }
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      color: #4a4a55;
+      font-size: 12px;
+    }
+    .swatch {
+      display: inline-block;
+      width: 14px;
+      height: 3px;
+      border-radius: 2px;
+      margin-right: 6px;
+      vertical-align: middle;
+      background: #ff6b5b;
+    }
+    .lesson {
+      background: #1a1a1f;
+      color: #fbf7ee;
+      border-radius: 8px;
+      padding: 16px 18px;
+      font-size: 13.5px;
+      line-height: 1.55;
+      display: flex;
+      gap: 14px;
+      align-items: flex-start;
+    }
+    .lesson .mark {
+      width: 28px;
+      height: 28px;
+      border-radius: 8px;
+      background: #ff6b5b;
+      color: #fffdf7;
+      flex: 0 0 auto;
+      display: grid;
+      place-items: center;
+      font-weight: 800;
+    }
+    .lesson b {
+      color: #f5c53d;
+      font-weight: 760;
+    }
+    .formula {
+      display: inline-block;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 12.5px;
+      background: rgba(255, 255, 255, .09);
+      border-radius: 5px;
+      padding: 2px 8px;
+      color: #fbf7ee;
+    }
+    .foot {
+      margin-top: 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      color: #8b8b95;
+      font-size: 12px;
+    }
+    @media (max-width: 980px) {
+      .app { padding: 20px 16px 64px; }
+      .app-header { display: block; }
+      .title-row { display: grid; gap: 10px; }
+      h1 { white-space: normal; }
+      .app-sub { margin-top: 12px; text-align: left; }
+      .stage { grid-template-columns: 1fr; }
+      .hypotheses, .worlds { grid-template-columns: 1fr; }
+      .visual-card { min-height: 500px; }
+    }
+    @media (max-width: 620px) {
+      .stats, .world-kv, .sample-summary, .sample-top, .world-picker, .region-info, .outcome-info { grid-template-columns: 1fr; }
+      .card-hd {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+      .hint { text-align: left; }
+      .foot { display: block; }
+    }
+  </style>
+</head>
+<body>
+  <main class="app">
+    <header class="app-header">
+      <div class="title-row">
+        <span class="badge">AGES 9-14 - GUIDED STATISTICS</span>
+        <h1>The <em>P-value Detector</em></h1>
+      </div>
+      <div class="app-sub">
+        Start with two samples, compute one p-value, then see how false alarms, missed signals, and power appear over many repeats.
+      </div>
+    </header>
+
+    <section class="stage">
+      <div class="card visual-card">
+        <div class="card-hd">
+          <h2>P-value, Type I, Type II</h2>
+          <span class="hint" id="visual-hint">one-sided two-sample t test</span>
+        </div>
+        <div class="visual-body">
+          <div class="hypotheses">
+            <div class="rule-card">
+              <b>Null H0</b>
+              <span>Group B and group A have the same true average.</span>
+            </div>
+            <div class="rule-card">
+              <b>Alternative H1</b>
+              <span>Group B has a higher true average than group A.</span>
+            </div>
+            <div class="rule-card">
+              <b>Decision rule</b>
+              <span>Reject H0 when p-value is smaller than alpha.</span>
+            </div>
+          </div>
+
+          <div id="sample-lab"></div>
+
+          <div class="curve-wrap">
+            <div class="chart-topline">
+              <p class="mini-title" style="margin:0">Classic overlap picture</p>
+              <div class="zoom-controls">
+                <button class="btn ghost sm" data-zoom="full">Full view</button>
+                <button class="btn ghost sm" data-zoom="focus">Zoom selected</button>
+              </div>
+            </div>
+            <div id="overlap-chart"></div>
+            <div id="region-info"></div>
+          </div>
+
+          <div class="worlds" id="worlds"></div>
+
+          <div>
+            <p class="mini-title">Repeated tests from simulation</p>
+            <div id="decision-chart"></div>
+            <div id="outcome-info"></div>
+          </div>
+
+          <div class="legend">
+            <span><i class="swatch" style="background:#d44a3d"></i>Type I false alarm</span>
+            <span><i class="swatch" style="background:#f5c53d"></i>Beta / Type II missed signal</span>
+            <span><i class="swatch" style="background:#1fb6a8"></i>detected signal</span>
+            <span><i class="swatch" style="background:#5b8def"></i>correct no alarm</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="right-col">
+        <div class="card">
+          <div class="card-hd">
+            <h3>Controls</h3>
+            <span class="hint">normal groups, equal spread</span>
+          </div>
+          <div class="controls-grid">
+            <div class="field">
+              <label>Signal size in H1 world <span class="val" id="delta-label"></span></label>
+              <input id="delta" type="range" min="1" max="14" step="1" value="6">
+            </div>
+            <div class="field">
+              <label>Sample size per group <span class="val" id="n-label"></span></label>
+              <input id="sample-size" type="range" min="5" max="80" step="1" value="20">
+            </div>
+            <div class="field">
+              <label>Alpha threshold <span class="val" id="alpha-label"></span></label>
+              <input id="alpha" type="range" min="1" max="10" step="1" value="5">
+            </div>
+            <div class="row between">
+              <div class="row">
+                <button class="btn primary" id="toggle">Start</button>
+                <button class="btn ghost sm" id="reset">Reset</button>
+              </div>
+              <span class="chip" id="run-state">Ready</span>
+            </div>
+            <div class="field">
+              <label>Animation speed <span class="val" id="speed-label"></span></label>
+              <input id="speed" type="range" min="0.5" max="5" step="0.5" value="1">
+            </div>
+            <div class="row">
+              <span class="hint">Jump ahead</span>
+              <div class="btn-group">
+                <button class="btn sm" data-batch="1">+1</button>
+                <button class="btn sm" data-batch="100">+100</button>
+                <button class="btn sm" data-batch="1000">+1000</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-hd">
+            <h3>Live rates</h3>
+            <span class="hint">rates from repeated tests</span>
+          </div>
+          <div class="stats" id="stats"></div>
+        </div>
+
+        <div class="lesson">
+          <div class="mark">!</div>
+          <div>
+            <b>P-value.</b> In this one-sided test, the p-value asks:
+            if H0 were true, how often would random sampling produce a standardized B minus A difference this large or larger?
+            A small p-value is evidence against H0, so we reject H0 when
+            <span class="formula">p-value smaller than alpha</span>.
+            Type I error is a false alarm when H0 is true, and alpha is its target probability.
+            Type II error is a missed signal when H1 is true, and beta is its probability.
+            Power is the probability of detecting the signal, so power = 1 - beta.
+            The overlap picture is an approximate picture for the test statistic; the repeated tests use the two-sample t-test p-value.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="foot">
+      <div>Interactive guided demo - runs entirely in your browser.</div>
+      <div>One concept: p-values guide one test; Type I and Type II errors describe repeated testing.</div>
+    </footer>
+  </main>
+
+  <script>
+    const COLORS = {
+      ink: "#1a1a1f",
+      ink2: "#4a4a55",
+      ink3: "#8b8b95",
+      bg: "#fbf7ee",
+      card: "#fffdf7",
+      coral: "#ff6b5b",
+      blue: "#5b8def",
+      teal: "#1fb6a8",
+      red: "#d44a3d",
+      sun: "#f5c53d"
+    };
+
+    const state = {
+      delta: 6,
+      n: 20,
+      alpha: 0.05,
+      speed: 1,
+      running: false,
+      demoWorld: "signal",
+      focusRegion: "power",
+      focusOutcome: "power",
+      zoom: "full",
+      nullWorld: { total: 0, reject: 0, latest: null },
+      signalWorld: { total: 0, reject: 0, latest: null }
+    };
+
+    let timerId = null;
+
+    function clamp(x, lo, hi) {
+      return Math.max(lo, Math.min(hi, x));
+    }
+
+    function fmt(x, digits) {
+      if (!Number.isFinite(x)) return "-";
+      const rounded = Math.abs(x) < Math.pow(10, -digits) / 2 ? 0 : x;
+      return rounded.toFixed(digits);
+    }
+
+    function percent(x) {
+      if (!Number.isFinite(x)) return "-";
+      return (100 * x).toFixed(1) + "%";
+    }
+
+    function mean(arr) {
+      let s = 0;
+      for (let i = 0; i < arr.length; i += 1) s += arr[i];
+      return s / Math.max(arr.length, 1);
+    }
+
+    function variance(arr) {
+      if (arr.length < 2) return 0;
+      const m = mean(arr);
+      let s = 0;
+      for (let i = 0; i < arr.length; i += 1) {
+        const d = arr[i] - m;
+        s += d * d;
+      }
+      return s / (arr.length - 1);
+    }
+
+    function normalDraw(mu, sigma) {
+      let u = 0;
+      let v = 0;
+      while (u === 0) u = Math.random();
+      while (v === 0) v = Math.random();
+      return mu + sigma * Math.sqrt(-2 * Math.log(u)) * Math.cos(2 * Math.PI * v);
+    }
+
+    function logGamma(z) {
+      const p = [
+        676.5203681218851,
+        -1259.1392167224028,
+        771.3234287776531,
+        -176.6150291621406,
+        12.507343278686905,
+        -0.13857109526572012,
+        9.984369578019572e-6,
+        1.5056327351493116e-7
+      ];
+      if (z < 0.5) {
+        return Math.log(Math.PI) - Math.log(Math.sin(Math.PI * z)) - logGamma(1 - z);
+      }
+      z -= 1;
+      let x = 0.9999999999998099;
+      for (let i = 0; i < p.length; i += 1) {
+        x += p[i] / (z + i + 1);
+      }
+      const t = z + p.length - 0.5;
+      return 0.5 * Math.log(2 * Math.PI) + (z + 0.5) * Math.log(t) - t + Math.log(x);
+    }
+
+    function betaContinuedFraction(a, b, x) {
+      const maxIter = 120;
+      const eps = 3e-12;
+      const fpmin = 1e-30;
+      let qab = a + b;
+      let qap = a + 1;
+      let qam = a - 1;
+      let c = 1;
+      let d = 1 - qab * x / qap;
+      if (Math.abs(d) < fpmin) d = fpmin;
+      d = 1 / d;
+      let h = d;
+      for (let m = 1; m <= maxIter; m += 1) {
+        const m2 = 2 * m;
+        let aa = m * (b - m) * x / ((qam + m2) * (a + m2));
+        d = 1 + aa * d;
+        if (Math.abs(d) < fpmin) d = fpmin;
+        c = 1 + aa / c;
+        if (Math.abs(c) < fpmin) c = fpmin;
+        d = 1 / d;
+        h *= d * c;
+        aa = -(a + m) * (qab + m) * x / ((a + m2) * (qap + m2));
+        d = 1 + aa * d;
+        if (Math.abs(d) < fpmin) d = fpmin;
+        c = 1 + aa / c;
+        if (Math.abs(c) < fpmin) c = fpmin;
+        d = 1 / d;
+        const del = d * c;
+        h *= del;
+        if (Math.abs(del - 1) < eps) break;
+      }
+      return h;
+    }
+
+    function regularizedBeta(x, a, b) {
+      if (x <= 0) return 0;
+      if (x >= 1) return 1;
+      const bt = Math.exp(logGamma(a + b) - logGamma(a) - logGamma(b) + a * Math.log(x) + b * Math.log(1 - x));
+      if (x < (a + 1) / (a + b + 2)) {
+        return bt * betaContinuedFraction(a, b, x) / a;
+      }
+      return 1 - bt * betaContinuedFraction(b, a, 1 - x) / b;
+    }
+
+    function tCdf(t, df) {
+      const x = df / (df + t * t);
+      const ib = regularizedBeta(x, df / 2, 0.5);
+      if (t >= 0) return 1 - 0.5 * ib;
+      return 0.5 * ib;
+    }
+
+    function normalPdf(x, mu, sigma) {
+      const z = (x - mu) / sigma;
+      return Math.exp(-0.5 * z * z) / (sigma * Math.sqrt(2 * Math.PI));
+    }
+
+    function normalCdf(x) {
+      const sign = x < 0 ? -1 : 1;
+      const z = Math.abs(x) / Math.sqrt(2);
+      const t = 1 / (1 + 0.3275911 * z);
+      const a1 = 0.254829592;
+      const a2 = -0.284496736;
+      const a3 = 1.421413741;
+      const a4 = -1.453152027;
+      const a5 = 1.061405429;
+      const erf = 1 - (((((a5 * t + a4) * t) + a3) * t + a2) * t + a1) * t * Math.exp(-z * z);
+      return 0.5 * (1 + sign * erf);
+    }
+
+    function inverseNormalCdf(p) {
+      const a = [-39.69683028665376, 220.9460984245205, -275.9285104469687, 138.3577518672690, -30.66479806614716, 2.506628277459239];
+      const b = [-54.47609879822406, 161.5858368580409, -155.6989798598866, 66.80131188771972, -13.28068155288572];
+      const c = [-0.007784894002430293, -0.3223964580411365, -2.400758277161838, -2.549732539343734, 4.374664141464968, 2.938163982698783];
+      const d = [0.007784695709041462, 0.3224671290700398, 2.445134137142996, 3.754408661907416];
+      const plow = 0.02425;
+      const phigh = 1 - plow;
+      let q;
+      let r;
+      if (p <= 0) return -Infinity;
+      if (p >= 1) return Infinity;
+      if (p < plow) {
+        q = Math.sqrt(-2 * Math.log(p));
+        return (((((c[0] * q + c[1]) * q + c[2]) * q + c[3]) * q + c[4]) * q + c[5]) /
+          ((((d[0] * q + d[1]) * q + d[2]) * q + d[3]) * q + 1);
+      }
+      if (p > phigh) {
+        q = Math.sqrt(-2 * Math.log(1 - p));
+        return -(((((c[0] * q + c[1]) * q + c[2]) * q + c[3]) * q + c[4]) * q + c[5]) /
+          ((((d[0] * q + d[1]) * q + d[2]) * q + d[3]) * q + 1);
+      }
+      q = p - 0.5;
+      r = q * q;
+      return (((((a[0] * r + a[1]) * r + a[2]) * r + a[3]) * r + a[4]) * r + a[5]) * q /
+        (((((b[0] * r + b[1]) * r + b[2]) * r + b[3]) * r + b[4]) * r + 1);
+    }
+
+    function overlapMetrics() {
+      const sigma = 10;
+      const noncentral = state.delta / (sigma * Math.sqrt(2 / state.n));
+      const cutoff = inverseNormalCdf(1 - state.alpha);
+      const beta = normalCdf(cutoff - noncentral);
+      const power = 1 - beta;
+      const correct = 1 - state.alpha;
+      return { sigma, noncentral, cutoff, beta, power, correct };
+    }
+
+    function overlapChart() {
+      const w = 560;
+      const h = 320;
+      const pad = { left: 40, right: 18, top: 18, bottom: 42 };
+      const innerW = w - pad.left - pad.right;
+      const innerH = h - pad.top - pad.bottom;
+      const metrics = overlapMetrics();
+      const noncentral = metrics.noncentral;
+      const cutoff = metrics.cutoff;
+      let xMin = Math.min(-3.6, noncentral - 3.8);
+      let xMax = Math.max(4.3, noncentral + 3.8);
+      if (state.zoom === "focus") {
+        if (state.focusRegion === "alpha") {
+          xMin = cutoff - 1.1;
+          xMax = Math.max(cutoff + 3.1, noncentral + 1.4);
+        } else if (state.focusRegion === "beta") {
+          xMin = Math.min(noncentral - 3.1, cutoff - 3.2);
+          xMax = cutoff + 1.0;
+        } else if (state.focusRegion === "power") {
+          xMin = cutoff - 1.0;
+          xMax = Math.max(noncentral + 3.1, cutoff + 2.6);
+        } else if (state.focusRegion === "correct") {
+          xMin = Math.min(-3.6, cutoff - 3.8);
+          xMax = cutoff + 0.9;
+        } else {
+          xMin = cutoff - 1.7;
+          xMax = cutoff + 1.7;
+        }
+      }
+      const scaleX = function(x) {
+        return pad.left + ((x - xMin) / Math.max(xMax - xMin, 1e-9)) * innerW;
+      };
+      const pdf0 = function(x) { return normalPdf(x, 0, 1); };
+      const pdf1 = function(x) { return normalPdf(x, noncentral, 1); };
+      const yMax = Math.max(pdf0(0), pdf1(noncentral)) * 1.18;
+      const scaleY = function(y) {
+        return pad.top + innerH - (y / yMax) * innerH;
+      };
+      const pathFor = function(pdf) {
+        const parts = [];
+        for (let i = 0; i <= 160; i += 1) {
+          const x = xMin + (xMax - xMin) * i / 160;
+          parts.push((i === 0 ? "M " : "L ") + scaleX(x).toFixed(1) + " " + scaleY(pdf(x)).toFixed(1));
+        }
+        return parts.join(" ");
+      };
+      const areaPath = function(pdf, lo, hi) {
+        const start = Math.max(lo, xMin);
+        const end = Math.min(hi, xMax);
+        if (end <= start) return "";
+        const parts = ["M " + scaleX(start).toFixed(1) + " " + scaleY(0).toFixed(1)];
+        for (let i = 0; i <= 80; i += 1) {
+          const x = start + (end - start) * i / 80;
+          parts.push("L " + scaleX(x).toFixed(1) + " " + scaleY(pdf(x)).toFixed(1));
+        }
+        parts.push("L " + scaleX(end).toFixed(1) + " " + scaleY(0).toFixed(1));
+        parts.push("Z");
+        return parts.join(" ");
+      };
+      const cutoffX = scaleX(cutoff);
+      const axisY = scaleY(0);
+      const active = function(region) {
+        return state.focusRegion === region ? " active" : " dim";
+      };
+      const shown = function(path) {
+        return path ? path : "";
+      };
+      const pointerIcon = function(x, y, color) {
+        return `
+          <g class="tap-icon" transform="translate(${x.toFixed(1)} ${y.toFixed(1)})">
+            <path d="M0 0 L0 17 L4.7 12.8 L7.4 20 L11.5 18.5 L8.7 11.4 L15.2 11.4 Z" fill="#fffdf7" stroke="${color}" stroke-width="1.6" stroke-linejoin="round"></path>
+          </g>
+        `;
+      };
+      const callout = function(region, label, color, bx, by, ax, ay, wBox) {
+        if (state.zoom === "focus" && state.focusRegion !== region) return "";
+        const boxW = wBox || 104;
+        const boxH = 30;
+        const boxX = clamp(bx, pad.left, w - pad.right - boxW);
+        const boxY = clamp(by, pad.top + 4, axisY - boxH - 6);
+        const calloutClass = state.focusRegion === region ? "callout active" : "callout dim";
+        return `
+          <g class="${calloutClass}" data-region="${region}" tabindex="0" role="button" aria-label="${region} explanation">
+            <line x1="${(boxX + boxW / 2).toFixed(1)}" y1="${(boxY + boxH).toFixed(1)}" x2="${ax.toFixed(1)}" y2="${ay.toFixed(1)}" stroke="${color}" stroke-width="1.2"></line>
+            <rect x="${boxX.toFixed(1)}" y="${boxY.toFixed(1)}" width="${boxW}" height="${boxH}" rx="7" fill="#fffdf7" stroke="${color}" stroke-width="1.4"></rect>
+            <text x="${(boxX + boxW / 2).toFixed(1)}" y="${(boxY + 19).toFixed(1)}" text-anchor="middle" font-size="11" font-weight="800" fill="${color}" font-family="ui-monospace, monospace">${label}</text>
+          </g>
+        `;
+      };
+      const correctAnchor = clamp(Math.min(cutoff - .55, -0.45), xMin + .35, cutoff - .25);
+      const alphaAnchor = Math.min(xMax - .15, Math.max(cutoff + .35, cutoff + .95));
+      const betaAnchor = Math.min(cutoff - .25, Math.max(xMin + .35, (noncentral + cutoff) / 2));
+      const powerAnchor = Math.min(xMax - .25, Math.max(cutoff + .55, noncentral + .65));
+      const correctX = scaleX(correctAnchor);
+      const alphaX = scaleX(alphaAnchor);
+      const betaX = scaleX(betaAnchor);
+      const powerX = scaleX(powerAnchor);
+      const correctY = scaleY(pdf0(correctAnchor) * .50);
+      const alphaY = scaleY(pdf0(alphaAnchor) * .48);
+      const betaY = scaleY(pdf1(betaAnchor) * .50);
+      const powerY = scaleY(pdf1(powerAnchor) * .52);
+      const fullView = state.zoom !== "focus";
+      const correctBoxX = fullView ? scaleX(-2.55) : correctX - 62;
+      const correctBoxY = fullView ? axisY - 96 : correctY - 58;
+      const alphaBoxX = fullView ? cutoffX + 22 : alphaX - 48;
+      const alphaBoxY = fullView ? axisY - 92 : alphaY - 58;
+      const betaBoxX = fullView ? cutoffX - 154 : betaX - 46;
+      const betaBoxY = fullView ? axisY - 190 : betaY - 62;
+      const powerBoxX = fullView ? cutoffX + 18 : powerX - 50;
+      const powerBoxY = fullView ? axisY - 180 : powerY - 62;
+      return `
+        <svg class="decision-chart" viewBox="0 0 ${w} ${h}" role="img" aria-label="Overlapping null and alternative distributions">
+          <rect x="0" y="0" width="${w}" height="${h}" rx="8" fill="${COLORS.card}"></rect>
+          <g class="region${active("correct")}" data-region="correct" tabindex="0" role="button" aria-label="Correct no alarm region">
+            <path class="area" d="${shown(areaPath(pdf0, xMin, cutoff))}" fill="${COLORS.blue}" stroke="${COLORS.blue}" opacity=".18"></path>
+            ${pointerIcon(correctX + 4, Math.min(axisY - 34, correctY - 10), COLORS.blue)}
+          </g>
+          <g class="region${active("alpha")}" data-region="alpha" tabindex="0" role="button" aria-label="Alpha Type I error region">
+            <path class="area" d="${shown(areaPath(pdf0, cutoff, xMax))}" fill="${COLORS.red}" stroke="${COLORS.red}" opacity=".30"></path>
+            ${pointerIcon(alphaX + 6, Math.min(axisY - 34, alphaY - 6), COLORS.red)}
+          </g>
+          <g class="region${active("beta")}" data-region="beta" tabindex="0" role="button" aria-label="Beta Type II error region">
+            <path class="area" d="${shown(areaPath(pdf1, xMin, cutoff))}" fill="${COLORS.sun}" stroke="#8d6b00" opacity=".34"></path>
+            ${pointerIcon(betaX + 4, Math.min(axisY - 34, betaY - 10), "#8d6b00")}
+          </g>
+          <g class="region${active("power")}" data-region="power" tabindex="0" role="button" aria-label="Power region">
+            <path class="area" d="${shown(areaPath(pdf1, cutoff, xMax))}" fill="${COLORS.teal}" stroke="${COLORS.teal}" opacity=".24"></path>
+            ${pointerIcon(powerX + 4, Math.min(axisY - 34, powerY - 10), COLORS.teal)}
+          </g>
+          <line x1="${pad.left}" x2="${w - pad.right}" y1="${axisY}" y2="${axisY}" stroke="${COLORS.ink}" stroke-width="1.2"></line>
+          <path d="${pathFor(pdf0)}" fill="none" stroke="${COLORS.blue}" stroke-width="2.4"></path>
+          <path d="${pathFor(pdf1)}" fill="none" stroke="${COLORS.teal}" stroke-width="2.4"></path>
+          <g class="region${active("cutoff")}" data-region="cutoff" tabindex="0" role="button" aria-label="Decision cutoff">
+            <rect x="${(cutoffX - 7).toFixed(1)}" y="${pad.top}" width="14" height="${(axisY - pad.top).toFixed(1)}" fill="transparent"></rect>
+            <line x1="${cutoffX.toFixed(1)}" x2="${cutoffX.toFixed(1)}" y1="${pad.top}" y2="${axisY}" stroke="${COLORS.ink}" stroke-width="1.8" stroke-dasharray="5 5"></line>
+          </g>
+          <text x="${scaleX(0).toFixed(1)}" y="${scaleY(pdf0(0)) - 8}" text-anchor="middle" font-size="11" font-weight="700" fill="${COLORS.blue}" font-family="ui-monospace, monospace">H0</text>
+          <text x="${scaleX(noncentral).toFixed(1)}" y="${scaleY(pdf1(noncentral)) - 8}" text-anchor="middle" font-size="11" font-weight="700" fill="${COLORS.teal}" font-family="ui-monospace, monospace">H1</text>
+          <text x="${cutoffX.toFixed(1)}" y="${h - 18}" text-anchor="middle" font-size="11" font-weight="800" fill="${COLORS.ink}" font-family="ui-monospace, monospace">cutoff</text>
+          <text x="${cutoffX.toFixed(1)}" y="${h - 5}" text-anchor="middle" font-size="10" font-weight="700" fill="${COLORS.ink3}" font-family="ui-monospace, monospace">reject H0 to the right</text>
+          ${callout("correct", "correct = " + percent(metrics.correct), COLORS.blue, correctBoxX, correctBoxY, correctX, correctY, 124)}
+          ${callout("alpha", "alpha = " + percent(state.alpha), COLORS.red, alphaBoxX, alphaBoxY, alphaX, alphaY, 108)}
+          ${callout("beta", "beta = " + percent(metrics.beta), "#8d6b00", betaBoxX, betaBoxY, betaX, betaY, 100)}
+          ${callout("power", "power = " + percent(metrics.power), COLORS.teal, powerBoxX, powerBoxY, powerX, powerY, 112)}
+        </svg>
+      `;
+    }
+
+    function twoSampleTest(delta) {
+      const groupA = [];
+      const groupB = [];
+      const baseMean = 70;
+      const sigma = 10;
+      for (let i = 0; i < state.n; i += 1) {
+        groupA.push(normalDraw(baseMean, sigma));
+        groupB.push(normalDraw(baseMean + delta, sigma));
+      }
+      const meanA = mean(groupA);
+      const meanB = mean(groupB);
+      const vA = variance(groupA);
+      const vB = variance(groupB);
+      const df = 2 * state.n - 2;
+      const pooled = ((state.n - 1) * vA + (state.n - 1) * vB) / df;
+      const se = Math.sqrt(pooled * (2 / state.n));
+      const t = se > 0 ? (meanB - meanA) / se : 0;
+      const p = 1 - tCdf(t, df);
+      const reject = p < state.alpha;
+      return { groupA, groupB, meanA, meanB, diff: meanB - meanA, t, p, reject };
+    }
+
+    function simulate(count) {
+      for (let i = 0; i < count; i += 1) {
+        const nullTest = twoSampleTest(0);
+        state.nullWorld.total += 1;
+        if (nullTest.reject) state.nullWorld.reject += 1;
+        state.nullWorld.latest = nullTest;
+
+        const signalTest = twoSampleTest(state.delta);
+        state.signalWorld.total += 1;
+        if (signalTest.reject) state.signalWorld.reject += 1;
+        state.signalWorld.latest = signalTest;
+      }
+    }
+
+    function reset(withSeed) {
+      state.nullWorld = { total: 0, reject: 0, latest: null };
+      state.signalWorld = { total: 0, reject: 0, latest: null };
+      if (withSeed) simulate(300);
+      render();
+    }
+
+    function kv(label, value) {
+      return `<div class="kv"><div class="lbl">${label}</div><div class="num">${value}</div></div>`;
+    }
+
+    function pMeter(p) {
+      const pos = clamp(p, 0, 1) * 100;
+      const alphaWidth = clamp(state.alpha, 0, 1) * 100;
+      return `
+        <div class="meter" aria-label="p-value meter">
+          <div class="alpha" style="width:${alphaWidth.toFixed(2)}%"></div>
+          <div class="dot" style="left:${pos.toFixed(2)}%"></div>
+        </div>
+      `;
+    }
+
+    function samplePlot(latest) {
+      if (!latest) return "";
+      const w = 560;
+      const h = 178;
+      const pad = { left: 42, right: 24, top: 18, bottom: 26 };
+      const innerW = w - pad.left - pad.right;
+      const xMin = 42;
+      const xMax = 108;
+      const scaleX = function(x) {
+        return pad.left + ((clamp(x, xMin, xMax) - xMin) / (xMax - xMin)) * innerW;
+      };
+      const dotRows = function(values, yBase, color) {
+        const shownValues = values.slice(0, 42);
+        return shownValues.map(function(value, i) {
+          const y = yBase + ((i % 4) - 1.5) * 7;
+          return `<circle cx="${scaleX(value).toFixed(1)}" cy="${y.toFixed(1)}" r="4.4" fill="${color}" opacity=".72"></circle>`;
+        }).join("");
+      };
+      const meanLine = function(value, color, label, y1, y2) {
+        const x = scaleX(value);
+        return `
+          <line x1="${x.toFixed(1)}" x2="${x.toFixed(1)}" y1="${y1}" y2="${y2}" stroke="${color}" stroke-width="2"></line>
+          <text x="${x.toFixed(1)}" y="${y1 - 5}" text-anchor="middle" font-size="10" font-weight="800" fill="${color}" font-family="ui-monospace, monospace">${label}</text>
+        `;
+      };
+      return `
+        <svg class="sample-plot" viewBox="0 0 ${w} ${h}" role="img" aria-label="One two-sample draw">
+          <rect x="0" y="0" width="${w}" height="${h}" rx="8" fill="#fffdf7"></rect>
+          <line x1="${pad.left}" x2="${w - pad.right}" y1="146" y2="146" stroke="#d8cfbd" stroke-width="1.2"></line>
+          <text x="16" y="56" font-size="12" font-weight="800" fill="${COLORS.blue}" font-family="ui-monospace, monospace">A</text>
+          <text x="16" y="104" font-size="12" font-weight="800" fill="${COLORS.teal}" font-family="ui-monospace, monospace">B</text>
+          ${dotRows(latest.groupA, 56, COLORS.blue)}
+          ${dotRows(latest.groupB, 104, COLORS.teal)}
+          ${meanLine(latest.meanA, COLORS.blue, "mean A", 32, 77)}
+          ${meanLine(latest.meanB, COLORS.teal, "mean B", 80, 125)}
+          <text x="${pad.left}" y="164" font-size="10" font-weight="700" fill="${COLORS.ink3}" font-family="ui-monospace, monospace">lower values</text>
+          <text x="${w - pad.right}" y="164" text-anchor="end" font-size="10" font-weight="700" fill="${COLORS.ink3}" font-family="ui-monospace, monospace">higher values</text>
+        </svg>
+      `;
+    }
+
+    function sampleLab() {
+      const latest = state.demoWorld === "null" ? state.nullWorld.latest : state.signalWorld.latest;
+      if (!latest) return "";
+      const worldText = state.demoWorld === "null"
+        ? "The two populations have the same true average."
+        : "Group B really has a higher true average.";
+      const decision = latest.reject ? "Reject H0" : "Do not reject";
+      return `
+        <div class="sample-lab">
+          <div class="sample-top">
+            <div>
+              <p class="mini-title" style="margin:0 0 5px">1. Start with sample data</p>
+              <div class="sample-note">${worldText} Draw one sample from group A and one sample from group B.</div>
+            </div>
+            <button class="btn sm" data-draw-one="1">Draw new sample</button>
+          </div>
+          <div class="world-picker">
+            <button class="choice-btn ${state.demoWorld === "null" ? "active" : ""}" data-demo-world="null">
+              <b>Same true average</b>
+              <span>This is the H0 world. A rejection would be a false alarm.</span>
+            </button>
+            <button class="choice-btn ${state.demoWorld === "signal" ? "active" : ""}" data-demo-world="signal">
+              <b>B really higher</b>
+              <span>This is the H1 world. A non-rejection would miss the signal.</span>
+            </button>
+          </div>
+          ${samplePlot(latest)}
+          <div class="sample-summary">
+            ${kv("Mean A", fmt(latest.meanA, 1))}
+            ${kv("Mean B", fmt(latest.meanB, 1))}
+            ${kv("p-value", fmt(latest.p, 3))}
+            ${kv("Decision", decision)}
+          </div>
+          <div class="sample-note">The dots are one random sample. The p-value asks how unusual this standardized B minus A difference would be if H0 were true.</div>
+        </div>
+      `;
+    }
+
+    function regionInfo() {
+      const metrics = overlapMetrics();
+      const entries = {
+        alpha: {
+          label: "alpha",
+          text: "<b>Alpha</b> is the target Type I error probability. It is the red right-tail area under H0. With alpha = " + percent(state.alpha) + ", about " + percent(state.alpha) + " of repeated tests would reject H0 even when the two true averages are equal."
+        },
+        correct: {
+          label: "correct",
+          text: "<b>Correct no alarm</b> is the blue area under H0 to the left of the cutoff. It is the probability of not rejecting H0 when H0 is true. Here it is " + percent(metrics.correct) + ", and correct no alarm + alpha = 1."
+        },
+        beta: {
+          label: "beta",
+          text: "<b>Beta</b> is the Type II error probability. It is the yellow area under H1 that stays left of the cutoff. Here beta is about " + percent(metrics.beta) + ", and beta + power = 1."
+        },
+        power: {
+          label: "power",
+          text: "<b>Power</b> is the probability of detecting the signal when H1 is true. It is the green area under H1 to the right of the cutoff. Here power is about " + percent(metrics.power) + ", and power = 1 - beta."
+        },
+        cutoff: {
+          label: "cutoff",
+          text: "<b>The cutoff</b> is chosen from alpha. Moving alpha changes this line. Values to the right are called statistically significant in this one-sided test."
+        }
+      };
+      const item = entries[state.focusRegion] || entries.power;
+      return `
+        <div class="region-info">
+          <div class="region-pill">${item.label}</div>
+          <div>${item.text}</div>
+        </div>
+      `;
+    }
+
+    function worldCard(title, subtitle, latest, mode) {
+      if (!latest) return "";
+      let status = "";
+      let cls = "";
+      if (mode === "null") {
+        if (latest.reject) {
+          status = "Type I error: false alarm";
+          cls = "false";
+        } else {
+          status = "Correct: no alarm";
+          cls = "detect";
+        }
+      } else {
+        if (latest.reject) {
+          status = "Detected signal";
+          cls = "detect";
+        } else {
+          status = "Type II error: missed signal";
+          cls = "miss";
+        }
+      }
+      return `
+        <div class="world-card ${cls}">
+          <b>${title}</b>
+          <span>${subtitle}</span>
+          <div class="world-kv">
+            ${kv("B minus A", fmt(latest.diff, 1))}
+            ${kv("p-value", fmt(latest.p, 3))}
+            ${kv("Decision", latest.reject ? "Reject" : "Do not")}
+          </div>
+          ${pMeter(latest.p)}
+          <span style="margin-top:10px;font-weight:760;color:#1a1a1f">${status}</span>
+        </div>
+      `;
+    }
+
+    function outcomeToRegion(outcome) {
+      if (outcome === "typeI") return "alpha";
+      if (outcome === "correct") return "correct";
+      if (outcome === "typeII") return "beta";
+      if (outcome === "power") return "power";
+      return "cutoff";
+    }
+
+    function regionToOutcome(region) {
+      if (region === "alpha") return "typeI";
+      if (region === "correct") return "correct";
+      if (region === "beta") return "typeII";
+      if (region === "power") return "power";
+      return state.focusOutcome;
+    }
+
+    function decisionChart() {
+      const w = 560;
+      const h = 262;
+      const rows = [
+        { key: "typeI", label: "Type I false alarm", sub: "H0 true, reject H0", value: state.nullWorld.total ? state.nullWorld.reject / state.nullWorld.total : 0, color: COLORS.red },
+        { key: "correct", label: "Correct no alarm", sub: "H0 true, do not reject", value: state.nullWorld.total ? 1 - state.nullWorld.reject / state.nullWorld.total : 0, color: COLORS.blue },
+        { key: "power", label: "Power detected", sub: "H1 true, reject H0", value: state.signalWorld.total ? state.signalWorld.reject / state.signalWorld.total : 0, color: COLORS.teal },
+        { key: "typeII", label: "Beta / Type II miss", sub: "H1 true, do not reject", value: state.signalWorld.total ? 1 - state.signalWorld.reject / state.signalWorld.total : 0, color: COLORS.sun }
+      ];
+      const left = 198;
+      const right = 34;
+      const barW = w - left - right;
+      let parts = "";
+      rows.forEach(function(row, i) {
+        const y = 28 + i * 56;
+        const bw = barW * row.value;
+        const cls = row.key === state.focusOutcome ? "active" : "dim";
+        parts += `
+          <g class="outcome-row ${cls}" data-outcome="${row.key}" tabindex="0" role="button" aria-label="${row.label}">
+            <rect x="10" y="${y - 9}" width="${w - 20}" height="45" rx="8" fill="transparent"></rect>
+            <text x="22" y="${y + 8}" font-size="12" font-weight="800" fill="${COLORS.ink2}" font-family="ui-sans-serif, system-ui">${row.label}</text>
+            <text x="22" y="${y + 24}" font-size="10.5" font-weight="700" fill="${COLORS.ink3}" font-family="ui-monospace, monospace">${row.sub}</text>
+            <rect x="${left}" y="${y}" width="${barW}" height="20" rx="6" fill="#f2ecdc"></rect>
+            <rect class="bar" x="${left}" y="${y}" width="${bw.toFixed(1)}" height="20" rx="6" fill="${row.color}"></rect>
+            <text x="${w - 18}" y="${y + 14}" text-anchor="end" font-size="12" font-weight="800" fill="${COLORS.ink}" font-family="ui-monospace, monospace">${percent(row.value)}</text>
+          </g>
+        `;
+      });
+      return `
+        <svg class="decision-chart" viewBox="0 0 ${w} ${h}" role="img" aria-label="Repeated test decision rates">
+          <rect x="0" y="0" width="${w}" height="${h}" rx="8" fill="${COLORS.card}"></rect>
+          ${parts}
+        </svg>
+      `;
+    }
+
+    function outcomeInfo() {
+      const typeI = state.nullWorld.total ? state.nullWorld.reject / state.nullWorld.total : 0;
+      const correct = state.nullWorld.total ? 1 - typeI : 0;
+      const power = state.signalWorld.total ? state.signalWorld.reject / state.signalWorld.total : 0;
+      const beta = state.signalWorld.total ? 1 - power : 0;
+      const entries = {
+        typeI: {
+          label: "Type I",
+          text: "<b>Type I false alarm</b> is wrong: H0 is true, but the test rejects H0. Its long-run target is alpha = " + percent(state.alpha) + ". In the H0 world, Type I false alarm + Correct no alarm = 1. Current simulation: " + percent(typeI) + " + " + percent(correct) + " = 100.0%."
+        },
+        correct: {
+          label: "Correct",
+          text: "<b>Correct no alarm</b> is right: H0 is true, and the test does not reject H0. In the H0 world, Correct no alarm = 1 - Type I false alarm. Current simulation: " + percent(correct) + " = 1 - " + percent(typeI) + "."
+        },
+        power: {
+          label: "Power",
+          text: "<b>Power detected</b> is right: H1 is true, and the test rejects H0. Power is the chance of detecting this size of real difference. In the H1 world, Power + Beta = 1. Current simulation: " + percent(power) + " + " + percent(beta) + " = 100.0%."
+        },
+        typeII: {
+          label: "Beta",
+          text: "<b>Beta / Type II missed signal</b> is wrong: H1 is true, but the test does not reject H0. Beta is the Type II error probability. In the H1 world, Beta = 1 - Power. Current simulation: " + percent(beta) + " = 1 - " + percent(power) + "."
+        }
+      };
+      const item = entries[state.focusOutcome] || entries.power;
+      return `
+        <div class="outcome-info">
+          <div class="outcome-pill">${item.label}</div>
+          <div>${item.text}</div>
+        </div>
+      `;
+    }
+
+    function stat(label, value, sub, tone) {
+      return `
+        <div class="stat ${tone || ""}">
+          <div class="lbl">${label}</div>
+          <div class="num">${value}</div>
+          <div class="sub">${sub || ""}</div>
+        </div>
+      `;
+    }
+
+    function start() {
+      stop();
+      state.running = true;
+      timerId = window.setInterval(function() {
+        simulate(Math.max(1, Math.round(5 * state.speed)));
+        render();
+      }, Math.max(45, 170 / state.speed));
+      render();
+    }
+
+    function stop() {
+      state.running = false;
+      if (timerId !== null) {
+        window.clearInterval(timerId);
+        timerId = null;
+      }
+    }
+
+    function toggle() {
+      if (state.running) {
+        stop();
+        render();
+      } else {
+        start();
+      }
+    }
+
+    function render() {
+      const typeI = state.nullWorld.total ? state.nullWorld.reject / state.nullWorld.total : 0;
+      const power = state.signalWorld.total ? state.signalWorld.reject / state.signalWorld.total : 0;
+      const typeII = 1 - power;
+
+      document.getElementById("delta-label").textContent = "+" + state.delta + " points";
+      document.getElementById("n-label").textContent = String(state.n);
+      document.getElementById("alpha-label").textContent = percent(state.alpha);
+      document.getElementById("speed-label").textContent = state.speed.toFixed(1) + "x";
+      document.getElementById("toggle").textContent = state.running ? "Pause" : "Start repeated tests";
+      document.getElementById("run-state").textContent = state.running ? "Running" : "Ready";
+      document.getElementById("run-state").className = state.running ? "chip live" : "chip";
+
+      document.getElementById("worlds").innerHTML = [
+        worldCard("H0 true world", "No real difference. Any rejection is a false alarm.", state.nullWorld.latest, "null"),
+        worldCard("H1 true world", "B is truly higher by " + state.delta + " points. Any non-rejection is a missed signal.", state.signalWorld.latest, "signal")
+      ].join("");
+
+      document.getElementById("sample-lab").innerHTML = sampleLab();
+      document.getElementById("overlap-chart").innerHTML = overlapChart();
+      document.getElementById("region-info").innerHTML = regionInfo();
+      document.getElementById("decision-chart").innerHTML = decisionChart();
+      document.getElementById("outcome-info").innerHTML = outcomeInfo();
+      document.getElementById("stats").innerHTML = [
+        stat("Tests per world", state.nullWorld.total.toLocaleString(), "same count in both worlds", ""),
+        stat("Alpha target", percent(state.alpha), "chosen Type I target", "hot"),
+        stat("Type I rate", percent(typeI), "H0 true, rejected", "hot"),
+        stat("Power", percent(power), "H1 true, rejected", "cool"),
+        stat("Beta / Type II", percent(typeII), "H1 true, not rejected", "warn"),
+        stat("Sample size", String(state.n), "per group", "")
+      ].join("");
+
+      document.querySelectorAll("[data-zoom]").forEach(function(button) {
+        const isActive = button.getAttribute("data-zoom") === state.zoom;
+        button.className = isActive ? "btn ghost sm active" : "btn ghost sm";
+      });
+    }
+
+    document.getElementById("delta").addEventListener("input", function(event) {
+      stop();
+      state.delta = Number(event.target.value);
+      reset(true);
+    });
+
+    document.getElementById("sample-size").addEventListener("input", function(event) {
+      stop();
+      state.n = Number(event.target.value);
+      reset(true);
+    });
+
+    document.getElementById("alpha").addEventListener("input", function(event) {
+      stop();
+      state.alpha = Number(event.target.value) / 100;
+      reset(true);
+    });
+
+    document.getElementById("speed").addEventListener("input", function(event) {
+      state.speed = Number(event.target.value);
+      if (state.running) start();
+      else render();
+    });
+
+    document.getElementById("toggle").addEventListener("click", toggle);
+    document.getElementById("reset").addEventListener("click", function() {
+      stop();
+      reset(false);
+    });
+
+    document.querySelectorAll("[data-batch]").forEach(function(button) {
+      button.addEventListener("click", function() {
+        stop();
+        simulate(Number(button.getAttribute("data-batch")));
+        render();
+      });
+    });
+
+    document.addEventListener("click", function(event) {
+      const worldButton = event.target.closest("[data-demo-world]");
+      if (worldButton) {
+        stop();
+        state.demoWorld = worldButton.getAttribute("data-demo-world");
+        state.focusRegion = state.demoWorld === "null" ? "alpha" : "power";
+        state.focusOutcome = state.demoWorld === "null" ? "typeI" : "power";
+        render();
+        return;
+      }
+      const drawButton = event.target.closest("[data-draw-one]");
+      if (drawButton) {
+        stop();
+        simulate(1);
+        render();
+        return;
+      }
+      const regionButton = event.target.closest("[data-region]");
+      if (regionButton) {
+        state.focusRegion = regionButton.getAttribute("data-region");
+        state.focusOutcome = regionToOutcome(state.focusRegion);
+        render();
+        return;
+      }
+      const outcomeButton = event.target.closest("[data-outcome]");
+      if (outcomeButton) {
+        state.focusOutcome = outcomeButton.getAttribute("data-outcome");
+        state.focusRegion = outcomeToRegion(state.focusOutcome);
+        render();
+        return;
+      }
+      const zoomButton = event.target.closest("[data-zoom]");
+      if (zoomButton) {
+        state.zoom = zoomButton.getAttribute("data-zoom");
+        render();
+      }
+    });
+
+    document.addEventListener("mouseover", function(event) {
+      const outcomeButton = event.target.closest("[data-outcome]");
+      if (!outcomeButton) return;
+      state.focusOutcome = outcomeButton.getAttribute("data-outcome");
+      state.focusRegion = outcomeToRegion(state.focusOutcome);
+      render();
+    });
+
+    document.addEventListener("keydown", function(event) {
+      if (event.key !== "Enter" && event.key !== " ") return;
+      const regionButton = event.target.closest("[data-region]");
+      const outcomeButton = event.target.closest("[data-outcome]");
+      if (!regionButton && !outcomeButton) return;
+      event.preventDefault();
+      if (regionButton) {
+        state.focusRegion = regionButton.getAttribute("data-region");
+        state.focusOutcome = regionToOutcome(state.focusRegion);
+      } else {
+        state.focusOutcome = outcomeButton.getAttribute("data-outcome");
+        state.focusRegion = outcomeToRegion(state.focusOutcome);
+      }
+      render();
+    });
+
+    reset(true);
+  </script>
+</body>
+</html>
