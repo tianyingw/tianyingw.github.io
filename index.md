@@ -26,6 +26,8 @@ I am actively looking for undergraduate and graduate students to work on fun res
 - **May 2026**: Our manuscript on ["Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2605.04469) is available on [arXiv](https://arxiv.org/abs/2605.04469).
 
 - **May 2026**: Congratulations to [_Danielle Terry_](https://tianyingw.github.io/gallery/) on winning the **Undergraduate Early Academic Achievement Award**!
+
+- **May 2026**: A new [Teaching Demos](/teaching-demos/) page is available, featuring interactive browser-based statistics demos for teaching and outreach.
   
 - **May 2026**: Congratulations to [_Eva Krastev_](https://statistics.colostate.edu/person/?id=945B695DE7E79E874FC8DB3242F59E1C&sq=t) on winning the **James R. zumBrunnen Statistical Collaboration Award**!
 
