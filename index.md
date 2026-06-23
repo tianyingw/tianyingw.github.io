@@ -81,7 +81,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 - **June 2024**: Our paper on ["Genome-wide discovery for biomarkers using quantile regression at biobank scale"](https://www.nature.com/articles/s41467-024-50726-x) is accepted by **_Nature Communications_**.
   
-- **May 2024**: Tianying received a seed grant from the [Center for Interdisciplinary Mathematics and Statistics](https://www.natsci.colostate.edu/research/) at _Colorado State Univeristy_.
+- **May 2024**: Tianying received a seed grant from the [Center for Interdisciplinary Mathematics and Statistics](https://www.natsci.colostate.edu/research/) at _Colorado State University_.
   
 - **January 2024**: Our paper on ["ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf) is accepted by **_Statistica Sinica_**.
   
@@ -95,9 +95,9 @@ I am actively looking for undergraduate and graduate students to work on fun res
  
 - **February 2023**: Our paper on ["Gaussian Processes with Errors in Variables: theory and computation"](https://jmlr.org/papers/volume24/21-1480/21-1480.pdf) is accepted by **_Journal of Machine Learning Research_**.
 
-- **November 2022**: Our paper on [A flexible zero-inflated Poisson-Gamma model with application to microbiome read count data](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447) is accepted by **_Journal of the American Statistical Association_**.
+- **November 2022**: Our paper on [A flexible zero-inflated Poisson-Gamma model with application to microbiome sequence count data](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447) is accepted by **_Journal of the American Statistical Association_**.
 
-- **July 2022**: Our manuscript on [A flexible zero-inflated Poisson-Gamma model with application to microbiome read count data](https://arxiv.org/pdf/2207.07796.pdf) is now available on [arXiv](https://arxiv.org/pdf/2207.07796.pdf).
+- **July 2022**: Our manuscript on [A flexible zero-inflated Poisson-Gamma model with application to microbiome sequence count data](https://arxiv.org/pdf/2207.07796.pdf) is now available on [arXiv](https://arxiv.org/pdf/2207.07796.pdf).
 
 - **June 2022**: Our manuscript on [A unified quantile framework reveals nonlinear heterogeneous transcriptome-wide associations](https://arxiv.org/pdf/2207.12081.pdf) is now available on [arXiv](https://arxiv.org/pdf/2207.12081.pdf). 
 
