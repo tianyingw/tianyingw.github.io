@@ -23,6 +23,8 @@ I am actively looking for undergraduate and graduate students to work on fun res
 
 ### News:
 
+- **July 2026**: Our manuscript on ["https://arxiv.org/abs/2604.25202"](https://arxiv.org/abs/2604.25202) is available on [arXiv](https://arxiv.org/abs/2604.25202).
+  
 - **May 2026**: Our manuscript on ["Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2605.04469) is available on [arXiv](https://arxiv.org/abs/2605.04469).
 
 - **May 2026**: Our manuscript on ["Tree-aggregated regression for compositional data with measurement errors"](https://arxiv.org/abs/2605.15469) is available on [arXiv](https://arxiv.org/abs/2605.15469).
@@ -31,9 +33,7 @@ I am actively looking for undergraduate and graduate students to work on fun res
   
 - **May 2026**: Congratulations to [_Eva Krastev_](https://statistics.colostate.edu/person/?id=945B695DE7E79E874FC8DB3242F59E1C&sq=t) on winning the **James R. zumBrunnen Statistical Collaboration Award**!
 
-- **May 2026**: A new [Teaching Demos](/teaching-demos/) page is available, featuring interactive browser-based statistics demos for teaching and outreach.
-
-- **April 2026**: Our manuscript on ["Tail allocation for conformal prediction intervals"](https://arxiv.org/abs/2604.25202) is available on [arXiv](https://arxiv.org/abs/2604.25202).
+- **April 2026**: A new [Teaching Demos](/teaching-demos/) page is available, featuring interactive browser-based statistics demos for teaching and outreach.
 
 - **March 2026**: Our paper on ["Multi-Group Quadratic Discriminant Analysis via Projection"](https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2653763) is accepted by the **_Journal of Computational and Graphical Statistics_**.
 
