@@ -25,7 +25,7 @@ I view open science practices as an important way to increase access and partici
     <ul><li>An earlier version won the <b>2025 IMS Hannan Graduate Student Travel Award</b></li></ul>
   </li>
   
-  <li value="34"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2604.25202"><i>“Tail allocation for conformal prediction intervals”</i></a>.</li>
+  <li value="34"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2604.25202"><i>“Geometry of tail allocation in conformal prediction intervals”</i></a>.</li>
     
   <li value="33"><b>Wang, T.<span>&#x2709;</span></b>, Ma, Y., and Wei, Y. (2026+). <i>“Time-varying Quantile Regression with Multi-outcome Latent Groups”.</i>
     <ul><li>An earlier version received <b>First Place</b> in the <b>ARISE (Aging Research – Innovations in Statistical Exploration) 2025 Webinar Series</b> hosted by the ASA Statistics and Data Science in Aging (SDSA) group</li></ul>
