@@ -81,5 +81,5 @@ Photo courtesy of CSU Department of Statistics — 2025 Statistics Awards Ceremo
 
 - **Related paper:** <ins>Wang, Z.**<sup><span>&#9830;</span></sup>**</ins> and **Wang, T.<span>&#x2709;</span>** (2024). ["A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0104_na.pdf), **_Statistica Sinica_**, accepted.
 
-- **Notes:** Zirui won the _Best Student Paper Award at the 2024 National Graduate Statistics Symposium, Mathematical Statistics Section_, based on this work. Congratulations, Zirui!
+- **Notes:** Zirui won the _Top Ten Paper at the 10th National Graduate Student Statistics Forum, Mathematical Statistics Section_, based on this work. Congratulations, Zirui!
 
