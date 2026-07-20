@@ -43,7 +43,10 @@ I view open science practices as an important way to increase access and partici
 
  <li value="29">Liu, Y. and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2540083">“A powerful transformation of quantitative responses for biobank-scale association studies”</a>, <b><i>Journal of the American Statistical Association</i></b>, 121(553), 678–689.</li>
 
-<li value="28"><ins>Wang, Z.<sup><span>&#9830;</span></sup></ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www3.stat.sinica.edu.tw/LatestART/SS-2024-0104_fp.pdf">“A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes”</a>, <b><i>Statistica Sinica</i></b>, 36, 1-22.</li>
+<li value="28"><ins>Wang, Z.<sup><span>&#9830;</span></sup></ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www3.stat.sinica.edu.tw/LatestART/SS-2024-0104_fp.pdf">“A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes”</a>, <b><i>Statistica Sinica</i></b>, 36, 1-22.
+     <ul><li>An earlier version won the <b> Top Ten Paper at the 10th National Graduate Student Statistics Forum, Section of Mathematical Statistics, China</b></li></ul>
+</li>
+
 
  <li value="27"><b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://link.springer.com/chapter/10.1007/978-3-032-06649-7_3">“Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression,”</a> <b><i>Big Data Analysis in Biostatistics and Bioinformatics</i></b>, 35-74.</li>
 </ol>
