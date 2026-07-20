@@ -39,7 +39,7 @@ Photo courtesy of CSU Department of Statistics — 2025 Statistics Awards Ceremo
 -------------------------------------------------------------
 
 ## Deep learning-based statistical modeling for data denoising and imputation
-- **Mentored students:** Qinhuan Luo and Yongzhe Yu. (This work was finished when Qinhuan and Yongzhen were undergraduate students at Tsinghua University from 2022-2023.)
+- **Mentored students:** Qinhuan Luo and Yongzhen Yu. (This work was finished when Qinhuan and Yongzhen were undergraduate students at Tsinghua University from 2022-2023.)
 
 <img align="center" src="/img/deep.png" alt="" width="700">
 
