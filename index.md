@@ -19,7 +19,7 @@ Colorado 80523-1877
 
 <!-- [**My CV**](https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) -->
 
-I am actively looking for undergraduate and graduate students to work on fun research projects together!
+I study the statistical foundations needed to make integrated biomedical data trustworthy for AI-enabled discovery, especially when measurements are noisy, variables are missing, and populations differ across data sources. I am actively looking for undergraduate and graduate students to work on fun research projects together!
 
 ### News:
 
