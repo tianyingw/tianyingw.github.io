@@ -24,7 +24,9 @@ I study the statistical foundations needed to make integrated biomedical data tr
 ### News:
 
 <!-- - **July 2026**: Our manuscript on ["Geometry of tail allocation in conformal prediction intervals"](https://arxiv.org/abs/2604.25202) is available on [arXiv](https://arxiv.org/abs/2604.25202).  -->
-  
+
+- **August 2026**: Tianying received an **NIH/NIA Stephen I. Katz ESI R01** award as PI for the project _"Uncovering Nonlinear Genetic Architectures in Alzheimer’s Disease Cellular Pathogenesis."_
+    
 - **May 2026**: Our manuscript on ["Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2605.04469) is available on [arXiv](https://arxiv.org/abs/2605.04469).
 
 - **May 2026**: Our manuscript on ["Tree-aggregated regression for compositional data with measurement errors"](https://arxiv.org/abs/2605.15469) is available on [arXiv](https://arxiv.org/abs/2605.15469).
