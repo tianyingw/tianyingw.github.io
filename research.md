@@ -4,7 +4,7 @@ title: Statistical Methodology
 ---
 
 <p align="justify">
-My research develops statistical methodology for reliable inference and uncertainty quantification in complex biomedical data, where distribution shift, outcome heterogeneity, and imperfect measurements are unavoidable. I focus on methods that are robust, interpretable, and computationally scalable, motivated by problems in statistical genetics and genomics, epidemiology, and electronic health records. For a guided overview of how these methods connect, watch the [interactive research story](/Research-Story.html).
+My research develops statistical methodology for reliable inference and uncertainty quantification in complex biomedical data, where distribution shift, outcome heterogeneity, and imperfect measurements are unavoidable. I focus on methods that are robust, interpretable, and computationally scalable, motivated by problems in statistical genetics and genomics, epidemiology, and electronic health records. 
 </p>
 
 <p align="justify">
