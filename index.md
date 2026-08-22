@@ -21,6 +21,8 @@ Colorado 80523-1877
 
 I study the statistical foundations needed to make integrated biomedical data trustworthy for AI-enabled discovery, especially when measurements are noisy, variables are missing, and populations differ across data sources. I am actively looking for undergraduate and graduate students to work on fun research projects together!
 
+**[▶ Watch my interactive research story](/Research-Story.html)** — a 2-minute animated tour of my research program, with demos you can explore.
+
 ### News:
 
 <!-- - **July 2026**: Our manuscript on ["Geometry of tail allocation in conformal prediction intervals"](https://arxiv.org/abs/2604.25202) is available on [arXiv](https://arxiv.org/abs/2604.25202).  -->
