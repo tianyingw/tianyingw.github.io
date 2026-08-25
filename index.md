@@ -19,9 +19,13 @@ Colorado 80523-1877
 
 <!-- [**My CV**](https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) -->
 
-I study the statistical foundations needed to make integrated biomedical data trustworthy for AI-enabled discovery, especially when measurements are noisy, variables are missing, and populations differ across data sources. I am actively looking for undergraduate and graduate students to work on fun research projects together!
+I study the statistical foundations needed to make integrated biomedical data trustworthy for AI-enabled discovery, especially when measurements are noisy, variables are missing, and populations differ across data sources. 
 
 **[▶ Watch my interactive research story](/Research-Story.html)** — a 2-minute animated tour of my research program, with demos you can explore.
+
+### Join Us:
+
+I am looking for multiple postdoctoral fellows to join our research group. If you are interested, please feel free to reach out to me by email.
 
 ### News:
 
