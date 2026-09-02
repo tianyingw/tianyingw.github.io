@@ -19,7 +19,7 @@ Colorado 80523-1877
 
 <!-- [**My CV**](https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) -->
 
-I study the statistical foundations needed to make integrated biomedical data trustworthy for AI-enabled discovery, especially when measurements are noisy, variables are missing, and populations differ across data sources. 
+I develop statistical methods for reliable inference with imperfect, heterogeneous, and multi-source data. My research spans statistical methodology and statistical genetics, with a particular focus on genomics, aging, and Alzheimer’s disease.
 
 **[▶ Watch my interactive research story](/Research-Story.html)** — a 2-minute animated tour of my research program, with demos you can explore.
 
