@@ -36,7 +36,7 @@ I view open science practices as an important way to increase access and partici
 ### 2026
 <ol class="pub-list">
 
-<li value="32"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2605.04469"><i>“Augmented transfer regression learning for completely missing covariates”,</i></a> <b><i>Journal of the Royal Statistical Society: Series B</i></b>, accepted.
+<li value="32"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://arxiv.org/abs/2605.04469"><i>“Augmented transfer regression learning for completely missing covariates”,</i></a> <b><i>Journal of the Royal Statistical Society: Series B</i></b>, accepted.
     <ul><li>An earlier version won the <b>2025 IMS Hannan Graduate Student Travel Award</b></li></ul>
 </li>
   
