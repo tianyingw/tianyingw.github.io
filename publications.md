@@ -16,7 +16,7 @@ I view open science practices as an important way to increase access and partici
 <ins>underline</ins> indicates a student co-author, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
 </p>
 
-### Under Review
+### Selected Papaers Under Review
 <ol class="pub-list">
   
   <li value="35"><ins>Li, Z.<sup><span>&#9830;</span></sup></ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2605.15469"><i>“Tree-aggregated regression for compositional data with measurement errors”.</i></a></li> 
