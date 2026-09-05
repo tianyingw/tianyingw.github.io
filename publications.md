@@ -21,22 +21,25 @@ I view open science practices as an important way to increase access and partici
   
   <li value="36"><ins>Li, Z.<sup><span>&#9830;</span></sup></ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2605.15469"><i>“Tree-aggregated regression for compositional data with measurement errors”.</i></a></li>
   
-  <li value="35"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2605.04469"><i>“Augmented transfer regression learning for completely missing covariates”.</i></a> Minor revision at JRSS Series B.
-    <ul><li>An earlier version won the <b>2025 IMS Hannan Graduate Student Travel Award</b></li></ul>
-  </li>
+ 
   
-  <li value="34"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2604.25202"><i>“Geometry of tail allocation in conformal prediction intervals”</i></a>.</li>
+  <li value="35"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2604.25202"><i>“Geometry of tail allocation in conformal prediction intervals”</i></a>.</li>
     
-  <li value="33"><b>Wang, T.<span>&#x2709;</span></b>, Ma, Y., and Wei, Y. (2026+). <i>“Time-varying Quantile Regression with Multi-outcome Latent Groups”.</i>
+  <li value="34"><b>Wang, T.<span>&#x2709;</span></b>, Ma, Y., and Wei, Y. (2026+). <i>“Time-varying Quantile Regression with Multi-outcome Latent Groups”.</i>
     <ul><li>An earlier version received <b>First Place</b> in the <b>ARISE (Aging Research – Innovations in Statistical Exploration) 2025 Webinar Series</b> hosted by the ASA Statistics and Data Science in Aging (SDSA) group</li></ul>
   </li>
   
-  <li value="32"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2025+). <a href="https://arxiv.org/abs/2509.06118"><i>“Simulation-free extrapolation for misspecified models induced by categorizing an error-prone continuous covariate”</i></a>. Minor revision at Statistical Science.</li>
+  <li value="33"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2025+). <a href="https://arxiv.org/abs/2509.06118"><i>“Simulation-free extrapolation for misspecified models induced by categorizing an error-prone continuous covariate”</i></a>. Minor revision at Statistical Science.</li>
 
 </ol>
 
 ### 2026
 <ol class="pub-list">
+
+   <li value="32"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2605.04469"><i>“Augmented transfer regression learning for completely missing covariates”,</i></a> <b><i>Journal of the Royal Statistical Society: Series B</i></b>, accepted.
+    <ul><li>An earlier version won the <b>2025 IMS Hannan Graduate Student Travel Award</b></li></ul>
+  </li>
+  
     <li value="31"><ins>Wang, Y.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2653763"><i>“Multi-Group Quadratic Discriminant Analysis via Projection”</i></a>, <b><i>Journal of Computational and Graphical Statistics</i></b>, accepted.</li>
 
  <li value="30"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0245_na.pdf">“Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates”</a>, <b><i>Statistica Sinica</i></b>, accepted.</li>
