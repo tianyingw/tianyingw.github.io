@@ -19,80 +19,77 @@ I view open science practices as an important way to increase access and partici
 ### Under Review
 <ol class="pub-list">
   
-  <li value="36"><ins>Li, Z.<sup><span>&#9830;</span></sup></ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2605.15469"><i>“Tree-aggregated regression for compositional data with measurement errors”.</i></a></li>
+  <li value="35"><ins>Li, Z.<sup><span>&#9830;</span></sup></ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2605.15469"><i>“Tree-aggregated regression for compositional data with measurement errors”.</i></a></li> 
   
- 
-  
-  <li value="35"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2604.25202"><i>“Geometry of tail allocation in conformal prediction intervals”</i></a>.</li>
+  <li value="34"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2604.25202"><i>“Geometry of tail allocation in conformal prediction intervals”</i></a>.</li>
     
-  <li value="34"><b>Wang, T.<span>&#x2709;</span></b>, Ma, Y., and Wei, Y. (2026+). <i>“Time-varying Quantile Regression with Multi-outcome Latent Groups”.</i>
+  <li value="33"><b>Wang, T.<span>&#x2709;</span></b>, Ma, Y., and Wei, Y. (2026+). <i>“Time-varying Quantile Regression with Multi-outcome Latent Groups”.</i>
     <ul><li>An earlier version received <b>First Place</b> in the <b>ARISE (Aging Research – Innovations in Statistical Exploration) 2025 Webinar Series</b> hosted by the ASA Statistics and Data Science in Aging (SDSA) group</li></ul>
   </li>
   
-  <li value="33"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2025+). <a href="https://arxiv.org/abs/2509.06118"><i>“Simulation-free extrapolation for misspecified models induced by categorizing an error-prone continuous covariate”</i></a>. Minor revision at Statistical Science.</li>
+  <li value="32"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2025+). <a href="https://arxiv.org/abs/2509.06118"><i>“Simulation-free extrapolation for misspecified models induced by categorizing an error-prone continuous covariate”</i></a>. Minor revision at Statistical Science.</li>
 
 </ol>
 
 ### 2026
 <ol class="pub-list">
 
-<li value="32"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://arxiv.org/abs/2605.04469"><i>“Augmented transfer regression learning for completely missing covariates”,</i></a> <b><i>Journal of the Royal Statistical Society: Series B</i></b>, accepted.
+<li value="31"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://arxiv.org/abs/2605.04469"><i>“Augmented transfer regression learning for completely missing covariates”,</i></a> <b><i>Journal of the Royal Statistical Society: Series B</i></b>, accepted.
     <ul><li>An earlier version won the <b>2025 IMS Hannan Graduate Student Travel Award</b></li></ul>
 </li>
   
-<li value="31"><ins>Wang, Y.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2653763"><i>“Multi-Group Quadratic Discriminant Analysis via Projection”</i></a>, <b><i>Journal of Computational and Graphical Statistics</i></b>, accepted.</li>
+<li value="30"><ins>Wang, Y.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2653763"><i>“Multi-Group Quadratic Discriminant Analysis via Projection”</i></a>, <b><i>Journal of Computational and Graphical Statistics</i></b>, accepted.</li>
 
- <li value="30"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0245_na.pdf">“Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates”</a>, <b><i>Statistica Sinica</i></b>, accepted.</li>
+ <li value="29"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0245_na.pdf">“Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates”</a>, <b><i>Statistica Sinica</i></b>, accepted.</li>
 
- <li value="29">Liu, Y. and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2540083">“A powerful transformation of quantitative responses for biobank-scale association studies”</a>, <b><i>Journal of the American Statistical Association</i></b>, 121(553), 678–689.</li>
+ <li value="28">Liu, Y. and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2540083">“A powerful transformation of quantitative responses for biobank-scale association studies”</a>, <b><i>Journal of the American Statistical Association</i></b>, 121(553), 678–689.</li>
 
-<li value="28"><ins>Wang, Z.<sup><span>&#9830;</span></sup></ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www3.stat.sinica.edu.tw/LatestART/SS-2024-0104_fp.pdf">“A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes”</a>, <b><i>Statistica Sinica</i></b>, 36, 1-22.
+<li value="27"><ins>Wang, Z.<sup><span>&#9830;</span></sup></ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www3.stat.sinica.edu.tw/LatestART/SS-2024-0104_fp.pdf">“A Semiparametric Quantile Single-Index Model for Zero-Inflated Outcomes”</a>, <b><i>Statistica Sinica</i></b>, 36, 1-22.
      <ul><li>An earlier version won the <b> Top Ten Paper at the 10th National Graduate Student Statistics Forum</b>, Section of Mathematical Statistics, China</li></ul>
 </li>
 
 
- <li value="27"><b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://link.springer.com/chapter/10.1007/978-3-032-06649-7_3">“Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression,”</a> <b><i>Big Data Analysis in Biostatistics and Bioinformatics</i></b>, 35-74.</li>
+ <li value="26"><b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://link.springer.com/chapter/10.1007/978-3-032-06649-7_3">“Moving Beyond Mean: Harnessing Big Data for Health Insights by Quantile Regression,”</a> <b><i>Big Data Analysis in Biostatistics and Bioinformatics</i></b>, 35-74.</li>
 </ol>
 
 ### 2025
 <ol class="pub-list">
 
-  <li value="26"><b>Wang, T.<span>&#x2709;</span></b>, Ionita-Laza, I., and Wei, Y. (2025). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/A-unified-quantile-framework-for-nonlinear-heterogeneous-transcriptome-wide-associations/10.1214/24-AOAS1999.short">“A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations”</a>, <b><i>Annals of Applied Statistics</i></b>, 19(2): 967–985.</li>
-  <li value="25"><ins>Wang, Z.</ins>, Ling, W., and <b>Wang, T.<span>&#x2709;</span></b> (2025). <a href="https://doi.org/10.1093/biomtc/ujaf050">“A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data”</a>, <b><i>Biometrics</i></b>, 81(2), ujaf050.</li>
-  <li value="24"><b>Wang, T.<span>&#x2709;</span></b>, Zhang, W., and Wei, Y. (2025). <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf">“ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development”</a>, <b><i>Statistica Sinica</i></b>, 35, 2451–2468.</li>
-  <li value="23">Li, Y., <b>Wang, T.<span>&#x2709;</span></b>, Yan, J., and Zhang, X. (2025). <a href="https://journals.ametsoc.org/view/journals/clim/38/8/JCLI-D-24-0193.1.xml">“Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming”</a>, <b><i>Journal of Climate</i></b>, 38(8), 1779–1790.</li>
-    <li value="22"><b>Wang, T.</b>, Liu, J., and Wu, A. (2025). <a href="https://jds-online.org/journal/JDS/article/1391/info">“Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions”</a>, <b><i>Journal of Data Science</i></b>, 23(3): 454–469.</li>
-  <li value="21"><ins>Luo, Q.<sup><span>&#9830;</span></sup></ins>, <ins>Yu, Y.<sup><span>&#9830;</span></sup></ins>, and <b>Wang, T.<span>&#x2709;</span></b> (2025). <a href="https://link.springer.com/article/10.1186/s12859-025-06296-w">“Denoising Single-Cell RNA-Seq Data with a Deep Learning-Embedded Statistical Framework”</a>, <b><i>BMC Bioinformatics</i></b>, 26, 282.</li>
-  <li value="20"><ins>Mao, Y.</ins>, <ins>Jiang, Z.</ins>, <b>Wang, T.</b>, Hu, Y., and Zhan, X. (2025). <a href="https://doi.org/10.1093/bioinformatics/btaf617">“TCVS: Tree-guided compositional variable selection analysis of microbiome data”</a>, <b><i>Bioinformatics</i></b>, 41 (11), btaf617.</li>
-    <li value="19">Wang, F., Wang, C., <b>Wang, T.</b>, Masala, M., Fiorillo, E., Devoto, M., Cucca, F., Ionita-Laza, I. (2025). <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2513007122">“Computationally efficient whole-genome quantile regression at biobank scale”</a>, <b><i>Proceedings of the National Academy of Sciences</i></b>, 122 (50), e2513007122.</li>
+  <li value="25"><b>Wang, T.<span>&#x2709;</span></b>, Ionita-Laza, I., and Wei, Y. (2025). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/A-unified-quantile-framework-for-nonlinear-heterogeneous-transcriptome-wide-associations/10.1214/24-AOAS1999.short">“A unified quantile framework for nonlinear heterogeneous transcriptome-wide associations”</a>, <b><i>Annals of Applied Statistics</i></b>, 19(2): 967–985.</li>
+  <li value="24"><ins>Wang, Z.</ins>, Ling, W., and <b>Wang, T.<span>&#x2709;</span></b> (2025). <a href="https://doi.org/10.1093/biomtc/ujaf050">“A Semiparametric Quantile Regression Rank Score Test for Zero-inflated Data”</a>, <b><i>Biometrics</i></b>, 81(2), ujaf050.</li>
+  <li value="23"><b>Wang, T.<span>&#x2709;</span></b>, Zhang, W., and Wei, Y. (2025). <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0107_na.pdf">“ZIKQ: An innovative centile chart method for utilizing natural history data in rare disease clinical development”</a>, <b><i>Statistica Sinica</i></b>, 35, 2451–2468.</li>
+  <li value="22">Li, Y., <b>Wang, T.<span>&#x2709;</span></b>, Yan, J., and Zhang, X. (2025). <a href="https://journals.ametsoc.org/view/journals/clim/38/8/JCLI-D-24-0193.1.xml">“Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming”</a>, <b><i>Journal of Climate</i></b>, 38(8), 1779–1790.</li>
+    <li value="21"><b>Wang, T.</b>, Liu, J., and Wu, A. (2025). <a href="https://jds-online.org/journal/JDS/article/1391/info">“Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions”</a>, <b><i>Journal of Data Science</i></b>, 23(3): 454–469.</li>
+  <li value="20"><ins>Luo, Q.<sup><span>&#9830;</span></sup></ins>, <ins>Yu, Y.<sup><span>&#9830;</span></sup></ins>, and <b>Wang, T.<span>&#x2709;</span></b> (2025). <a href="https://link.springer.com/article/10.1186/s12859-025-06296-w">“Denoising Single-Cell RNA-Seq Data with a Deep Learning-Embedded Statistical Framework”</a>, <b><i>BMC Bioinformatics</i></b>, 26, 282.</li>
+  <li value="19"><ins>Mao, Y.</ins>, <ins>Jiang, Z.</ins>, <b>Wang, T.</b>, Hu, Y., and Zhan, X. (2025). <a href="https://doi.org/10.1093/bioinformatics/btaf617">“TCVS: Tree-guided compositional variable selection analysis of microbiome data”</a>, <b><i>Bioinformatics</i></b>, 41 (11), btaf617.</li>
+    <li value="18">Wang, F., Wang, C., <b>Wang, T.</b>, Masala, M., Fiorillo, E., Devoto, M., Cucca, F., Ionita-Laza, I. (2025). <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2513007122">“Computationally efficient whole-genome quantile regression at biobank scale”</a>, <b><i>Proceedings of the National Academy of Sciences</i></b>, 122 (50), e2513007122.</li>
 </ol>
 
 ### 2024
 <ol class="pub-list">
-  <li value="18"><ins>Zhao, H.</ins>, and <b>Wang, T.<span>&#x2709;</span></b> (2024). <a href="https://academic.oup.com/biometrics/article/80/4/ujae153/7925418">“A high-dimensional calibration method for log-contrast models subject to measurement errors”</a>, <b><i>Biometrics</i></b>, 80(4), ujae153.</li>
-  <li value="17">Wang, C., <b>Wang, T.</b>, Kiryluk, K., Wei, Y., Aschard, H., and Ionita-Laza, I. (2024). <a href="https://www.nature.com/articles/s41467-024-50726-x">“Genome-wide discovery for biomarkers using quantile regression at biobank scale”</a>, <b><i>Nature Communications</i></b>, 15(1), 6460.</li>
+  <li value="17"><ins>Zhao, H.</ins>, and <b>Wang, T.<span>&#x2709;</span></b> (2024). <a href="https://academic.oup.com/biometrics/article/80/4/ujae153/7925418">“A high-dimensional calibration method for log-contrast models subject to measurement errors”</a>, <b><i>Biometrics</i></b>, 80(4), ujae153.</li>
+  <li value="16">Wang, C., <b>Wang, T.</b>, Kiryluk, K., Wei, Y., Aschard, H., and Ionita-Laza, I. (2024). <a href="https://www.nature.com/articles/s41467-024-50726-x">“Genome-wide discovery for biomarkers using quantile regression at biobank scale”</a>, <b><i>Nature Communications</i></b>, 15(1), 6460.</li>
 </ol>
 
 ### 2023
 <ol class="pub-list">
-  <li value="16"><ins>Jiang, R.<sup><span>&#9830;</span></sup></ins>, Zhan, X.<span>&#x2709;</span>, and <b>Wang, T.<span>&#x2709;</span></b> (2023). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447">“A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Sequence Count Data”</a>, <b><i>Journal of the American Statistical Association</i></b>, 118(542), 792–804.</li>
-  <li value="15"><ins>Lau, Y.</ins>, <b>Wang, T.<span>&#x2709;</span></b>, Yan, J., and Zhang, X. (2023). <a href="https://doi.org/10.1007/s11222-023-10290-8">“Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes”</a>, <b><i>Statistics and Computing</i></b>, 33(6), 125.</li>
-  <li value="14"><ins>Ma, S.</ins>, <b>Wang, T.<span>&#x2709;</span></b>, Yan, J., and Zhang, X. (2023). <a href="https://journals.ametsoc.org/configurable/content/journals$002fclim$002faop$002fJCLI-D-22-0681.1$002fJCLI-D-22-0681.1.xml?t:ac=journals%24002fclim%24002faop%24002fJCLI-D-22-0681.1%24002fJCLI-D-22-0681.1.xml">“Optimal Fingerprinting with Estimating Equations”</a>, <b><i>Journal of Climate</i></b>, 36(20), 7109–7122.</li>
-  <li value="13">Ma, S. and <b>Wang, T.<span>&#x2709;</span></b> (2023). <a href="https://doi.org/10.1186/s12874-023-01893-w">“The optimal pre-post allocation for randomized clinical trials”</a>, <b><i>BMC Medical Research Methodology</i></b>, 23:72.</li>
-  <li value="12">Zhou, S., Pati, D., <b>Wang, T.</b>, Yang, Y., and Carroll, R. J. (2023). <a href="https://jmlr.org/papers/volume24/21-1480/21-1480.pdf">“Gaussian Processes with Errors in Variables: theory and computation”</a>, <b><i>Journal of Machine Learning Research</i></b>, 24, 1–53.</li>
+  <li value="15"><ins>Jiang, R.<sup><span>&#9830;</span></sup></ins>, Zhan, X.<span>&#x2709;</span>, and <b>Wang, T.<span>&#x2709;</span></b> (2023). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447">“A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Sequence Count Data”</a>, <b><i>Journal of the American Statistical Association</i></b>, 118(542), 792–804.</li>
+  <li value="14"><ins>Lau, Y.</ins>, <b>Wang, T.<span>&#x2709;</span></b>, Yan, J., and Zhang, X. (2023). <a href="https://doi.org/10.1007/s11222-023-10290-8">“Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes”</a>, <b><i>Statistics and Computing</i></b>, 33(6), 125.</li>
+  <li value="13"><ins>Ma, S.</ins>, <b>Wang, T.<span>&#x2709;</span></b>, Yan, J., and Zhang, X. (2023). <a href="https://journals.ametsoc.org/configurable/content/journals$002fclim$002faop$002fJCLI-D-22-0681.1$002fJCLI-D-22-0681.1.xml?t:ac=journals%24002fclim%24002faop%24002fJCLI-D-22-0681.1%24002fJCLI-D-22-0681.1.xml">“Optimal Fingerprinting with Estimating Equations”</a>, <b><i>Journal of Climate</i></b>, 36(20), 7109–7122.</li>
+  <li value="12">Ma, S. and <b>Wang, T.<span>&#x2709;</span></b> (2023). <a href="https://doi.org/10.1186/s12874-023-01893-w">“The optimal pre-post allocation for randomized clinical trials”</a>, <b><i>BMC Medical Research Methodology</i></b>, 23:72.</li>
+  <li value="11">Zhou, S., Pati, D., <b>Wang, T.</b>, Yang, Y., and Carroll, R. J. (2023). <a href="https://jmlr.org/papers/volume24/21-1480/21-1480.pdf">“Gaussian Processes with Errors in Variables: theory and computation”</a>, <b><i>Journal of Machine Learning Research</i></b>, 24, 1–53.</li>
 </ol>
 
 ### 2022
 <ol class="pub-list">
-  <li value="11"><b>Wang, T.<span>&#x2709;</span></b>, Ionita-Laza, I., and Wei, Y. (2022). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Integrated-Quantile-RAnk-Test-iQRAT-for-gene-level-associations/10.1214/21-AOAS1548.short">“Integrated Quantile RAnk Test (iQRAT) for gene-level associations”</a>. <b><i>Annals of Applied Statistics</i></b>, 16(3), 1423–1444.</li>
-  <li value="10"><b>Wang, T.</b>, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494">“Testing microbiome association using integrated quantile regression models”</a>. <b><i>Bioinformatics</i></b>, 38(2), 419–425.</li>
-  <li value="9">Houghton, L. C., Wei, Y., <b>Wang, T.</b>, Goldberg, M., Paniagua-Avila, A., Sweeden, R. L., Bradbury, A., Daly, M., Schwartz, L. A., Keegan, T., John, E. M., Knight, J. A., Andrulis, I. L., Buys, S. S., Frost, C. J., O&#39;Toole, K., White, M. L., Chung, W. K., and Terry, M. B. (2022). <a href="https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyac021/6528416">“Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study”</a>. <b><i>International Journal of Epidemiology</i></b>, 2022 Feb 14:dyac021. doi:10.1093/ije/dyac021. PMID: 35157067.</li>
+  <li value="10"><b>Wang, T.<span>&#x2709;</span></b>, Ionita-Laza, I., and Wei, Y. (2022). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Integrated-Quantile-RAnk-Test-iQRAT-for-gene-level-associations/10.1214/21-AOAS1548.short">“Integrated Quantile RAnk Test (iQRAT) for gene-level associations”</a>. <b><i>Annals of Applied Statistics</i></b>, 16(3), 1423–1444.</li>
+  <li value="9"><b>Wang, T.</b>, Ling, W., Plantinga, A., Wu, M., and Zhan, X. (2022). <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab668/6374494">“Testing microbiome association using integrated quantile regression models”</a>. <b><i>Bioinformatics</i></b>, 38(2), 419–425.</li>
+  <li value="8">Houghton, L. C., Wei, Y., <b>Wang, T.</b>, Goldberg, M., Paniagua-Avila, A., Sweeden, R. L., Bradbury, A., Daly, M., Schwartz, L. A., Keegan, T., John, E. M., Knight, J. A., Andrulis, I. L., Buys, S. S., Frost, C. J., O&#39;Toole, K., White, M. L., Chung, W. K., and Terry, M. B. (2022). <a href="https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyac021/6528416">“Body mass index rebound and pubertal timing in girls with and without a family history of breast cancer: the LEGACY girls study”</a>. <b><i>International Journal of Epidemiology</i></b>, 2022 Feb 14:dyac021. doi:10.1093/ije/dyac021. PMID: 35157067.</li>
 </ol>
 
 ### 2021
 <ol class="pub-list">
-  <li value="8"><b>Wang, T.<span>&#x2709;</span></b> and Asher, A. (2021). <a href="https://doi.org/10.1007/s12561-020-09298-9">“Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies”</a>. <b><i>Statistics in Biosciences</i></b>, 13, 386–401.</li>
-  <li value="7">Plantinga, A., Wilson, N., Zheng, H., <b>Wang, T.</b>, Zhan, Z., Wu, M., Zhao, N., and Chen, J. (2021). <a href="https://CRAN.R-project.org/package=MiRKAT">“MiRKAT: Microbiome Regression-Based Analysis Tests”</a>.</li>
+  <li value="7"><b>Wang, T.<span>&#x2709;</span></b> and Asher, A. (2021). <a href="https://doi.org/10.1007/s12561-020-09298-9">“Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies”</a>. <b><i>Statistics in Biosciences</i></b>, 13, 386–401.</li>
 </ol>
 
 ### 2020 and before
