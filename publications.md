@@ -27,12 +27,14 @@ I view open science practices as an important way to increase access and partici
     <ul><li>An earlier version received <b>First Place</b> in the <b>ARISE (Aging Research – Innovations in Statistical Exploration) 2025 Webinar Series</b> hosted by the ASA Statistics and Data Science in Aging (SDSA) group</li></ul>
   </li>
   
-  <li value="32"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2025+). <a href="https://arxiv.org/abs/2509.06118"><i>“Simulation-free extrapolation for misspecified models induced by categorizing an error-prone continuous covariate”</i></a>. Minor revision at Statistical Science.</li>
-
+ 
 </ol>
 
 ### 2026
 <ol class="pub-list">
+
+ <li value="32"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://arxiv.org/abs/2509.06118"><i>“Simulation-free extrapolation for misspecified models induced by categorizing an error-prone continuous covariate”</i></a>, <b><i>Statistical Science</i></b>, accepted.</li>
+
 
 <li value="31"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://arxiv.org/abs/2605.04469"><i>“Augmented transfer regression learning for completely missing covariates”,</i></a> <b><i>Journal of the Royal Statistical Society: Series B</i></b>, accepted.
     <ul><li>An earlier version won the <b>2025 IMS Hannan Graduate Student Travel Award</b></li></ul>
