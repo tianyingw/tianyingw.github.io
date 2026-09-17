@@ -5,7 +5,7 @@ subtitle: Assistant Professor, Department of Statistics, Colorado State Universi
 use-site-title: true
 order: 1
 ---
-<img align="right" src="/img/headshot2.PNG" alt="" width="300">
+<img align="right" src="/img/headshot3.jpg" alt="" width="300">
 
 
 ### Contact:
