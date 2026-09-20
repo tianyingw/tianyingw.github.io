@@ -21,7 +21,7 @@ Colorado 80523-1877
 
 My research provides statistical foundations for reliable and trustworthy AI-enabled biomedical discovery. I develop statistical methods for reliable inference with imperfect, heterogeneous, and multi-source data. My research spans statistical methodology and statistical genetics, with a particular focus on genomics, aging, and Alzheimer’s disease.
 
-**[▶ Watch my interactive research story](/Research-Story.html)** — a 2-minute animated tour of my research program, with demos you can explore.
+**[▶ Watch a 3-minute animated tour of my research program](/Research-Story.html)** 
 
 ### Join Us:
 
