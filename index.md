@@ -35,7 +35,7 @@ I am looking for multiple postdoctoral fellows to join our research group. If yo
 
 - **September 2026**: Our paper on ["Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2605.04469) was accepted for publication in the **_Journal of the Royal Statistical Society: Series B_**.
   
-- **August 2026**: Tianying received an **NIH/NIA R01** award as PI for the project ["Uncovering Nonlinear Genetic Architectures in Alzheimer’s Disease Cellular Pathogenesis,"](https://reporter.nih.gov/search/QK3nqVJutUWPLHNDZHg8rg/project-details/11423977) featured in [CSU News](https://natsci.source.colostate.edu/early-career-csu-statisticians-receive-6m-in-nih-grants-for-alzheimers-and-microbiome-research/).
+- **August 2026**: Tianying received an **NIH/NIA R01** award as PI for the project ["Uncovering Nonlinear Genetic Architectures in Alzheimer’s Disease Cellular Pathogenesis."](https://reporter.nih.gov/search/QK3nqVJutUWPLHNDZHg8rg/project-details/11423977) Featured in [CSU News](https://natsci.source.colostate.edu/early-career-csu-statisticians-receive-6m-in-nih-grants-for-alzheimers-and-microbiome-research/).
     
 - **May 2026**: Our manuscript on ["Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2605.04469) is available on [arXiv](https://arxiv.org/abs/2605.04469).
 
