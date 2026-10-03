@@ -25,7 +25,7 @@ My research provides statistical foundations for reliable and trustworthy AI-ena
 
 ### Join Us:
 
-I am looking for multiple postdoctoral fellows to join our research group. If you are interested, please feel free to reach out to me by email.
+I am looking for [multiple postdoctoral fellows](https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Fort-Collins-CO/Postdoctoral-Fellow_R2026107727) to join our research group. If you are interested, please feel free to reach out to me by email. 
 
 ### News:
 
