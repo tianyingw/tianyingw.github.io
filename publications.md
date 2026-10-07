@@ -42,7 +42,7 @@ I view open science practices as an important way to increase access and partici
     <ul><li>An earlier version won the <b>2025 IMS Hannan Graduate Student Travel Award</b></li></ul>
 </li>
   
-<li value="30"><ins>Wang, Y.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2653763"><i>“Multi-Group Quadratic Discriminant Analysis via Projection”</i></a>, <b><i>Journal of Computational and Graphical Statistics</i></b>, accepted.</li>
+<li value="30"><ins>Wang, Y.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2653763"><i>“Multi-Group Quadratic Discriminant Analysis via Projection”</i></a>, <b><i>Journal of Computational and Graphical Statistics</i></b>, published online.</li>
 
  <li value="29"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0245_na.pdf">“Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates”</a>, <b><i>Statistica Sinica</i></b>, accepted.</li>
 
