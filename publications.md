@@ -13,7 +13,7 @@ I view open science practices as an important way to increase access and partici
 
 
 <p align="justify">
-<ins>underline</ins> indicates a student co-author, with <sup><span>&#9830;</span></sup> denoting an undergraduate student mentee; <span>&#x2709;</span> indicates the corresponding author.
+<ins>underline</ins> indicates a student mentored by me, with <sup><span>&#9830;</span></sup> denoting an undergraduate mentee; <span>&#x2709;</span> indicates the corresponding author.
 </p>
 
 ### Selected Papaers Under Review
@@ -65,7 +65,7 @@ I view open science practices as an important way to increase access and partici
   <li value="22">Li, Y., <b>Wang, T.<span>&#x2709;</span></b>, Yan, J., and Zhang, X. (2025). <a href="https://journals.ametsoc.org/view/journals/clim/38/8/JCLI-D-24-0193.1.xml">“Improved Optimal Fingerprinting Based on Estimating Equations Reaffirms Anthropogenic Effect on Global Warming”</a>, <b><i>Journal of Climate</i></b>, 38(8), 1779–1790.</li>
     <li value="21"><b>Wang, T.</b>, Liu, J., and Wu, A. (2025). <a href="https://jds-online.org/journal/JDS/article/1391/info">“Semiparametric Analysis in Case-Control Studies for Gene-Environment Independent Models: Bibliographical Connections and Extensions”</a>, <b><i>Journal of Data Science</i></b>, 23(3): 454–469.</li>
   <li value="20"><ins>Luo, Q.<sup><span>&#9830;</span></sup></ins>, <ins>Yu, Y.<sup><span>&#9830;</span></sup></ins>, and <b>Wang, T.<span>&#x2709;</span></b> (2025). <a href="https://link.springer.com/article/10.1186/s12859-025-06296-w">“Denoising Single-Cell RNA-Seq Data with a Deep Learning-Embedded Statistical Framework”</a>, <b><i>BMC Bioinformatics</i></b>, 26, 282.</li>
-  <li value="19"><ins>Mao, Y.</ins>, <ins>Jiang, Z.</ins>, <b>Wang, T.</b>, Hu, Y., and Zhan, X. (2025). <a href="https://doi.org/10.1093/bioinformatics/btaf617">“TCVS: Tree-guided compositional variable selection analysis of microbiome data”</a>, <b><i>Bioinformatics</i></b>, 41 (11), btaf617.</li>
+  <li value="19">Mao, Y., Jiang, Z., <b>Wang, T.</b>, Hu, Y., and Zhan, X. (2025). <a href="https://doi.org/10.1093/bioinformatics/btaf617">“TCVS: Tree-guided compositional variable selection analysis of microbiome data”</a>, <b><i>Bioinformatics</i></b>, 41 (11), btaf617.</li>
     <li value="18">Wang, F., Wang, C., <b>Wang, T.</b>, Masala, M., Fiorillo, E., Devoto, M., Cucca, F., Ionita-Laza, I. (2025). <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2513007122">“Computationally efficient whole-genome quantile regression at biobank scale”</a>, <b><i>Proceedings of the National Academy of Sciences</i></b>, 122 (50), e2513007122.</li>
 </ol>
 
@@ -78,8 +78,8 @@ I view open science practices as an important way to increase access and partici
 ### 2023
 <ol class="pub-list">
   <li value="15"><ins>Jiang, R.<sup><span>&#9830;</span></sup></ins>, Zhan, X.<span>&#x2709;</span>, and <b>Wang, T.<span>&#x2709;</span></b> (2023). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2151447">“A Flexible Zero-Inflated Poisson-Gamma Model with Application to Microbiome Sequence Count Data”</a>, <b><i>Journal of the American Statistical Association</i></b>, 118(542), 792–804.</li>
-  <li value="14"><ins>Lau, Y.</ins>, <b>Wang, T.<span>&#x2709;</span></b>, Yan, J., and Zhang, X. (2023). <a href="https://doi.org/10.1007/s11222-023-10290-8">“Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes”</a>, <b><i>Statistics and Computing</i></b>, 33(6), 125.</li>
-  <li value="13"><ins>Ma, S.</ins>, <b>Wang, T.<span>&#x2709;</span></b>, Yan, J., and Zhang, X. (2023). <a href="https://journals.ametsoc.org/configurable/content/journals$002fclim$002faop$002fJCLI-D-22-0681.1$002fJCLI-D-22-0681.1.xml?t:ac=journals%24002fclim%24002faop%24002fJCLI-D-22-0681.1%24002fJCLI-D-22-0681.1.xml">“Optimal Fingerprinting with Estimating Equations”</a>, <b><i>Journal of Climate</i></b>, 36(20), 7109–7122.</li>
+  <li value="14">Lau, Y., <b>Wang, T.<span>&#x2709;</span></b>, Yan, J., and Zhang, X. (2023). <a href="https://doi.org/10.1007/s11222-023-10290-8">“Extreme Value Modeling with Errors-in-Variables in Detection and Attribution of Changes in Climate Extremes”</a>, <b><i>Statistics and Computing</i></b>, 33(6), 125.</li>
+  <li value="13">Ma, S., <b>Wang, T.<span>&#x2709;</span></b>, Yan, J., and Zhang, X. (2023). <a href="https://journals.ametsoc.org/configurable/content/journals$002fclim$002faop$002fJCLI-D-22-0681.1$002fJCLI-D-22-0681.1.xml?t:ac=journals%24002fclim%24002faop%24002fJCLI-D-22-0681.1%24002fJCLI-D-22-0681.1.xml">“Optimal Fingerprinting with Estimating Equations”</a>, <b><i>Journal of Climate</i></b>, 36(20), 7109–7122.</li>
   <li value="12">Ma, S. and <b>Wang, T.<span>&#x2709;</span></b> (2023). <a href="https://doi.org/10.1186/s12874-023-01893-w">“The optimal pre-post allocation for randomized clinical trials”</a>, <b><i>BMC Medical Research Methodology</i></b>, 23:72.</li>
   <li value="11">Zhou, S., Pati, D., <b>Wang, T.</b>, Yang, Y., and Carroll, R. J. (2023). <a href="https://jmlr.org/papers/volume24/21-1480/21-1480.pdf">“Gaussian Processes with Errors in Variables: theory and computation”</a>, <b><i>Journal of Machine Learning Research</i></b>, 24, 1–53.</li>
 </ol>
