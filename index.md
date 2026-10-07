@@ -35,7 +35,7 @@ I am looking for [multiple postdoctoral fellows](https://csusystem.wd12.myworkda
 
 - **September 2026**: Our paper on ["Simulation-free extrapolation for misspecified models induced by categorizing an error-prone continuous covariate"](https://arxiv.org/abs/2509.06118) was accepted for publication in the **_Statistical Science_**.
 
-- **September 2026**: Our paper on ["Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2605.04469) was accepted for publication in the **_Journal of the Royal Statistical Society: Series B_**.
+- **September 2026**: Our paper on ["Augmented transfer regression learning for completely missing covariates"](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag131/8875870?utm_source=authortollfreelink&utm_campaign=jrsssb&utm_medium=email) was accepted for publication in the **_Journal of the Royal Statistical Society: Series B_**.
   
 - **August 2026**: Tianying received an **NIH/NIA R01** award as PI for the project ["Uncovering Nonlinear Genetic Architectures in Alzheimer’s Disease Cellular Pathogenesis."](https://reporter.nih.gov/search/QK3nqVJutUWPLHNDZHg8rg/project-details/11423977) Featured in [CSU News](https://natsci.source.colostate.edu/early-career-csu-statisticians-receive-6m-in-nih-grants-for-alzheimers-and-microbiome-research/).
     
