@@ -38,7 +38,7 @@ I view open science practices as an important way to increase access and partici
  <li value="32"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://arxiv.org/abs/2509.06118"><i>“Simulation-free extrapolation for misspecified models induced by categorizing an error-prone continuous covariate”</i></a>, <b><i>Statistical Science</i></b>, accepted.</li>
 
 
-<li value="31"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://arxiv.org/abs/2605.04469"><i>“Augmented transfer regression learning for completely missing covariates”,</i></a> <b><i>Journal of the Royal Statistical Society: Series B</i></b>, accepted.
+<li value="31"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag131/8875870"><i>“Augmented transfer regression learning for completely missing covariates”,</i></a> <b><i>Journal of the Royal Statistical Society: Series B</i></b>, accepted.
     <ul><li>An earlier version won the <b>2025 IMS Hannan Graduate Student Travel Award</b></li></ul>
 </li>
   
