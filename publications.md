@@ -18,8 +18,10 @@ I view open science practices as an important way to increase access and partici
 
 ### Selected Papaers Under Review
 <ol class="pub-list">
-   <li value="36"><ins>Zhao, H.</ins>, Liu, M.<span>&#x2709;</span>, and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2610.07048"><i>“Data Fusion for Errors-in-Variables”</i></a>.</li>
-  
+   <li value="37"><ins>Zhao, H.</ins>, Liu, M.<span>&#x2709;</span>, and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2610.07048"><i>“Data Fusion for Errors-in-Variables”</i></a>.</li>
+    
+   <li value="36"><ins>Jiang, R.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Minimax-Optimal Quantile Rank-Score Test Across Multiple Quantiles”</i>.</li>
+
   <li value="35"><ins>Li, Z.<sup><span>&#9830;</span></sup></ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2605.15469"><i>“Tree-aggregated regression for compositional data with measurement errors”.</i></a></li> 
   
   <li value="34"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2604.25202"><i>“Geometry of tail allocation in conformal prediction intervals”</i></a>.</li>
