@@ -16,7 +16,7 @@ I view open science practices as an important way to increase access and partici
 <ins>underline</ins> indicates a student mentored by me, with <sup><span>&#9830;</span></sup> denoting an undergraduate mentee; <span>&#x2709;</span> indicates the corresponding author.
 </p>
 
-### Selected Papaers Under Review
+### Selected Papers Under Review
 <ol class="pub-list">
    <li value="37"><ins>Zhao, H.</ins>, Liu, M.<span>&#x2709;</span>, and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2610.07048"><i>“Data Fusion for Errors-in-Variables”</i></a>.</li>
     
