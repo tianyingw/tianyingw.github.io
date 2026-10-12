@@ -47,7 +47,7 @@ with exactness and dimension-reduction guarantees”</i>.</li>
   
 <li value="30"><ins>Wang, Y.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2653763"><i>“Multi-Group Quadratic Discriminant Analysis via Projection”</i></a>, <b><i>Journal of Computational and Graphical Statistics</i></b>, published online.</li>
 
- <li value="29"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0245_na.pdf">“Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates”</a>, <b><i>Statistica Sinica</i></b>, accepted.</li>
+ <li value="29"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www3.stat.sinica.edu.tw/preprint/SS-2025-0245_Preprint.pdf">“Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates”</a>, <b><i>Statistica Sinica</i></b>, accepted.</li>
 
  <li value="28">Liu, Y. and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2540083">“A powerful transformation of quantitative responses for biobank-scale association studies”</a>, <b><i>Journal of the American Statistical Association</i></b>, 121(553), 678–689.</li>
 
