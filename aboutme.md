@@ -11,11 +11,12 @@ title: About me
 
 
 ### Research Interests
-   - Distribution shift, robust learning, and uncertainty quantification
-   - Quantile and distributional modeling for heterogeneity, with applications in statistical genetics
-   - Scalable inference for biobank-scale studies
-   - Measurement error and missing data
-   - High-dimensional and semiparametric methods
+
+- Quantile methods and distribution-sensitive inference for weak signals and heterogeneous associations
+- Statistical genetics and functional genomics
+- Measurement error, missing data, and data fusion across studies and populations
+- Robust statistical learning and uncertainty quantification under distribution shift
+- High-dimensional and semiparametric inference
 
 
 
@@ -43,7 +44,16 @@ title: About me
        - Advisors: [Dr. Raymond J. Carroll](https://carroll.stat.tamu.edu/) and [Dr. Irina Gaynanova](https://irinagain.github.io/)       
 
          
-   - _B.S. (2010-2014)_, School of Statistics, Renmin University of China  
+   - _B.S. (2010-2014)_, School of Statistics, Renmin University of China
+
+### Selected Professional Service
+
+- **Associate Editor**, *Journal of Data Science*, 2024-present.
+- **Grant Review Panel Member**, NIH (2026) and NSF (2024).
+- **Member**, Member Engagement Committee, ASA Section on Statistics in Genomics and Genetics (SSGG), 2026-2027.
+- **Member**, Student Paper Competition Committee, ASA Section on Statistical Learning and Data Science (SLDS), 2026.
+- **Member (incoming)**, Council of Sections Fiscal Oversight Committee, ASA, 2027-2029.
+  
 
 ### Selected Educational Certifications
 
