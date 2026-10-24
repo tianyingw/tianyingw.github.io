@@ -19,13 +19,13 @@ Colorado 80523-1877
 
 <!-- [**My CV**](https://www.dropbox.com/sh/tjlmphpz7tybul5/AADbXrHlG6sDT_I_NBxztfU9a?dl=0) -->
 
-My research provides statistical foundations for reliable and trustworthy AI-enabled biomedical discovery. I develop statistical methods for reliable inference with imperfect, heterogeneous, and multi-source data. My research spans statistical methodology and statistical genetics, with a particular focus on genomics, aging, and Alzheimer’s disease.
+I develop statistical methods for trustworthy learning and inference. My work focuses on detecting weak signals, characterizing heterogeneous associations, and combining data across studies in the presence of missing variables and measurement error. My current applications focus on statistical genetics and functional genomics, particularly brain aging and Alzheimer's disease.
 
 **[▶ Watch a 3-minute animated tour of my research program](/ResearchStory.html)** 
 
 ### Join Us:
 
-I am looking for [multiple postdoctoral fellows](https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Fort-Collins-CO/Postdoctoral-Fellow_R2026107727) to join our research group. If you are interested, please feel free to reach out to me by email. 
+I am looking for [two postdoctoral fellows](https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Fort-Collins-CO/Postdoctoral-Fellow_R2026107727) to join our research group. If you are interested, please reach out to me by email. 
 
 ### News:
 
