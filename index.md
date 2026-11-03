@@ -29,8 +29,8 @@ I am looking for [two postdoctoral fellows](https://csusystem.wd12.myworkdayjobs
 
 ### News:
 
-<!-- - **July 2026**: Our manuscript on ["Geometry of tail allocation in conformal prediction intervals"](https://arxiv.org/abs/2604.25202) is available on [arXiv](https://arxiv.org/abs/2604.25202).  -->
-
+- **November 2026**: Our manuscript on ["Joint Estimation and Grouping of Quantile Association Curves across Multiple Responses"](https://arxiv.org/abs/2611.02466) is available on [arXiv](https://arxiv.org/abs/2611.02466).
+  
 - **October 2026**: Our manuscript on ["Data Fusion for Errors-in-Variables"](http://arxiv.org/abs/2610.07048) is available on [arXiv](http://arxiv.org/abs/2610.07048).
 
 - **September 2026**: Our paper on ["Simulation-free extrapolation for misspecified models induced by categorizing an error-prone continuous covariate"](https://arxiv.org/abs/2509.06118) was accepted for publication in the **_Statistical Science_**.
@@ -38,7 +38,9 @@ I am looking for [two postdoctoral fellows](https://csusystem.wd12.myworkdayjobs
 - **September 2026**: Our paper on ["Augmented transfer regression learning for completely missing covariates"](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag131/8875870) was accepted for publication in the **_Journal of the Royal Statistical Society Series B: Statistical Methodology_**.
   
 - **August 2026**: Tianying received an **NIH/NIA R01** award as PI for the project ["Uncovering Nonlinear Genetic Architectures in Alzheimer’s Disease Cellular Pathogenesis."](https://reporter.nih.gov/search/QK3nqVJutUWPLHNDZHg8rg/project-details/11423977) Featured in [CSU News](https://natsci.source.colostate.edu/early-career-csu-statisticians-receive-6m-in-nih-grants-for-alzheimers-and-microbiome-research/).
-    
+
+- **July 2026**: Our manuscript on ["Geometry of tail allocation in conformal prediction intervals"](https://arxiv.org/abs/2604.25202) is available on [arXiv](https://arxiv.org/abs/2604.25202).
+  
 - **May 2026**: Our manuscript on ["Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2605.04469) is available on [arXiv](https://arxiv.org/abs/2605.04469).
 
 - **May 2026**: Our manuscript on ["Tree-aggregated regression for compositional data with measurement errors"](https://arxiv.org/abs/2605.15469) is available on [arXiv](https://arxiv.org/abs/2605.15469).
