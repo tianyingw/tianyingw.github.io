@@ -18,21 +18,31 @@ I view open science practices as an important way to increase access and partici
 
 ### Selected Papers Under Review
 <ol class="pub-list">
-   <li value="38"> Zhu, E., <b>Wang, T.</b>, and Wu, W. (2026+). <i>“A fast simplex algorithm for local quantile regression
+     <li value="40"> <ins>Wang, Z.</ins>, Guo, Z., <b>Wang, T.<span>&#x2709;</span></b>, and Liu, M.<span>&#x2709;</span> (2026+). <i>“Multi-Source Domain Adaptation via Alignment-Guided Distributionally Robust Learning”</i>.</li>
+   <li value="39"> Zhu, E., <b>Wang, T.</b>, and Wu, W. (2026+). <i>“A fast simplex algorithm for local quantile regression
 with exactness and dimension-reduction guarantees”</i>.</li>
    
-   <li value="37"><ins>Zhao, H.</ins>, Liu, M.<span>&#x2709;</span>, and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2610.07048"><i>“Data Fusion for Errors-in-Variables”</i></a>.</li>
+   <li value="38"><ins>Zhao, H.</ins>, Liu, M.<span>&#x2709;</span>, and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2610.07048"><i>“Data Fusion for Errors-in-Variables”</i></a>.</li>
     
-   <li value="36"><ins>Jiang, R.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Minimax-Optimal Quantile Rank-Score Test Across Multiple Quantiles”</i>.</li>
+   <li value="37"><ins>Jiang, R.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <i>“Minimax-Optimal Quantile Rank-Score Test Across Multiple Quantiles”</i>.</li>
 
-  <li value="35"><ins>Li, Z.<sup><span>&#9830;</span></sup></ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2605.15469"><i>“Tree-aggregated regression for compositional data with measurement errors”.</i></a></li> 
+  <li value="36"><ins>Li, Z.<sup><span>&#9830;</span></sup></ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2605.15469"><i>“Tree-aggregated regression for compositional data with measurement errors”.</i></a></li> 
   
-  <li value="34"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2604.25202"><i>“Geometry of tail allocation in conformal prediction intervals”</i></a>.</li>
+  <li value="35"><b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="https://arxiv.org/abs/2604.25202"><i>“Geometry of tail allocation in conformal prediction intervals”</i></a>.</li>
     
-  <li value="33"><b>Wang, T.<span>&#x2709;</span></b>, Ma, Y., and Wei, Y. (2026+). <a href="https://arxiv.org/abs/2611.02466"><i>“Joint Estimation and Grouping of Quantile Association Curves across Multiple Responses”</i></a>.
+  <li value="34"><b>Wang, T.<span>&#x2709;</span></b>, Ma, Y., and Wei, Y. (2026+). <a href="https://arxiv.org/abs/2611.02466"><i>“Joint Estimation and Grouping of Quantile Association Curves across Multiple Responses”</i></a>.
     <ul><li>An earlier version received <b>First Place</b> in the <b>ARISE (Aging Research – Innovations in Statistical Exploration) 2025 Webinar Series</b> hosted by the ASA Statistics and Data Science in Aging (SDSA) group</li></ul>
   </li>
-  
+  <li value="33">
+  <ins>Liu, A.</ins><sup>‡</sup>,
+  <ins>Jiang, R.</ins><sup>‡</sup>,
+  et al.,
+  <b>Wang, T.<span>&#x2709;</span></b>,
+  and Wang, G.<span>&#x2709;</span> (2026+).
+  <a href="https://doi.org/10.21203/rs.3.rs-8219833">
+    <i>“Distributional genetic effects reveal context-dependent molecular regulation in human brain aging and Alzheimer’s disease”</i>
+  </a>.
+</li>
 </ol>
 
 ### 2026
