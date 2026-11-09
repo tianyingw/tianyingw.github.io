@@ -42,6 +42,7 @@ with exactness and dimension-reduction guarantees”</i>.</li>
 
 
 <li value="31"><ins>Zhao, H.</ins> and <b>Wang, T.<span>&#x2709;</span></b> (2026). <a href="https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag131/8875870"><i>“Augmented transfer regression learning for completely missing covariates”,</i></a> <b><i>Journal of the Royal Statistical Society Series B: Statistical Methodology</i></b>, published online.
+   <ul><li>Listed among the most-read articles in JRSSB as of November 2026 </li></ul>
     <ul><li>An earlier version won the <b>2025 IMS Hannan Graduate Student Travel Award</b></li></ul>
 </li>
   
