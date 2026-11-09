@@ -13,7 +13,7 @@ I view open science practices as an important way to increase access and partici
 
 
 <p align="justify">
-<ins>underline</ins> indicates a student mentored by me, with <sup><span>&#9830;</span></sup> denoting an undergraduate mentee; <span>&#x2709;</span> indicates the corresponding author.
+<ins>underline</ins> indicates a student mentored by me, with <sup><span>&#9830;</span></sup> denoting an undergraduate mentee; <sup>‡</sup> denotes equal first authorship; <span>&#x2709;</span> indicates a corresponding author.
 </p>
 
 ### Selected Papers Under Review
