@@ -19,7 +19,7 @@ I view open science practices as an important way to increase access and partici
 ### Selected Papers Under Review
 <ol class="pub-list">
      <li value="40"> <ins>Wang, Z.</ins>, Guo, Z., <b>Wang, T.<span>&#x2709;</span></b>, and Liu, M.<span>&#x2709;</span> (2026+). <i>“Multi-Source Domain Adaptation via Alignment-Guided Distributionally Robust Learning”</i>.</li>
-   <li value="39"> Zhu, E., <b>Wang, T.</b>, and Wu, W. (2026+). <i>“A fast simplex algorithm for local quantile regression
+   <li value="39"> <ins>Zhu, E.</ins>ins>, <b>Wang, T.</b>, and Wu, W. (2026+). <i>“A fast simplex algorithm for local quantile regression
 with exactness and dimension-reduction guarantees”</i>.</li>
    
    <li value="38"><ins>Zhao, H.</ins>, Liu, M.<span>&#x2709;</span>, and <b>Wang, T.<span>&#x2709;</span></b> (2026+). <a href="http://arxiv.org/abs/2610.07048"><i>“Data Fusion for Errors-in-Variables”</i></a>.</li>
