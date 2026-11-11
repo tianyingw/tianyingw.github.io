@@ -36,7 +36,7 @@ with exactness and dimension-reduction guarantees”</i>.</li>
   <li value="33">
   <ins>Liu, A.</ins><sup>‡</sup>,
   <ins>Jiang, R.</ins><sup>‡</sup>,
-  et al.,
+  Li, R., Cao, X., Qi, Z., Feng, R., Sun, H., Fujita, M., Comandante-Lou, N., Lakhani, C. M., Empawi, J., Knowles, D. A., Zhang, X., Dey, K. K., De Jager, P., Bennett, D., Alzheimer’s Disease Functional Genomics Consortium,
   <b>Wang, T.<span>&#x2709;</span></b>,
   and Wang, G.<span>&#x2709;</span> (2026+).
   <a href="https://doi.org/10.21203/rs.3.rs-8219833">
