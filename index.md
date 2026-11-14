@@ -25,7 +25,7 @@ I develop statistical methods for trustworthy learning and inference. My work fo
 
 ### Join Us:
 
-I am looking for [two postdoctoral fellows](https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Fort-Collins-CO/Postdoctoral-Fellow_R2026107727) to join our research group. If you are interested, please reach out to me by email. 
+I am looking for [2-3 postdoctoral fellows](https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Fort-Collins-CO/Postdoctoral-Fellow_R2026107727) to join our research group. If you are interested, please reach out to me by email. 
 
 ### News:
 
