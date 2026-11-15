@@ -55,7 +55,7 @@ I am looking for [2-3 postdoctoral fellows](https://csusystem.wd12.myworkdayjobs
 
 - **January 2026**: Our paper on ["Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0245_na.pdf) is accepted by **_Statistica Sinica_**.
 
-- **December 2025**: Tianying received **_First Place_** in the **_ARISE (Aging Research – Innovations in Statistical Exploration) 2025 Webinar Series_** hosted by the ASA Statistics and Data Science in Aging (SDSA) group.
+- **December 2025**: Tianying received **_First Place_** in the **_ARISE (Aging Research – Innovations in Statistical Exploration) 2025 Webinar Series_** hosted by the [ASA Statistics and Data Science in Aging (SDSA) group](https://magazine.amstat.org/blog/2026/06/01/sdsa/).
   
 - **November 2025**: Our paper on ["Computationally efficient whole-genome quantile regression at biobank scale"](https://www.pnas.org/doi/epdf/10.1073/pnas.2513007122) was accepted for publication in **_Proceedings of the National Academy of Sciences (PNAS)_**.
 
