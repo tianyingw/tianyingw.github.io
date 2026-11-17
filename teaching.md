@@ -21,9 +21,10 @@ If you have any questions, comments, or suggestions, you are more than welcome t
   - Graduate-level;
   - Probability distributions, inferences about population mean and variances, multiple comparisons, categorical data analysis, linear regression and correlation, etc.
 
-- **STAT 341: Statistical Data Analysis I** (Fall 2025)
+- **STAT 341: Statistical Data Analysis I** (Fall 2025, Fall 2026)
   - Undergraduate-level;
   - Simple linear regression, multiple linear regression, etc.
+  - [Interactive concept map](https://tianyingw.github.io/Regression_Concept_Map_Modules1-18.html) for student review
 
 - **DSCI 336: Data Graphics and Visualization** (Spring 2026)
   - Undergraduate-level;
