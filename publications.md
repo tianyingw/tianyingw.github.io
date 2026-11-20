@@ -40,7 +40,7 @@ with exactness and dimension-reduction guarantees”</i>.</li>
   <b>Wang, T.<span>&#x2709;</span></b>,
   and Wang, G.<span>&#x2709;</span> (2026+).
   <a href="https://www.researchsquare.com/article/rs-8219833/latest.pdf">
-    <i>“Distributional genetic effects reveal context-dependent molecular regulation in human brain aging and Alzheimer’s disease”</i>
+    <i>“Quantile QTL mapping reveals heterogeneous allelic effects in the aging human brain and Alzheimer’s disease”</i>
   </a>.
 </li>
 </ol>
